@@ -120,6 +120,7 @@ def scrape_kalshi_events():
 
         # Process markets within the event
         for market in event["markets"]:
+            logger.info(f"Processing market: {market['ticker']} with status {market['status']}")
             if market["status"] == "open":
                 yes_bid = market.get("yes_bid", "")
                 no_bid = market.get("no_bid", "")
