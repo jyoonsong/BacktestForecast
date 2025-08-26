@@ -63,7 +63,7 @@ def scrape_kalshi_events():
     current_events = [e for e in current_events if len(e['markets']) < 6]
     current_event_tickers = [e['event_ticker'] for e in current_events]
 
-    files = ["data/active_events.json", "data/resolved_events.json"]
+    files = ["active_events.json", "resolved_events.json"]
 
     with open(files[0], "r") as f:
         previous_events = json.load(f)
