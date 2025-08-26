@@ -42,5 +42,16 @@
         "mutually_exclusive": true,
         "category": "Sports",
         "resolution_date": "20250826"
+    },
+    {
+        "bing_reports": "",
+        "ddgs_reports": "",
+        "event_ticker": "KXATPMATCH-25AUG25ROYYUN",
+        "series_ticker": "KXATPMATCH",
+        "title": "Royer vs Bu",
+        "sub_title": "Royer vs Bu",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250826"
     }
 ]
