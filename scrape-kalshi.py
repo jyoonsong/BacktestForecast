@@ -4,7 +4,6 @@ import datetime as dt
 import json
 import logging
 import os
-import random
 import requests
 
 logging.basicConfig(level=logging.INFO)

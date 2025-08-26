@@ -1,15 +1,19 @@
 attr
+base64
 backoff
 beautifulsoup4
 cryptography
+datetime
 docutils
 HTMLParser
 ipython
 ipywidgets
+logging
 js
 json
 json5
 numpy
+os
 openai
 pandas
 playwright
@@ -18,6 +22,7 @@ python-dotenv
 python_dateutil
 readability_lxml
 redis
+requests
 simplejson
 thread
 tqdm
