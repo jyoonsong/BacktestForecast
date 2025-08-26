@@ -1,5 +1,3 @@
-attr
-base64
 backoff
 beautifulsoup4
 cryptography
