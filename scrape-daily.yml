@@ -1,0 +1,31 @@
+name: Daily Kalshi Scraper
+
+permissions:
+    contents: write
+
+on:
+    schedule:
+        - cron: "0 1 * * *" # every 1 AM UTC
+    workflow_dispatch:
+
+jobs:
+    scrape:
+        runs-on: ubuntu-latest
+        steps:
+            - uses: actions/checkout@v4
+
+            - name: Set up Python
+              uses: actions/setup-python@v5
+              with:
+                  python-version: "3.11" # or 3.9 if you must
+
+            - name: Install dependencies
+              run: pip install -r requirements.txt
+
+            - name: Run scraper
+              env:
+                  # Default GITHUB_TOKEN provided by Actions; permissions above grant contents:write
+                  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+                  # Give the script the repo in owner/repo form from the runner context
+                  GITHUB_REPOSITORY: ${{ github.repository }}
+              run: python scrape-kalshi.py
