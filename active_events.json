@@ -18642,30 +18642,10 @@
     {
         "bing_reports": "",
         "ddgs_reports": "",
-        "event_ticker": "KXWTAMATCH-25AUG25BOIGOL",
-        "series_ticker": "KXWTAMATCH",
-        "title": "Boisson vs Golubic",
-        "sub_title": "Boisson vs Golubic",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": "",
-        "ddgs_reports": "",
         "event_ticker": "KXWTAMATCH-25AUG25BAPSIN",
         "series_ticker": "KXWTAMATCH",
         "title": "Baptiste vs Siniakova",
         "sub_title": "Baptiste vs Siniakova",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": "",
-        "ddgs_reports": "",
-        "event_ticker": "KXWTAMATCH-25AUG25ANIBIR",
-        "series_ticker": "KXWTAMATCH",
-        "title": "Anisimova vs Birrell",
-        "sub_title": "Anisimova vs Birrell",
         "mutually_exclusive": true,
         "category": "Sports"
     },
@@ -18716,26 +18696,6 @@
         "series_ticker": "KXATPMATCH",
         "title": "Royer vs Bu",
         "sub_title": "Royer vs Bu",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": "",
-        "ddgs_reports": "",
-        "event_ticker": "KXATPMATCH-25AUG25RIEMAR",
-        "series_ticker": "KXATPMATCH",
-        "title": "Riedi vs Martinez",
-        "sub_title": "Riedi vs Martinez",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": "",
-        "ddgs_reports": "",
-        "event_ticker": "KXATPMATCH-25AUG25POPRUU",
-        "series_ticker": "KXATPMATCH",
-        "title": "Popyrin vs Ruusuvuori",
-        "sub_title": "Popyrin vs Ruusuvuori",
         "mutually_exclusive": true,
         "category": "Sports"
     },
@@ -19328,5 +19288,15 @@
         "sub_title": "In 2025",
         "mutually_exclusive": true,
         "category": "Elections"
+    },
+    {
+        "bing_reports": "",
+        "ddgs_reports": "",
+        "event_ticker": "KXWTAMATCH-25AUG28ANIJOI",
+        "series_ticker": "KXWTAMATCH",
+        "title": "Anisimova vs Joint",
+        "sub_title": "Anisimova vs Joint",
+        "mutually_exclusive": true,
+        "category": "Sports"
     }
 ]
