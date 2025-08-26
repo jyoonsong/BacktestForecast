@@ -90,10 +90,18 @@ def scrape_kalshi_events():
         if event["event_ticker"] not in previous_event_tickers:
             logger.info(f"New active event found: {event['event_ticker']}")
             # TODO: add a timestamped research report for this event
-            event["bing_reports"] = ""
-            event["ddgs_reports"] = ""
+            event_obj = {}
+            event_obj["bing_reports"] = ""
+            event_obj["ddgs_reports"] = ""
             # save the event
-            final_events.append(event)
+            event_obj["event_ticker"] = event["event_ticker"]
+            event_obj["series_ticker"] = event["series_ticker"]
+            event_obj["title"] = event["title"]
+            event_obj["sub_title"] = event["sub_title"]
+            event_obj["mutually_exclusive"] = event["mutually_exclusive"]
+            event_obj["category"] = event["category"]
+            # save the event
+            final_events.append(event_obj)
 
     with open(files[0], "w") as f:
         json.dump(final_events, f, indent=4)
