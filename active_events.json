@@ -18692,16 +18692,6 @@
     {
         "bing_reports": "",
         "ddgs_reports": "",
-        "event_ticker": "KXATPMATCH-25AUG25ROYYUN",
-        "series_ticker": "KXATPMATCH",
-        "title": "Royer vs Bu",
-        "sub_title": "Royer vs Bu",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": "",
-        "ddgs_reports": "",
         "event_ticker": "KXATPMATCH-25AUG25OCODE",
         "series_ticker": "KXATPMATCH",
         "title": "O'Connell vs de Minaur",
@@ -19296,6 +19286,36 @@
         "series_ticker": "KXWTAMATCH",
         "title": "Anisimova vs Joint",
         "sub_title": "Anisimova vs Joint",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": "",
+        "ddgs_reports": "",
+        "event_ticker": "KXWTAMATCH-25AUG28HADGOL",
+        "series_ticker": "KXWTAMATCH",
+        "title": "Haddad Maia vs Golubic",
+        "sub_title": "Haddad Maia vs Golubic",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": "",
+        "ddgs_reports": "",
+        "event_ticker": "KXATPMATCH-25AUG28SINPOP",
+        "series_ticker": "KXATPMATCH",
+        "title": "Sinner vs Popyrin",
+        "sub_title": "Sinner vs Popyrin",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": "",
+        "ddgs_reports": "",
+        "event_ticker": "KXATPMATCH-25AUG28RIECER",
+        "series_ticker": "KXATPMATCH",
+        "title": "Riedi vs Cerundolo",
+        "sub_title": "Riedi vs Cerundolo",
         "mutually_exclusive": true,
         "category": "Sports"
     }
