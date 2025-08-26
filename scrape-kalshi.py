@@ -120,10 +120,8 @@ def scrape_kalshi_events():
 
         # Process markets within the event
         markets = event.get("markets", [])
-        logger.info(f"Event {event['event_ticker']} has {len(markets)} markets.")
         for market in markets:
-            logger.info(f"Processing market: {market['ticker']} with status {market['status']}")
-            if market["status"] == "open":
+            if market["status"] == "active":
                 yes_bid = market.get("yes_bid", "")
                 no_bid = market.get("no_bid", "")
                 last_price = market.get("last_price", "")
