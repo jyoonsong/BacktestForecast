@@ -18,6 +18,7 @@ python-dotenv
 python_dateutil
 readability_lxml
 redis
+requests
 simplejson
 thread
 tqdm
