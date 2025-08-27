@@ -6322,16 +6322,6 @@
     {
         "bing_reports": "",
         "ddgs_reports": "",
-        "event_ticker": "KXXAISUEAPPLE-26",
-        "series_ticker": "KXXAISUEAPPLE",
-        "title": "Will xAI sue Apple?",
-        "sub_title": "Before Jan 2026",
-        "mutually_exclusive": false,
-        "category": "Politics"
-    },
-    {
-        "bing_reports": "",
-        "ddgs_reports": "",
         "event_ticker": "KXWTO-26",
         "series_ticker": "KXWTO",
         "title": "Will Trump try to leave the WTO this year?",
@@ -7248,16 +7238,6 @@
         "sub_title": "Before 2026",
         "mutually_exclusive": false,
         "category": "Economics"
-    },
-    {
-        "bing_reports": "",
-        "ddgs_reports": "",
-        "event_ticker": "KXSP500INDEXREMOVE-26JAN01",
-        "series_ticker": "KXSP500INDEXREMOVE",
-        "title": "Which companies will be removed from the S&P 500 in 2025?",
-        "sub_title": "Before Jan 1, 2026",
-        "mutually_exclusive": false,
-        "category": "Companies"
     },
     {
         "bing_reports": "",
@@ -13372,16 +13352,6 @@
     {
         "bing_reports": "",
         "ddgs_reports": "",
-        "event_ticker": "KXCRACKERBARRELREBRANDREVERSE-25OCT01",
-        "series_ticker": "KXCRACKERBARRELREBRANDREVERSE",
-        "title": "Will Cracker Barrel revert its rebranding before October?",
-        "sub_title": "Before Oct 1, 2025",
-        "mutually_exclusive": false,
-        "category": "Companies"
-    },
-    {
-        "bing_reports": "",
-        "ddgs_reports": "",
         "event_ticker": "KXCANSAFETY-25OCT",
         "series_ticker": "KXCANSAFETY",
         "title": "Gary Anandasangaree out as Canadian Minister of Public Safety before October?",
@@ -18482,230 +18452,10 @@
     {
         "bing_reports": "",
         "ddgs_reports": "",
-        "event_ticker": "KXMLBGAME-25AUG26MINTOR",
-        "series_ticker": "KXMLBGAME",
-        "title": "Minnesota at Toronto",
-        "sub_title": "MIN at TOR (Aug 26)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": "",
-        "ddgs_reports": "",
-        "event_ticker": "KXMLBGAME-25AUG26WSHNYY",
-        "series_ticker": "KXMLBGAME",
-        "title": "Washington at New York Y",
-        "sub_title": "WSH at NYY (Aug 26)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": "",
-        "ddgs_reports": "",
-        "event_ticker": "KXWNBAGAME-25AUG26SEAIND",
-        "series_ticker": "KXWNBAGAME",
-        "title": "SEA at IND",
-        "sub_title": "SEA at IND (Aug 26)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": "",
-        "ddgs_reports": "",
-        "event_ticker": "KXMLBGAME-25AUG26TBCLE",
-        "series_ticker": "KXMLBGAME",
-        "title": "Tampa Bay at Cleveland",
-        "sub_title": "TB at CLE (Aug 26)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": "",
-        "ddgs_reports": "",
-        "event_ticker": "KXMLBGAME-25AUG26ATLMIA",
-        "series_ticker": "KXMLBGAME",
-        "title": "Atlanta at Miami",
-        "sub_title": "ATL at MIA (Aug 26)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": "",
-        "ddgs_reports": "",
-        "event_ticker": "KXMLBGAME-25AUG26BOSBAL",
-        "series_ticker": "KXMLBGAME",
-        "title": "Boston at Baltimore",
-        "sub_title": "BOS at BAL (Aug 26)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": "",
-        "ddgs_reports": "",
-        "event_ticker": "KXWTAMATCH-25AUG25ZAKAVA",
-        "series_ticker": "KXWTAMATCH",
-        "title": "Zakharova vs Avanesyan",
-        "sub_title": "Zakharova vs Avanesyan",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": "",
-        "ddgs_reports": "",
-        "event_ticker": "KXWTAMATCH-25AUG25VEKBOU",
-        "series_ticker": "KXWTAMATCH",
-        "title": "Vekic vs Bouzas Maneiro",
-        "sub_title": "Vekic vs Bouzas Maneiro",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": "",
-        "ddgs_reports": "",
-        "event_ticker": "KXWTAMATCH-25AUG25TOMGAU",
-        "series_ticker": "KXWTAMATCH",
-        "title": "Tomljanovic vs Gauff",
-        "sub_title": "Tomljanovic vs Gauff",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": "",
-        "ddgs_reports": "",
-        "event_ticker": "KXWTAMATCH-25AUG25SIESHN",
-        "series_ticker": "KXWTAMATCH",
-        "title": "Siegemund vs Shnaider",
-        "sub_title": "Siegemund vs Shnaider",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": "",
-        "ddgs_reports": "",
-        "event_ticker": "KXWTAMATCH-25AUG25NOSGAL",
-        "series_ticker": "KXWTAMATCH",
-        "title": "Noskova vs Galfi",
-        "sub_title": "Noskova vs Galfi",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": "",
-        "ddgs_reports": "",
-        "event_ticker": "KXWTAMATCH-25AUG25MINOSA",
-        "series_ticker": "KXWTAMATCH",
-        "title": "Minnen vs Osaka",
-        "sub_title": "Minnen vs Osaka",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": "",
-        "ddgs_reports": "",
-        "event_ticker": "KXWTAMATCH-25AUG25KRUKEN",
-        "series_ticker": "KXWTAMATCH",
-        "title": "Krueger vs Kenin",
-        "sub_title": "Krueger vs Kenin",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": "",
-        "ddgs_reports": "",
-        "event_ticker": "KXWTAMATCH-25AUG25JONLYS",
-        "series_ticker": "KXWTAMATCH",
-        "title": "Jones vs Lys",
-        "sub_title": "Jones vs Lys",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": "",
-        "ddgs_reports": "",
-        "event_ticker": "KXWTAMATCH-25AUG25DOLWAN",
-        "series_ticker": "KXWTAMATCH",
-        "title": "Dolehide vs Wang",
-        "sub_title": "Dolehide vs Wang",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": "",
-        "ddgs_reports": "",
-        "event_ticker": "KXWTAMATCH-25AUG25CIRSIE",
-        "series_ticker": "KXWTAMATCH",
-        "title": "Cirstea vs Sierra",
-        "sub_title": "Cirstea vs Sierra",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": "",
-        "ddgs_reports": "",
-        "event_ticker": "KXWTAMATCH-25AUG25BAPSIN",
-        "series_ticker": "KXWTAMATCH",
-        "title": "Baptiste vs Siniakova",
-        "sub_title": "Baptiste vs Siniakova",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": "",
-        "ddgs_reports": "",
-        "event_ticker": "KXWTAMATCH-25AUG25ALESEV",
-        "series_ticker": "KXWTAMATCH",
-        "title": "Alexandrova vs Sevastova",
-        "sub_title": "Alexandrova vs Sevastova",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": "",
-        "ddgs_reports": "",
         "event_ticker": "KXATPMATCH-25AUG25ZVETAB",
         "series_ticker": "KXATPMATCH",
         "title": "Zverev vs Tabilo",
         "sub_title": "Zverev vs Tabilo",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": "",
-        "ddgs_reports": "",
-        "event_ticker": "KXATPMATCH-25AUG25TSIMUL",
-        "series_ticker": "KXATPMATCH",
-        "title": "Tsitsipas vs Muller",
-        "sub_title": "Tsitsipas vs Muller",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": "",
-        "ddgs_reports": "",
-        "event_ticker": "KXATPMATCH-25AUG25SONSCH",
-        "series_ticker": "KXATPMATCH",
-        "title": "Sonego vs Schoolkate",
-        "sub_title": "Sonego vs Schoolkate",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": "",
-        "ddgs_reports": "",
-        "event_ticker": "KXATPMATCH-25AUG25OCODE",
-        "series_ticker": "KXATPMATCH",
-        "title": "O'Connell vs de Minaur",
-        "sub_title": "O'Connell vs de Minaur",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": "",
-        "ddgs_reports": "",
-        "event_ticker": "KXATPMATCH-25AUG25MONSAF",
-        "series_ticker": "KXATPMATCH",
-        "title": "Monfils vs Safiullin",
-        "sub_title": "Monfils vs Safiullin",
         "mutually_exclusive": true,
         "category": "Sports"
     },
@@ -18722,60 +18472,10 @@
     {
         "bing_reports": "",
         "ddgs_reports": "",
-        "event_ticker": "KXATPMATCH-25AUG25HARAUG",
-        "series_ticker": "KXATPMATCH",
-        "title": "Harris vs Auger-Aliassime",
-        "sub_title": "Harris vs Auger-Aliassime",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": "",
-        "ddgs_reports": "",
-        "event_ticker": "KXATPMATCH-25AUG25HALGOF",
-        "series_ticker": "KXATPMATCH",
-        "title": "Halys vs Goffin",
-        "sub_title": "Halys vs Goffin",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": "",
-        "ddgs_reports": "",
-        "event_ticker": "KXATPMATCH-25AUG25GASMOC",
-        "series_ticker": "KXATPMATCH",
-        "title": "Gaston vs Mochizuki",
-        "sub_title": "Gaston vs Mochizuki",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": "",
-        "ddgs_reports": "",
-        "event_ticker": "KXATPMATCH-25AUG25BORHOL",
-        "series_ticker": "KXATPMATCH",
-        "title": "Borges vs Holt",
-        "sub_title": "Borges vs Holt",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": "",
-        "ddgs_reports": "",
         "event_ticker": "KXATPMATCH-25AUG25BAUFEA",
         "series_ticker": "KXATPMATCH",
         "title": "Bautista Agut vs Fearnley",
         "sub_title": "Bautista Agut vs Fearnley",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": "",
-        "ddgs_reports": "",
-        "event_ticker": "KXATPMATCH-25AUG25ALTMED",
-        "series_ticker": "KXATPMATCH",
-        "title": "Altmaier vs Medjedovic",
-        "sub_title": "Altmaier vs Medjedovic",
         "mutually_exclusive": true,
         "category": "Sports"
     },
@@ -19316,6 +19016,166 @@
         "series_ticker": "KXATPMATCH",
         "title": "Riedi vs Cerundolo",
         "sub_title": "Riedi vs Cerundolo",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": "",
+        "ddgs_reports": "",
+        "event_ticker": "KXMARRIAGESWIFTKELCE-26",
+        "series_ticker": "KXMARRIAGESWIFTKELCE",
+        "title": "Will Taylor Swift and Travis Kelce be married before Jan 1, 2027?",
+        "sub_title": "Before 2027",
+        "mutually_exclusive": false,
+        "category": "Social"
+    },
+    {
+        "bing_reports": "",
+        "ddgs_reports": "",
+        "event_ticker": "KXENGAGEMENTBEERHERBERT-25",
+        "series_ticker": "KXENGAGEMENTBEERHERBERT",
+        "title": "Will Madison Beer and Justin Herbert be engaged this year?",
+        "sub_title": "Before 2026",
+        "mutually_exclusive": false,
+        "category": "Entertainment"
+    },
+    {
+        "bing_reports": "",
+        "ddgs_reports": "",
+        "event_ticker": "KXMLSGAME-25AUG31LAFCSD",
+        "series_ticker": "KXMLSGAME",
+        "title": "Los Angeles vs San Diego FC",
+        "sub_title": "LAFC vs SD (Aug 31)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": "",
+        "ddgs_reports": "",
+        "event_ticker": "KXWTAMATCH-25AUG28ZAKSIE",
+        "series_ticker": "KXWTAMATCH",
+        "title": "Zakharova vs Siegemund",
+        "sub_title": "Zakharova vs Siegemund",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": "",
+        "ddgs_reports": "",
+        "event_ticker": "KXWTAMATCH-25AUG28VEKGAU",
+        "series_ticker": "KXWTAMATCH",
+        "title": "Vekic vs Gauff",
+        "sub_title": "Vekic vs Gauff",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": "",
+        "ddgs_reports": "",
+        "event_ticker": "KXWTAMATCH-25AUG28NOSLYS",
+        "series_ticker": "KXWTAMATCH",
+        "title": "Noskova vs Lys",
+        "sub_title": "Noskova vs Lys",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": "",
+        "ddgs_reports": "",
+        "event_ticker": "KXWTAMATCH-25AUG28CRIKRU",
+        "series_ticker": "KXWTAMATCH",
+        "title": "Cristian vs Krueger",
+        "sub_title": "Cristian vs Krueger",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": "",
+        "ddgs_reports": "",
+        "event_ticker": "KXWTAMATCH-25AUG28CIRMUC",
+        "series_ticker": "KXWTAMATCH",
+        "title": "Cirstea vs Muchova",
+        "sub_title": "Cirstea vs Muchova",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": "",
+        "ddgs_reports": "",
+        "event_ticker": "KXWTAMATCH-25AUG28BAPOSA",
+        "series_ticker": "KXWTAMATCH",
+        "title": "Baptiste vs Osaka",
+        "sub_title": "Baptiste vs Osaka",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": "",
+        "ddgs_reports": "",
+        "event_ticker": "KXWTAMATCH-25AUG28ALEWAN",
+        "series_ticker": "KXWTAMATCH",
+        "title": "Alexandrova vs Wang",
+        "sub_title": "Alexandrova vs Wang",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": "",
+        "ddgs_reports": "",
+        "event_ticker": "KXATPMATCH-25AUG28TSIALT",
+        "series_ticker": "KXATPMATCH",
+        "title": "Tsitsipas vs Altmaier",
+        "sub_title": "Tsitsipas vs Altmaier",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": "",
+        "ddgs_reports": "",
+        "event_ticker": "KXATPMATCH-25AUG28SAFAUG",
+        "series_ticker": "KXATPMATCH",
+        "title": "Safiullin vs Auger-Aliassime",
+        "sub_title": "Safiullin vs Auger-Aliassime",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": "",
+        "ddgs_reports": "",
+        "event_ticker": "KXATPMATCH-25AUG28ROYSHA",
+        "series_ticker": "KXATPMATCH",
+        "title": "Royer vs Shapovalov",
+        "sub_title": "Royer vs Shapovalov",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": "",
+        "ddgs_reports": "",
+        "event_ticker": "KXATPMATCH-25AUG28MUSGOF",
+        "series_ticker": "KXATPMATCH",
+        "title": "Musetti vs Goffin",
+        "sub_title": "Musetti vs Goffin",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": "",
+        "ddgs_reports": "",
+        "event_ticker": "KXATPMATCH-25AUG28MOCDE",
+        "series_ticker": "KXATPMATCH",
+        "title": "Mochizuki vs de Minaur",
+        "sub_title": "Mochizuki vs de Minaur",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": "",
+        "ddgs_reports": "",
+        "event_ticker": "KXATPMATCH-25AUG28BUBSCH",
+        "series_ticker": "KXATPMATCH",
+        "title": "Bublik vs Schoolkate",
+        "sub_title": "Bublik vs Schoolkate",
         "mutually_exclusive": true,
         "category": "Sports"
     }
