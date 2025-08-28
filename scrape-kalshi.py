@@ -150,10 +150,9 @@ def scrape_kalshi_events():
                     market_obj["volume"] = market.get("volume", "")
                     market_obj["liquidity"] = market.get("liquidity", "")
                     market_obj["can_close_early"] = market.get("can_close_early", "")
-                    # TODO: add a timestamped human price and prediction for this market
+                    # TODO: add a timestamped human price for this market
                     market_price = yes_bid / (yes_bid + no_bid) if (yes_bid + no_bid) > 0 else last_price / 100
                     market_obj["market_price"] = {timestamp: market_price}
-                    market_obj["prediction"] = ""
                     # save the new market
                     final_markets.append(market_obj)
 
@@ -171,7 +170,7 @@ def scrape_kalshi_events():
                             "volume": market.get("volume", prev_market.get("volume", "")),
                             "liquidity": market.get("liquidity", prev_market.get("liquidity", "")),
                         })
-                        # TODO: add a timestamped human price and prediction for this market
+                        # TODO: add a timestamped human price for this market
                         market_price = yes_bid / (yes_bid + no_bid) if (yes_bid + no_bid) > 0 else last_price / 100
                         prev_market["market_price"][timestamp] = market_price
                         # save the market
