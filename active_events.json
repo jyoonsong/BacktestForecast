@@ -17832,36 +17832,6 @@
     {
         "bing_reports": "",
         "ddgs_reports": "",
-        "event_ticker": "KXWNBAGAME-25AUG27CONNDAL",
-        "series_ticker": "KXWNBAGAME",
-        "title": "CONN at DAL",
-        "sub_title": "CONN at DAL (Aug 27)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": "",
-        "ddgs_reports": "",
-        "event_ticker": "KXWNBAGAME-25AUG27LVATL",
-        "series_ticker": "KXWNBAGAME",
-        "title": "LV at ATL",
-        "sub_title": "LV at ATL (Aug 27)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": "",
-        "ddgs_reports": "",
-        "event_ticker": "KXLALIGAGAME-25AUG27RCCRBB",
-        "series_ticker": "KXLALIGAGAME",
-        "title": "Celta Vigo vs Real Betis",
-        "sub_title": "RCC vs RBB (Aug 27)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": "",
-        "ddgs_reports": "",
         "event_ticker": "KXWTAMATCH-25AUG27ZARPAR",
         "series_ticker": "KXWTAMATCH",
         "title": "Zarazua vs Parry",
@@ -17872,30 +17842,10 @@
     {
         "bing_reports": "",
         "ddgs_reports": "",
-        "event_ticker": "KXWTAMATCH-25AUG27UCHKRE",
-        "series_ticker": "KXWTAMATCH",
-        "title": "Uchijima vs Krejcikova",
-        "sub_title": "Uchijima vs Krejcikova",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": "",
-        "ddgs_reports": "",
         "event_ticker": "KXWTAMATCH-25AUG27SONKOS",
         "series_ticker": "KXWTAMATCH",
         "title": "Sonmez vs Kostyuk",
         "sub_title": "Sonmez vs Kostyuk",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": "",
-        "ddgs_reports": "",
-        "event_ticker": "KXWTAMATCH-25AUG27SAMHON",
-        "series_ticker": "KXWTAMATCH",
-        "title": "Samsonova vs Hon",
-        "sub_title": "Samsonova vs Hon",
         "mutually_exclusive": true,
         "category": "Sports"
     },
@@ -17922,90 +17872,10 @@
     {
         "bing_reports": "",
         "ddgs_reports": "",
-        "event_ticker": "KXWTAMATCH-25AUG27RYBVAL",
-        "series_ticker": "KXWTAMATCH",
-        "title": "Rybakina vs Valentova",
-        "sub_title": "Rybakina vs Valentova",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": "",
-        "ddgs_reports": "",
-        "event_ticker": "KXWTAMATCH-25AUG27RADTJE",
-        "series_ticker": "KXWTAMATCH",
-        "title": "Raducanu vs Tjen",
-        "sub_title": "Raducanu vs Tjen",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": "",
-        "ddgs_reports": "",
-        "event_ticker": "KXWTAMATCH-25AUG27POTAND",
-        "series_ticker": "KXWTAMATCH",
-        "title": "Potapova vs Andreeva",
-        "sub_title": "Potapova vs Andreeva",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": "",
-        "ddgs_reports": "",
-        "event_ticker": "KXWTAMATCH-25AUG27PEGBLI",
-        "series_ticker": "KXWTAMATCH",
-        "title": "Pegula vs Blinkova",
-        "sub_title": "Pegula vs Blinkova",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": "",
-        "ddgs_reports": "",
-        "event_ticker": "KXWTAMATCH-25AUG27OSTTOW",
-        "series_ticker": "KXWTAMATCH",
-        "title": "Ostapenko vs Townsend",
-        "sub_title": "Ostapenko vs Townsend",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": "",
-        "ddgs_reports": "",
-        "event_ticker": "KXWTAMATCH-25AUG27NAVMCC",
-        "series_ticker": "KXWTAMATCH",
-        "title": "Navarro vs McNally",
-        "sub_title": "Navarro vs McNally",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": "",
-        "ddgs_reports": "",
-        "event_ticker": "KXWTAMATCH-25AUG27MERSUN",
-        "series_ticker": "KXWTAMATCH",
-        "title": "Mertens vs Sun",
-        "sub_title": "Mertens vs Sun",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": "",
-        "ddgs_reports": "",
         "event_ticker": "KXWTAMATCH-25AUG27LAMSWI",
         "series_ticker": "KXWTAMATCH",
         "title": "Lamens vs Swiatek",
         "sub_title": "Lamens vs Swiatek",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": "",
-        "ddgs_reports": "",
-        "event_ticker": "KXWTAMATCH-25AUG27KESVON",
-        "series_ticker": "KXWTAMATCH",
-        "title": "Kessler vs Vondrousova",
-        "sub_title": "Kessler vs Vondrousova",
         "mutually_exclusive": true,
         "category": "Sports"
     },
@@ -18032,26 +17902,6 @@
     {
         "bing_reports": "",
         "ddgs_reports": "",
-        "event_ticker": "KXWTAMATCH-25AUG27JOVPAO",
-        "series_ticker": "KXWTAMATCH",
-        "title": "Jovic vs Paolini",
-        "sub_title": "Jovic vs Paolini",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": "",
-        "ddgs_reports": "",
-        "event_ticker": "KXWTAMATCH-25AUG27JACFER",
-        "series_ticker": "KXWTAMATCH",
-        "title": "Jacquemot vs Fernandez",
-        "sub_title": "Jacquemot vs Fernandez",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": "",
-        "ddgs_reports": "",
         "event_ticker": "KXWTAMATCH-25AUG27FRESTE",
         "series_ticker": "KXWTAMATCH",
         "title": "Frech vs Stearns",
@@ -18062,60 +17912,10 @@
     {
         "bing_reports": "",
         "ddgs_reports": "",
-        "event_ticker": "KXWTAMATCH-25AUG27BUCEAL",
-        "series_ticker": "KXWTAMATCH",
-        "title": "Bucsa vs Eala",
-        "sub_title": "Bucsa vs Eala",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": "",
-        "ddgs_reports": "",
-        "event_ticker": "KXWTAMATCH-25AUG27AZAPAV",
-        "series_ticker": "KXWTAMATCH",
-        "title": "Azarenka vs Pavlyuchenkova",
-        "sub_title": "Azarenka vs Pavlyuchenkova",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": "",
-        "ddgs_reports": "",
-        "event_ticker": "KXWTAMATCH-25AUG27ANNBEN",
-        "series_ticker": "KXWTAMATCH",
-        "title": "Li vs Bencic",
-        "sub_title": "Li vs Bencic",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": "",
-        "ddgs_reports": "",
         "event_ticker": "KXATPMATCH-25AUG27WALWON",
         "series_ticker": "KXATPMATCH",
         "title": "Walton vs Wong",
         "sub_title": "Walton vs Wong",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": "",
-        "ddgs_reports": "",
-        "event_ticker": "KXATPMATCH-25AUG27TIADAM",
-        "series_ticker": "KXATPMATCH",
-        "title": "Tiafoe vs Damm Jr",
-        "sub_title": "Tiafoe vs Damm Jr",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": "",
-        "ddgs_reports": "",
-        "event_ticker": "KXATPMATCH-25AUG27THOMAN",
-        "series_ticker": "KXATPMATCH",
-        "title": "Thompson vs Mannarino",
-        "sub_title": "Thompson vs Mannarino",
         "mutually_exclusive": true,
         "category": "Sports"
     },
@@ -18142,56 +17942,6 @@
     {
         "bing_reports": "",
         "ddgs_reports": "",
-        "event_ticker": "KXATPMATCH-25AUG27RINDAV",
-        "series_ticker": "KXATPMATCH",
-        "title": "Rinderknech vs Davidovich Fokina",
-        "sub_title": "Rinderknech vs Davidovich Fokina",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": "",
-        "ddgs_reports": "",
-        "event_ticker": "KXATPMATCH-25AUG27NORCOM",
-        "series_ticker": "KXATPMATCH",
-        "title": "Norrie vs Comesana",
-        "sub_title": "Norrie vs Comesana",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": "",
-        "ddgs_reports": "",
-        "event_ticker": "KXATPMATCH-25AUG27NAKKYM",
-        "series_ticker": "KXATPMATCH",
-        "title": "Nakashima vs Kym",
-        "sub_title": "Nakashima vs Kym",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": "",
-        "ddgs_reports": "",
-        "event_ticker": "KXATPMATCH-25AUG27MENBLA",
-        "series_ticker": "KXATPMATCH",
-        "title": "Mensik vs Blanchet",
-        "sub_title": "Mensik vs Blanchet",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": "",
-        "ddgs_reports": "",
-        "event_ticker": "KXATPMATCH-25AUG27LEHETC",
-        "series_ticker": "KXATPMATCH",
-        "title": "Lehecka vs Etcheverry",
-        "sub_title": "Lehecka vs Etcheverry",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": "",
-        "ddgs_reports": "",
         "event_ticker": "KXATPMATCH-25AUG27KHAMAJ",
         "series_ticker": "KXATPMATCH",
         "title": "Khachanov vs Majchrzak",
@@ -18202,60 +17952,10 @@
     {
         "bing_reports": "",
         "ddgs_reports": "",
-        "event_ticker": "KXATPMATCH-25AUG27HARFRI",
-        "series_ticker": "KXATPMATCH",
-        "title": "Harris vs Fritz",
-        "sub_title": "Harris vs Fritz",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": "",
-        "ddgs_reports": "",
-        "event_ticker": "KXATPMATCH-25AUG27FONMAC",
-        "series_ticker": "KXATPMATCH",
-        "title": "Fonseca vs Machac",
-        "sub_title": "Fonseca vs Machac",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": "",
-        "ddgs_reports": "",
-        "event_ticker": "KXATPMATCH-25AUG27DJOSVA",
-        "series_ticker": "KXATPMATCH",
-        "title": "Djokovic vs Svajda",
-        "sub_title": "Djokovic vs Svajda",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": "",
-        "ddgs_reports": "",
         "event_ticker": "KXATPMATCH-25AUG27DIAMUN",
         "series_ticker": "KXATPMATCH",
         "title": "Diallo vs Munar",
         "sub_title": "Diallo vs Munar",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": "",
-        "ddgs_reports": "",
-        "event_ticker": "KXATPMATCH-25AUG27DARSPI",
-        "series_ticker": "KXATPMATCH",
-        "title": "Darderi vs Spizzirri",
-        "sub_title": "Darderi vs Spizzirri",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": "",
-        "ddgs_reports": "",
-        "event_ticker": "KXATPMATCH-25AUG27COLRUU",
-        "series_ticker": "KXATPMATCH",
-        "title": "Collignon vs Ruud",
-        "sub_title": "Collignon vs Ruud",
         "mutually_exclusive": true,
         "category": "Sports"
     },
@@ -18276,206 +17976,6 @@
         "series_ticker": "KXATPMATCH",
         "title": "Boyer vs Rublev",
         "sub_title": "Boyer vs Rublev",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": "",
-        "ddgs_reports": "",
-        "event_ticker": "KXATPMATCH-25AUG27BONGIR",
-        "series_ticker": "KXATPMATCH",
-        "title": "Bonzi vs Giron",
-        "sub_title": "Bonzi vs Giron",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": "",
-        "ddgs_reports": "",
-        "event_ticker": "KXATPMATCH-25AUG27BERDRA",
-        "series_ticker": "KXATPMATCH",
-        "title": "Bergs vs Draper",
-        "sub_title": "Bergs vs Draper",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": "",
-        "ddgs_reports": "",
-        "event_ticker": "KXATPMATCH-25AUG27BELALC",
-        "series_ticker": "KXATPMATCH",
-        "title": "Bellucci vs Alcaraz",
-        "sub_title": "Bellucci vs Alcaraz",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": "",
-        "ddgs_reports": "",
-        "event_ticker": "KXRAINNYC-25AUG26",
-        "series_ticker": "KXRAINNYC",
-        "title": "Will it rain in NYC today?",
-        "sub_title": "On Aug 26, 2025",
-        "mutually_exclusive": false,
-        "category": "Climate and Weather"
-    },
-    {
-        "bing_reports": "",
-        "ddgs_reports": "",
-        "event_ticker": "KXAPPRANKFREE-25AUG27",
-        "series_ticker": "KXAPPRANKFREE",
-        "title": "Top US iPhone app tomorrow?",
-        "sub_title": "On Aug 27, 2025 at 10 AM ET",
-        "mutually_exclusive": true,
-        "category": "Entertainment"
-    },
-    {
-        "bing_reports": "",
-        "ddgs_reports": "",
-        "event_ticker": "KXAPPRANKFREE2-25AUG27",
-        "series_ticker": "KXAPPRANKFREE2",
-        "title": "Runner-up US iPhone app tomorrow?",
-        "sub_title": "On Aug 27, 2025 at 10 AM ET",
-        "mutually_exclusive": true,
-        "category": "Entertainment"
-    },
-    {
-        "bing_reports": "",
-        "ddgs_reports": "",
-        "event_ticker": "KXMLBGAME-25AUG26CINLAD",
-        "series_ticker": "KXMLBGAME",
-        "title": "Cincinnati at Los Angeles D",
-        "sub_title": "CIN at LAD (Aug 26)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": "",
-        "ddgs_reports": "",
-        "event_ticker": "KXMLBGAME-25AUG26DETATH",
-        "series_ticker": "KXMLBGAME",
-        "title": "Detroit at A's",
-        "sub_title": "DET at ATH (Aug 26)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": "",
-        "ddgs_reports": "",
-        "event_ticker": "KXWNBAGAME-25AUG26PHXLA",
-        "series_ticker": "KXWNBAGAME",
-        "title": "PHX at LA",
-        "sub_title": "PHX at LA (Aug 26)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": "",
-        "ddgs_reports": "",
-        "event_ticker": "KXMLBGAME-25AUG26CHCSF",
-        "series_ticker": "KXMLBGAME",
-        "title": "Chicago C at San Francisco",
-        "sub_title": "CHC at SF (Aug 26)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": "",
-        "ddgs_reports": "",
-        "event_ticker": "KXMLBGAME-25AUG26SDSEA",
-        "series_ticker": "KXMLBGAME",
-        "title": "San Diego at Seattle",
-        "sub_title": "SD at SEA (Aug 26)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": "",
-        "ddgs_reports": "",
-        "event_ticker": "KXMLBGAME-25AUG26COLHOU",
-        "series_ticker": "KXMLBGAME",
-        "title": "Colorado at Houston",
-        "sub_title": "COL at HOU (Aug 26)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": "",
-        "ddgs_reports": "",
-        "event_ticker": "KXMLBGAME-25AUG26LAATEX",
-        "series_ticker": "KXMLBGAME",
-        "title": "Los Angeles A at Texas",
-        "sub_title": "LAA at TEX (Aug 26)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": "",
-        "ddgs_reports": "",
-        "event_ticker": "KXMLBGAME-25AUG26PITSTL",
-        "series_ticker": "KXMLBGAME",
-        "title": "Pittsburgh at St. Louis",
-        "sub_title": "PIT at STL (Aug 26)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": "",
-        "ddgs_reports": "",
-        "event_ticker": "KXMLBGAME-25AUG26KCCWS",
-        "series_ticker": "KXMLBGAME",
-        "title": "Kansas City at Chicago WS",
-        "sub_title": "KC at CWS (Aug 26)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": "",
-        "ddgs_reports": "",
-        "event_ticker": "KXMLBGAME-25AUG26AZMIL",
-        "series_ticker": "KXMLBGAME",
-        "title": "Arizona at Milwaukee",
-        "sub_title": "AZ at MIL (Aug 26)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": "",
-        "ddgs_reports": "",
-        "event_ticker": "KXMLBGAME-25AUG26PHINYM",
-        "series_ticker": "KXMLBGAME",
-        "title": "Philadelphia at New York M",
-        "sub_title": "PHI at NYM (Aug 26)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": "",
-        "ddgs_reports": "",
-        "event_ticker": "KXATPMATCH-25AUG25ZVETAB",
-        "series_ticker": "KXATPMATCH",
-        "title": "Zverev vs Tabilo",
-        "sub_title": "Zverev vs Tabilo",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": "",
-        "ddgs_reports": "",
-        "event_ticker": "KXATPMATCH-25AUG25MOLPAU",
-        "series_ticker": "KXATPMATCH",
-        "title": "Moller vs Paul",
-        "sub_title": "Moller vs Paul",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": "",
-        "ddgs_reports": "",
-        "event_ticker": "KXATPMATCH-25AUG25BAUFEA",
-        "series_ticker": "KXATPMATCH",
-        "title": "Bautista Agut vs Fearnley",
-        "sub_title": "Bautista Agut vs Fearnley",
         "mutually_exclusive": true,
         "category": "Sports"
     },
@@ -19178,5 +18678,565 @@
         "sub_title": "Bublik vs Schoolkate",
         "mutually_exclusive": true,
         "category": "Sports"
+    },
+    {
+        "bing_reports": "",
+        "ddgs_reports": "",
+        "event_ticker": "KXAMERICAPARTY2028-28SEP01",
+        "series_ticker": "KXAMERICAPARTY2028",
+        "title": "Will the America Party contest the 2028 U.S. presidential election?",
+        "sub_title": "Before Sep 1, 2028",
+        "mutually_exclusive": false,
+        "category": "Elections"
+    },
+    {
+        "bing_reports": "",
+        "ddgs_reports": "",
+        "event_ticker": "KXMAINNETFIRSTMONADMEGAETH-27JAN01",
+        "series_ticker": "KXMAINNETFIRSTMONADMEGAETH",
+        "title": "Will Monad launch their mainnet before MegaETH?",
+        "sub_title": "Before Jan 1, 2027",
+        "mutually_exclusive": false,
+        "category": "Crypto"
+    },
+    {
+        "bing_reports": "",
+        "ddgs_reports": "",
+        "event_ticker": "KXGTEDEPLOYMEGAETHDAY1-27JAN01",
+        "series_ticker": "KXGTEDEPLOYMEGAETHDAY1",
+        "title": "Will GTE deploy on MegaETH mainnet day 1?",
+        "sub_title": "Before Jan 1, 2027",
+        "mutually_exclusive": false,
+        "category": "Crypto"
+    },
+    {
+        "bing_reports": "",
+        "ddgs_reports": "",
+        "event_ticker": "KXFDVWLFI-27JAN01",
+        "series_ticker": "KXFDVWLFI",
+        "title": "Will World Liberty Financial FDV be above 15B at 10:00 AM ET 1 day after launch?",
+        "sub_title": "Jan 1, 2027 at 10:00 AM ET",
+        "mutually_exclusive": false,
+        "category": "Crypto"
+    },
+    {
+        "bing_reports": "",
+        "ddgs_reports": "",
+        "event_ticker": "KXFDVPLASMA-27JAN01",
+        "series_ticker": "KXFDVPLASMA",
+        "title": "What will Plasma FDV be at 10:00 AM ET 1 day after launch?",
+        "sub_title": "Jan 1, 2027 at 10:00 AM ET",
+        "mutually_exclusive": false,
+        "category": "Crypto"
+    },
+    {
+        "bing_reports": "",
+        "ddgs_reports": "",
+        "event_ticker": "KXFDVMONAD-27JAN01",
+        "series_ticker": "KXFDVMONAD",
+        "title": "What will Monad FDV be at 10:00 AM ET 1 day after launch?",
+        "sub_title": "Jan 1, 2027 at 10:00 AM ET",
+        "mutually_exclusive": false,
+        "category": "Crypto"
+    },
+    {
+        "bing_reports": "",
+        "ddgs_reports": "",
+        "event_ticker": "KXFDVMEGAETH-27JAN01",
+        "series_ticker": "KXFDVMEGAETH",
+        "title": "What will MegaETH FDV be at 10:00 AM ET 1 day after launch?",
+        "sub_title": "Jan 1, 2027 at 10:00 AM ET",
+        "mutually_exclusive": false,
+        "category": "Crypto"
+    },
+    {
+        "bing_reports": "",
+        "ddgs_reports": "",
+        "event_ticker": "KXAIRDROPMONAD",
+        "series_ticker": "KXAIRDROPMONAD",
+        "title": "When will Monad conduct an airdrop?",
+        "sub_title": "Monad airdrop",
+        "mutually_exclusive": false,
+        "category": "Crypto"
+    },
+    {
+        "bing_reports": "",
+        "ddgs_reports": "",
+        "event_ticker": "KXAIRDROPMEGA",
+        "series_ticker": "KXAIRDROPMEGA",
+        "title": "When will MegaETH conduct an airdrop?",
+        "sub_title": "MegaETH airdrop",
+        "mutually_exclusive": false,
+        "category": "Crypto"
+    },
+    {
+        "bing_reports": "",
+        "ddgs_reports": "",
+        "event_ticker": "KXSOLFLIPETH-26JAN01",
+        "series_ticker": "KXSOLFLIPETH",
+        "title": "Will Solana flip Ethereum this year?",
+        "sub_title": "Before Jan 1, 2026",
+        "mutually_exclusive": false,
+        "category": "Crypto"
+    },
+    {
+        "bing_reports": "",
+        "ddgs_reports": "",
+        "event_ticker": "KXTOURTAYLORSWIFT-26",
+        "series_ticker": "KXTOURTAYLORSWIFT",
+        "title": "Will Taylor Swift announce a new tour this year?",
+        "sub_title": "In 2026",
+        "mutually_exclusive": false,
+        "category": "Entertainment"
+    },
+    {
+        "bing_reports": "",
+        "ddgs_reports": "",
+        "event_ticker": "KXTOKENLAUNCHVENTUALS-26JAN01",
+        "series_ticker": "KXTOKENLAUNCHVENTUALS",
+        "title": "Will Ventuals launch a token this year?",
+        "sub_title": "Before Jan 1, 2026",
+        "mutually_exclusive": false,
+        "category": "Crypto"
+    },
+    {
+        "bing_reports": "",
+        "ddgs_reports": "",
+        "event_ticker": "KXTOKENLAUNCHUNIT-26JAN01",
+        "series_ticker": "KXTOKENLAUNCHUNIT",
+        "title": "Will Unit launch a token this year?",
+        "sub_title": "Before Jan 1, 2026",
+        "mutually_exclusive": false,
+        "category": "Crypto"
+    },
+    {
+        "bing_reports": "",
+        "ddgs_reports": "",
+        "event_ticker": "KXTOKENLAUNCHINFINEX-26JAN01",
+        "series_ticker": "KXTOKENLAUNCHINFINEX",
+        "title": "Will Infinex launch a token this year?",
+        "sub_title": "Before Jan 1, 2026",
+        "mutually_exclusive": false,
+        "category": "Crypto"
+    },
+    {
+        "bing_reports": "",
+        "ddgs_reports": "",
+        "event_ticker": "KXTOKENLAUNCHAXIOM-26JAN01",
+        "series_ticker": "KXTOKENLAUNCHAXIOM",
+        "title": "Will Axiom launch a token this year?",
+        "sub_title": "Before Jan 1, 2026",
+        "mutually_exclusive": false,
+        "category": "Crypto"
+    },
+    {
+        "bing_reports": "",
+        "ddgs_reports": "",
+        "event_ticker": "KXSOLETHRATIO-26JAN01",
+        "series_ticker": "KXSOLETHRATIO",
+        "title": "How high will the SOL/ETH ratio be this year?",
+        "sub_title": "Before Jan 1, 2026",
+        "mutually_exclusive": false,
+        "category": "Crypto"
+    },
+    {
+        "bing_reports": "",
+        "ddgs_reports": "",
+        "event_ticker": "KXSOLDATHOLDINGS-26JAN01",
+        "series_ticker": "KXSOLDATHOLDINGS",
+        "title": "What will Solana DAT reserves reach this year?",
+        "sub_title": "Before Jan 1, 2026",
+        "mutually_exclusive": false,
+        "category": "Crypto"
+    },
+    {
+        "bing_reports": "",
+        "ddgs_reports": "",
+        "event_ticker": "KXCHRISCHRISTIECHARGE-26JAN",
+        "series_ticker": "KXCHRISCHRISTIECHARGE",
+        "title": "Will Chris Christie be charged with a federal crime this year?",
+        "sub_title": "Before Jan 2026",
+        "mutually_exclusive": false,
+        "category": "Politics"
+    },
+    {
+        "bing_reports": "",
+        "ddgs_reports": "",
+        "event_ticker": "KXAIRDROPPUMPFUN",
+        "series_ticker": "KXAIRDROPPUMPFUN",
+        "title": "When will PumpFun conduct an airdrop?",
+        "sub_title": "PumpFun airdrop",
+        "mutually_exclusive": false,
+        "category": "Crypto"
+    },
+    {
+        "bing_reports": "",
+        "ddgs_reports": "",
+        "event_ticker": "KXAIRDROPHYPE",
+        "series_ticker": "KXAIRDROPHYPE",
+        "title": "When will Hyperliquid conduct an airdrop?",
+        "sub_title": "Hyperliquid airdrop",
+        "mutually_exclusive": false,
+        "category": "Crypto"
+    },
+    {
+        "bing_reports": "",
+        "ddgs_reports": "",
+        "event_ticker": "KXACQUIREPUMPFUN-25",
+        "series_ticker": "KXACQUIREPUMPFUN",
+        "title": "Will pump.fun announce an acquisition of any company in 2025?",
+        "sub_title": "In 2025",
+        "mutually_exclusive": false,
+        "category": "Financials"
+    },
+    {
+        "bing_reports": "",
+        "ddgs_reports": "",
+        "event_ticker": "KXACQUIRECOINBASE-25",
+        "series_ticker": "KXACQUIRECOINBASE",
+        "title": "Will Coinbase announce an acquisition of any company in 2025?",
+        "sub_title": "In 2025",
+        "mutually_exclusive": false,
+        "category": "Financials"
+    },
+    {
+        "bing_reports": "",
+        "ddgs_reports": "",
+        "event_ticker": "KXACQUIREAXIOM-25",
+        "series_ticker": "KXACQUIREAXIOM",
+        "title": "Will any company announce an acquisition of Axiom in 2025?",
+        "sub_title": "In 2025",
+        "mutually_exclusive": false,
+        "category": "Financials"
+    },
+    {
+        "bing_reports": "",
+        "ddgs_reports": "",
+        "event_ticker": "KXRAINNYCM-25SEP",
+        "series_ticker": "KXRAINNYCM",
+        "title": "Rain in NYC next month?",
+        "sub_title": "In Sep 2025",
+        "mutually_exclusive": false,
+        "category": "Climate and Weather"
+    },
+    {
+        "bing_reports": "",
+        "ddgs_reports": "",
+        "event_ticker": "KXMEDIACONSUMPTIONTSWIFTIG-25SEP02",
+        "series_ticker": "KXMEDIACONSUMPTIONTSWIFTIG",
+        "title": "How many Likes will Taylor Swift and Travis Kelce's Instagram post get on September 2nd?",
+        "sub_title": "For the week ending Sep 2, 2025",
+        "mutually_exclusive": false,
+        "category": "Entertainment"
+    },
+    {
+        "bing_reports": "",
+        "ddgs_reports": "",
+        "event_ticker": "KXMEDIADPNOONKICKOFF-08",
+        "series_ticker": "KXMEDIADPNOONKICKOFF",
+        "title": "Will Dave Portnoy go on Fox Sports \"Big Noon Kickoff\" before Sunday?",
+        "sub_title": "Before Aug 31, 2025",
+        "mutually_exclusive": false,
+        "category": "Entertainment"
+    },
+    {
+        "bing_reports": "",
+        "ddgs_reports": "",
+        "event_ticker": "KXWTAMATCH-25AUG29VONPAO",
+        "series_ticker": "KXWTAMATCH",
+        "title": "Vondrousova vs Paolini",
+        "sub_title": "Vondrousova vs Paolini",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": "",
+        "ddgs_reports": "",
+        "event_ticker": "KXWTAMATCH-25AUG29TOWAND",
+        "series_ticker": "KXWTAMATCH",
+        "title": "Townsend vs Andreeva",
+        "sub_title": "Townsend vs Andreeva",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": "",
+        "ddgs_reports": "",
+        "event_ticker": "KXWTAMATCH-25AUG29RYBRAD",
+        "series_ticker": "KXWTAMATCH",
+        "title": "Rybakina vs Raducanu",
+        "sub_title": "Rybakina vs Raducanu",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": "",
+        "ddgs_reports": "",
+        "event_ticker": "KXWTAMATCH-25AUG29PEGAZA",
+        "series_ticker": "KXWTAMATCH",
+        "title": "Pegula vs Azarenka",
+        "sub_title": "Pegula vs Azarenka",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": "",
+        "ddgs_reports": "",
+        "event_ticker": "KXWTAMATCH-25AUG29NAVKRE",
+        "series_ticker": "KXWTAMATCH",
+        "title": "Navarro vs Krejcikova",
+        "sub_title": "Navarro vs Krejcikova",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": "",
+        "ddgs_reports": "",
+        "event_ticker": "KXWTAMATCH-25AUG29MERBUC",
+        "series_ticker": "KXWTAMATCH",
+        "title": "Mertens vs Bucsa",
+        "sub_title": "Mertens vs Bucsa",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": "",
+        "ddgs_reports": "",
+        "event_ticker": "KXWTAMATCH-25AUG29HONANN",
+        "series_ticker": "KXWTAMATCH",
+        "title": "Hon vs Li",
+        "sub_title": "Hon vs Li",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": "",
+        "ddgs_reports": "",
+        "event_ticker": "KXATPMATCH-25AUG29LEHCOL",
+        "series_ticker": "KXATPMATCH",
+        "title": "Lehecka vs Collignon",
+        "sub_title": "Lehecka vs Collignon",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": "",
+        "ddgs_reports": "",
+        "event_ticker": "KXATPMATCH-25AUG29KYMFRI",
+        "series_ticker": "KXATPMATCH",
+        "title": "Kym vs Fritz",
+        "sub_title": "Kym vs Fritz",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": "",
+        "ddgs_reports": "",
+        "event_ticker": "KXATPMATCH-25AUG29DJONOR",
+        "series_ticker": "KXATPMATCH",
+        "title": "Djokovic vs Norrie",
+        "sub_title": "Djokovic vs Norrie",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": "",
+        "ddgs_reports": "",
+        "event_ticker": "KXATPMATCH-25AUG29DARALC",
+        "series_ticker": "KXATPMATCH",
+        "title": "Darderi vs Alcaraz",
+        "sub_title": "Darderi vs Alcaraz",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": "",
+        "ddgs_reports": "",
+        "event_ticker": "KXATPMATCH-25AUG29BONRIN",
+        "series_ticker": "KXATPMATCH",
+        "title": "Bonzi vs Rinderknech",
+        "sub_title": "Bonzi vs Rinderknech",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": "",
+        "ddgs_reports": "",
+        "event_ticker": "KXATPMATCH-25AUG29BLAMAC",
+        "series_ticker": "KXATPMATCH",
+        "title": "Blanchet vs Machac",
+        "sub_title": "Blanchet vs Machac",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": "",
+        "ddgs_reports": "",
+        "event_ticker": "KXRAINNYC-25AUG28",
+        "series_ticker": "KXRAINNYC",
+        "title": "Will it rain in NYC tomorrow?",
+        "sub_title": "On Aug 28, 2025",
+        "mutually_exclusive": false,
+        "category": "Climate and Weather"
+    },
+    {
+        "bing_reports": "",
+        "ddgs_reports": "",
+        "event_ticker": "KXAPPRANKFREE-25AUG29",
+        "series_ticker": "KXAPPRANKFREE",
+        "title": "Top US iPhone app on Friday?",
+        "sub_title": "On Aug 29, 2025 at 10 AM ET",
+        "mutually_exclusive": true,
+        "category": "Entertainment"
+    },
+    {
+        "bing_reports": "",
+        "ddgs_reports": "",
+        "event_ticker": "KXAPPRANKFREE2-25AUG29",
+        "series_ticker": "KXAPPRANKFREE2",
+        "title": "Runner-up US iPhone app on Friday?",
+        "sub_title": "On Aug 29, 2025 at 10 AM ET",
+        "mutually_exclusive": true,
+        "category": "Entertainment"
+    },
+    {
+        "bing_reports": "",
+        "ddgs_reports": "",
+        "event_ticker": "KXWNBAGAME-25AUG28CHIPHX",
+        "series_ticker": "KXWNBAGAME",
+        "title": "CHI at PHX",
+        "sub_title": "CHI at PHX (Aug 28)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": "",
+        "ddgs_reports": "",
+        "event_ticker": "KXWNBAGAME-25AUG28SEAMIN",
+        "series_ticker": "KXWNBAGAME",
+        "title": "SEA at MIN",
+        "sub_title": "SEA at MIN (Aug 28)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": "",
+        "ddgs_reports": "",
+        "event_ticker": "KXWNBAGAME-25AUG28WSHNY",
+        "series_ticker": "KXWNBAGAME",
+        "title": "WSH at NY",
+        "sub_title": "WSH at NY (Aug 28)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": "",
+        "ddgs_reports": "",
+        "event_ticker": "KXATPMATCH-25AUG28ZVEFEA",
+        "series_ticker": "KXATPMATCH",
+        "title": "Zverev vs Fearnley",
+        "sub_title": "Zverev vs Fearnley",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": "",
+        "ddgs_reports": "",
+        "event_ticker": "KXATPMATCH-25AUG28BORPAU",
+        "series_ticker": "KXATPMATCH",
+        "title": "Borges vs Paul",
+        "sub_title": "Borges vs Paul",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": "",
+        "ddgs_reports": "",
+        "event_ticker": "KXMLBGAME-25AUG27DETATH",
+        "series_ticker": "KXMLBGAME",
+        "title": "Detroit at A's",
+        "sub_title": "DET at ATH (Aug 27)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": "",
+        "ddgs_reports": "",
+        "event_ticker": "KXMLBGAME-25AUG27CHCSF",
+        "series_ticker": "KXMLBGAME",
+        "title": "Chicago C at San Francisco",
+        "sub_title": "CHC at SF (Aug 27)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": "",
+        "ddgs_reports": "",
+        "event_ticker": "KXMLBGAME-25AUG27CINLAD",
+        "series_ticker": "KXMLBGAME",
+        "title": "Cincinnati at Los Angeles D",
+        "sub_title": "CIN at LAD (Aug 27)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": "",
+        "ddgs_reports": "",
+        "event_ticker": "KXMLBGAME-25AUG27COLHOU",
+        "series_ticker": "KXMLBGAME",
+        "title": "Colorado at Houston",
+        "sub_title": "COL at HOU (Aug 27)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": "",
+        "ddgs_reports": "",
+        "event_ticker": "KXMLBGAME-25AUG27LAATEX",
+        "series_ticker": "KXMLBGAME",
+        "title": "Los Angeles A at Texas",
+        "sub_title": "LAA at TEX (Aug 27)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": "",
+        "ddgs_reports": "",
+        "event_ticker": "KXMLBGAME-25AUG27KCCWS",
+        "series_ticker": "KXMLBGAME",
+        "title": "Kansas City at Chicago WS",
+        "sub_title": "KC at CWS (Aug 27)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": "",
+        "ddgs_reports": "",
+        "event_ticker": "KXMLBGAME-25AUG27AZMIL",
+        "series_ticker": "KXMLBGAME",
+        "title": "Arizona at Milwaukee",
+        "sub_title": "AZ at MIL (Aug 27)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": "",
+        "ddgs_reports": "",
+        "event_ticker": "KXTOKENLAUNCHOPENSEA",
+        "series_ticker": "KXTOKENLAUNCHOPENSEA",
+        "title": "When will OpenSea launch a token?",
+        "sub_title": "OpenSea token launch",
+        "mutually_exclusive": false,
+        "category": "Crypto"
+    },
+    {
+        "bing_reports": "",
+        "ddgs_reports": "",
+        "event_ticker": "KXSPACEXSTARSHIP-11",
+        "series_ticker": "KXSPACEXSTARSHIP",
+        "title": "SpaceX Starship 11th launch?",
+        "sub_title": "SpaceX Starship (11th launch)",
+        "mutually_exclusive": false,
+        "category": "Companies"
     }
 ]
