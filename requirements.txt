@@ -15,6 +15,7 @@ openai
 pandas
 playwright
 pyOpenSSL
+pymongo
 python-dotenv
 python_dateutil
 readability_lxml
