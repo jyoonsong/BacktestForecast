@@ -92,10 +92,10 @@ def scrape_kalshi_events():
             # TODO: add a timestamped research report for this event
             found_event = next((e for e in current_events if e['event_ticker'] == event['event_ticker']), None)
             event['bing_reports'] = ""
-            if "ddgs_reports" not in event:
-                event['ddgs_reports'] = {}
-            if timestamp not in event["ddgs_reports"]:
-                event['ddgs_reports'][timestamp] = get_ddgs_report(found_event)
+            # if "ddgs_reports" not in event:
+            #     event['ddgs_reports'] = {}
+            # if timestamp not in event["ddgs_reports"]:
+            #     event['ddgs_reports'][timestamp] = get_ddgs_report(found_event)
             # save the event
             final_events.append(event)
             
@@ -111,7 +111,7 @@ def scrape_kalshi_events():
             # TODO: add a timestamped research report for this event
             event_obj = {}
             event_obj['bing_reports'] = ""
-            event_obj['ddgs_reports'] = {timestamp: get_ddgs_report(event)}
+            # event_obj['ddgs_reports'] = {timestamp: get_ddgs_report(event)}
             # save the event
             event_obj['event_ticker'] = event['event_ticker']
             event_obj['series_ticker'] = event['series_ticker']
