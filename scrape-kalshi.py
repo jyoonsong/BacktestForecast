@@ -65,7 +65,7 @@ def get_market_descriptions(event, markets):
     
     if len(markets) == 1:
         m = markets[0]
-        market_descriptions = f"""Event title: {event.title}
+        market_descriptions = f"""Event title: {event["title"]}
 Title: {m.title}
 Subtitle: {m.yes_sub_title}
 Possible Outcomes: Yes (0) or No (1)
@@ -109,7 +109,7 @@ def get_ddgs_report(event):
     market_descriptions = get_market_descriptions(event, event["markets"])
 
     # STEP 1: Query Generation
-    query_prompt = f"""The following are markets under the event titled "{event.title}". The markets can resolve before the scheduled close date.
+    query_prompt = f"""The following are markets under the event titled "{event["title"]}". The markets can resolve before the scheduled close date.
 {market_descriptions}
 
 # Instructions
@@ -150,7 +150,7 @@ What are {num_queries} short search queries that would meaningfully improve the 
             continue
 
         # Summarization
-        summarize_prompt = f"""The following are markets under the event titled "{event.title}". The markets can resolve before the scheduled close date.
+        summarize_prompt = f"""The following are markets under the event titled "{event["title"]}". The markets can resolve before the scheduled close date.
 {market_descriptions}
 
 # Instructions
