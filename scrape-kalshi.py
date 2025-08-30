@@ -235,7 +235,7 @@ def scrape_kalshi_events():
             if "ddgs_reports" not in event:
                 event['ddgs_reports'] = {}
             if timestamp not in event["ddgs_reports"]:
-                event['ddgs_reports'][timestamp] = get_ddgs_report(found_event)
+                event['ddgs_reports'][timestamp] = get_ddgs_report(event)
             # save the event
             event_obj['event_ticker'] = event['event_ticker']
             event_obj['series_ticker'] = event['series_ticker']
