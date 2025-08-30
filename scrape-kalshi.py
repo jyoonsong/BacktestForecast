@@ -211,8 +211,9 @@ def scrape_kalshi_events():
         if event["event_ticker"] in current_event_tickers:
             logger.info(f"Event {event['event_ticker']} is still active.")
             # TODO: add a timestamped research report for this event
+            found_event = next((e for e in current_events if e["event_ticker"] == event["event_ticker"]), None)
             event["bing_reports"] = ""
-            event["ddgs_reports"][timestamp] = get_ddgs_report(event)
+            event["ddgs_reports"][timestamp] = get_ddgs_report(found_event)
             # save the event
             final_events.append(event)
             
