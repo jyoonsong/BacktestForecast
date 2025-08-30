@@ -73,7 +73,7 @@ Rules: {m['rules_primary']}"""
 
         if type(m['rules_secondary']) == str and len(m['rules_secondary']) > 0:
             market_descriptions += f"\nSecondary rules: {m['rules_secondary']}"
-        market_descriptions += f"\nScheduled close date: {m['expiration'].strftime('%Y-%m-%d')}"
+        market_descriptions += f"\nScheduled close date: {m['expiration_time'].strftime('%Y-%m-%d')}"
         market_descriptions += f"\n(Note: The market may resolve before this date.)\n"
 
     elif len(markets) > 1:
@@ -87,7 +87,7 @@ Rules: {getattr(m, 'rules_primary', '')}"""
 
             if isinstance(getattr(m, 'rules_secondary', None), str) and len(getattr(m, 'rules_secondary', '')) > 0:
                 market_descriptions += f"\nSecondary rules: {m['rules_secondary']}"
-            market_descriptions += f"\nScheduled close date: {m['expiration'].strftime('%Y-%m-%d')}\n\n"
+            market_descriptions += f"\nScheduled close date: {m['expiration_time'].strftime('%Y-%m-%d')}\n\n"
     
     return market_descriptions
 
