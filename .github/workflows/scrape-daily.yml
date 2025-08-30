@@ -28,4 +28,7 @@ jobs:
                   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
                   # Give the script the repo in owner/repo form from the runner context
                   GITHUB_REPOSITORY: ${{ github.repository }}
+                  # OpenAI API key and organization ID stored in repo secrets
+                  OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+                  OPENAI_ORG_ID: ${{ secrets.OPENAI_ORGANIZATION }}
               run: python scrape-kalshi.py
