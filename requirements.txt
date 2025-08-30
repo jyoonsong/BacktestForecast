@@ -2,6 +2,7 @@ backoff
 beautifulsoup4
 cryptography
 datetime
+ddgs
 docutils
 HTMLParser
 ipython
