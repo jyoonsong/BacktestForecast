@@ -5,9 +5,6 @@ import json
 import logging
 import os
 import requests
-from openai import OpenAI
-from ddgs import DDGS
-from bs4 import BeautifulSoup
 
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
@@ -15,15 +12,9 @@ logger = logging.getLogger(__name__)
 base_url_events = "https://api.elections.kalshi.com/trade-api/v2/events"
 base_url_markets = "https://api.elections.kalshi.com/trade-api/v2/markets"
 
-client = OpenAI(
-    organization=os.getenv("OPENAI_ORG_ID"),
-    api_key=os.getenv("OPENAI_API_KEY")
-)
-
 def utc_stamp():
     # return dt.datetime.utcnow().strftime("%Y%m%dT%H%M%SZ")
     return dt.datetime.utcnow().strftime("%Y%m%d")
-
 
 def fetch_all_events(status=None, with_markets=True):
     params = {}
@@ -59,120 +50,8 @@ def fetch_all_events(status=None, with_markets=True):
     logger.info(f"Total events fetched: {len(events)}")
     return events
 
-def get_market_descriptions(event, markets):
-    # Generate market descriptions
-    market_descriptions = "" 
-    
-    if len(markets) == 1:
-        m = markets[0]
-        market_descriptions = f"""Event title: {event['title']}
-Title: {m['title']}
-Subtitle: {m['yes_sub_title']}
-Possible Outcomes: Yes (0) or No (1)
-Rules: {m['rules_primary']}"""
-
-        if type(m['rules_secondary']) == str and len(m['rules_secondary']) > 0:
-            market_descriptions += f"\nSecondary rules: {m['rules_secondary']}"
-        market_descriptions += f"\nScheduled close date: {m['expiration_time']}"
-        market_descriptions += f"\n(Note: The market may resolve before this date.)\n"
-
-    elif len(markets) > 1:
-        for idx, m in enumerate(markets):
-            market_descriptions += f"""# Market {idx + 1}
-Ticker: {m['ticker']}
-Title: {m['title']}
-Subtitle: {getattr(m, 'yes_sub_title', '')}
-Possible Outcomes: Yes (0) or No (1)
-Rules: {getattr(m, 'rules_primary', '')}"""
-
-            if isinstance(getattr(m, 'rules_secondary', None), str) and len(getattr(m, 'rules_secondary', '')) > 0:
-                market_descriptions += f"\nSecondary rules: {m['rules_secondary']}"
-            market_descriptions += f"\nScheduled close date: {m['expiration_time']}\n\n"
-    
-    return market_descriptions
-
-def run_openai(prompt, model="gpt-4o-mini-2024-07-18"):
-    response = client.chat.completions.create(
-        messages=[{
-            "role": "user",
-            "content": prompt,
-        }],
-        model=model,
-    )
-    response_text = response.choices[0].message.content
-    return response_text
-
 def get_ddgs_report(event):
-    num_queries = 6
-    max_words_in_query = 7
-    num_urls = 5
-    market_descriptions = get_market_descriptions(event, event['markets'])
-
-    # STEP 1: Query Generation
-    query_prompt = f"""The following are markets under the event titled "{event['title']}". The markets can resolve before the scheduled close date.
-{market_descriptions}
-
-# Instructions
-What are {num_queries} short search queries that would meaningfully improve the accuracy and confidence of a forecast regarding the market outcomes described above? Output exactly {num_queries} queries, one query per line, without any other text or number. Each query should be less than {max_words_in_query} words."""
-    output_text = run_openai(prompt=query_prompt, model="gpt-4o-mini-2024-07-18")
-    queries = output_text.strip().split("\n")
-    queries = [q.strip() for q in queries if len(q.strip()) > 0]
-
-    # STEP 2: Search for Each Query
-    search_results = []
-    for query in queries:
-        results = DDGS().text(query, max_results=num_urls, timelimit="y")
-        for result in results:
-            # deduplicate by URL
-            if not any(d['href'] == result['href'] for d in search_results):
-                search_results.append(result)
-
-    # STEP 3: Summarization
-    summaries = []
-
-    for result in search_results:
-        try:
-            # Fetch and parse each search result
-            page = requests.get(result['href'], timeout=10, headers={'User-Agent': 'Mozilla/5.0'})
-            soup = BeautifulSoup(page.text, "html.parser")
-            # Remove script and style elements
-            for script in soup(['script", "style']):
-                script.decompose()
-            # text = soup.get_text(separator="\n", strip=True)
-            paragraphs = soup.find_all('p')
-            article_text = "\n".join(p.get_text(separator="\n", strip=True) for p in paragraphs)
-
-            # Filter out very short or very long articles
-            if len(article_text) < 200 or len(article_text) > 150000:
-                continue
-        except Exception as e:
-            print(f"Error fetching {result['href']}: {e}")
-            continue
-
-        # Summarization
-        summarize_prompt = f"""The following are markets under the event titled "{event['title']}". The markets can resolve before the scheduled close date.
-{market_descriptions}
-
-# Instructions
-Carefully read the article content provided below. Your task is to generate a summary (one or two paragraphs) that highlights factual insights or relevant context related to the listed markets. Avoid subjective opinions or speculative statements. If the article does not contain meaningful information, return an empty output. Include the date and source URL of the article at the end of the summary.
-
-# Article to Summarize
-Title: {result['title']}
-Body: {result['body']}
-Source URL: {result['href']}
-Full Content: {article_text}"""
-        output_text = run_openai(prompt=summarize_prompt, model="gpt-4o-mini-2024-07-18")
-        if len(output_text.strip()) < 70:
-            continue
-        summaries.append(output_text)
-
-    # STEP 4: Combine Summaries
-    research_reports = ""
-    for index, summary in enumerate(summaries):
-        research_reports += f"\n\n# Research Report {index + 1}:\n{summary}"
-    research_reports = research_reports.strip()
-    
-    return research_reports
+    return "DDGS report placeholder"
 
 def scrape_kalshi_events():
     logger.info("Starting Kalshi event scraping...")
