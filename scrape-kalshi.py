@@ -169,7 +169,7 @@ Full Content: {article_text}"""
     # STEP 4: Combine Summaries
     research_reports = ""
     for index, summary in enumerate(summaries):
-        research_report += f"\n\n# Research Report {index + 1}:\n{summary}"
+        research_reports += f"\n\n# Research Report {index + 1}:\n{summary}"
     research_reports = research_reports.strip()
     
     return research_reports
