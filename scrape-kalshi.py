@@ -66,28 +66,28 @@ def get_market_descriptions(event, markets):
     if len(markets) == 1:
         m = markets[0]
         market_descriptions = f"""Event title: {event["title"]}
-Title: {m.title}
-Subtitle: {m.yes_sub_title}
+Title: {m["title"]}
+Subtitle: {m["yes_sub_title"]}
 Possible Outcomes: Yes (0) or No (1)
-Rules: {m.rules_primary}"""
+Rules: {m["rules_primary"]}"""
 
-        if type(m.rules_secondary) == str and len(m.rules_secondary) > 0:
-            market_descriptions += f"\nSecondary rules: {m.rules_secondary}"
-        market_descriptions += f"\nScheduled close date: {m.expiration.strftime('%Y-%m-%d')}"
+        if type(m["rules_secondary"]) == str and len(m["rules_secondary"]) > 0:
+            market_descriptions += f"\nSecondary rules: {m["rules_secondary"]}"
+        market_descriptions += f"\nScheduled close date: {m["expiration"].strftime('%Y-%m-%d')}"
         market_descriptions += f"\n(Note: The market may resolve before this date.)\n"
 
     elif len(markets) > 1:
         for idx, m in enumerate(markets):
             market_descriptions += f"""# Market {idx + 1}
-Ticker: {m.ticker}
-Title: {m.title}
+Ticker: {m["ticker"]}
+Title: {m["title"]}
 Subtitle: {getattr(m, 'yes_sub_title', '')}
 Possible Outcomes: Yes (0) or No (1)
 Rules: {getattr(m, 'rules_primary', '')}"""
 
             if isinstance(getattr(m, 'rules_secondary', None), str) and len(getattr(m, 'rules_secondary', '')) > 0:
-                market_descriptions += f"\nSecondary rules: {m.rules_secondary}"
-            market_descriptions += f"\nScheduled close date: {m.expiration.strftime('%Y-%m-%d')}\n\n"
+                market_descriptions += f"\nSecondary rules: {m["rules_secondary"]}"
+            market_descriptions += f"\nScheduled close date: {m["expiration"].strftime('%Y-%m-%d')}\n\n"
     
     return market_descriptions
 
