@@ -5303,5 +5303,18 @@
         "mutually_exclusive": true,
         "category": "Sports",
         "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": {},
+        "event_ticker": "KXLALIGAGAME-25AUG31RVCBAR",
+        "series_ticker": "KXLALIGAGAME",
+        "title": "Vallecano vs Barcelona",
+        "sub_title": "RVC vs BAR (Aug 31)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "ddgs_reports": {
+            "20250830": "ddgs_kxlaligagame-25aug31rvcbar_20250830"
+        },
+        "resolution_date": "20250831"
     }
 ]
