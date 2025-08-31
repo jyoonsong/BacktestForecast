@@ -2,6 +2,7 @@ name: Daily Kalshi Scraper
 
 permissions:
     contents: write
+    actions: read
 
 on:
     schedule:
