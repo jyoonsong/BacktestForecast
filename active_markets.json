@@ -2212,12 +2212,16 @@
         "status": "active",
         "response_price_units": "usd_cent",
         "yes_bid": 16,
-        "yes_ask": 21,
-        "no_bid": 79,
+        "yes_ask": 22,
+        "no_bid": 78,
         "no_ask": 84,
         "last_price": 22,
         "volume": 48766,
+<<<<<<< HEAD
         "liquidity": 33460903,
+=======
+        "liquidity": 33460399,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.17894736842105263,
@@ -2225,7 +2229,7 @@
             "20250828": 0.17894736842105263,
             "20250829": 0.18085106382978725,
             "20250830": 0.17708333333333334,
-            "20250831": 0.16842105263157894
+            "20250831": 0.1702127659574468
         }
     },
     {
@@ -2959,9 +2963,15 @@
         "yes_ask": 32,
         "no_bid": 68,
         "no_ask": 72,
+<<<<<<< HEAD
         "last_price": 28,
         "volume": 16459,
         "liquidity": 67390729,
+=======
+        "last_price": 32,
+        "volume": 16456,
+        "liquidity": 67390849,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.2828282828282828,
@@ -3421,12 +3431,16 @@
         "status": "active",
         "response_price_units": "usd_cent",
         "yes_bid": 88,
-        "yes_ask": 93,
-        "no_bid": 7,
+        "yes_ask": 92,
+        "no_bid": 8,
         "no_ask": 12,
         "last_price": 87,
         "volume": 31333,
+<<<<<<< HEAD
         "liquidity": 6027398,
+=======
+        "liquidity": 6028042,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.925531914893617,
@@ -3434,7 +3448,7 @@
             "20250828": 0.925531914893617,
             "20250829": 0.925531914893617,
             "20250830": 0.925531914893617,
-            "20250831": 0.9263157894736842
+            "20250831": 0.9166666666666666
         }
     },
     {
@@ -3581,7 +3595,11 @@
         "no_ask": 53,
         "last_price": 48,
         "volume": 40837,
+<<<<<<< HEAD
         "liquidity": 1585168202,
+=======
+        "liquidity": 1585032202,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.47474747474747475,
@@ -3891,7 +3909,11 @@
         "no_ask": 82,
         "last_price": 19,
         "volume": 82614,
+<<<<<<< HEAD
         "liquidity": 36476546,
+=======
+        "liquidity": 36476882,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.23469387755102042,
@@ -5125,13 +5147,17 @@
         "expiration_time": "2029-01-20T15:00:00Z",
         "status": "active",
         "response_price_units": "usd_cent",
-        "yes_bid": 32,
-        "yes_ask": 37,
-        "no_bid": 63,
-        "no_ask": 68,
+        "yes_bid": 31,
+        "yes_ask": 38,
+        "no_bid": 62,
+        "no_ask": 69,
         "last_price": 39,
         "volume": 24258,
+<<<<<<< HEAD
         "liquidity": 13790631,
+=======
+        "liquidity": 13790341,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.33695652173913043,
@@ -5139,7 +5165,7 @@
             "20250828": 0.34408602150537637,
             "20250829": 0.34408602150537637,
             "20250830": 0.34408602150537637,
-            "20250831": 0.3368421052631579
+            "20250831": 0.3333333333333333
         }
     },
     {
@@ -5503,7 +5529,11 @@
         "no_ask": 55,
         "last_price": 46,
         "volume": 58647,
+<<<<<<< HEAD
         "liquidity": 8070836,
+=======
+        "liquidity": 8070736,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.41237113402061853,
@@ -5596,7 +5626,11 @@
         "no_ask": 39,
         "last_price": 59,
         "volume": 35121,
+<<<<<<< HEAD
         "liquidity": 102401289,
+=======
+        "liquidity": 102401247,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.631578947368421,
@@ -8938,6 +8972,7 @@
         "expiration_time": "2028-11-07T15:00:00Z",
         "status": "active",
         "response_price_units": "usd_cent",
+<<<<<<< HEAD
         "yes_bid": 21,
         "yes_ask": 31,
         "no_bid": 69,
@@ -8945,6 +8980,15 @@
         "last_price": 32,
         "volume": 4183,
         "liquidity": 585710,
+=======
+        "yes_bid": 23,
+        "yes_ask": 31,
+        "no_bid": 69,
+        "no_ask": 77,
+        "last_price": 32,
+        "volume": 4183,
+        "liquidity": 585617,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.2247191011235955,
@@ -8952,7 +8996,11 @@
             "20250828": 0.2247191011235955,
             "20250829": 0.23333333333333334,
             "20250830": 0.23333333333333334,
+<<<<<<< HEAD
             "20250831": 0.23333333333333334
+=======
+            "20250831": 0.25
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         }
     },
     {
@@ -13216,7 +13264,11 @@
         "no_ask": 68,
         "last_price": 33,
         "volume": 337260,
+<<<<<<< HEAD
         "liquidity": 561985395,
+=======
+        "liquidity": 562053395,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.32323232323232326,
@@ -13247,7 +13299,11 @@
         "no_ask": 33,
         "last_price": 68,
         "volume": 328405,
+<<<<<<< HEAD
         "liquidity": 530500028,
+=======
+        "liquidity": 530725228,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.6767676767676768,
@@ -15448,7 +15504,11 @@
         "no_ask": 40,
         "last_price": 70,
         "volume": 9823,
+<<<<<<< HEAD
         "liquidity": 47615175,
+=======
+        "liquidity": 47615395,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.6145833333333334,
@@ -17649,7 +17709,11 @@
         "no_ask": 99,
         "last_price": 8,
         "volume": 9924,
+<<<<<<< HEAD
         "liquidity": 83852618,
+=======
+        "liquidity": 83851493,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.010752688172043012,
@@ -18356,13 +18420,13 @@
         "expiration_time": "2027-01-04T15:00:00Z",
         "status": "active",
         "response_price_units": "usd_cent",
-        "yes_bid": 26,
-        "yes_ask": 39,
-        "no_bid": 61,
-        "no_ask": 74,
+        "yes_bid": 28,
+        "yes_ask": 37,
+        "no_bid": 63,
+        "no_ask": 72,
         "last_price": 33,
         "volume": 9335,
-        "liquidity": 2182149,
+        "liquidity": 2181437,
         "can_close_early": true,
         "market_price": {
             "20250826": 0.26881720430107525,
@@ -18370,7 +18434,7 @@
             "20250828": 0.2840909090909091,
             "20250829": 0.29545454545454547,
             "20250830": 0.29069767441860467,
-            "20250831": 0.2988505747126437
+            "20250831": 0.3076923076923077
         }
     },
     {
@@ -23291,7 +23355,11 @@
         "no_ask": 99,
         "last_price": 0,
         "volume": 0,
+<<<<<<< HEAD
         "liquidity": 116618,
+=======
+        "liquidity": 116713,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250829": 0.011111111111111112,
@@ -23908,7 +23976,11 @@
         "no_ask": 73,
         "last_price": 35,
         "volume": 7144,
+<<<<<<< HEAD
         "liquidity": 6849173,
+=======
+        "liquidity": 6849901,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.22916666666666666,
@@ -24187,7 +24259,11 @@
         "no_ask": 63,
         "last_price": 38,
         "volume": 5979,
+<<<<<<< HEAD
         "liquidity": 555409,
+=======
+        "liquidity": 555407,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.4105263157894737,
@@ -26160,13 +26236,17 @@
         "expiration_time": "2027-01-07T15:00:00Z",
         "status": "active",
         "response_price_units": "usd_cent",
-        "yes_bid": 7,
-        "yes_ask": 17,
-        "no_bid": 83,
-        "no_ask": 93,
+        "yes_bid": 9,
+        "yes_ask": 15,
+        "no_bid": 85,
+        "no_ask": 91,
         "last_price": 7,
         "volume": 57699,
+<<<<<<< HEAD
         "liquidity": 1101492,
+=======
+        "liquidity": 1101779,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.07692307692307693,
@@ -26174,7 +26254,7 @@
             "20250828": 0.07777777777777778,
             "20250829": 0.08695652173913043,
             "20250830": 0.08602150537634409,
-            "20250831": 0.07777777777777778
+            "20250831": 0.09574468085106383
         }
     },
     {
@@ -28330,13 +28410,17 @@
         "expiration_time": "2026-12-31T15:00:00Z",
         "status": "active",
         "response_price_units": "usd_cent",
-        "yes_bid": 37,
-        "yes_ask": 43,
-        "no_bid": 57,
-        "no_ask": 63,
+        "yes_bid": 35,
+        "yes_ask": 45,
+        "no_bid": 55,
+        "no_ask": 65,
         "last_price": 42,
         "volume": 2911,
+<<<<<<< HEAD
         "liquidity": 422791,
+=======
+        "liquidity": 422622,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.39361702127659576,
@@ -28344,7 +28428,7 @@
             "20250828": 0.3888888888888889,
             "20250829": 0.391304347826087,
             "20250830": 0.391304347826087,
-            "20250831": 0.39361702127659576
+            "20250831": 0.3888888888888889
         }
     },
     {
@@ -28460,7 +28544,11 @@
         "no_ask": 21,
         "last_price": 79,
         "volume": 2653,
+<<<<<<< HEAD
         "liquidity": 6671013,
+=======
+        "liquidity": 6671015,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.8315789473684211,
@@ -28801,7 +28889,11 @@
         "no_ask": 100,
         "last_price": 0,
         "volume": 0,
+<<<<<<< HEAD
         "liquidity": 1367857,
+=======
+        "liquidity": 1404657,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.0,
@@ -28832,7 +28924,11 @@
         "no_ask": 34,
         "last_price": 71,
         "volume": 17040,
+<<<<<<< HEAD
         "liquidity": 3173476,
+=======
+        "liquidity": 3045976,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.711340206185567,
@@ -28924,8 +29020,13 @@
         "no_bid": 44,
         "no_ask": 46,
         "last_price": 54,
+<<<<<<< HEAD
         "volume": 123501,
         "liquidity": 3103796,
+=======
+        "volume": 123201,
+        "liquidity": 3113763,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.5773195876288659,
@@ -29018,7 +29119,11 @@
         "no_ask": 59,
         "last_price": 45,
         "volume": 72873,
+<<<<<<< HEAD
         "liquidity": 3237478,
+=======
+        "liquidity": 3237382,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.3939393939393939,
@@ -30289,7 +30394,11 @@
         "no_ask": 31,
         "last_price": 75,
         "volume": 5748,
+<<<<<<< HEAD
         "liquidity": 290074,
+=======
+        "liquidity": 293274,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.75,
@@ -30438,6 +30547,7 @@
         "expiration_time": "2026-11-03T15:00:00Z",
         "status": "active",
         "response_price_units": "usd_cent",
+<<<<<<< HEAD
         "yes_bid": 57,
         "yes_ask": 69,
         "no_bid": 31,
@@ -30445,6 +30555,15 @@
         "last_price": 70,
         "volume": 32565,
         "liquidity": 6229696,
+=======
+        "yes_bid": 58,
+        "yes_ask": 69,
+        "no_bid": 31,
+        "no_ask": 42,
+        "last_price": 70,
+        "volume": 32565,
+        "liquidity": 6229735,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.7912087912087912,
@@ -30452,7 +30571,11 @@
             "20250828": 0.797752808988764,
             "20250829": 0.6292134831460674,
             "20250830": 0.6444444444444445,
+<<<<<<< HEAD
             "20250831": 0.6477272727272727
+=======
+            "20250831": 0.651685393258427
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         }
     },
     {
@@ -35455,6 +35578,7 @@
         "expiration_time": "2026-05-27T14:00:00Z",
         "status": "active",
         "response_price_units": "usd_cent",
+<<<<<<< HEAD
         "yes_bid": 64,
         "yes_ask": 78,
         "no_bid": 22,
@@ -35462,6 +35586,15 @@
         "last_price": 64,
         "volume": 47199,
         "liquidity": 1805223,
+=======
+        "yes_bid": 66,
+        "yes_ask": 72,
+        "no_bid": 28,
+        "no_ask": 34,
+        "last_price": 64,
+        "volume": 47199,
+        "liquidity": 1802207,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.7078651685393258,
@@ -35469,7 +35602,11 @@
             "20250828": 0.7325581395348837,
             "20250829": 0.7441860465116279,
             "20250830": 0.7441860465116279,
+<<<<<<< HEAD
             "20250831": 0.7441860465116279
+=======
+            "20250831": 0.7021276595744681
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         }
     },
     {
@@ -38096,7 +38233,7 @@
         "no_ask": 33,
         "last_price": 73,
         "volume": 2050,
-        "liquidity": 573505,
+        "liquidity": 573637,
         "can_close_early": true,
         "market_price": {
             "20250826": 0.5434782608695652,
@@ -38499,7 +38636,11 @@
         "no_ask": 13,
         "last_price": 0,
         "volume": 0,
+<<<<<<< HEAD
         "liquidity": 292821,
+=======
+        "liquidity": 270792,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250828": 0.9042553191489362,
@@ -38615,7 +38756,11 @@
         "no_ask": 32,
         "last_price": 67,
         "volume": 309,
+<<<<<<< HEAD
         "liquidity": 1704398,
+=======
+        "liquidity": 1704878,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250828": 0.7659574468085106,
@@ -38702,7 +38847,11 @@
         "no_ask": 95,
         "last_price": 0,
         "volume": 0,
+<<<<<<< HEAD
         "liquidity": 148152,
+=======
+        "liquidity": 322652,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250828": 0.06382978723404255,
@@ -39564,7 +39713,11 @@
         "no_ask": 87,
         "last_price": 14,
         "volume": 227565,
+<<<<<<< HEAD
         "liquidity": 6212995,
+=======
+        "liquidity": 6213003,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.14583333333333334,
@@ -39965,9 +40118,15 @@
         "yes_ask": 18,
         "no_bid": 82,
         "no_ask": 84,
+<<<<<<< HEAD
         "last_price": 16,
         "volume": 15759,
         "liquidity": 149934856,
+=======
+        "last_price": 18,
+        "volume": 15737,
+        "liquidity": 149936704,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.16326530612244897,
@@ -39996,9 +40155,15 @@
         "yes_ask": 30,
         "no_bid": 70,
         "no_ask": 71,
+<<<<<<< HEAD
         "last_price": 29,
         "volume": 31510,
         "liquidity": 140348847,
+=======
+        "last_price": 30,
+        "volume": 31490,
+        "liquidity": 140458860,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.31313131313131315,
@@ -40091,7 +40256,11 @@
         "no_ask": 66,
         "last_price": 36,
         "volume": 94925,
+<<<<<<< HEAD
         "liquidity": 141277412,
+=======
+        "liquidity": 141283412,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.2727272727272727,
@@ -40277,7 +40446,11 @@
         "no_ask": 88,
         "last_price": 13,
         "volume": 51699,
+<<<<<<< HEAD
         "liquidity": 167664692,
+=======
+        "liquidity": 167754692,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.13131313131313133,
@@ -40308,7 +40481,11 @@
         "no_ask": 95,
         "last_price": 5,
         "volume": 39932,
+<<<<<<< HEAD
         "liquidity": 165673281,
+=======
+        "liquidity": 165547281,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.050505050505050504,
@@ -40369,8 +40546,13 @@
         "no_bid": 47,
         "no_ask": 48,
         "last_price": 53,
+<<<<<<< HEAD
         "volume": 34851,
         "liquidity": 113685530,
+=======
+        "volume": 34836,
+        "liquidity": 113686325,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.5252525252525253,
@@ -40649,7 +40831,11 @@
         "no_ask": 41,
         "last_price": 60,
         "volume": 59743,
+<<<<<<< HEAD
         "liquidity": 112183992,
+=======
+        "liquidity": 112186992,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.5858585858585859,
@@ -41021,7 +41207,11 @@
         "no_ask": 92,
         "last_price": 8,
         "volume": 170344,
+<<<<<<< HEAD
         "liquidity": 19420279,
+=======
+        "liquidity": 19420215,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.09375,
@@ -41300,7 +41490,11 @@
         "no_ask": 96,
         "last_price": 10,
         "volume": 20061,
+<<<<<<< HEAD
         "liquidity": 486188,
+=======
+        "liquidity": 484372,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.043478260869565216,
@@ -41393,7 +41587,11 @@
         "no_ask": 90,
         "last_price": 15,
         "volume": 76487,
+<<<<<<< HEAD
         "liquidity": 13544074,
+=======
+        "liquidity": 13542634,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.08791208791208792,
@@ -41949,7 +42147,11 @@
         "no_ask": 83,
         "last_price": 21,
         "volume": 189832,
+<<<<<<< HEAD
         "liquidity": 15639271,
+=======
+        "liquidity": 15685947,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.15463917525773196,
@@ -42104,7 +42306,11 @@
         "no_ask": 78,
         "last_price": 23,
         "volume": 666044,
+<<<<<<< HEAD
         "liquidity": 9033682,
+=======
+        "liquidity": 9222822,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.2727272727272727,
@@ -42538,7 +42744,11 @@
         "no_ask": 76,
         "last_price": 36,
         "volume": 24956,
+<<<<<<< HEAD
         "liquidity": 14298673,
+=======
+        "liquidity": 14301249,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.19101123595505617,
@@ -42569,7 +42779,11 @@
         "no_ask": 58,
         "last_price": 43,
         "volume": 14618,
+<<<<<<< HEAD
         "liquidity": 10416870,
+=======
+        "liquidity": 10562174,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.4387755102040816,
@@ -42631,7 +42845,11 @@
         "no_ask": 82,
         "last_price": 41,
         "volume": 1276,
+<<<<<<< HEAD
         "liquidity": 4499425,
+=======
+        "liquidity": 4703571,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.17647058823529413,
@@ -42780,13 +42998,13 @@
         "expiration_time": "2026-01-30T15:00:00Z",
         "status": "active",
         "response_price_units": "usd_cent",
-        "yes_bid": 17,
+        "yes_bid": 19,
         "yes_ask": 27,
         "no_bid": 73,
-        "no_ask": 83,
+        "no_ask": 81,
         "last_price": 27,
         "volume": 5211,
-        "liquidity": 7650922,
+        "liquidity": 7650918,
         "can_close_early": true,
         "market_price": {
             "20250826": 0.2,
@@ -42794,7 +43012,7 @@
             "20250828": 0.19318181818181818,
             "20250829": 0.18888888888888888,
             "20250830": 0.20652173913043478,
-            "20250831": 0.18888888888888888
+            "20250831": 0.20652173913043478
         }
     },
     {
@@ -43623,7 +43841,11 @@
         "no_ask": 88,
         "last_price": 13,
         "volume": 65279,
+<<<<<<< HEAD
         "liquidity": 5346244,
+=======
+        "liquidity": 5346292,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.0707070707070707,
@@ -44119,7 +44341,11 @@
         "no_ask": 94,
         "last_price": 8,
         "volume": 153333,
+<<<<<<< HEAD
         "liquidity": 3230851,
+=======
+        "liquidity": 3231891,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.06060606060606061,
@@ -44335,8 +44561,13 @@
         "no_bid": 91,
         "no_ask": 92,
         "last_price": 9,
+<<<<<<< HEAD
         "volume": 50869,
         "liquidity": 50218407,
+=======
+        "volume": 50347,
+        "liquidity": 50491367,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "market_price": {
             "20250829": 0.04040404040404041,
             "20250831": 0.08080808080808081
@@ -45533,7 +45764,11 @@
         "no_ask": 78,
         "last_price": 21,
         "volume": 201,
+<<<<<<< HEAD
         "liquidity": 1672830,
+=======
+        "liquidity": 1687887,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250828": 0.1276595744680851,
@@ -45562,7 +45797,11 @@
         "no_ask": 77,
         "last_price": 29,
         "volume": 568,
+<<<<<<< HEAD
         "liquidity": 1804170,
+=======
+        "liquidity": 1811195,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250828": 0.19148936170212766,
@@ -45707,6 +45946,7 @@
         "expiration_time": "2026-01-08T15:00:00Z",
         "status": "active",
         "response_price_units": "usd_cent",
+<<<<<<< HEAD
         "yes_bid": 22,
         "yes_ask": 44,
         "no_bid": 56,
@@ -45718,6 +45958,19 @@
         "market_price": {
             "20250830": 0.34375,
             "20250831": 0.28205128205128205
+=======
+        "yes_bid": 23,
+        "yes_ask": 46,
+        "no_bid": 54,
+        "no_ask": 77,
+        "last_price": 41,
+        "volume": 1368,
+        "liquidity": 3626165,
+        "can_close_early": true,
+        "market_price": {
+            "20250830": 0.34375,
+            "20250831": 0.2987012987012987
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         }
     },
     {
@@ -46107,12 +46360,21 @@
         "status": "active",
         "response_price_units": "usd_cent",
         "yes_bid": 31,
+<<<<<<< HEAD
         "yes_ask": 41,
         "no_bid": 59,
         "no_ask": 69,
         "last_price": 30,
         "volume": 13042,
         "liquidity": 6712556,
+=======
+        "yes_ask": 43,
+        "no_bid": 57,
+        "no_ask": 69,
+        "last_price": 30,
+        "volume": 13042,
+        "liquidity": 6712562,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.47191011235955055,
@@ -46120,7 +46382,11 @@
             "20250828": 0.4880952380952381,
             "20250829": 0.37349397590361444,
             "20250830": 0.36046511627906974,
+<<<<<<< HEAD
             "20250831": 0.34444444444444444
+=======
+            "20250831": 0.3522727272727273
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         }
     },
     {
@@ -46298,7 +46564,11 @@
         "no_ask": 90,
         "last_price": 15,
         "volume": 19588,
+<<<<<<< HEAD
         "liquidity": 442606,
+=======
+        "liquidity": 452306,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.09473684210526316,
@@ -46887,7 +47157,11 @@
         "no_ask": 96,
         "last_price": 4,
         "volume": 75400,
+<<<<<<< HEAD
         "liquidity": 3699766,
+=======
+        "liquidity": 3700321,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.04040404040404041,
@@ -47002,7 +47276,11 @@
         "no_ask": 80,
         "last_price": 28,
         "volume": 1,
+<<<<<<< HEAD
         "liquidity": 402486,
+=======
+        "liquidity": 407486,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250829": 0.21739130434782608,
@@ -47030,7 +47308,11 @@
         "no_ask": 77,
         "last_price": 26,
         "volume": 381,
+<<<<<<< HEAD
         "liquidity": 1908543,
+=======
+        "liquidity": 1904454,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250829": 0.25,
@@ -47289,7 +47571,11 @@
         "no_ask": 75,
         "last_price": 31,
         "volume": 3678,
+<<<<<<< HEAD
         "liquidity": 521227,
+=======
+        "liquidity": 523373,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250828": 0.5,
@@ -48119,7 +48405,11 @@
         "no_ask": 96,
         "last_price": 4,
         "volume": 85299,
+<<<<<<< HEAD
         "liquidity": 10336991,
+=======
+        "liquidity": 10200991,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.04040404040404041,
@@ -48615,7 +48905,11 @@
         "no_ask": 38,
         "last_price": 64,
         "volume": 273853,
+<<<<<<< HEAD
         "liquidity": 38513742,
+=======
+        "liquidity": 38579642,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.5656565656565656,
@@ -48770,7 +49064,7 @@
         "no_ask": 97,
         "last_price": 8,
         "volume": 1967,
-        "liquidity": 836522,
+        "liquidity": 971522,
         "can_close_early": true,
         "market_price": {
             "20250826": 0.03125,
@@ -48801,7 +49095,11 @@
         "no_ask": 50,
         "last_price": 49,
         "volume": 16178,
+<<<<<<< HEAD
         "liquidity": 108847,
+=======
+        "liquidity": 114747,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.5591397849462365,
@@ -49638,7 +49936,11 @@
         "no_ask": 77,
         "last_price": 24,
         "volume": 128919,
+<<<<<<< HEAD
         "liquidity": 8703637,
+=======
+        "liquidity": 8713670,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.2604166666666667,
@@ -51560,7 +51862,11 @@
         "no_ask": 97,
         "last_price": 3,
         "volume": 4457114,
+<<<<<<< HEAD
         "liquidity": 128954268,
+=======
+        "liquidity": 129587391,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.030303030303030304,
@@ -51591,7 +51897,11 @@
         "no_ask": 98,
         "last_price": 3,
         "volume": 2771148,
+<<<<<<< HEAD
         "liquidity": 322353313,
+=======
+        "liquidity": 322371313,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.020202020202020204,
@@ -51622,7 +51932,11 @@
         "no_ask": 17,
         "last_price": 84,
         "volume": 6302537,
+<<<<<<< HEAD
         "liquidity": 244914301,
+=======
+        "liquidity": 245117401,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.8383838383838383,
@@ -51740,6 +52054,7 @@
         "expiration_time": "2026-01-01T15:00:00Z",
         "status": "active",
         "response_price_units": "usd_cent",
+<<<<<<< HEAD
         "yes_bid": 16,
         "yes_ask": 20,
         "no_bid": 80,
@@ -51747,6 +52062,15 @@
         "last_price": 11,
         "volume": 73209,
         "liquidity": 38738084,
+=======
+        "yes_bid": 14,
+        "yes_ask": 21,
+        "no_bid": 79,
+        "no_ask": 86,
+        "last_price": 11,
+        "volume": 73209,
+        "liquidity": 38738090,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.18556701030927836,
@@ -51754,7 +52078,11 @@
             "20250828": 0.18556701030927836,
             "20250829": 0.18556701030927836,
             "20250830": 0.16129032258064516,
+<<<<<<< HEAD
             "20250831": 0.16666666666666666
+=======
+            "20250831": 0.15053763440860216
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         }
     },
     {
@@ -51864,6 +52192,7 @@
         "expiration_time": "2026-01-30T15:00:00Z",
         "status": "active",
         "response_price_units": "usd_cent",
+<<<<<<< HEAD
         "yes_bid": 16,
         "yes_ask": 25,
         "no_bid": 75,
@@ -51871,6 +52200,15 @@
         "last_price": 18,
         "volume": 4930,
         "liquidity": 3460295,
+=======
+        "yes_bid": 14,
+        "yes_ask": 25,
+        "no_bid": 75,
+        "no_ask": 86,
+        "last_price": 18,
+        "volume": 4930,
+        "liquidity": 2951536,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.2087912087912088,
@@ -51878,7 +52216,11 @@
             "20250828": 0.2087912087912088,
             "20250829": 0.18888888888888888,
             "20250830": 0.16483516483516483,
+<<<<<<< HEAD
             "20250831": 0.17582417582417584
+=======
+            "20250831": 0.15730337078651685
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         }
     },
     {
@@ -51895,6 +52237,7 @@
         "expiration_time": "2026-01-30T15:00:00Z",
         "status": "active",
         "response_price_units": "usd_cent",
+<<<<<<< HEAD
         "yes_bid": 25,
         "yes_ask": 35,
         "no_bid": 65,
@@ -51902,6 +52245,15 @@
         "last_price": 39,
         "volume": 5512,
         "liquidity": 2604176,
+=======
+        "yes_bid": 23,
+        "yes_ask": 35,
+        "no_bid": 65,
+        "no_ask": 77,
+        "last_price": 39,
+        "volume": 5512,
+        "liquidity": 2613670,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.34408602150537637,
@@ -51909,7 +52261,11 @@
             "20250828": 0.33695652173913043,
             "20250829": 0.30337078651685395,
             "20250830": 0.2777777777777778,
+<<<<<<< HEAD
             "20250831": 0.2777777777777778
+=======
+            "20250831": 0.26136363636363635
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         }
     },
     {
@@ -51963,7 +52319,11 @@
         "no_ask": 49,
         "last_price": 69,
         "volume": 6242,
+<<<<<<< HEAD
         "liquidity": 1555869,
+=======
+        "liquidity": 1332203,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.6555555555555556,
@@ -52458,8 +52818,13 @@
         "no_bid": 70,
         "no_ask": 71,
         "last_price": 30,
+<<<<<<< HEAD
         "volume": 958617,
         "liquidity": 21730034,
+=======
+        "volume": 958542,
+        "liquidity": 21833686,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.2857142857142857,
@@ -53327,7 +53692,11 @@
         "no_ask": 45,
         "last_price": 54,
         "volume": 3218,
+<<<<<<< HEAD
         "liquidity": 113010,
+=======
+        "liquidity": 118760,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.5164835164835165,
@@ -53352,6 +53721,7 @@
         "expiration_time": "2027-01-01T15:00:00Z",
         "status": "active",
         "response_price_units": "usd_cent",
+<<<<<<< HEAD
         "yes_bid": 32,
         "yes_ask": 99,
         "no_bid": 1,
@@ -53359,6 +53729,15 @@
         "last_price": 47,
         "volume": 2454,
         "liquidity": 291337,
+=======
+        "yes_bid": 35,
+        "yes_ask": 47,
+        "no_bid": 53,
+        "no_ask": 65,
+        "last_price": 47,
+        "volume": 2454,
+        "liquidity": 301407,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.4891304347826087,
@@ -53366,7 +53745,11 @@
             "20250828": 0.3978494623655914,
             "20250829": 0.32608695652173914,
             "20250830": 0.32967032967032966,
+<<<<<<< HEAD
             "20250831": 0.9696969696969697
+=======
+            "20250831": 0.3977272727272727
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         }
     },
     {
@@ -53384,12 +53767,21 @@
         "status": "active",
         "response_price_units": "usd_cent",
         "yes_bid": 10,
+<<<<<<< HEAD
         "yes_ask": 23,
         "no_bid": 77,
         "no_ask": 90,
         "last_price": 8,
         "volume": 23642,
         "liquidity": 21599113,
+=======
+        "yes_ask": 25,
+        "no_bid": 75,
+        "no_ask": 90,
+        "last_price": 8,
+        "volume": 23642,
+        "liquidity": 21599590,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.12903225806451613,
@@ -53397,7 +53789,11 @@
             "20250828": 0.13978494623655913,
             "20250829": 0.13043478260869565,
             "20250830": 0.13043478260869565,
+<<<<<<< HEAD
             "20250831": 0.11494252873563218
+=======
+            "20250831": 0.11764705882352941
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         }
     },
     {
@@ -53761,7 +54157,11 @@
         "no_ask": 90,
         "last_price": 10,
         "volume": 10511,
+<<<<<<< HEAD
         "liquidity": 2763707,
+=======
+        "liquidity": 2763705,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.10204081632653061,
@@ -53947,7 +54347,11 @@
         "no_ask": 97,
         "last_price": 6,
         "volume": 151225,
+<<<<<<< HEAD
         "liquidity": 7707583,
+=======
+        "liquidity": 8102483,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.02040816326530612,
@@ -54009,7 +54413,11 @@
         "no_ask": 85,
         "last_price": 16,
         "volume": 686,
+<<<<<<< HEAD
         "liquidity": 2538280,
+=======
+        "liquidity": 2539319,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.17391304347826086,
@@ -54226,7 +54634,11 @@
         "no_ask": 66,
         "last_price": 36,
         "volume": 543785,
+<<<<<<< HEAD
         "liquidity": 21565524,
+=======
+        "liquidity": 21565486,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.29591836734693877,
@@ -55992,7 +56404,11 @@
         "no_ask": 95,
         "last_price": 15,
         "volume": 3831,
+<<<<<<< HEAD
         "liquidity": 367690,
+=======
+        "liquidity": 372095,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.054945054945054944,
@@ -56483,12 +56899,12 @@
         "status": "active",
         "response_price_units": "usd_cent",
         "yes_bid": 9,
-        "yes_ask": 12,
-        "no_bid": 88,
+        "yes_ask": 11,
+        "no_bid": 89,
         "no_ask": 91,
         "last_price": 14,
         "volume": 11103,
-        "liquidity": 506843,
+        "liquidity": 506920,
         "can_close_early": true,
         "market_price": {
             "20250826": 0.10416666666666667,
@@ -56496,7 +56912,7 @@
             "20250828": 0.1134020618556701,
             "20250829": 0.1134020618556701,
             "20250830": 0.10309278350515463,
-            "20250831": 0.09278350515463918
+            "20250831": 0.09183673469387756
         }
     },
     {
@@ -57566,12 +57982,12 @@
         "status": "active",
         "response_price_units": "usd_cent",
         "yes_bid": 17,
-        "yes_ask": 26,
-        "no_bid": 74,
+        "yes_ask": 25,
+        "no_bid": 75,
         "no_ask": 83,
         "last_price": 16,
         "volume": 60707,
-        "liquidity": 4108692,
+        "liquidity": 4108467,
         "can_close_early": true,
         "market_price": {
             "20250826": 0.16483516483516483,
@@ -57579,7 +57995,7 @@
             "20250828": 0.15384615384615385,
             "20250829": 0.15384615384615385,
             "20250830": 0.18681318681318682,
-            "20250831": 0.18681318681318682
+            "20250831": 0.18478260869565216
         }
     },
     {
@@ -58129,7 +58545,11 @@
         "no_ask": 91,
         "last_price": 9,
         "volume": 4974,
+<<<<<<< HEAD
         "liquidity": 3333094,
+=======
+        "liquidity": 3333062,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.10309278350515463,
@@ -59307,7 +59727,11 @@
         "no_ask": 73,
         "last_price": 27,
         "volume": 18073,
+<<<<<<< HEAD
         "liquidity": 495902,
+=======
+        "liquidity": 490217,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.3229166666666667,
@@ -59457,12 +59881,16 @@
         "status": "active",
         "response_price_units": "usd_cent",
         "yes_bid": 26,
-        "yes_ask": 33,
-        "no_bid": 67,
+        "yes_ask": 34,
+        "no_bid": 66,
         "no_ask": 74,
         "last_price": 25,
         "volume": 28290,
+<<<<<<< HEAD
         "liquidity": 10972821,
+=======
+        "liquidity": 10973104,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.2717391304347826,
@@ -59470,7 +59898,7 @@
             "20250828": 0.2826086956521739,
             "20250829": 0.27472527472527475,
             "20250830": 0.27472527472527475,
-            "20250831": 0.27956989247311825
+            "20250831": 0.2826086956521739
         }
     },
     {
@@ -59615,7 +60043,11 @@
         "no_ask": 100,
         "last_price": 0,
         "volume": 0,
+<<<<<<< HEAD
         "liquidity": -261683,
+=======
+        "liquidity": -79740,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250828": 0.0,
@@ -60521,13 +60953,17 @@
         "expiration_time": "2026-01-01T15:00:00Z",
         "status": "active",
         "response_price_units": "usd_cent",
-        "yes_bid": 5,
+        "yes_bid": 6,
         "yes_ask": 11,
         "no_bid": 89,
-        "no_ask": 95,
+        "no_ask": 94,
         "last_price": 11,
         "volume": 327303,
+<<<<<<< HEAD
         "liquidity": 6966021,
+=======
+        "liquidity": 6954423,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.043478260869565216,
@@ -60535,7 +60971,7 @@
             "20250828": 0.05319148936170213,
             "20250829": 0.043010752688172046,
             "20250830": 0.05319148936170213,
-            "20250831": 0.05319148936170213
+            "20250831": 0.06315789473684211
         }
     },
     {
@@ -60868,7 +61304,11 @@
         "no_ask": 82,
         "last_price": 21,
         "volume": 3589,
+<<<<<<< HEAD
         "liquidity": 679979,
+=======
+        "liquidity": 679805,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.20833333333333334,
@@ -61147,7 +61587,11 @@
         "no_ask": 91,
         "last_price": 10,
         "volume": 4593903,
+<<<<<<< HEAD
         "liquidity": 58756317,
+=======
+        "liquidity": 58944317,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.09090909090909091,
@@ -61203,13 +61647,17 @@
         "expiration_time": "2026-01-01T15:00:00Z",
         "status": "active",
         "response_price_units": "usd_cent",
-        "yes_bid": 48,
+        "yes_bid": 49,
         "yes_ask": 51,
         "no_bid": 49,
-        "no_ask": 52,
+        "no_ask": 51,
         "last_price": 47,
         "volume": 162299,
+<<<<<<< HEAD
         "liquidity": 20922377,
+=======
+        "liquidity": 20921905,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.4948453608247423,
@@ -61217,7 +61665,7 @@
             "20250828": 0.4948453608247423,
             "20250829": 0.4895833333333333,
             "20250830": 0.4895833333333333,
-            "20250831": 0.4948453608247423
+            "20250831": 0.5
         }
     },
     {
@@ -61457,7 +61905,11 @@
         "no_ask": 71,
         "last_price": 29,
         "volume": 59726,
+<<<<<<< HEAD
         "liquidity": 11214798,
+=======
+        "liquidity": 11214796,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.6020408163265306,
@@ -62102,13 +62554,17 @@
         "expiration_time": "2025-12-31T15:00:00Z",
         "status": "active",
         "response_price_units": "usd_cent",
-        "yes_bid": 5,
+        "yes_bid": 6,
         "yes_ask": 9,
         "no_bid": 91,
-        "no_ask": 95,
+        "no_ask": 94,
         "last_price": 5,
         "volume": 12501,
+<<<<<<< HEAD
         "liquidity": 1093977,
+=======
+        "liquidity": 1095387,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.2872340425531915,
@@ -62116,7 +62572,7 @@
             "20250828": 0.24210526315789474,
             "20250829": 0.22105263157894736,
             "20250830": 0.061855670103092786,
-            "20250831": 0.052083333333333336
+            "20250831": 0.061855670103092786
         }
     },
     {
@@ -62139,7 +62595,11 @@
         "no_ask": 69,
         "last_price": 79,
         "volume": 450,
+<<<<<<< HEAD
         "liquidity": 990077,
+=======
+        "liquidity": 990273,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250829": 0.0,
@@ -62167,7 +62627,11 @@
         "no_ask": 59,
         "last_price": 32,
         "volume": 461,
+<<<<<<< HEAD
         "liquidity": 984077,
+=======
+        "liquidity": 980285,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250829": 0.0,
@@ -62251,7 +62715,11 @@
         "no_ask": 71,
         "last_price": 37,
         "volume": 133,
+<<<<<<< HEAD
         "liquidity": 414841,
+=======
+        "liquidity": 415381,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250829": 0.2826086956521739,
@@ -62307,7 +62775,11 @@
         "no_ask": 41,
         "last_price": 64,
         "volume": 369,
+<<<<<<< HEAD
         "liquidity": 1415132,
+=======
+        "liquidity": 1416431,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250829": 0.6086956521739131,
@@ -62540,6 +63012,7 @@
         "expiration_time": "2026-01-07T15:00:00Z",
         "status": "active",
         "response_price_units": "usd_cent",
+<<<<<<< HEAD
         "yes_bid": 47,
         "yes_ask": 48,
         "no_bid": 52,
@@ -62547,6 +63020,15 @@
         "last_price": 48,
         "volume": 782317,
         "liquidity": 207659646,
+=======
+        "yes_bid": 46,
+        "yes_ask": 47,
+        "no_bid": 53,
+        "no_ask": 54,
+        "last_price": 46,
+        "volume": 779277,
+        "liquidity": 207801520,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.35353535353535354,
@@ -62881,6 +63363,7 @@
         "expiration_time": "2025-12-31T15:00:00Z",
         "status": "active",
         "response_price_units": "usd_cent",
+<<<<<<< HEAD
         "yes_bid": 41,
         "yes_ask": 46,
         "no_bid": 54,
@@ -62888,6 +63371,15 @@
         "last_price": 39,
         "volume": 11361,
         "liquidity": 2483592,
+=======
+        "yes_bid": 40,
+        "yes_ask": 48,
+        "no_bid": 52,
+        "no_ask": 60,
+        "last_price": 39,
+        "volume": 11361,
+        "liquidity": 2483458,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.4166666666666667,
@@ -62895,7 +63387,11 @@
             "20250828": 0.425531914893617,
             "20250829": 0.43010752688172044,
             "20250830": 0.43010752688172044,
+<<<<<<< HEAD
             "20250831": 0.43157894736842106
+=======
+            "20250831": 0.43478260869565216
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         }
     },
     {
@@ -63352,7 +63848,11 @@
         "no_ask": 25,
         "last_price": 75,
         "volume": 18659,
+<<<<<<< HEAD
         "liquidity": 621510,
+=======
+        "liquidity": 621835,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.7916666666666666,
@@ -64282,7 +64782,11 @@
         "no_ask": 61,
         "last_price": 48,
         "volume": 10363,
+<<<<<<< HEAD
         "liquidity": 2372048,
+=======
+        "liquidity": 2373069,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.44086021505376344,
@@ -64344,7 +64848,11 @@
         "no_ask": 12,
         "last_price": 90,
         "volume": 5383,
+<<<<<<< HEAD
         "liquidity": 1861310,
+=======
+        "liquidity": 1856410,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.9782608695652174,
@@ -65150,7 +65658,11 @@
         "no_ask": 96,
         "last_price": 14,
         "volume": 20493,
+<<<<<<< HEAD
         "liquidity": 4626773,
+=======
+        "liquidity": 4628673,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.041666666666666664,
@@ -66849,6 +67361,7 @@
         "expiration_time": "2026-03-03T15:00:00Z",
         "status": "active",
         "response_price_units": "usd_cent",
+<<<<<<< HEAD
         "yes_bid": 83,
         "yes_ask": 94,
         "no_bid": 6,
@@ -66856,6 +67369,15 @@
         "last_price": 83,
         "volume": 2273,
         "liquidity": 5369338,
+=======
+        "yes_bid": 85,
+        "yes_ask": 92,
+        "no_bid": 8,
+        "no_ask": 15,
+        "last_price": 83,
+        "volume": 2273,
+        "liquidity": 5362508,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.9325842696629213,
@@ -66863,7 +67385,11 @@
             "20250828": 0.9318181818181818,
             "20250829": 0.9120879120879121,
             "20250830": 0.9120879120879121,
+<<<<<<< HEAD
             "20250831": 0.9325842696629213
+=======
+            "20250831": 0.9139784946236559
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         }
     },
     {
@@ -67196,7 +67722,11 @@
         "no_ask": 64,
         "last_price": 36,
         "volume": 54457,
+<<<<<<< HEAD
         "liquidity": 3656967,
+=======
+        "liquidity": 3784604,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.42857142857142855,
@@ -67380,9 +67910,15 @@
         "yes_ask": 19,
         "no_bid": 81,
         "no_ask": 89,
+<<<<<<< HEAD
         "last_price": 19,
         "volume": 30909,
         "liquidity": 5269253,
+=======
+        "last_price": 20,
+        "volume": 30835,
+        "liquidity": 5270452,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.12087912087912088,
@@ -67686,13 +68222,17 @@
         "expiration_time": "2025-12-28T15:00:00Z",
         "status": "active",
         "response_price_units": "usd_cent",
-        "yes_bid": 36,
+        "yes_bid": 35,
         "yes_ask": 38,
         "no_bid": 62,
-        "no_ask": 64,
+        "no_ask": 65,
         "last_price": 44,
         "volume": 24251,
+<<<<<<< HEAD
         "liquidity": 1042019,
+=======
+        "liquidity": 1041123,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.4,
@@ -67700,7 +68240,7 @@
             "20250828": 0.31958762886597936,
             "20250829": 0.40425531914893614,
             "20250830": 0.45263157894736844,
-            "20250831": 0.3673469387755102
+            "20250831": 0.36082474226804123
         }
     },
     {
@@ -67969,9 +68509,15 @@
         "yes_ask": 36,
         "no_bid": 64,
         "no_ask": 68,
+<<<<<<< HEAD
         "last_price": 36,
         "volume": 50975,
         "liquidity": 3100929,
+=======
+        "last_price": 31,
+        "volume": 50974,
+        "liquidity": 3100965,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.6632653061224489,
@@ -68777,7 +69323,11 @@
         "no_ask": 74,
         "last_price": 31,
         "volume": 605,
+<<<<<<< HEAD
         "liquidity": 2820794,
+=======
+        "liquidity": 2834716,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.5531914893617021,
@@ -69087,7 +69637,11 @@
         "no_ask": 26,
         "last_price": 84,
         "volume": 1607,
+<<<<<<< HEAD
         "liquidity": 2363190,
+=======
+        "liquidity": 2368890,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.8367346938775511,
@@ -71970,7 +72524,7 @@
         "no_ask": 76,
         "last_price": 27,
         "volume": 4507,
-        "liquidity": 458855,
+        "liquidity": 459159,
         "can_close_early": true,
         "market_price": {
             "20250826": 0.2,
@@ -73330,7 +73884,11 @@
         "no_ask": 11,
         "last_price": 89,
         "volume": 1164,
+<<<<<<< HEAD
         "liquidity": 1280716,
+=======
+        "liquidity": 1288756,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.9893617021276596,
@@ -73392,7 +73950,11 @@
         "no_ask": 100,
         "last_price": 4,
         "volume": 791,
+<<<<<<< HEAD
         "liquidity": 1435276,
+=======
+        "liquidity": 1307276,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.0,
@@ -73423,7 +73985,11 @@
         "no_ask": 8,
         "last_price": 95,
         "volume": 920,
+<<<<<<< HEAD
         "liquidity": 1214957,
+=======
+        "liquidity": 1370157,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 1.0,
@@ -74601,7 +75167,11 @@
         "no_ask": 42,
         "last_price": 64,
         "volume": 35639,
+<<<<<<< HEAD
         "liquidity": 843174,
+=======
+        "liquidity": 843734,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.6875,
@@ -74725,7 +75295,11 @@
         "no_ask": 60,
         "last_price": 38,
         "volume": 14127,
+<<<<<<< HEAD
         "liquidity": 3345877,
+=======
+        "liquidity": 3467527,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.42424242424242425,
@@ -74787,7 +75361,11 @@
         "no_ask": 52,
         "last_price": 48,
         "volume": 2773,
+<<<<<<< HEAD
         "liquidity": 1976268,
+=======
+        "liquidity": 1981878,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.5353535353535354,
@@ -74844,12 +75422,16 @@
         "status": "active",
         "response_price_units": "usd_cent",
         "yes_bid": 64,
-        "yes_ask": 69,
-        "no_bid": 31,
+        "yes_ask": 70,
+        "no_bid": 30,
         "no_ask": 36,
         "last_price": 70,
         "volume": 13545,
+<<<<<<< HEAD
         "liquidity": 1850286,
+=======
+        "liquidity": 1850240,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.6063829787234043,
@@ -74857,7 +75439,7 @@
             "20250828": 0.625,
             "20250829": 0.6354166666666666,
             "20250830": 0.6808510638297872,
-            "20250831": 0.6736842105263158
+            "20250831": 0.6808510638297872
         }
     },
     {
@@ -76130,12 +76712,21 @@
         "status": "active",
         "response_price_units": "usd_cent",
         "yes_bid": 44,
+<<<<<<< HEAD
         "yes_ask": 77,
         "no_bid": 23,
         "no_ask": 56,
         "last_price": 26,
         "volume": 11089,
         "liquidity": 6326439,
+=======
+        "yes_ask": 64,
+        "no_bid": 36,
+        "no_ask": 56,
+        "last_price": 26,
+        "volume": 11089,
+        "liquidity": 6326413,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.33766233766233766,
@@ -76143,7 +76734,11 @@
             "20250828": 0.373134328358209,
             "20250829": 0.6344086021505376,
             "20250830": 0.7662337662337663,
+<<<<<<< HEAD
             "20250831": 0.6567164179104478
+=======
+            "20250831": 0.55
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         }
     },
     {
@@ -77153,12 +77748,21 @@
         "status": "active",
         "response_price_units": "usd_cent",
         "yes_bid": 2,
+<<<<<<< HEAD
         "yes_ask": 30,
         "no_bid": 70,
         "no_ask": 98,
         "last_price": 30,
         "volume": 11912,
         "liquidity": 4872671,
+=======
+        "yes_ask": 29,
+        "no_bid": 71,
+        "no_ask": 98,
+        "last_price": 30,
+        "volume": 11912,
+        "liquidity": 4872816,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.5915492957746479,
@@ -77166,7 +77770,11 @@
             "20250828": 0.27692307692307694,
             "20250829": 0.06557377049180328,
             "20250830": 0.06060606060606061,
+<<<<<<< HEAD
             "20250831": 0.027777777777777776
+=======
+            "20250831": 0.0273972602739726
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         }
     },
     {
@@ -77834,6 +78442,7 @@
         "expiration_time": "2025-10-05T14:00:00Z",
         "status": "active",
         "response_price_units": "usd_cent",
+<<<<<<< HEAD
         "yes_bid": 11,
         "yes_ask": 45,
         "no_bid": 55,
@@ -77841,6 +78450,15 @@
         "last_price": 41,
         "volume": 4959,
         "liquidity": 6222306,
+=======
+        "yes_bid": 25,
+        "yes_ask": 45,
+        "no_bid": 55,
+        "no_ask": 75,
+        "last_price": 41,
+        "volume": 4959,
+        "liquidity": 6222278,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.288135593220339,
@@ -77848,7 +78466,11 @@
             "20250828": 0.18333333333333332,
             "20250829": 0.3068181818181818,
             "20250830": 0.26506024096385544,
+<<<<<<< HEAD
             "20250831": 0.16666666666666666
+=======
+            "20250831": 0.3125
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         }
     },
     {
@@ -78361,6 +78983,7 @@
         "expiration_time": "2025-10-05T14:00:00Z",
         "status": "active",
         "response_price_units": "usd_cent",
+<<<<<<< HEAD
         "yes_bid": 7,
         "yes_ask": 33,
         "no_bid": 67,
@@ -78368,6 +78991,15 @@
         "last_price": 10,
         "volume": 71104,
         "liquidity": 51029183,
+=======
+        "yes_bid": 9,
+        "yes_ask": 33,
+        "no_bid": 67,
+        "no_ask": 91,
+        "last_price": 10,
+        "volume": 71104,
+        "liquidity": 51029365,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.12371134020618557,
@@ -78375,7 +79007,11 @@
             "20250828": 0.15730337078651685,
             "20250829": 0.09473684210526316,
             "20250830": 0.16455696202531644,
+<<<<<<< HEAD
             "20250831": 0.0945945945945946
+=======
+            "20250831": 0.11842105263157894
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         }
     },
     {
@@ -78764,6 +79400,7 @@
         "expiration_time": "2025-10-05T14:00:00Z",
         "status": "active",
         "response_price_units": "usd_cent",
+<<<<<<< HEAD
         "yes_bid": 80,
         "yes_ask": 94,
         "no_bid": 6,
@@ -78771,6 +79408,15 @@
         "last_price": 90,
         "volume": 12566,
         "liquidity": 22048254,
+=======
+        "yes_bid": 78,
+        "yes_ask": 94,
+        "no_bid": 6,
+        "no_ask": 22,
+        "last_price": 90,
+        "volume": 12566,
+        "liquidity": 22048258,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.8764044943820225,
@@ -78778,7 +79424,11 @@
             "20250828": 0.9615384615384616,
             "20250829": 0.898989898989899,
             "20250830": 0.875,
+<<<<<<< HEAD
             "20250831": 0.9302325581395349
+=======
+            "20250831": 0.9285714285714286
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         }
     },
     {
@@ -79726,6 +80376,7 @@
         "status": "active",
         "response_price_units": "usd_cent",
         "yes_bid": 84,
+<<<<<<< HEAD
         "yes_ask": 94,
         "no_bid": 6,
         "no_ask": 16,
@@ -79735,6 +80386,17 @@
         "market_price": {
             "20250829": 0.9340659340659341,
             "20250831": 0.9333333333333333
+=======
+        "yes_ask": 93,
+        "no_bid": 7,
+        "no_ask": 16,
+        "last_price": 84,
+        "volume": 168,
+        "liquidity": 193812,
+        "market_price": {
+            "20250829": 0.9340659340659341,
+            "20250831": 0.9230769230769231
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         }
     },
     {
@@ -80112,13 +80774,13 @@
         "expiration_time": "2025-10-08T14:00:00Z",
         "status": "active",
         "response_price_units": "usd_cent",
-        "yes_bid": 27,
-        "yes_ask": 37,
-        "no_bid": 63,
-        "no_ask": 73,
+        "yes_bid": 28,
+        "yes_ask": 35,
+        "no_bid": 65,
+        "no_ask": 72,
         "last_price": 27,
         "volume": 6849,
-        "liquidity": 2756697,
+        "liquidity": 2757270,
         "can_close_early": true,
         "market_price": {
             "20250826": 0.2967032967032967,
@@ -80126,7 +80788,7 @@
             "20250828": 0.3111111111111111,
             "20250829": 0.2978723404255319,
             "20250830": 0.30434782608695654,
-            "20250831": 0.3
+            "20250831": 0.3010752688172043
         }
     },
     {
@@ -80568,7 +81230,11 @@
         "no_ask": 60,
         "last_price": 75,
         "volume": 166,
+<<<<<<< HEAD
         "liquidity": 2146441,
+=======
+        "liquidity": 2146795,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "market_price": {
             "20250829": 0.3333333333333333,
             "20250831": 0.6060606060606061
@@ -80624,8 +81290,13 @@
         "no_bid": 43,
         "no_ask": 45,
         "last_price": 57,
+<<<<<<< HEAD
         "volume": 144494,
         "liquidity": 124201744,
+=======
+        "volume": 144344,
+        "liquidity": 124210318,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.5510204081632653,
@@ -80743,13 +81414,13 @@
         "expiration_time": "2026-09-28T14:00:00Z",
         "status": "active",
         "response_price_units": "usd_cent",
-        "yes_bid": 75,
+        "yes_bid": 76,
         "yes_ask": 82,
         "no_bid": 18,
-        "no_ask": 25,
+        "no_ask": 24,
         "last_price": 82,
         "volume": 979,
-        "liquidity": 550982,
+        "liquidity": 550980,
         "can_close_early": true,
         "market_price": {
             "20250826": 0.7978723404255319,
@@ -80757,7 +81428,7 @@
             "20250828": 0.7916666666666666,
             "20250829": 0.7978723404255319,
             "20250830": 0.8064516129032258,
-            "20250831": 0.8064516129032258
+            "20250831": 0.8085106382978723
         }
     },
     {
@@ -80811,7 +81482,11 @@
         "no_ask": 80,
         "last_price": 31,
         "volume": 80404,
+<<<<<<< HEAD
         "liquidity": 17180874,
+=======
+        "liquidity": 17042874,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.29473684210526313,
@@ -80842,7 +81517,11 @@
         "no_ask": 29,
         "last_price": 78,
         "volume": 104254,
+<<<<<<< HEAD
         "liquidity": 21143460,
+=======
+        "liquidity": 21270960,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.7070707070707071,
@@ -80961,12 +81640,21 @@
         "status": "active",
         "response_price_units": "usd_cent",
         "yes_bid": 77,
+<<<<<<< HEAD
         "yes_ask": 95,
         "no_bid": 5,
         "no_ask": 23,
         "last_price": 89,
         "volume": 124034,
         "liquidity": 15879993,
+=======
+        "yes_ask": 94,
+        "no_bid": 6,
+        "no_ask": 23,
+        "last_price": 89,
+        "volume": 124034,
+        "liquidity": 15899483,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.9052631578947369,
@@ -80974,7 +81662,11 @@
             "20250828": 0.7692307692307693,
             "20250829": 0.8170731707317073,
             "20250830": 0.8617021276595744,
+<<<<<<< HEAD
             "20250831": 0.9390243902439024
+=======
+            "20250831": 0.927710843373494
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         }
     },
     {
@@ -81059,7 +81751,11 @@
         "no_ask": 100,
         "last_price": 1,
         "volume": 38917,
+<<<<<<< HEAD
         "liquidity": 33560814,
+=======
+        "liquidity": 33562814,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.0,
@@ -81090,7 +81786,11 @@
         "no_ask": 100,
         "last_price": 2,
         "volume": 25257,
+<<<<<<< HEAD
         "liquidity": 56151711,
+=======
+        "liquidity": 56145311,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.0,
@@ -81121,7 +81821,11 @@
         "no_ask": 100,
         "last_price": 1,
         "volume": 1456,
+<<<<<<< HEAD
         "liquidity": 83813266,
+=======
+        "liquidity": 83815266,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.0,
@@ -81245,7 +81949,11 @@
         "no_ask": 100,
         "last_price": 2,
         "volume": 102274,
+<<<<<<< HEAD
         "liquidity": 33166951,
+=======
+        "liquidity": 33172851,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.0,
@@ -81271,12 +81979,21 @@
         "status": "active",
         "response_price_units": "usd_cent",
         "yes_bid": 18,
+<<<<<<< HEAD
         "yes_ask": 38,
         "no_bid": 62,
         "no_ask": 82,
         "last_price": 18,
         "volume": 139251,
         "liquidity": 16374743,
+=======
+        "yes_ask": 37,
+        "no_bid": 63,
+        "no_ask": 82,
+        "last_price": 18,
+        "volume": 139251,
+        "liquidity": 16380780,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.4421052631578947,
@@ -81284,7 +82001,11 @@
             "20250828": 0.3780487804878049,
             "20250829": 0.4639175257731959,
             "20250830": 0.35714285714285715,
+<<<<<<< HEAD
             "20250831": 0.225
+=======
+            "20250831": 0.2222222222222222
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         }
     },
     {
@@ -81307,7 +82028,11 @@
         "no_ask": 100,
         "last_price": 1,
         "volume": 24686,
+<<<<<<< HEAD
         "liquidity": 80628496,
+=======
+        "liquidity": 80628596,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.0,
@@ -81332,6 +82057,7 @@
         "expiration_time": "2027-09-28T14:00:00Z",
         "status": "active",
         "response_price_units": "usd_cent",
+<<<<<<< HEAD
         "yes_bid": 60,
         "yes_ask": 84,
         "no_bid": 16,
@@ -81339,6 +82065,15 @@
         "last_price": 67,
         "volume": 113607,
         "liquidity": 17810379,
+=======
+        "yes_bid": 64,
+        "yes_ask": 80,
+        "no_bid": 20,
+        "no_ask": 36,
+        "last_price": 67,
+        "volume": 113607,
+        "liquidity": 17664867,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.5913978494623656,
@@ -81346,7 +82081,11 @@
             "20250828": 0.7761194029850746,
             "20250829": 0.5806451612903226,
             "20250830": 0.6086956521739131,
+<<<<<<< HEAD
             "20250831": 0.7894736842105263
+=======
+            "20250831": 0.7619047619047619
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         }
     },
     {
@@ -81462,7 +82201,11 @@
         "no_ask": 100,
         "last_price": 1,
         "volume": 12244,
+<<<<<<< HEAD
         "liquidity": 34644993,
+=======
+        "liquidity": 34650993,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.0,
@@ -81488,12 +82231,21 @@
         "status": "active",
         "response_price_units": "usd_cent",
         "yes_bid": 30,
+<<<<<<< HEAD
         "yes_ask": 40,
         "no_bid": 60,
         "no_ask": 70,
         "last_price": 46,
         "volume": 376689,
         "liquidity": 19776573,
+=======
+        "yes_ask": 43,
+        "no_bid": 57,
+        "no_ask": 70,
+        "last_price": 46,
+        "volume": 376689,
+        "liquidity": 19778429,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.12121212121212122,
@@ -81501,7 +82253,11 @@
             "20250828": 0.17708333333333334,
             "20250829": 0.20833333333333334,
             "20250830": 0.23863636363636365,
+<<<<<<< HEAD
             "20250831": 0.3333333333333333
+=======
+            "20250831": 0.3448275862068966
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         }
     },
     {
@@ -81524,7 +82280,11 @@
         "no_ask": 89,
         "last_price": 11,
         "volume": 187191,
+<<<<<<< HEAD
         "liquidity": 47071658,
+=======
+        "liquidity": 47063962,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.07446808510638298,
@@ -81581,12 +82341,16 @@
         "status": "active",
         "response_price_units": "usd_cent",
         "yes_bid": 0,
-        "yes_ask": 3,
-        "no_bid": 97,
+        "yes_ask": 2,
+        "no_bid": 98,
         "no_ask": 100,
         "last_price": 2,
         "volume": 21283,
+<<<<<<< HEAD
         "liquidity": 33442983,
+=======
+        "liquidity": 33446983,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.0,
@@ -81617,7 +82381,11 @@
         "no_ask": 2,
         "last_price": 99,
         "volume": 158447,
+<<<<<<< HEAD
         "liquidity": 31801802,
+=======
+        "liquidity": 31819802,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 1.0,
@@ -81679,7 +82447,11 @@
         "no_ask": 100,
         "last_price": 1,
         "volume": 27096,
+<<<<<<< HEAD
         "liquidity": 31116052,
+=======
+        "liquidity": 31116552,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.0,
@@ -81741,7 +82513,11 @@
         "no_ask": 90,
         "last_price": 27,
         "volume": 2966,
+<<<<<<< HEAD
         "liquidity": 136287,
+=======
+        "liquidity": 127487,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.12941176470588237,
@@ -81938,7 +82714,11 @@
         "no_ask": 18,
         "last_price": 85,
         "volume": 121,
+<<<<<<< HEAD
         "liquidity": 614923,
+=======
+        "liquidity": 484423,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.8421052631578947,
@@ -82031,7 +82811,11 @@
         "no_ask": 85,
         "last_price": 16,
         "volume": 11504822,
+<<<<<<< HEAD
         "liquidity": 146519574,
+=======
+        "liquidity": 146793887,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.1717171717171717,
@@ -82062,7 +82846,11 @@
         "no_ask": 95,
         "last_price": 6,
         "volume": 5841685,
+<<<<<<< HEAD
         "liquidity": 222241334,
+=======
+        "liquidity": 222661436,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.04040404040404041,
@@ -82093,7 +82881,11 @@
         "no_ask": 21,
         "last_price": 80,
         "volume": 6412766,
+<<<<<<< HEAD
         "liquidity": 137648344,
+=======
+        "liquidity": 138621824,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.7653061224489796,
@@ -83654,12 +84446,21 @@
         "status": "active",
         "response_price_units": "usd_cent",
         "yes_bid": 78,
+<<<<<<< HEAD
         "yes_ask": 80,
         "no_bid": 20,
         "no_ask": 22,
         "last_price": 79,
         "volume": 2950,
         "liquidity": 75561878,
+=======
+        "yes_ask": 79,
+        "no_bid": 21,
+        "no_ask": 22,
+        "last_price": 79,
+        "volume": 2950,
+        "liquidity": 75561518,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.7959183673469388,
@@ -83667,7 +84468,11 @@
             "20250828": 0.7959183673469388,
             "20250829": 0.7959183673469388,
             "20250830": 0.7959183673469388,
+<<<<<<< HEAD
             "20250831": 0.7959183673469388
+=======
+            "20250831": 0.7878787878787878
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         }
     },
     {
@@ -84062,7 +84867,11 @@
         "no_ask": 92,
         "last_price": 9,
         "volume": 825,
+<<<<<<< HEAD
         "liquidity": 442693,
+=======
+        "liquidity": 442695,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250830": 0.12087912087912088,
@@ -84864,7 +85673,11 @@
         "no_ask": 50,
         "last_price": 51,
         "volume": 34990,
+<<<<<<< HEAD
         "liquidity": 163118671,
+=======
+        "liquidity": 163118749,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.494949494949495,
@@ -85019,7 +85832,11 @@
         "no_ask": 79,
         "last_price": 23,
         "volume": 17318,
+<<<<<<< HEAD
         "liquidity": 129620989,
+=======
+        "liquidity": 129621549,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.2222222222222222,
@@ -85049,8 +85866,13 @@
         "no_bid": 22,
         "no_ask": 24,
         "last_price": 78,
+<<<<<<< HEAD
         "volume": 90402,
         "liquidity": 164015975,
+=======
+        "volume": 90392,
+        "liquidity": 164016515,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.7755102040816326,
@@ -85112,7 +85934,11 @@
         "no_ask": 57,
         "last_price": 45,
         "volume": 68444,
+<<<<<<< HEAD
         "liquidity": 141980124,
+=======
+        "liquidity": 141980128,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.4444444444444444,
@@ -85143,7 +85969,7 @@
         "no_ask": 46,
         "last_price": 55,
         "volume": 54924,
-        "liquidity": 150052903,
+        "liquidity": 150052823,
         "can_close_early": true,
         "market_price": {
             "20250826": 0.5353535353535354,
@@ -85236,7 +86062,11 @@
         "no_ask": 59,
         "last_price": 43,
         "volume": 7187,
+<<<<<<< HEAD
         "liquidity": 125302813,
+=======
+        "liquidity": 125302781,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.40404040404040403,
@@ -85577,7 +86407,7 @@
         "no_ask": 28,
         "last_price": 73,
         "volume": 91302,
-        "liquidity": 182825913,
+        "liquidity": 182825953,
         "can_close_early": true,
         "market_price": {
             "20250826": 0.7142857142857143,
@@ -85701,7 +86531,11 @@
         "no_ask": 91,
         "last_price": 10,
         "volume": 36786,
+<<<<<<< HEAD
         "liquidity": 67910595,
+=======
+        "liquidity": 67903779,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.17894736842105263,
@@ -86321,7 +87155,11 @@
         "no_ask": 67,
         "last_price": 34,
         "volume": 10234,
+<<<<<<< HEAD
         "liquidity": 79403286,
+=======
+        "liquidity": 79405229,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.4387755102040816,
@@ -86352,7 +87190,11 @@
         "no_ask": 34,
         "last_price": 67,
         "volume": 51795,
+<<<<<<< HEAD
         "liquidity": 77443498,
+=======
+        "liquidity": 77444450,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.5789473684210527,
@@ -87747,7 +88589,11 @@
         "no_ask": 67,
         "last_price": 43,
         "volume": 1000,
+<<<<<<< HEAD
         "liquidity": 46578959,
+=======
+        "liquidity": 46455335,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.4583333333333333,
@@ -88212,7 +89058,11 @@
         "no_ask": 9,
         "last_price": 90,
         "volume": 12630,
+<<<<<<< HEAD
         "liquidity": 46254153,
+=======
+        "liquidity": 46230653,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.6041666666666666,
@@ -89948,7 +90798,11 @@
         "no_ask": 99,
         "last_price": 2,
         "volume": 2482,
+<<<<<<< HEAD
         "liquidity": 48312869,
+=======
+        "liquidity": 48312275,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.05154639175257732,
@@ -90351,7 +91205,11 @@
         "no_ask": 40,
         "last_price": 63,
         "volume": 4999,
+<<<<<<< HEAD
         "liquidity": 78606905,
+=======
+        "liquidity": 78606901,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.5670103092783505,
@@ -90474,8 +91332,13 @@
         "no_bid": 60,
         "no_ask": 62,
         "last_price": 40,
+<<<<<<< HEAD
         "volume": 108547,
         "liquidity": 134652420,
+=======
+        "volume": 108527,
+        "liquidity": 134653220,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.3877551020408163,
@@ -90505,8 +91368,13 @@
         "no_bid": 38,
         "no_ask": 40,
         "last_price": 62,
+<<<<<<< HEAD
         "volume": 187463,
         "liquidity": 155227523,
+=======
+        "volume": 187462,
+        "liquidity": 155118061,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.6122448979591837,
@@ -90599,7 +91467,11 @@
         "no_ask": 89,
         "last_price": 13,
         "volume": 528,
+<<<<<<< HEAD
         "liquidity": 52893226,
+=======
+        "liquidity": 52881122,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.19791666666666666,
@@ -90722,8 +91594,13 @@
         "no_bid": 75,
         "no_ask": 77,
         "last_price": 25,
+<<<<<<< HEAD
         "volume": 442134,
         "liquidity": 186172293,
+=======
+        "volume": 442122,
+        "liquidity": 186200593,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.26262626262626265,
@@ -90753,8 +91630,13 @@
         "no_bid": 23,
         "no_ask": 25,
         "last_price": 77,
+<<<<<<< HEAD
         "volume": 977891,
         "liquidity": 280105868,
+=======
+        "volume": 977828,
+        "liquidity": 280110719,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.7373737373737373,
@@ -91110,8 +91992,13 @@
         "no_bid": 6,
         "no_ask": 94,
         "last_price": 94,
+<<<<<<< HEAD
         "volume": 30,
         "liquidity": 420284,
+=======
+        "volume": 1,
+        "liquidity": 423470,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "market_price": {
             "20250829": 0.5,
             "20250831": 0.5
@@ -92343,7 +93230,11 @@
         "no_ask": 11,
         "last_price": 93,
         "volume": 1642,
+<<<<<<< HEAD
         "liquidity": 2404872,
+=======
+        "liquidity": 2313912,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "market_price": {
             "20250829": 0.8686868686868687,
             "20250831": 0.898989898989899
@@ -92369,7 +93260,11 @@
         "no_ask": 90,
         "last_price": 11,
         "volume": 2034,
+<<<<<<< HEAD
         "liquidity": 2423764,
+=======
+        "liquidity": 2357438,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "market_price": {
             "20250829": 0.12121212121212122,
             "20250831": 0.10101010101010101
@@ -92394,8 +93289,13 @@
         "no_bid": 38,
         "no_ask": 40,
         "last_price": 62,
+<<<<<<< HEAD
         "volume": 112508,
         "liquidity": 106794593,
+=======
+        "volume": 112348,
+        "liquidity": 106830013,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.6041666666666666,
@@ -92424,9 +93324,15 @@
         "yes_ask": 40,
         "no_bid": 60,
         "no_ask": 62,
+<<<<<<< HEAD
         "last_price": 38,
         "volume": 85265,
         "liquidity": 99015778,
+=======
+        "last_price": 40,
+        "volume": 82604,
+        "liquidity": 99098978,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.40816326530612246,
@@ -92451,6 +93357,7 @@
         "expiration_time": "2025-09-15T17:00:00Z",
         "status": "active",
         "response_price_units": "usd_cent",
+<<<<<<< HEAD
         "yes_bid": 18,
         "yes_ask": 20,
         "no_bid": 80,
@@ -92461,6 +93368,18 @@
         "market_price": {
             "20250829": 0.2542372881355932,
             "20250831": 0.1836734693877551
+=======
+        "yes_bid": 19,
+        "yes_ask": 20,
+        "no_bid": 80,
+        "no_ask": 81,
+        "last_price": 18,
+        "volume": 562,
+        "liquidity": 3841857,
+        "market_price": {
+            "20250829": 0.2542372881355932,
+            "20250831": 0.1919191919191919
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         }
     },
     {
@@ -92483,7 +93402,11 @@
         "no_ask": 21,
         "last_price": 81,
         "volume": 39,
+<<<<<<< HEAD
         "liquidity": 908607,
+=======
+        "liquidity": 908817,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "market_price": {
             "20250829": 0.5,
             "20250831": 0.8061224489795918
@@ -92612,8 +93535,13 @@
         "no_bid": 91,
         "no_ask": 92,
         "last_price": 9,
+<<<<<<< HEAD
         "volume": 35800,
         "liquidity": 15415409,
+=======
+        "volume": 35692,
+        "liquidity": 15415881,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "market_price": {
             "20250829": 0.0707070707070707,
             "20250831": 0.08080808080808081
@@ -92638,8 +93566,13 @@
         "no_bid": 8,
         "no_ask": 9,
         "last_price": 92,
+<<<<<<< HEAD
         "volume": 4876,
         "liquidity": 17542228,
+=======
+        "volume": 4826,
+        "liquidity": 17546828,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "market_price": {
             "20250829": 0.9387755102040817,
             "20250831": 0.9191919191919192
@@ -92665,7 +93598,11 @@
         "no_ask": 8,
         "last_price": 93,
         "volume": 487,
+<<<<<<< HEAD
         "liquidity": 13366593,
+=======
+        "liquidity": 13431259,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "market_price": {
             "20250829": 0.5,
             "20250831": 0.9292929292929293
@@ -92691,7 +93628,11 @@
         "no_ask": 93,
         "last_price": 8,
         "volume": 5394,
+<<<<<<< HEAD
         "liquidity": 12027359,
+=======
+        "liquidity": 12085400,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "market_price": {
             "20250829": 0.5,
             "20250831": 0.0707070707070707
@@ -92717,7 +93658,11 @@
         "no_ask": 45,
         "last_price": 57,
         "volume": 681,
+<<<<<<< HEAD
         "liquidity": 21429566,
+=======
+        "liquidity": 21420225,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "market_price": {
             "20250829": 0.5612244897959183,
             "20250831": 0.5612244897959183
@@ -92743,7 +93688,11 @@
         "no_ask": 57,
         "last_price": 45,
         "volume": 197,
+<<<<<<< HEAD
         "liquidity": 21483792,
+=======
+        "liquidity": 21484296,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "market_price": {
             "20250829": 0.4387755102040816,
             "20250831": 0.4387755102040816
@@ -93539,7 +94488,11 @@
         "no_ask": 100,
         "last_price": 1,
         "volume": 3804,
+<<<<<<< HEAD
         "liquidity": 261898,
+=======
+        "liquidity": 261998,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.07608695652173914,
@@ -93936,6 +94889,7 @@
         "expiration_time": "2025-09-08T14:00:00Z",
         "status": "active",
         "response_price_units": "usd_cent",
+<<<<<<< HEAD
         "yes_bid": 10,
         "yes_ask": 13,
         "no_bid": 87,
@@ -93943,6 +94897,15 @@
         "last_price": 14,
         "volume": 147004,
         "liquidity": 1352172,
+=======
+        "yes_bid": 8,
+        "yes_ask": 15,
+        "no_bid": 85,
+        "no_ask": 92,
+        "last_price": 15,
+        "volume": 146873,
+        "liquidity": 1354247,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.21875,
@@ -93950,7 +94913,11 @@
             "20250828": 0.24742268041237114,
             "20250829": 0.22448979591836735,
             "20250830": 0.21649484536082475,
+<<<<<<< HEAD
             "20250831": 0.10309278350515463
+=======
+            "20250831": 0.08602150537634409
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         }
     },
     {
@@ -94785,20 +95752,24 @@
         "expiration_time": "2025-09-15T02:45:00Z",
         "status": "active",
         "response_price_units": "usd_cent",
-        "yes_bid": 21,
+        "yes_bid": 22,
         "yes_ask": 23,
         "no_bid": 77,
-        "no_ask": 79,
+        "no_ask": 78,
         "last_price": 23,
         "volume": 1849,
+<<<<<<< HEAD
         "liquidity": 1240239,
+=======
+        "liquidity": 1284885,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250827": 0.06666666666666667,
             "20250828": 0.17777777777777778,
             "20250829": 0.17582417582417584,
             "20250830": 0.17777777777777778,
-            "20250831": 0.21428571428571427
+            "20250831": 0.2222222222222222
         }
     },
     {
@@ -94821,7 +95792,11 @@
         "no_ask": 76,
         "last_price": 25,
         "volume": 4880,
+<<<<<<< HEAD
         "liquidity": 1098284,
+=======
+        "liquidity": 1128311,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250827": 0.06666666666666667,
@@ -94850,8 +95825,13 @@
         "no_bid": 45,
         "no_ask": 47,
         "last_price": 55,
+<<<<<<< HEAD
         "volume": 1953,
         "liquidity": 1145186,
+=======
+        "volume": 1767,
+        "liquidity": 1275772,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250827": 0.06666666666666667,
@@ -94880,8 +95860,13 @@
         "no_bid": 56,
         "no_ask": 57,
         "last_price": 44,
+<<<<<<< HEAD
         "volume": 8371,
         "liquidity": 2117142,
+=======
+        "volume": 7744,
+        "liquidity": 2099971,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "market_price": {
             "20250829": 0.4489795918367347,
             "20250831": 0.43434343434343436
@@ -94901,6 +95886,7 @@
         "expiration_time": "2025-09-15T00:30:00Z",
         "status": "active",
         "response_price_units": "usd_cent",
+<<<<<<< HEAD
         "yes_bid": 55,
         "yes_ask": 57,
         "no_bid": 43,
@@ -94908,6 +95894,15 @@
         "last_price": 57,
         "volume": 6873,
         "liquidity": 2460923,
+=======
+        "yes_bid": 56,
+        "yes_ask": 58,
+        "no_bid": 42,
+        "no_ask": 44,
+        "last_price": 58,
+        "volume": 6543,
+        "liquidity": 2401613,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "market_price": {
             "20250829": 0.5510204081632653,
             "20250831": 0.5612244897959183
@@ -94931,9 +95926,15 @@
         "yes_ask": 23,
         "no_bid": 77,
         "no_ask": 79,
+<<<<<<< HEAD
         "last_price": 21,
         "volume": 12895,
         "liquidity": 1936574,
+=======
+        "last_price": 23,
+        "volume": 12239,
+        "liquidity": 1936118,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "market_price": {
             "20250829": 0.24242424242424243,
             "20250831": 0.21428571428571427
@@ -94957,9 +95958,15 @@
         "yes_ask": 77,
         "no_bid": 23,
         "no_ask": 24,
+<<<<<<< HEAD
         "last_price": 77,
         "volume": 4878,
         "liquidity": 2440649,
+=======
+        "last_price": 78,
+        "volume": 4822,
+        "liquidity": 2319497,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "market_price": {
             "20250829": 0.7575757575757576,
             "20250831": 0.7676767676767676
@@ -94984,8 +95991,13 @@
         "no_bid": 43,
         "no_ask": 44,
         "last_price": 57,
+<<<<<<< HEAD
         "volume": 1353121,
         "liquidity": 176563829,
+=======
+        "volume": 1261367,
+        "liquidity": 180071558,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.5555555555555556,
@@ -95015,8 +96027,13 @@
         "no_bid": 56,
         "no_ask": 57,
         "last_price": 44,
+<<<<<<< HEAD
         "volume": 837158,
         "liquidity": 183917515,
+=======
+        "volume": 806775,
+        "liquidity": 183345128,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.4444444444444444,
@@ -95046,8 +96063,13 @@
         "no_bid": 40,
         "no_ask": 41,
         "last_price": 60,
+<<<<<<< HEAD
         "volume": 5769,
         "liquidity": 21114912,
+=======
+        "volume": 5379,
+        "liquidity": 21023992,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "market_price": {
             "20250829": 0.5959595959595959,
             "20250831": 0.5959595959595959
@@ -95072,8 +96094,13 @@
         "no_bid": 59,
         "no_ask": 60,
         "last_price": 41,
+<<<<<<< HEAD
         "volume": 24226,
         "liquidity": 17402210,
+=======
+        "volume": 22321,
+        "liquidity": 17885065,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "market_price": {
             "20250829": 0.40404040404040403,
             "20250831": 0.40404040404040403
@@ -95093,6 +96120,7 @@
         "expiration_time": "2025-09-14T20:10:00Z",
         "status": "active",
         "response_price_units": "usd_cent",
+<<<<<<< HEAD
         "yes_bid": 95,
         "yes_ask": 97,
         "no_bid": 3,
@@ -95103,6 +96131,18 @@
         "market_price": {
             "20250829": 0.673469387755102,
             "20250831": 0.9693877551020408
+=======
+        "yes_bid": 94,
+        "yes_ask": 95,
+        "no_bid": 5,
+        "no_ask": 6,
+        "last_price": 95,
+        "volume": 29891,
+        "liquidity": 2398877,
+        "market_price": {
+            "20250829": 0.673469387755102,
+            "20250831": 0.9494949494949495
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         }
     },
     {
@@ -95119,6 +96159,7 @@
         "expiration_time": "2025-09-14T20:10:00Z",
         "status": "active",
         "response_price_units": "usd_cent",
+<<<<<<< HEAD
         "yes_bid": 3,
         "yes_ask": 5,
         "no_bid": 95,
@@ -95126,6 +96167,15 @@
         "last_price": 5,
         "volume": 45897,
         "liquidity": 1778370,
+=======
+        "yes_bid": 4,
+        "yes_ask": 7,
+        "no_bid": 93,
+        "no_ask": 96,
+        "last_price": 8,
+        "volume": 41982,
+        "liquidity": 2458145,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "market_price": {
             "20250829": 0.32653061224489793,
             "20250831": 0.030612244897959183
@@ -95145,6 +96195,7 @@
         "expiration_time": "2025-09-14T20:05:00Z",
         "status": "active",
         "response_price_units": "usd_cent",
+<<<<<<< HEAD
         "yes_bid": 99,
         "yes_ask": 100,
         "no_bid": 0,
@@ -95155,6 +96206,18 @@
         "market_price": {
             "20250829": 0.5757575757575758,
             "20250831": 1.0
+=======
+        "yes_bid": 97,
+        "yes_ask": 99,
+        "no_bid": 1,
+        "no_ask": 3,
+        "last_price": 99,
+        "volume": 32712,
+        "liquidity": 1433529,
+        "market_price": {
+            "20250829": 0.5757575757575758,
+            "20250831": 0.9897959183673469
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         }
     },
     {
@@ -95172,12 +96235,21 @@
         "status": "active",
         "response_price_units": "usd_cent",
         "yes_bid": 0,
+<<<<<<< HEAD
         "yes_ask": 1,
         "no_bid": 99,
         "no_ask": 100,
         "last_price": 1,
         "volume": 9935,
         "liquidity": 2525515,
+=======
+        "yes_ask": 2,
+        "no_bid": 98,
+        "no_ask": 100,
+        "last_price": 1,
+        "volume": 9690,
+        "liquidity": 2631384,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "market_price": {
             "20250829": 0.43434343434343436,
             "20250831": 0.0
@@ -95202,8 +96274,13 @@
         "no_bid": 98,
         "no_ask": 100,
         "last_price": 2,
+<<<<<<< HEAD
         "volume": 51417,
         "liquidity": 2394443,
+=======
+        "volume": 51231,
+        "liquidity": 2136992,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "market_price": {
             "20250829": 0.4387755102040816,
             "20250831": 0.0
@@ -95223,6 +96300,7 @@
         "expiration_time": "2025-09-14T20:05:00Z",
         "status": "active",
         "response_price_units": "usd_cent",
+<<<<<<< HEAD
         "yes_bid": 98,
         "yes_ask": 100,
         "no_bid": 0,
@@ -95230,12 +96308,76 @@
         "last_price": 99,
         "volume": 29860,
         "liquidity": 2390669,
+=======
+        "yes_bid": 97,
+        "yes_ask": 99,
+        "no_bid": 1,
+        "no_ask": 3,
+        "last_price": 97,
+        "volume": 29760,
+        "liquidity": 2385669,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "market_price": {
             "20250829": 0.5656565656565656,
+            "20250831": 0.9897959183673469
+        }
+    },
+    {
+<<<<<<< HEAD
+=======
+        "ticker": "KXMLBGAME-25AUG31CHCCOL-COL",
+        "event_ticker": "KXMLBGAME-25AUG31CHCCOL",
+        "title": "",
+        "subtitle": "",
+        "yes_sub_title": "Colorado",
+        "no_sub_title": "Colorado",
+        "rules_primary": "If Colorado wins the Chicago C at Colorado professional baseball game originally scheduled for Aug 31, 2025, then the market resolves to Yes.",
+        "rules_secondary": "The following market refers to the Chicago C at Colorado professional baseball game originally scheduled for Aug 31, 2025. If this game is postponed or delayed, the market will remain open and close after the rescheduled game has finished (within two weeks). If the game is cancelled or rescheduled to over two weeks away, the market will resolve to a fair price in accordance with the rules.",
+        "open_time": "2025-08-31T12:00:00Z",
+        "close_time": "2025-09-14T19:10:00Z",
+        "expiration_time": "2025-09-14T19:10:00Z",
+        "status": "active",
+        "response_price_units": "usd_cent",
+        "yes_bid": 99,
+        "yes_ask": 100,
+        "no_bid": 0,
+        "no_ask": 1,
+        "last_price": 99,
+        "volume": 106969,
+        "liquidity": 144789,
+        "market_price": {
+            "20250829": 0.31313131313131315,
             "20250831": 1.0
         }
     },
     {
+        "ticker": "KXMLBGAME-25AUG31CHCCOL-CHC",
+        "event_ticker": "KXMLBGAME-25AUG31CHCCOL",
+        "title": "",
+        "subtitle": "",
+        "yes_sub_title": "Chicago C",
+        "no_sub_title": "Chicago C",
+        "rules_primary": "If Chicago C wins the Chicago C at Colorado professional baseball game originally scheduled for Aug 31, 2025, then the market resolves to Yes.",
+        "rules_secondary": "The following market refers to the Chicago C at Colorado professional baseball game originally scheduled for Aug 31, 2025. If this game is postponed or delayed, the market will remain open and close after the rescheduled game has finished (within two weeks). If the game is cancelled or rescheduled to over two weeks away, the market will resolve to a fair price in accordance with the rules.",
+        "open_time": "2025-08-31T12:00:00Z",
+        "close_time": "2025-09-14T19:10:00Z",
+        "expiration_time": "2025-09-14T19:10:00Z",
+        "status": "active",
+        "response_price_units": "usd_cent",
+        "yes_bid": 0,
+        "yes_ask": 1,
+        "no_bid": 99,
+        "no_ask": 100,
+        "last_price": 1,
+        "volume": 83643,
+        "liquidity": -182413,
+        "market_price": {
+            "20250829": 0.6868686868686869,
+            "20250831": 0.0
+        }
+    },
+    {
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "ticker": "KXNCAAFGAME-25AUG31VTSCAR-VT",
         "event_ticker": "KXNCAAFGAME-25AUG31VTSCAR",
         "title": "",
@@ -95249,6 +96391,7 @@
         "expiration_time": "2027-08-31T19:00:00Z",
         "status": "active",
         "response_price_units": "usd_cent",
+<<<<<<< HEAD
         "yes_bid": 15,
         "yes_ask": 17,
         "no_bid": 83,
@@ -95256,6 +96399,15 @@
         "last_price": 15,
         "volume": 3237867,
         "liquidity": 31074770,
+=======
+        "yes_bid": 9,
+        "yes_ask": 11,
+        "no_bid": 89,
+        "no_ask": 91,
+        "last_price": 10,
+        "volume": 2978299,
+        "liquidity": 45347902,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.25,
@@ -95263,7 +96415,11 @@
             "20250828": 0.2727272727272727,
             "20250829": 0.2653061224489796,
             "20250830": 0.2755102040816326,
+<<<<<<< HEAD
             "20250831": 0.15306122448979592
+=======
+            "20250831": 0.09183673469387756
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         }
     },
     {
@@ -95280,6 +96436,7 @@
         "expiration_time": "2027-08-31T19:00:00Z",
         "status": "active",
         "response_price_units": "usd_cent",
+<<<<<<< HEAD
         "yes_bid": 84,
         "yes_ask": 85,
         "no_bid": 15,
@@ -95287,6 +96444,15 @@
         "last_price": 84,
         "volume": 5528378,
         "liquidity": 51888650,
+=======
+        "yes_bid": 89,
+        "yes_ask": 91,
+        "no_bid": 9,
+        "no_ask": 11,
+        "last_price": 90,
+        "volume": 5227992,
+        "liquidity": 46344499,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.7525773195876289,
@@ -95294,7 +96460,11 @@
             "20250828": 0.7448979591836735,
             "20250829": 0.7346938775510204,
             "20250830": 0.7244897959183674,
+<<<<<<< HEAD
             "20250831": 0.8484848484848485
+=======
+            "20250831": 0.9081632653061225
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         }
     },
     {
@@ -95316,8 +96486,13 @@
         "no_bid": 94,
         "no_ask": 95,
         "last_price": 6,
+<<<<<<< HEAD
         "volume": 73816,
         "liquidity": 23909961,
+=======
+        "volume": 72186,
+        "liquidity": 23870099,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250830": 0.13793103448275862,
@@ -95342,9 +96517,15 @@
         "yes_ask": 95,
         "no_bid": 5,
         "no_ask": 6,
+<<<<<<< HEAD
         "last_price": 95,
         "volume": 7087,
         "liquidity": 24609799,
+=======
+        "last_price": 94,
+        "volume": 7012,
+        "liquidity": 24384795,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250830": 0.8620689655172413,
@@ -95370,8 +96551,13 @@
         "no_bid": 69,
         "no_ask": 71,
         "last_price": 31,
+<<<<<<< HEAD
         "volume": 5813,
         "liquidity": 7550049,
+=======
+        "volume": 5783,
+        "liquidity": 7556989,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250830": 0.14285714285714285,
@@ -95397,8 +96583,13 @@
         "no_bid": 28,
         "no_ask": 29,
         "last_price": 72,
+<<<<<<< HEAD
         "volume": 20885,
         "liquidity": 8457670,
+=======
+        "volume": 20854,
+        "liquidity": 8576322,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250830": 0.6629213483146067,
@@ -95458,6 +96649,61 @@
         }
     },
     {
+<<<<<<< HEAD
+=======
+        "ticker": "KXWTAMATCH-25AUG31KRETOW-TOW",
+        "event_ticker": "KXWTAMATCH-25AUG31KRETOW",
+        "title": "",
+        "subtitle": "",
+        "yes_sub_title": "Taylor Townsend",
+        "no_sub_title": "Taylor Townsend",
+        "rules_primary": "If Taylor Townsend wins the Krejcikova vs Townsend professional tennis match originally scheduled for Aug 31, 2025 after a ball has been played, then the market resolves to Yes.",
+        "rules_secondary": "The following market refers to the Krejcikova vs Townsend professional tennis match originally scheduled for Aug 31, 2025 after a ball has been played. If the match does not occur (signaled by a ball being played) due to a player injury, walkover, forfeiture, or any other cancellation (all before the match starts), the market will resolve to a fair price in accordance with the rules. If this match is postponed or delayed, the market will remain open and close after the rescheduled match has finished (within two weeks).",
+        "open_time": "2025-08-30T04:05:00Z",
+        "close_time": "2025-09-14T15:00:00Z",
+        "expiration_time": "2025-09-14T15:00:00Z",
+        "status": "active",
+        "response_price_units": "usd_cent",
+        "yes_bid": 0,
+        "yes_ask": 1,
+        "no_bid": 99,
+        "no_ask": 100,
+        "last_price": 1,
+        "volume": 1321789,
+        "liquidity": 8861445,
+        "market_price": {
+            "20250829": 0.4387755102040816,
+            "20250831": 0.0
+        }
+    },
+    {
+        "ticker": "KXWTAMATCH-25AUG31KRETOW-KRE",
+        "event_ticker": "KXWTAMATCH-25AUG31KRETOW",
+        "title": "",
+        "subtitle": "",
+        "yes_sub_title": "Barbora Krejcikova",
+        "no_sub_title": "Barbora Krejcikova",
+        "rules_primary": "If Barbora Krejcikova wins the Krejcikova vs Townsend professional tennis match originally scheduled for Aug 31, 2025 after a ball has been played, then the market resolves to Yes.",
+        "rules_secondary": "The following market refers to the Krejcikova vs Townsend professional tennis match originally scheduled for Aug 31, 2025 after a ball has been played. If the match does not occur (signaled by a ball being played) due to a player injury, walkover, forfeiture, or any other cancellation (all before the match starts), the market will resolve to a fair price in accordance with the rules. If this match is postponed or delayed, the market will remain open and close after the rescheduled match has finished (within two weeks).",
+        "open_time": "2025-08-30T04:05:00Z",
+        "close_time": "2025-09-14T15:00:00Z",
+        "expiration_time": "2025-09-14T15:00:00Z",
+        "status": "active",
+        "response_price_units": "usd_cent",
+        "yes_bid": 99,
+        "yes_ask": 100,
+        "no_bid": 0,
+        "no_ask": 1,
+        "last_price": 99,
+        "volume": 1281969,
+        "liquidity": 9143745,
+        "market_price": {
+            "20250829": 0.5612244897959183,
+            "20250831": 1.0
+        }
+    },
+    {
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "ticker": "KXWTAMATCH-25AUG31KOSMUC-MUC",
         "event_ticker": "KXWTAMATCH-25AUG31KOSMUC",
         "title": "",
@@ -95580,8 +96826,13 @@
         "no_bid": 72,
         "no_ask": 73,
         "last_price": 28,
+<<<<<<< HEAD
         "volume": 71042,
         "liquidity": 49079342,
+=======
+        "volume": 63189,
+        "liquidity": 49355075,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "market_price": {
             "20250829": 0.31313131313131315,
             "20250831": 0.2727272727272727
@@ -95602,15 +96853,20 @@
         "status": "active",
         "response_price_units": "usd_cent",
         "yes_bid": 71,
-        "yes_ask": 72,
-        "no_bid": 28,
+        "yes_ask": 73,
+        "no_bid": 27,
         "no_ask": 29,
         "last_price": 72,
+<<<<<<< HEAD
         "volume": 215097,
         "liquidity": 48986068,
+=======
+        "volume": 180655,
+        "liquidity": 49200186,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "market_price": {
             "20250829": 0.6868686868686869,
-            "20250831": 0.7171717171717171
+            "20250831": 0.7244897959183674
         }
     },
     {
@@ -95632,8 +96888,13 @@
         "no_bid": 84,
         "no_ask": 85,
         "last_price": 16,
+<<<<<<< HEAD
         "volume": 100012,
         "liquidity": 17882401,
+=======
+        "volume": 99361,
+        "liquidity": 17746708,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "market_price": {
             "20250829": 0.14285714285714285,
             "20250831": 0.15151515151515152
@@ -95657,9 +96918,15 @@
         "yes_ask": 86,
         "no_bid": 14,
         "no_ask": 16,
+<<<<<<< HEAD
         "last_price": 85,
         "volume": 96929,
         "liquidity": 24627079,
+=======
+        "last_price": 86,
+        "volume": 96266,
+        "liquidity": 25052448,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "market_price": {
             "20250829": 0.8484848484848485,
             "20250831": 0.8571428571428571
@@ -96816,7 +98083,11 @@
         "no_ask": 82,
         "last_price": 23,
         "volume": 6072,
+<<<<<<< HEAD
         "liquidity": 2936816,
+=======
+        "liquidity": 2935556,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.20212765957446807,
@@ -96940,7 +98211,11 @@
         "no_ask": 78,
         "last_price": 36,
         "volume": 44522,
+<<<<<<< HEAD
         "liquidity": 13602494,
+=======
+        "liquidity": 13673374,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.3684210526315789,
@@ -97213,6 +98488,7 @@
         "expiration_time": "2027-06-28T23:30:00Z",
         "status": "active",
         "response_price_units": "usd_cent",
+<<<<<<< HEAD
         "yes_bid": 54,
         "yes_ask": 68,
         "no_bid": 32,
@@ -97220,6 +98496,15 @@
         "last_price": 68,
         "volume": 61409,
         "liquidity": 52116521,
+=======
+        "yes_bid": 57,
+        "yes_ask": 68,
+        "no_bid": 32,
+        "no_ask": 43,
+        "last_price": 68,
+        "volume": 61409,
+        "liquidity": 52116515,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.6352941176470588,
@@ -97227,7 +98512,11 @@
             "20250828": 0.6352941176470588,
             "20250829": 0.6352941176470588,
             "20250830": 0.6162790697674418,
+<<<<<<< HEAD
             "20250831": 0.627906976744186
+=======
+            "20250831": 0.6404494382022472
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         }
     },
     {
@@ -97808,7 +99097,11 @@
         "no_ask": 81,
         "last_price": 24,
         "volume": 38829,
+<<<<<<< HEAD
         "liquidity": 996489,
+=======
+        "liquidity": 996407,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.23469387755102042,
@@ -98428,7 +99721,7 @@
         "no_ask": 95,
         "last_price": 5,
         "volume": 11001,
-        "liquidity": 935831,
+        "liquidity": 935861,
         "can_close_early": true,
         "market_price": {
             "20250826": 0.052083333333333336,
@@ -98829,9 +100122,15 @@
         "yes_ask": 67,
         "no_bid": 33,
         "no_ask": 35,
+<<<<<<< HEAD
         "last_price": 67,
         "volume": 128672,
         "liquidity": 2301797,
+=======
+        "last_price": 65,
+        "volume": 128654,
+        "liquidity": 2301993,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.5858585858585859,
@@ -98856,13 +100155,18 @@
         "expiration_time": "2026-01-01T15:00:00Z",
         "status": "active",
         "response_price_units": "usd_cent",
-        "yes_bid": 77,
+        "yes_bid": 78,
         "yes_ask": 81,
         "no_bid": 19,
-        "no_ask": 23,
+        "no_ask": 22,
         "last_price": 77,
+<<<<<<< HEAD
         "volume": 69078,
         "liquidity": 74297659,
+=======
+        "volume": 69016,
+        "liquidity": 74273958,
+>>>>>>> f057927cae11104559d55525ce66d06d825c35f9
         "can_close_early": true,
         "market_price": {
             "20250826": 0.8282828282828283,
@@ -98870,7 +100174,7 @@
             "20250828": 0.7676767676767676,
             "20250829": 0.898989898989899,
             "20250830": 0.8645833333333334,
-            "20250831": 0.8020833333333334
+            "20250831": 0.8041237113402062
         }
     },
     {
