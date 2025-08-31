@@ -187,6 +187,8 @@ def scrape_kalshi_events():
 
                 # TEMPORARY: already present 
                 else:
+                    report = read_from_db(timestamp, event["event_ticker"])
+
                     # generate unique hash id
                     hash_id = f"ddgs_{event['event_ticker'].lower()}_{timestamp}"
 
@@ -195,7 +197,7 @@ def scrape_kalshi_events():
                         "hash_id": hash_id,
                         "timestamp": timestamp,
                         "event_ticker": event["event_ticker"],
-                        "report": event["ddgs_reports"][timestamp],
+                        "report": report,
                     })
 
                     # save hash id instead
