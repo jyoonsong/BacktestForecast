@@ -166,6 +166,8 @@ def scrape_kalshi_events():
             # Ensure 'ddgs_reports' field exists, then try to backfill last 3 days.
             if "ddgs_reports" not in event:
                 event['ddgs_reports'] = {}
+            if "ddgs_urls" not in event:
+                event['ddgs_urls'] = {}
             for timestamp in timestamps:
                 if timestamp not in event["ddgs_reports"]:
                     report, urls = read_from_db(timestamp, event["event_ticker"])
@@ -190,6 +192,7 @@ def scrape_kalshi_events():
             event_obj = {}
             event_obj['bing_reports'] = {}
             event_obj['ddgs_reports'] = {}
+            event_obj['ddgs_urls'] = {}
             
             # find ddgs report for today
             report, urls = read_from_db(timestamp_now, event['event_ticker'])
@@ -274,6 +277,7 @@ def scrape_kalshi_events():
         # Ensure 'ddgs_reports' field exists, then try to backfill last 3 days.
         if "ddgs_reports" not in event:
             event['ddgs_reports'] = {}
+            event['ddgs_urls'] = {}
         for timestamp in timestamps:
             if timestamp not in event["ddgs_reports"]:
                 report, urls = (timestamp, event["event_ticker"])
