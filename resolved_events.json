@@ -5244,5 +5244,18 @@
         "mutually_exclusive": true,
         "category": "Sports",
         "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": {},
+        "event_ticker": "KXSERIEAGAME-25AUG31INTUDI",
+        "series_ticker": "KXSERIEAGAME",
+        "title": "Inter vs Udinese",
+        "sub_title": "INT vs UDI (Aug 31)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "ddgs_reports": {
+            "20250830": "ddgs_kxserieagame-25aug31intudi_20250830"
+        },
+        "resolution_date": "20250831"
     }
 ]
