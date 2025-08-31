@@ -1,22 +1,82 @@
 #!/usr/bin/env python3
+# -----------------------------------------------------------------------------
+# Kalshi event & market snapshotter
+# -----------------------------------------------------------------------------
+# What this script does (daily-friendly):
+# 1) Pull all (optionally filtered) Kalshi events, with nested markets.
+# 2) Compare with previously saved JSONs to:
+#       - carry forward still-active items,
+#       - detect newly active events/markets,
+#       - mark no-longer-active markets/events as resolved (add resolution_date),
+#       - update market price snapshots keyed by date (YYYYMMDD).
+# 3) Attempt to enrich active events with daily DDGS reports stored in MongoDB.
+# 4) Write four JSON files: active_events, resolved_events, active_markets, resolved_markets.
+# 5) Push the updated files to a GitHub repo (main branch by default).
+# -----------------------------------------------------------------------------
+
 import base64
 import datetime as dt
 import json
 import logging
 import os
 import requests
+from pymongo import MongoClient
 
+# Configure logging: INFO for normal run; set to DEBUG for request params, etc.
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
+# Kalshi REST endpoints
 base_url_events = "https://api.elections.kalshi.com/trade-api/v2/events"
-base_url_markets = "https://api.elections.kalshi.com/trade-api/v2/markets"
 
-def utc_stamp():
-    # return dt.datetime.utcnow().strftime("%Y%m%dT%H%M%SZ")
-    return dt.datetime.utcnow().strftime("%Y%m%d")
+# Mongo connection URI from env (e.g., mongodb+srv://...)
+MONGO_URI = os.getenv("MONGO_URI")
+
+# Set up mongodb client and DB handle
+mongo_client = MongoClient(MONGO_URI)
+db = mongo_client["forecasting"]  # Change name if needed
+
+def read_from_db(timestamp, event_ticker):
+    """
+    Retrieve an existing DDGS research report string for (timestamp, event_ticker).
+    Returns:
+        str | None: The 'ddgs_report' string if present; otherwise None.
+    """
+    collection = db["reports"]
+
+    # Query matches one day's run and the specific event ticker.
+    query = {
+        "timestamp": timestamp,
+        "event_ticker": event_ticker,
+    }
+    cursor = collection.find(query)
+    reports = list(cursor)
+
+    if len(reports) == 0:
+        return None
+    else:
+        return reports[0]["ddgs_report"]
+
+def get_timestamps():
+    """
+    Create a list of recent day stamps (UTC), newest first, format YYYYMMDD.
+    Current implementation returns today, yesterday, and the day before.
+    """
+    timestamps = []
+    for delta in range(3):
+        day = dt.datetime.utcnow() - dt.timedelta(days=delta)
+        timestamps.append(day.strftime("%Y%m%d"))
+    return timestamps
 
 def fetch_all_events(status=None, with_markets=True):
+    """
+    Fetch all events (optionally filtered) from Kalshi with pagination.
+    Args:
+        status (str | None): e.g., 'open' to fetch only open events.
+        with_markets (bool): If True, include nested markets in results.
+    Returns:
+        list[dict]: All fetched events.
+    """
     params = {}
     if status:
         params['status'] = status
@@ -50,20 +110,29 @@ def fetch_all_events(status=None, with_markets=True):
     logger.info(f"Total events fetched: {len(events)}")
     return events
 
-def get_ddgs_report(event):
-    return "DDGS report placeholder"
 
 def scrape_kalshi_events():
+    """
+    Merge current Kalshi events/markets with previously stored JSONs to:
+      - keep active items,
+      - add new items,
+      - move no-longer-active items to resolved,
+      - update market price snapshots for active markets.
+    Writes four JSONs and returns their paths along with the final active events.
+    """
     logger.info("Starting Kalshi event scraping...")
-    timestamp = utc_stamp()
+    timestamps = get_timestamps()
+    timestamp_now = timestamps[0]
 
     final_events = []
     final_markets = []
 
+    # Pull current events from Kalshi and limit to simpler (under-6-markets) ones.
     current_events = fetch_all_events(status='open', with_markets=True)
     current_events = [e for e in current_events if len(e['markets']) < 6]
     current_event_tickers = [e['event_ticker'] for e in current_events]
 
+    # File names we read from and write back to.
     files = [
         "active_events.json", 
         "resolved_events.json",
@@ -71,6 +140,7 @@ def scrape_kalshi_events():
         "resolved_markets.json",
     ]
 
+    # Load previous snapshots; these files are expected to exist beforehand.
     with open(files[0], "r") as f:
         previous_events = json.load(f)
     previous_event_tickers = [e['event_ticker'] for e in previous_events]
@@ -85,44 +155,51 @@ def scrape_kalshi_events():
     with open(files[3], "r") as f:
         resolved_markets = json.load(f)
 
-    # Check for events that are still active or resolved
+    # Reconcile events: keep active ones; move disappeared ones to resolved.
     for event in previous_events:
         if event['event_ticker'] in current_event_tickers:
             logger.info(f"Event {event['event_ticker']} is still active.")
             # TODO: add a timestamped research report for this event
-            found_event = next((e for e in current_events if e['event_ticker'] == event['event_ticker']), None)
-            event['bing_reports'] = ""
-            # if "ddgs_reports" not in event:
-            #     event['ddgs_reports'] = {}
-            # if timestamp not in event["ddgs_reports"]:
-            #     event['ddgs_reports'][timestamp] = get_ddgs_report(found_event)
-            # save the event
+            event['bing_reports'] = {}
+            # Ensure 'ddgs_reports' field exists, then try to backfill last 3 days.
+            if "ddgs_reports" not in event:
+                event['ddgs_reports'] = {}
+            for timestamp in timestamps:
+                if timestamp not in event["ddgs_reports"]:
+                    report = read_from_db(timestamp, event["event_ticker"])
+                    if report is not None:
+                        event['ddgs_reports'][timestamp] = report
+            # Keep the event active.
             final_events.append(event)
             
         else:
             logger.info(f"Event {event['event_ticker']} is no longer active.")
-            event['resolution_date'] = timestamp
+            event['resolution_date'] = timestamp_now
             resolved_events.append(event)
     
-    # Check for new events
+    # Add newly active events not seen in previous snapshot.
     for event in current_events:
         if event['event_ticker'] not in previous_event_tickers:
             logger.info(f"New active event found: {event['event_ticker']}")
             # TODO: add a timestamped research report for this event
             event_obj = {}
-            event_obj['bing_reports'] = ""
-            # event_obj['ddgs_reports'] = {timestamp: get_ddgs_report(event)}
-            # save the event
+            event_obj['bing_reports'] = {}
+            event_obj['ddgs_reports'] = {}
+            
+            # find ddgs report for today
+            report = read_from_db(timestamp_now, event['event_ticker'])
+            if report is not None:
+                event_obj['ddgs_reports'][timestamp_now] = report
+
             event_obj['event_ticker'] = event['event_ticker']
             event_obj['series_ticker'] = event['series_ticker']
             event_obj['title'] = event['title']
             event_obj['sub_title'] = event['sub_title']
             event_obj['mutually_exclusive'] = event['mutually_exclusive']
             event_obj['category'] = event['category']
-            # save the event
             final_events.append(event_obj)
 
-        # Process markets within the event
+        # Markets within this event: add or update active ones.
         markets = event.get("markets", [])
         for market in markets:
             if market['status'] == "active":
@@ -153,16 +230,14 @@ def scrape_kalshi_events():
                     market_obj['last_price'] = last_price
                     market_obj['volume'] = market.get("volume", "")
                     market_obj['liquidity'] = market.get("liquidity", "")
-                    market_obj['can_close_early'] = market.get("can_close_early", "")
-                    # TODO: add a timestamped human price for this market
+                    # Price snapshot for today:
                     market_price = yes_bid / (yes_bid + no_bid) if (yes_bid + no_bid) > 0 else last_price / 100
                     market_obj['market_price'] = {timestamp: market_price}
-                    # save the new market
                     final_markets.append(market_obj)
 
                 else:
                     logger.info(f"Market {market['ticker']} is still active.")
-                    # find the previous market and update its details
+                    # Update fields on previously known market; keep other fields intact.
                     prev_market = next((m for m in previous_markets if m['ticker'] == market['ticker']), None)
                     if prev_market:
                         prev_market.update({
@@ -174,20 +249,21 @@ def scrape_kalshi_events():
                             "volume": market.get("volume", prev_market.get("volume", "")),
                             "liquidity": market.get("liquidity", prev_market.get("liquidity", "")),
                         })
-                        # TODO: add a timestamped human price for this market
+                        # Append today's price snapshot:
+                        # WARNING: assumes 'market_price' dict exists on prev_market.
                         market_price = yes_bid / (yes_bid + no_bid) if (yes_bid + no_bid) > 0 else last_price / 100
-                        prev_market['market_price'][timestamp] = market_price
-                        # save the market
+                        prev_market['market_price'][timestamp_now] = market_price
                         final_markets.append(prev_market)
 
-    # Check for markets that have been resolved
+    # Any previously-known market not seen as active now is considered resolved.
     final_market_tickers = [m['ticker'] for m in final_markets]
     for market in previous_markets:
         if market['ticker'] not in final_market_tickers:
             logger.info(f"Market {market['ticker']} is no longer active.")
-            market['resolution_date'] = timestamp
+            market['resolution_date'] = timestamp_now
             resolved_markets.append(market)
 
+    # Persist updated snapshots to disk.
     with open(files[0], "w") as f:
         json.dump(final_events, f, indent=4)
     with open(files[1], "w") as f:
@@ -201,6 +277,16 @@ def scrape_kalshi_events():
 
 
 def push_to_github_repo(filepath, github_token, repo_full, branch='main'):
+    """
+    Create or update a single file in a GitHub repo via the Contents API.
+    Args:
+        filepath (str): Local path to file that has been updated.
+        github_token (str): PAT or Actions token with 'contents: write'.
+        repo_full (str): 'owner/repo' format.
+        branch (str): Branch name to update (default 'main').
+    Returns:
+        str | None: The GitHub HTML URL of the updated file, if successful.
+    """
     owner, repo = repo_full.split("/", 1)
     filename = os.path.basename(filepath)
 
@@ -214,12 +300,13 @@ def push_to_github_repo(filepath, github_token, repo_full, branch='main'):
         "Accept": "application/vnd.github+json",
     }
 
-    # Get current SHA if file exists
+    # Get current SHA if file exists; required to update an existing file.
     r = requests.get(base, headers=headers)
     sha = r.json().get("sha") if r.status_code == 200 else None
+    timestamps = get_timestamps()
 
     data = {
-        "message": f"Update {filename} - {utc_stamp()}",
+        "message": f"Update {filename} - {timestamps[0]}",
         "content": content_encoded,
         "branch": branch,
     }
@@ -236,6 +323,13 @@ def push_to_github_repo(filepath, github_token, repo_full, branch='main'):
 
 
 def main():
+    """
+    Entry point:
+      - Validate required env vars.
+      - Scrape and reconcile Kalshi snapshots.
+      - Push updated JSONs to GitHub.
+      - Emit a simple summary (counts + uploaded URLs).
+    """
     github_token = os.getenv("GITHUB_TOKEN")
     repo_full = os.getenv("GITHUB_REPOSITORY")  # e.g., "owner/repo"
 
