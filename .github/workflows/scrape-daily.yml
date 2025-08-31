@@ -31,4 +31,5 @@ jobs:
                   # OpenAI API key and organization ID stored in repo secrets
                   OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
                   OPENAI_ORG_ID: ${{ secrets.OPENAI_ORGANIZATION }}
+                  MONGO_URI: ${{ secrets.MONGO_URI }}
               run: python scrape-kalshi.py
