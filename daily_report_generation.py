@@ -1,3 +1,22 @@
+# -----------------------------------------------------------------------------
+# Kalshi Event DDGS Search RAG Pipeline
+# -----------------------------------------------------------------------------
+# High-level pipeline (per event_ticker):
+#   1) Use OpenAI (gpt-4o-mini) to generate N short web search queries.
+#   2) For each query, search the web via DDGS (DuckDuckGo Search wrapper).
+#   3) Scrape top results (async HTTP with aiohttp), parse & clean HTML to text.
+#   4) Summarize scraped articles with OpenAI into plain-text paragraphs.
+#   5) Combine summaries into a single "research report" string.
+#   6) Persist the report to MongoDB keyed by (timestamp, event_ticker).
+#
+# Concurrency model:
+#   - SEM_TICKERS limits how many event tickers are processed at once.
+#   - SEM_OPENAI bounds concurrent OpenAI calls inside steps 1 & 4.
+#   - SEM_HTTP bounds async HTTP fetches during scraping.
+#   - Blocking calls (requests, DDGS) are offloaded via asyncio.to_thread.
+#
+# -----------------------------------------------------------------------------
+
 import requests
 from ddgs import DDGS
 from bs4 import BeautifulSoup
@@ -9,35 +28,47 @@ from typing import List, Dict, Any
 
 import aiohttp
 import asyncio
-# from openai import OpenAI
 from openai import AsyncOpenAI
 
+# Load env vars from .env if present (OPENAI keys, Mongo URI, etc.)
 load_dotenv()
 
+# Async OpenAI client (only used for chat.completions in this script)
 client = AsyncOpenAI(
     organization=os.getenv("OPENAI_ORG_ID"),
     api_key=os.getenv("OPENAI_API_KEY")
 )
 
+# Mongo connection URI from env (e.g., mongodb+srv://...)
 MONGO_URI = os.getenv("MONGO_URI")
 
-# Set up mongodb client
+# Set up mongodb client and DB handle
 mongo_client = MongoClient(MONGO_URI)
 db = mongo_client["forecasting"]  # Change name if needed
 
 # --- concurrency controls (tune these) ---
+# Limit how many OpenAI requests run concurrently across tasks.
 SEM_OPENAI = asyncio.Semaphore(3)   # concurrent OpenAI calls (steps 1 & 4)
+# Limit how many HTTP requests (scraping) run concurrently.
 SEM_HTTP   = asyncio.Semaphore(10)  # concurrent HTTP fetches (step 3)
+# Limit how many event tickers run end-to-end concurrently.
 SEM_TICKERS = asyncio.Semaphore(4)
+# Global per-request timeout for aiohttp GETs (total time).
 HTTP_TIMEOUT = aiohttp.ClientTimeout(total=15)
 
 
 def utc_stamp():
+    # Timestamp used as a run key for idempotency (one report/day).
+    # Example: "20250830" for Aug 30, 2025.
     # return dt.datetime.utcnow().strftime("%Y%m%dT%H%M%SZ")
     return dt.datetime.utcnow().strftime("%Y%m%d")
 
 
 def write_to_db(report, timestamp, event_ticker):
+    """
+    Persist a single research report for (timestamp, event_ticker).
+    Overwrites are not handled; caller ensures uniqueness before insert.
+    """
     collection = db["reports"]
 
     data = {}
@@ -50,6 +81,10 @@ def write_to_db(report, timestamp, event_ticker):
 
 
 def read_from_db(timestamp, event_ticker):
+    """
+    Read back an existing report for (timestamp, event_ticker).
+    Returns the stored ddgs_report string, or None if not found.
+    """
     collection = db["reports"]
 
     # Get market-level predictions for this ensemble run
@@ -67,10 +102,15 @@ def read_from_db(timestamp, event_ticker):
 
 
 def get_market_descriptions(event, markets):
+    """
+    Build a human-readable block describing the event and its markets.
+    This text conditions downstream LLM prompts (query generation, summarization).
+    """
     # Generate market descriptions
     market_descriptions = "" 
     
     if len(markets) == 1:
+        # Single yes/no market under the event
         m = markets[0]
         market_descriptions = f"""Event title: {event['title']}
 Title: {m['title']}
@@ -84,7 +124,10 @@ Rules: {m['rules_primary']}"""
         market_descriptions += f"\n(Note: The market may resolve before this date.)\n"
 
     elif len(markets) > 1:
+        # Multiple markets (iterates and appends each)
         for idx, m in enumerate(markets):
+            # NOTE: m is likely a dict; getattr(...) will return default.
+            # Consider m.get('yes_sub_title', '') / m.get('rules_primary', '') later.
             market_descriptions += f"""# Market {idx + 1}
 Ticker: {m['ticker']}
 Title: {m['title']}
@@ -100,6 +143,10 @@ Rules: {getattr(m, 'rules_primary', '')}"""
 
 
 async def run_openai(prompt, model="gpt-4o-mini-2024-07-18"):
+    """
+    Thin wrapper to call OpenAI with concurrency guard.
+    Returns the text content of the first choice.
+    """
     async with SEM_OPENAI:
         response = await client.chat.completions.create(
             model=model,
@@ -110,6 +157,10 @@ async def run_openai(prompt, model="gpt-4o-mini-2024-07-18"):
 
 
 async def step1_generate_queries(event, market_descriptions):
+    """
+    Step 1: Ask LLM for short, informative search queries about the markets.
+    Output is a list of strings, one query per line.
+    """
     num_queries = 6
     max_words_in_query = 7
 
@@ -125,7 +176,12 @@ What are {num_queries} short search queries that would meaningfully improve the 
     return queries
 
 async def step2_search_ddgs(search_query, num_urls=5):
+    """
+    Step 2: Search DDGS (DuckDuckGo) for a query and return deduplicated results.
+    Runs blocking DDGS().text(...) inside a thread to avoid blocking the event loop.
+    """
     def blocking_ddgs():
+        # timelimit="y" ~ last year; fetch 2x to allow for dedup & filtering
         return list(DDGS().text(search_query, max_results=num_urls * 2, timelimit="y") or [])
     results = await asyncio.to_thread(blocking_ddgs)
 
@@ -141,6 +197,12 @@ async def step2_search_ddgs(search_query, num_urls=5):
 
 
 async def step3_scrape_urls(search_results, num_urls=5):
+    """
+    Step 3: Asynchronously fetch & parse the top search results.
+    - Uses aiohttp for concurrency, bounded by SEM_HTTP.
+    - Strips <script>/<style>, concatenates <p> text as article content.
+    - Returns up to num_urls cleaned article dicts.
+    """
     contents = []
     headers = {'User-Agent': 'Mozilla/5.0'}
 
@@ -156,14 +218,17 @@ async def step3_scrape_urls(search_results, num_urls=5):
                         return None
                     text = await resp.text()
             except Exception:
+                # Swallow per-URL exceptions to keep the batch moving.
                 return None
 
+        # Parse HTML and reduce to raw readable text.
         soup = BeautifulSoup(text, "html.parser")
         for tag in soup(['script', 'style']):
             tag.decompose()
         paragraphs = soup.find_all('p')
         article_text = "\n".join(p.get_text(separator="\n", strip=True) for p in paragraphs)
 
+        # Basic length guard to avoid empty or massive blobs.
         if 200 <= len(article_text) <= 100000:
             return {
                 "title": result.get('title', ''),
@@ -174,6 +239,7 @@ async def step3_scrape_urls(search_results, num_urls=5):
         return None
 
     async with aiohttp.ClientSession() as session:
+        # Fire off all fetches, then consume completions as they finish.
         tasks = [asyncio.create_task(fetch_parse(session, r)) for r in search_results]
         try:
             for coro in asyncio.as_completed(tasks):
@@ -183,7 +249,7 @@ async def step3_scrape_urls(search_results, num_urls=5):
                     if len(contents) >= num_urls:
                         break
         finally:
-            # Cancel remaining tasks and wait for them to finish to avoid
+            # Cancel remaining tasks and wait for them to finish to avoid warnings like:
             # "Task exception was never retrieved" and "Connector is closed."
             for t in tasks:
                 if not t.done():
@@ -194,6 +260,12 @@ async def step3_scrape_urls(search_results, num_urls=5):
 
 
 async def step4_summarization(contents, event, market_descriptions):
+    """
+    Step 4: Summarize cleaned articles into plain-text paragraphs.
+    - One paragraph per article.
+    - Include date and source URL at end of each paragraph (per prompt).
+    - Avoids headings/markdown in the response.
+    """
     # Concatenate articles 
     articles_concatenated = ""
     for index, content in enumerate(contents):
@@ -219,6 +291,10 @@ Important note: Include the date and source URL of the article at the end of eac
 
 # --- per-query chain (2->3->4) ---
 async def process_query(search_query, event, market_descriptions, num_urls=5):
+    """
+    Orchestrates steps 2->3->4 for a single search query:
+      search -> scrape -> summarize
+    """
     results  = await step2_search_ddgs(search_query, num_urls)
     contents = await step3_scrape_urls(results, num_urls)
     return await step4_summarization(contents, event, market_descriptions)
@@ -226,6 +302,12 @@ async def process_query(search_query, event, market_descriptions, num_urls=5):
 
 # --- per-ticker pipeline with fan-out across queries ---
 async def get_ddgs_report(index, event):
+    """
+    For a single event:
+      - Generate queries (step 1).
+      - Fan out processing (steps 2-4) across queries concurrently.
+      - Join summaries into a single research report string.
+    """
     print(f"Generating report for event {index}: {event['event_ticker']}")
     market_descriptions = get_market_descriptions(event, event['markets'])
     queries = await step1_generate_queries(event, market_descriptions)
@@ -242,6 +324,10 @@ async def get_ddgs_report(index, event):
 
 
 def fetch_current_events():
+    """
+    Fetch the current list of active event tickers from GitHub (raw JSON).
+    Retries on error until a valid list is returned.
+    """
     json_url = "https://raw.githubusercontent.com/jyoonsong/FutureBench/refs/heads/main/active_events.json"
 
     event_tickers = None
@@ -258,6 +344,14 @@ def fetch_current_events():
     
 
 async def main():
+    """
+    End-to-end runner:
+      - Creates daily timestamp key.
+      - Fetches active event tickers.
+      - Skips tickers already processed today.
+      - Fetches event JSON (with_nested_markets) via Kalshi API.
+      - Generates & stores reports concurrently, bounded by SEM_TICKERS.
+    """
     timestamp = utc_stamp()
     print(f"Running Kalshi scraper at {timestamp}")
 
@@ -265,12 +359,14 @@ async def main():
     print(f"Fetched {len(event_tickers)} current events from GitHub")
 
     async def guarded_process(index, event):
+        # Per-event concurrency guard so we don't overload downstream services.
         async with SEM_TICKERS:
             ddgs_report = await get_ddgs_report(index, event)
             write_to_db(ddgs_report, timestamp, event["event_ticker"])
 
     tasks = []
     for index, event_ticker in enumerate(event_tickers):
+        # Idempotency: if today's report exists for this ticker, skip the work.
         existing_report = read_from_db(timestamp, event_ticker)
         if existing_report is not None:
             print(f"Report already exists for {event_ticker} at {timestamp}, skipping...")
@@ -278,6 +374,7 @@ async def main():
 
         # fetch event details without blocking the whole loop
         def fetch_event():
+            # Retry until success; consider backoff or max-retries in the future.
             while True:
                 try:
                     resp = requests.get(
@@ -289,10 +386,13 @@ async def main():
                 except Exception as e:
                     print(f"Retrying event fetch for {event_ticker}: {e}")
 
+        # Offload the blocking requests.get to a worker thread.
         event = await asyncio.to_thread(fetch_event)  # offload blocking requests
         tasks.append(asyncio.create_task(guarded_process(index, event)))
 
+    # Wait for all event tasks to complete.
     await asyncio.gather(*tasks)
 
 if __name__ == "__main__":
+    # Entry point for async program.
     asyncio.run(main())
