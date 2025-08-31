@@ -5257,5 +5257,40 @@
             "20250830": "ddgs_kxserieagame-25aug31intudi_20250830"
         },
         "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": {},
+        "event_ticker": "KXLIGUE1GAME-25AUG31OLOM",
+        "series_ticker": "KXLIGUE1GAME",
+        "title": "Lyon vs Marseille",
+        "sub_title": "OL vs OM (Aug 31)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "ddgs_reports": {
+            "20250830": "ddgs_kxligue1game-25aug31olom_20250830"
+        },
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXMLBGAME-25AUG31NYYCWS",
+        "series_ticker": "KXMLBGAME",
+        "title": "New York Y at Chicago WS",
+        "sub_title": "NYY at CWS (Aug 31)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXMLBGAME-25AUG31DETKC",
+        "series_ticker": "KXMLBGAME",
+        "title": "Detroit at Kansas City",
+        "sub_title": "DET at KC (Aug 31)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250831"
     }
 ]
