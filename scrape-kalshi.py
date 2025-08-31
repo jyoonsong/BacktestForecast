@@ -55,7 +55,9 @@ def read_from_db(timestamp, event_ticker):
     if len(reports) == 0:
         return None
     else:
-        return reports[0]["ddgs_report"]
+        ddgs_report = reports[0].get("ddgs_report", None)
+        ddgs_urls = reports[0].get("ddgs_urls", None)
+        return ddgs_report, ddgs_urls
 
 def get_timestamps():
     """
@@ -166,9 +168,12 @@ def scrape_kalshi_events():
                 event['ddgs_reports'] = {}
             for timestamp in timestamps:
                 if timestamp not in event["ddgs_reports"]:
-                    report = read_from_db(timestamp, event["event_ticker"])
+                    report, urls = read_from_db(timestamp, event["event_ticker"])
                     if report is not None:
                         event['ddgs_reports'][timestamp] = report
+                    if urls is not None:
+                        event['ddgs_urls'][timestamp] = urls
+
             # Keep the event active.
             final_events.append(event)
             
@@ -187,9 +192,11 @@ def scrape_kalshi_events():
             event_obj['ddgs_reports'] = {}
             
             # find ddgs report for today
-            report = read_from_db(timestamp_now, event['event_ticker'])
+            report, urls = read_from_db(timestamp_now, event['event_ticker'])
             if report is not None:
                 event_obj['ddgs_reports'][timestamp_now] = report
+            if urls is not None:
+                event_obj['ddgs_urls'][timestamp_now] = urls
 
             event_obj['event_ticker'] = event['event_ticker']
             event_obj['series_ticker'] = event['series_ticker']
@@ -262,6 +269,18 @@ def scrape_kalshi_events():
             logger.info(f"Market {market['ticker']} is no longer active.")
             market['resolution_date'] = timestamp_now
             resolved_markets.append(market)
+
+    for event in resolved_events:
+        # Ensure 'ddgs_reports' field exists, then try to backfill last 3 days.
+        if "ddgs_reports" not in event:
+            event['ddgs_reports'] = {}
+        for timestamp in timestamps:
+            if timestamp not in event["ddgs_reports"]:
+                report, urls = (timestamp, event["event_ticker"])
+                if report is not None:
+                    event['ddgs_reports'][timestamp] = report
+                if urls is not None:
+                    event['ddgs_urls'][timestamp] = urls
 
     # Persist updated snapshots to disk.
     with open(files[0], "w") as f:
