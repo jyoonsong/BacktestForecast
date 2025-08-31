@@ -187,20 +187,23 @@ def scrape_kalshi_events():
 
                 # TEMPORARY: already present 
                 else:
-                    report = read_from_db(timestamp, event["event_ticker"])
                     # generate unique hash id
                     hash_id = f"ddgs_{event['event_ticker'].lower()}_{timestamp}"
 
-                    # move it to reports.json
-                    ddgs_reports.append({
-                        "hash_id": hash_id,
-                        "timestamp": timestamp,
-                        "event_ticker": event["event_ticker"],
-                        "report": report,
-                    })
+                    # if hash id is not in ddgs_reports, fetch the report from DB
+                    if not any(r['hash_id'] == hash_id for r in ddgs_reports):
+                        report = read_from_db(timestamp, event["event_ticker"])
 
-                    # save hash id instead
-                    event['ddgs_reports'][timestamp] = hash_id
+                        # move it to reports.json
+                        ddgs_reports.append({
+                            "hash_id": hash_id,
+                            "timestamp": timestamp,
+                            "event_ticker": event["event_ticker"],
+                            "report": report,
+                        })
+
+                        # save hash id instead
+                        event['ddgs_reports'][timestamp] = hash_id
 
             # Keep the event active.
             final_events.append(event)
@@ -316,7 +319,7 @@ def scrape_kalshi_events():
     with open(files[3], "w") as f:
         json.dump(resolved_markets, f, indent=4)
     with open(files[4], "w") as f:
-        json.dump(ddgs_reports[:100], f, indent=4)
+        json.dump(ddgs_reports[:1000], f, indent=4)
 
     return files, final_events
 
