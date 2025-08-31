@@ -196,7 +196,7 @@ def scrape_kalshi_events():
                         "hash_id": hash_id,
                         "timestamp": timestamp,
                         "event_ticker": event["event_ticker"],
-                        "report": event["ddgs_reports"][timestamp],
+                        "report": report,
                     })
 
                     # save hash id instead
