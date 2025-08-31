@@ -10291,7 +10291,8 @@
         "mutually_exclusive": false,
         "category": "Sports",
         "ddgs_reports": {
-            "20250830": "ddgs_kxnflredzoneads-25_20250830"
+            "20250830": "ddgs_kxnflredzoneads-25_20250830",
+            "20250831": "ddgs_kxnflredzoneads-25_20250831"
         }
     },
     {
@@ -10303,7 +10304,8 @@
         "mutually_exclusive": true,
         "category": "Companies",
         "ddgs_reports": {
-            "20250830": "ddgs_kxnextyaccarino-26jan_20250830"
+            "20250830": "ddgs_kxnextyaccarino-26jan_20250830",
+            "20250831": "ddgs_kxnextyaccarino-26jan_20250831"
         }
     },
     {
@@ -10315,7 +10317,8 @@
         "mutually_exclusive": true,
         "category": "Politics",
         "ddgs_reports": {
-            "20250830": "ddgs_kxnexttongapm-26_20250830"
+            "20250830": "ddgs_kxnexttongapm-26_20250830",
+            "20250831": "ddgs_kxnexttongapm-26_20250831"
         }
     },
     {
@@ -10327,7 +10330,8 @@
         "mutually_exclusive": true,
         "category": "Sports",
         "ddgs_reports": {
-            "20250830": "ddgs_kxnextteamverstappen-26_20250830"
+            "20250830": "ddgs_kxnextteamverstappen-26_20250830",
+            "20250831": "ddgs_kxnextteamverstappen-26_20250831"
         }
     },
     {
@@ -10339,7 +10343,8 @@
         "mutually_exclusive": true,
         "category": "Science and Technology",
         "ddgs_reports": {
-            "20250830": "ddgs_kxnextlaunchsmall-26_20250830"
+            "20250830": "ddgs_kxnextlaunchsmall-26_20250830",
+            "20250831": "ddgs_kxnextlaunchsmall-26_20250831"
         }
     },
     {
@@ -10351,7 +10356,8 @@
         "mutually_exclusive": false,
         "category": "Politics",
         "ddgs_reports": {
-            "20250830": "ddgs_kxnewpartymusk_20250830"
+            "20250830": "ddgs_kxnewpartymusk_20250830",
+            "20250831": "ddgs_kxnewpartymusk_20250831"
         }
     },
     {
@@ -10363,7 +10369,8 @@
         "mutually_exclusive": false,
         "category": "Companies",
         "ddgs_reports": {
-            "20250830": "ddgs_kxnewmetavr_20250830"
+            "20250830": "ddgs_kxnewmetavr_20250830",
+            "20250831": "ddgs_kxnewmetavr_20250831"
         }
     },
     {
@@ -10375,7 +10382,8 @@
         "mutually_exclusive": false,
         "category": "Science and Technology",
         "ddgs_reports": {
-            "20250830": "ddgs_kxnewglenn-26_20250830"
+            "20250830": "ddgs_kxnewglenn-26_20250830",
+            "20250831": "ddgs_kxnewglenn-26_20250831"
         }
     },
     {
@@ -10387,7 +10395,8 @@
         "mutually_exclusive": false,
         "category": "Health",
         "ddgs_reports": {
-            "20250830": "ddgs_kxnewcovidvax-26_20250830"
+            "20250830": "ddgs_kxnewcovidvax-26_20250830",
+            "20250831": "ddgs_kxnewcovidvax-26_20250831"
         }
     },
     {
@@ -10399,7 +10408,8 @@
         "mutually_exclusive": false,
         "category": "Politics",
         "ddgs_reports": {
-            "20250830": "ddgs_kxnewcensus-25_20250830"
+            "20250830": "ddgs_kxnewcensus-25_20250830",
+            "20250831": "ddgs_kxnewcensus-25_20250831"
         }
     },
     {
@@ -10411,7 +10421,8 @@
         "mutually_exclusive": false,
         "category": "Companies",
         "ddgs_reports": {
-            "20250830": "ddgs_kxnewaaplvr_20250830"
+            "20250830": "ddgs_kxnewaaplvr_20250830",
+            "20250831": "ddgs_kxnewaaplvr_20250831"
         }
     },
     {
@@ -10423,7 +10434,8 @@
         "mutually_exclusive": false,
         "category": "Science and Technology",
         "ddgs_reports": {
-            "20250830": "ddgs_kxneutronorbit-25_20250830"
+            "20250830": "ddgs_kxneutronorbit-25_20250830",
+            "20250831": "ddgs_kxneutronorbit-25_20250831"
         }
     },
     {
@@ -10435,7 +10447,8 @@
         "mutually_exclusive": false,
         "category": "World",
         "ddgs_reports": {
-            "20250830": "ddgs_kxnationalizespacex_20250830"
+            "20250830": "ddgs_kxnationalizespacex_20250830",
+            "20250831": "ddgs_kxnationalizespacex_20250831"
         }
     },
     {
@@ -10447,7 +10460,8 @@
         "mutually_exclusive": false,
         "category": "Economics",
         "ddgs_reports": {
-            "20250830": "ddgs_kxmuskwealth-26_20250830"
+            "20250830": "ddgs_kxmuskwealth-26_20250830",
+            "20250831": "ddgs_kxmuskwealth-26_20250831"
         }
     },
     {
@@ -10459,7 +10473,8 @@
         "mutually_exclusive": false,
         "category": "Social",
         "ddgs_reports": {
-            "20250830": "ddgs_kxmuskunfollowdjt-25_20250830"
+            "20250830": "ddgs_kxmuskunfollowdjt-25_20250830",
+            "20250831": "ddgs_kxmuskunfollowdjt-25_20250831"
         }
     },
     {
@@ -10471,7 +10486,8 @@
         "mutually_exclusive": false,
         "category": "Entertainment",
         "ddgs_reports": {
-            "20250830": "ddgs_kxmusksports-26_20250830"
+            "20250830": "ddgs_kxmusksports-26_20250830",
+            "20250831": "ddgs_kxmusksports-26_20250831"
         }
     },
     {
@@ -10483,7 +10499,8 @@
         "mutually_exclusive": false,
         "category": "Companies",
         "ddgs_reports": {
-            "20250830": "ddgs_kxmuskcable-26_20250830"
+            "20250830": "ddgs_kxmuskcable-26_20250830",
+            "20250831": "ddgs_kxmuskcable-26_20250831"
         }
     },
     {
@@ -10495,7 +10512,8 @@
         "mutually_exclusive": false,
         "category": "Science and Technology",
         "ddgs_reports": {
-            "20250830": "ddgs_kxmuskbluesky-26_20250830"
+            "20250830": "ddgs_kxmuskbluesky-26_20250830",
+            "20250831": "ddgs_kxmuskbluesky-26_20250831"
         }
     },
     {
@@ -10507,7 +10525,8 @@
         "mutually_exclusive": false,
         "category": "Politics",
         "ddgs_reports": {
-            "20250830": "ddgs_kxmtgisrael-26jan_20250830"
+            "20250830": "ddgs_kxmtgisrael-26jan_20250830",
+            "20250831": "ddgs_kxmtgisrael-26jan_20250831"
         }
     },
     {
@@ -10519,7 +10538,8 @@
         "mutually_exclusive": false,
         "category": "Health",
         "ddgs_reports": {
-            "20250830": "ddgs_kxmpoxcases-26jan01_20250830"
+            "20250830": "ddgs_kxmpoxcases-26jan01_20250830",
+            "20250831": "ddgs_kxmpoxcases-26jan01_20250831"
         }
     },
     {
@@ -10531,7 +10551,8 @@
         "mutually_exclusive": false,
         "category": "Science and Technology",
         "ddgs_reports": {
-            "20250830": "ddgs_kxmodelhigh-26_20250830"
+            "20250830": "ddgs_kxmodelhigh-26_20250830",
+            "20250831": "ddgs_kxmodelhigh-26_20250831"
         }
     },
     {
@@ -10543,7 +10564,8 @@
         "mutually_exclusive": false,
         "category": "Science and Technology",
         "ddgs_reports": {
-            "20250830": "ddgs_kxmillennium-25_20250830"
+            "20250830": "ddgs_kxmillennium-25_20250830",
+            "20250831": "ddgs_kxmillennium-25_20250831"
         }
     },
     {
@@ -10555,7 +10577,8 @@
         "mutually_exclusive": false,
         "category": "Sports",
         "ddgs_reports": {
-            "20250830": "ddgs_kxmessiretire-26_20250830"
+            "20250830": "ddgs_kxmessiretire-26_20250830",
+            "20250831": "ddgs_kxmessiretire-26_20250831"
         }
     },
     {
@@ -10567,7 +10590,8 @@
         "mutually_exclusive": false,
         "category": "Politics",
         "ddgs_reports": {
-            "20250830": "ddgs_kxmelaniasuehunter-26_20250830"
+            "20250830": "ddgs_kxmelaniasuehunter-26_20250830",
+            "20250831": "ddgs_kxmelaniasuehunter-26_20250831"
         }
     },
     {
@@ -10579,7 +10603,8 @@
         "mutually_exclusive": false,
         "category": "Politics",
         "ddgs_reports": {
-            "20250830": "ddgs_kxmedicareneg-26_20250830"
+            "20250830": "ddgs_kxmedicareneg-26_20250830",
+            "20250831": "ddgs_kxmedicareneg-26_20250831"
         }
     },
     {
@@ -10591,7 +10616,8 @@
         "mutually_exclusive": true,
         "category": "Politics",
         "ddgs_reports": {
-            "20250830": "ddgs_kxmayornycparty-25_20250830"
+            "20250830": "ddgs_kxmayornycparty-25_20250830",
+            "20250831": "ddgs_kxmayornycparty-25_20250831"
         }
     },
     {
@@ -10603,7 +10629,8 @@
         "mutually_exclusive": false,
         "category": "Politics",
         "ddgs_reports": {
-            "20250830": "ddgs_kxmaxwelltestify-26jan_20250830"
+            "20250830": "ddgs_kxmaxwelltestify-26jan_20250830",
+            "20250831": "ddgs_kxmaxwelltestify-26jan_20250831"
         }
     },
     {
@@ -10615,7 +10642,8 @@
         "mutually_exclusive": false,
         "category": "Social",
         "ddgs_reports": {
-            "20250830": "ddgs_kxmarriageswiftkelce-25_20250830"
+            "20250830": "ddgs_kxmarriageswiftkelce-25_20250830",
+            "20250831": "ddgs_kxmarriageswiftkelce-25_20250831"
         }
     },
     {
@@ -10627,7 +10655,8 @@
         "mutually_exclusive": false,
         "category": "Social",
         "ddgs_reports": {
-            "20250830": "ddgs_kxmarriageasaprihanna-25_20250830"
+            "20250830": "ddgs_kxmarriageasaprihanna-25_20250830",
+            "20250831": "ddgs_kxmarriageasaprihanna-25_20250831"
         }
     },
     {
@@ -10639,7 +10668,8 @@
         "mutually_exclusive": false,
         "category": "Crypto",
         "ddgs_reports": {
-            "20250830": "ddgs_kxmag7btc-day_20250830"
+            "20250830": "ddgs_kxmag7btc-day_20250830",
+            "20250831": "ddgs_kxmag7btc-day_20250831"
         }
     },
     {
@@ -10651,7 +10681,8 @@
         "mutually_exclusive": false,
         "category": "Politics",
         "ddgs_reports": {
-            "20250830": "ddgs_kxmacronowens-26_20250830"
+            "20250830": "ddgs_kxmacronowens-26_20250830",
+            "20250831": "ddgs_kxmacronowens-26_20250831"
         }
     },
     {
@@ -10663,7 +10694,8 @@
         "mutually_exclusive": false,
         "category": "Crypto",
         "ddgs_reports": {
-            "20250830": "ddgs_kxltcminy-25_20250830"
+            "20250830": "ddgs_kxltcminy-25_20250830",
+            "20250831": "ddgs_kxltcminy-25_20250831"
         }
     },
     {
@@ -10675,7 +10707,8 @@
         "mutually_exclusive": false,
         "category": "Crypto",
         "ddgs_reports": {
-            "20250830": "ddgs_kxltcmaxy-25_20250830"
+            "20250830": "ddgs_kxltcmaxy-25_20250830",
+            "20250831": "ddgs_kxltcmaxy-25_20250831"
         }
     },
     {
@@ -10687,7 +10720,8 @@
         "mutually_exclusive": false,
         "category": "Science and Technology",
         "ddgs_reports": {
-            "20250830": "ddgs_kxllmchess-26_20250830"
+            "20250830": "ddgs_kxllmchess-26_20250830",
+            "20250831": "ddgs_kxllmchess-26_20250831"
         }
     },
     {
@@ -10699,7 +10733,8 @@
         "mutually_exclusive": false,
         "category": "Science and Technology",
         "ddgs_reports": {
-            "20250830": "ddgs_kxllama5-26_20250830"
+            "20250830": "ddgs_kxllama5-26_20250830",
+            "20250831": "ddgs_kxllama5-26_20250831"
         }
     },
     {
@@ -10711,7 +10746,8 @@
         "mutually_exclusive": false,
         "category": "Crypto",
         "ddgs_reports": {
-            "20250830": "ddgs_kxlinkminy-25_20250830"
+            "20250830": "ddgs_kxlinkminy-25_20250830",
+            "20250831": "ddgs_kxlinkminy-25_20250831"
         }
     },
     {
@@ -10723,7 +10759,8 @@
         "mutually_exclusive": false,
         "category": "Crypto",
         "ddgs_reports": {
-            "20250830": "ddgs_kxlinkmaxy-25_20250830"
+            "20250830": "ddgs_kxlinkmaxy-25_20250830",
+            "20250831": "ddgs_kxlinkmaxy-25_20250831"
         }
     },
     {
@@ -10735,7 +10772,8 @@
         "mutually_exclusive": false,
         "category": "Entertainment",
         "ddgs_reports": {
-            "20250830": "ddgs_kxleonardodicaprio-26_20250830"
+            "20250830": "ddgs_kxleonardodicaprio-26_20250830",
+            "20250831": "ddgs_kxleonardodicaprio-26_20250831"
         }
     },
     {
@@ -10747,7 +10785,8 @@
         "mutually_exclusive": false,
         "category": "Companies",
         "ddgs_reports": {
-            "20250830": "ddgs_kxleavemeta-25_20250830"
+            "20250830": "ddgs_kxleavemeta-25_20250830",
+            "20250831": "ddgs_kxleavemeta-25_20250831"
         }
     },
     {
@@ -10759,7 +10798,8 @@
         "mutually_exclusive": false,
         "category": "Companies",
         "ddgs_reports": {
-            "20250830": "ddgs_kxleavemaguiresequoia-25_20250830"
+            "20250830": "ddgs_kxleavemaguiresequoia-25_20250830",
+            "20250831": "ddgs_kxleavemaguiresequoia-25_20250831"
         }
     },
     {
@@ -19188,18 +19228,6 @@
     },
     {
         "bing_reports": {},
-        "event_ticker": "KXLIGUE1GAME-25AUG31OLOM",
-        "series_ticker": "KXLIGUE1GAME",
-        "title": "Lyon vs Marseille",
-        "sub_title": "OL vs OM (Aug 31)",
-        "mutually_exclusive": true,
-        "category": "Sports",
-        "ddgs_reports": {
-            "20250830": "ddgs_kxligue1game-25aug31olom_20250830"
-        }
-    },
-    {
-        "bing_reports": {},
         "event_ticker": "KXSPACEXCOUNT-25AUG",
         "series_ticker": "KXSPACEXCOUNT",
         "title": "How many launches will SpaceX have this month?",
@@ -20537,30 +20565,10 @@
     {
         "bing_reports": {},
         "ddgs_reports": {},
-        "event_ticker": "KXMLBGAME-25AUG31NYYCWS",
-        "series_ticker": "KXMLBGAME",
-        "title": "New York Y at Chicago WS",
-        "sub_title": "NYY at CWS (Aug 31)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
         "event_ticker": "KXMLBGAME-25AUG31LAAHOU",
         "series_ticker": "KXMLBGAME",
         "title": "Los Angeles A at Houston",
         "sub_title": "LAA at HOU (Aug 31)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXMLBGAME-25AUG31DETKC",
-        "series_ticker": "KXMLBGAME",
-        "title": "Detroit at Kansas City",
-        "sub_title": "DET at KC (Aug 31)",
         "mutually_exclusive": true,
         "category": "Sports"
     },
