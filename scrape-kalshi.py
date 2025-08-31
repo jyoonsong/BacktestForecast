@@ -277,10 +277,11 @@ def scrape_kalshi_events():
         # Ensure 'ddgs_reports' field exists, then try to backfill last 3 days.
         if "ddgs_reports" not in event:
             event['ddgs_reports'] = {}
+        if "ddgs_urls" not in event:
             event['ddgs_urls'] = {}
         for timestamp in timestamps:
             if timestamp not in event["ddgs_reports"]:
-                report, urls = (timestamp, event["event_ticker"])
+                report, urls = read_from_db(timestamp, event["event_ticker"])
                 if report is not None:
                     event['ddgs_reports'][timestamp] = report
                 if urls is not None:
