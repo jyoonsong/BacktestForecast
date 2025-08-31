@@ -2,7 +2,8 @@
 
 ### TODOS
 
--   Archiving urls using `savepagenow`
+-   Archive urls using `savepagenow`
+-   Use jsonl instead of json
 -   Import bing reports
 -   Move datasets to HuggingFace
 
