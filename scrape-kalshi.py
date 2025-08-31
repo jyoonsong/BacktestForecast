@@ -289,29 +289,6 @@ def scrape_kalshi_events():
             market['resolution_date'] = timestamp_now
             resolved_markets.append(market)
 
-    # TEMPORARY script for moving reports from events to reports.json
-    for event in resolved_events:
-        for timestamp in timestamps:
-            if timestamp in event["ddgs_reports"]:
-                # generate unique hash id
-                hash_id = f"ddgs_{event['event_ticker'].lower()}_{timestamp}"
-
-                # if hash id is not in ddgs_reports, fetch the report from DB
-                if not any(r['hash_id'] == hash_id for r in ddgs_reports):
-                    # report = read_from_db(timestamp, event["event_ticker"])
-
-                    # move it to reports.json
-                    ddgs_reports.append({
-                        "hash_id": hash_id,
-                        "timestamp": timestamp,
-                        "event_ticker": event["event_ticker"],
-                        "report": event['ddgs_reports'][timestamp],
-                    })
-
-                    # replace report with hash id instead
-                    event['ddgs_reports'][timestamp] = hash_id
-
-
     # Persist updated snapshots to disk.
     with open(files[0], "w") as f:
         json.dump(final_events, f, indent=4)
