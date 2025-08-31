@@ -273,20 +273,6 @@ def scrape_kalshi_events():
             market['resolution_date'] = timestamp_now
             resolved_markets.append(market)
 
-    for event in resolved_events:
-        # Ensure 'ddgs_reports' field exists, then try to backfill last 3 days.
-        if "ddgs_reports" not in event:
-            event['ddgs_reports'] = {}
-        if "ddgs_urls" not in event:
-            event['ddgs_urls'] = {}
-        for timestamp in timestamps:
-            if timestamp not in event["ddgs_reports"]:
-                report, urls = read_from_db(timestamp, event["event_ticker"])
-                if report is not None:
-                    event['ddgs_reports'][timestamp] = report
-                if urls is not None:
-                    event['ddgs_urls'][timestamp] = urls
-
     # Persist updated snapshots to disk.
     with open(files[0], "w") as f:
         json.dump(final_events, f, indent=4)
