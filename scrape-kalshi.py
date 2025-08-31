@@ -53,11 +53,10 @@ def read_from_db(timestamp, event_ticker):
     reports = list(cursor)
 
     if len(reports) == 0:
-        return None, None
+        return None
     else:
         ddgs_report = reports[0].get("ddgs_report", None)
-        ddgs_urls = reports[0].get("ddgs_urls", None)
-        return ddgs_report, ddgs_urls
+        return ddgs_report
 
 def get_timestamps():
     """
@@ -166,15 +165,11 @@ def scrape_kalshi_events():
             # Ensure 'ddgs_reports' field exists, then try to backfill last 3 days.
             if "ddgs_reports" not in event:
                 event['ddgs_reports'] = {}
-            if "ddgs_urls" not in event:
-                event['ddgs_urls'] = {}
             for timestamp in timestamps:
                 if timestamp not in event["ddgs_reports"]:
-                    report, urls = read_from_db(timestamp, event["event_ticker"])
+                    report = read_from_db(timestamp, event["event_ticker"])
                     if report is not None:
                         event['ddgs_reports'][timestamp] = report
-                    if urls is not None:
-                        event['ddgs_urls'][timestamp] = urls
 
             # Keep the event active.
             final_events.append(event)
@@ -192,14 +187,11 @@ def scrape_kalshi_events():
             event_obj = {}
             event_obj['bing_reports'] = {}
             event_obj['ddgs_reports'] = {}
-            event_obj['ddgs_urls'] = {}
             
             # find ddgs report for today
-            report, urls = read_from_db(timestamp_now, event['event_ticker'])
+            report = read_from_db(timestamp_now, event['event_ticker'])
             if report is not None:
                 event_obj['ddgs_reports'][timestamp_now] = report
-            if urls is not None:
-                event_obj['ddgs_urls'][timestamp_now] = urls
 
             event_obj['event_ticker'] = event['event_ticker']
             event_obj['series_ticker'] = event['series_ticker']
