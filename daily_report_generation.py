@@ -25,6 +25,7 @@ import os
 from pymongo import MongoClient
 import datetime as dt
 from typing import List, Dict, Any
+import savepagenow
 
 import aiohttp
 import asyncio
@@ -64,7 +65,7 @@ def utc_stamp():
     return dt.datetime.utcnow().strftime("%Y%m%d")
 
 
-def write_to_db(report, timestamp, event_ticker):
+def write_to_db(report, archive_urls, timestamp, event_ticker):
     """
     Persist a single research report for (timestamp, event_ticker).
     Overwrites are not handled; caller ensures uniqueness before insert.
@@ -75,6 +76,7 @@ def write_to_db(report, timestamp, event_ticker):
     data["timestamp"] = timestamp
     data["event_ticker"] = event_ticker
     data["ddgs_report"] = report
+    data["ddgs_urls"]  = archive_urls
     
     result = collection.insert_one(data)
     print(f"Inserted document with _id: {result.inserted_id}")
@@ -204,6 +206,7 @@ async def step3_scrape_urls(search_results, num_urls=5):
     - Returns up to num_urls cleaned article dicts.
     """
     contents = []
+    archives = []
     headers = {'User-Agent': 'Mozilla/5.0'}
 
     async def fetch_parse(session, result):
@@ -246,6 +249,8 @@ async def step3_scrape_urls(search_results, num_urls=5):
                 item = await coro
                 if item:
                     contents.append(item)
+                    archive_url, _ = savepagenow.capture_or_cache(item["href"])
+                    archives.append(archive_url)
                     if len(contents) >= num_urls:
                         break
         finally:
@@ -256,7 +261,7 @@ async def step3_scrape_urls(search_results, num_urls=5):
                     t.cancel()
             await asyncio.gather(*tasks, return_exceptions=True)
 
-    return contents
+    return contents, archives
 
 
 async def step4_summarization(contents, event, market_descriptions):
@@ -296,8 +301,9 @@ async def process_query(search_query, event, market_descriptions, num_urls=5):
       search -> scrape -> summarize
     """
     results  = await step2_search_ddgs(search_query, num_urls)
-    contents = await step3_scrape_urls(results, num_urls)
-    return await step4_summarization(contents, event, market_descriptions)
+    contents, archives = await step3_scrape_urls(results, num_urls)
+    summary = await step4_summarization(contents, event, market_descriptions)
+    return summary, archives
 
 
 # --- per-ticker pipeline with fan-out across queries ---
@@ -314,13 +320,17 @@ async def get_ddgs_report(index, event):
 
     # run step 2->3->4 for many queries in parallel (bounded by semaphores inside)
     per_query_tasks = [asyncio.create_task(process_query(q, event, market_descriptions, num_urls=5)) for q in queries]
-    summaries = await asyncio.gather(*per_query_tasks, return_exceptions=False)
+    results = await asyncio.gather(*per_query_tasks, return_exceptions=False)
+    summaries, archives_groups = zip(*results) if results else ([], [])
 
-    # combine (your step 5)
+    # combine summaries (your step 5)
     reports = "\n\n".join(f"# Research Report {i+1}:\n{summary}" for i, summary in enumerate(summaries)).strip()
 
+    # combine archive urls
+    archives = [url for group in archives_groups for url in group]
+
     print(f"Completed report for event {index}: {event['event_ticker']}")
-    return reports
+    return reports, archives
 
 
 def fetch_current_events():
@@ -361,8 +371,8 @@ async def main():
     async def guarded_process(index, event):
         # Per-event concurrency guard so we don't overload downstream services.
         async with SEM_TICKERS:
-            ddgs_report = await get_ddgs_report(index, event)
-            write_to_db(ddgs_report, timestamp, event["event_ticker"])
+            ddgs_report, ddgs_urls = await get_ddgs_report(index, event)
+            write_to_db(ddgs_report, ddgs_urls, timestamp, event["event_ticker"])
 
     tasks = []
     for index, event_ticker in enumerate(event_tickers):
