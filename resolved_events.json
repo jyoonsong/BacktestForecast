@@ -5209,5 +5209,40 @@
         "mutually_exclusive": true,
         "category": "Sports",
         "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": {},
+        "event_ticker": "KXSERIEAGAME-25AUG31LAZVER",
+        "series_ticker": "KXSERIEAGAME",
+        "title": "Lazio vs Hellas Verona",
+        "sub_title": "LAZ vs VER (Aug 31)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "ddgs_reports": {
+            "20250830": "ddgs_kxserieagame-25aug31lazver_20250830"
+        },
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXMLBGAME-25AUG31MIANYM",
+        "series_ticker": "KXMLBGAME",
+        "title": "Miami at New York M",
+        "sub_title": "MIA at NYM (Aug 31)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXMLBGAME-25AUG31MILTOR",
+        "series_ticker": "KXMLBGAME",
+        "title": "Milwaukee at Toronto",
+        "sub_title": "MIL at TOR (Aug 31)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250831"
     }
 ]
