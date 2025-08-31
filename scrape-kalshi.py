@@ -53,7 +53,7 @@ def read_from_db(timestamp, event_ticker):
     reports = list(cursor)
 
     if len(reports) == 0:
-        return None
+        return None, None
     else:
         ddgs_report = reports[0].get("ddgs_report", None)
         ddgs_urls = reports[0].get("ddgs_urls", None)
