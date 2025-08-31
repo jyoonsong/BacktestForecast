@@ -5292,5 +5292,16 @@
         "mutually_exclusive": true,
         "category": "Sports",
         "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXMLBGAME-25AUG31LAAHOU",
+        "series_ticker": "KXMLBGAME",
+        "title": "Los Angeles A at Houston",
+        "sub_title": "LAA at HOU (Aug 31)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250831"
     }
 ]
