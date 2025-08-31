@@ -315,7 +315,7 @@ def scrape_kalshi_events():
     with open(files[3], "w") as f:
         json.dump(resolved_markets, f, indent=4)
     with open(files[4], "w") as f:
-        f.write(json.dumps(ddgs_reports, ensure_ascii=False, indent=4))
+        json.dump(ddgs_reports, f, indent=4)
 
     return files, final_events
 
