@@ -10018,7 +10018,8 @@
         "mutually_exclusive": false,
         "category": "Politics",
         "ddgs_reports": {
-            "20250830": "ddgs_kxpartyleave-year_20250830"
+            "20250830": "ddgs_kxpartyleave-year_20250830",
+            "20250831": "ddgs_kxpartyleave-year_20250831"
         }
     },
     {
@@ -10030,7 +10031,8 @@
         "mutually_exclusive": false,
         "category": "Politics",
         "ddgs_reports": {
-            "20250830": "ddgs_kxpartyleaderout-25_20250830"
+            "20250830": "ddgs_kxpartyleaderout-25_20250830",
+            "20250831": "ddgs_kxpartyleaderout-25_20250831"
         }
     },
     {
@@ -10042,7 +10044,8 @@
         "mutually_exclusive": false,
         "category": "Politics",
         "ddgs_reports": {
-            "20250830": "ddgs_kxparliamentarian-26_20250830"
+            "20250830": "ddgs_kxparliamentarian-26_20250830",
+            "20250831": "ddgs_kxparliamentarian-26_20250831"
         }
     },
     {
@@ -10054,7 +10057,8 @@
         "mutually_exclusive": false,
         "category": "Politics",
         "ddgs_reports": {
-            "20250830": "ddgs_kxpalnyt-26_20250830"
+            "20250830": "ddgs_kxpalnyt-26_20250830",
+            "20250831": "ddgs_kxpalnyt-26_20250831"
         }
     },
     {
@@ -10066,7 +10070,8 @@
         "mutually_exclusive": false,
         "category": "Science and Technology",
         "ddgs_reports": {
-            "20250830": "ddgs_kxotherlaunch-26_20250830"
+            "20250830": "ddgs_kxotherlaunch-26_20250830",
+            "20250831": "ddgs_kxotherlaunch-26_20250831"
         }
     },
     {
@@ -10078,7 +10083,8 @@
         "mutually_exclusive": true,
         "category": "Companies",
         "ddgs_reports": {
-            "20250830": "ddgs_kxopendoorceo-26jan_20250830"
+            "20250830": "ddgs_kxopendoorceo-26jan_20250830",
+            "20250831": "ddgs_kxopendoorceo-26jan_20250831"
         }
     },
     {
@@ -10090,7 +10096,8 @@
         "mutually_exclusive": false,
         "category": "Economics",
         "ddgs_reports": {
-            "20250830": "ddgs_kxopeccuts-25_20250830"
+            "20250830": "ddgs_kxopeccuts-25_20250830",
+            "20250831": "ddgs_kxopeccuts-25_20250831"
         }
     },
     {
@@ -10102,7 +10109,8 @@
         "mutually_exclusive": false,
         "category": "Companies",
         "ddgs_reports": {
-            "20250830": "ddgs_kxoaiprofit-26_20250830"
+            "20250830": "ddgs_kxoaiprofit-26_20250830",
+            "20250831": "ddgs_kxoaiprofit-26_20250831"
         }
     },
     {
@@ -10114,7 +10122,8 @@
         "mutually_exclusive": false,
         "category": "Politics",
         "ddgs_reports": {
-            "20250830": "ddgs_kxoaimsft-26_20250830"
+            "20250830": "ddgs_kxoaimsft-26_20250830",
+            "20250831": "ddgs_kxoaimsft-26_20250831"
         }
     },
     {
@@ -10126,7 +10135,8 @@
         "mutually_exclusive": false,
         "category": "Science and Technology",
         "ddgs_reports": {
-            "20250830": "ddgs_kxnytoaisettle-25dec31_20250830"
+            "20250830": "ddgs_kxnytoaisettle-25dec31_20250830",
+            "20250831": "ddgs_kxnytoaisettle-25dec31_20250831"
         }
     },
     {
@@ -10138,7 +10148,8 @@
         "mutually_exclusive": false,
         "category": "Economics",
         "ddgs_reports": {
-            "20250830": "ddgs_kxnysecircuit-26_20250830"
+            "20250830": "ddgs_kxnysecircuit-26_20250830",
+            "20250831": "ddgs_kxnysecircuit-26_20250831"
         }
     },
     {
@@ -10150,7 +10161,8 @@
         "mutually_exclusive": false,
         "category": "Politics",
         "ddgs_reports": {
-            "20250830": "ddgs_kxnygovdp-26_20250830"
+            "20250830": "ddgs_kxnygovdp-26_20250830",
+            "20250831": "ddgs_kxnygovdp-26_20250831"
         }
     },
     {
@@ -10162,7 +10174,8 @@
         "mutually_exclusive": false,
         "category": "Politics",
         "ddgs_reports": {
-            "20250830": "ddgs_kxnprceochange-24_20250830"
+            "20250830": "ddgs_kxnprceochange-24_20250830",
+            "20250831": "ddgs_kxnprceochange-24_20250831"
         }
     },
     {
@@ -10174,7 +10187,8 @@
         "mutually_exclusive": false,
         "category": "Politics",
         "ddgs_reports": {
-            "20250830": "ddgs_kxnovohims-26_20250830"
+            "20250830": "ddgs_kxnovohims-26_20250830",
+            "20250831": "ddgs_kxnovohims-26_20250831"
         }
     },
     {
@@ -10186,7 +10200,8 @@
         "mutually_exclusive": false,
         "category": "Politics",
         "ddgs_reports": {
-            "20250830": "ddgs_kxnordstream2-26_20250830"
+            "20250830": "ddgs_kxnordstream2-26_20250830",
+            "20250831": "ddgs_kxnordstream2-26_20250831"
         }
     },
     {
@@ -10198,7 +10213,8 @@
         "mutually_exclusive": false,
         "category": "Politics",
         "ddgs_reports": {
-            "20250830": "ddgs_kxnoaalicense-26_20250830"
+            "20250830": "ddgs_kxnoaalicense-26_20250830",
+            "20250831": "ddgs_kxnoaalicense-26_20250831"
         }
     },
     {
@@ -10210,7 +10226,8 @@
         "mutually_exclusive": false,
         "category": "Financials",
         "ddgs_reports": {
-            "20250830": "ddgs_kxnjdrones-25_20250830"
+            "20250830": "ddgs_kxnjdrones-25_20250830",
+            "20250831": "ddgs_kxnjdrones-25_20250831"
         }
     },
     {
@@ -10222,7 +10239,8 @@
         "mutually_exclusive": false,
         "category": "Companies",
         "ddgs_reports": {
-            "20250830": "ddgs_kxnintendozelda-26_20250830"
+            "20250830": "ddgs_kxnintendozelda-26_20250830",
+            "20250831": "ddgs_kxnintendozelda-26_20250831"
         }
     },
     {
@@ -10234,7 +10252,8 @@
         "mutually_exclusive": false,
         "category": "Economics",
         "ddgs_reports": {
-            "20250830": "ddgs_kxngasmin-25dec29_20250830"
+            "20250830": "ddgs_kxngasmin-25dec29_20250830",
+            "20250831": "ddgs_kxngasmin-25dec29_20250831"
         }
     },
     {
@@ -10246,7 +10265,8 @@
         "mutually_exclusive": false,
         "category": "Economics",
         "ddgs_reports": {
-            "20250830": "ddgs_kxngasmax-25dec29_20250830"
+            "20250830": "ddgs_kxngasmax-25dec29_20250830",
+            "20250831": "ddgs_kxngasmax-25dec29_20250831"
         }
     },
     {
@@ -10258,7 +10278,8 @@
         "mutually_exclusive": false,
         "category": "Financials",
         "ddgs_reports": {
-            "20250830": "ddgs_kxnflxincrease-25_20250830"
+            "20250830": "ddgs_kxnflxincrease-25_20250830",
+            "20250831": "ddgs_kxnflxincrease-25_20250831"
         }
     },
     {
@@ -19163,18 +19184,6 @@
         "category": "Sports",
         "ddgs_reports": {
             "20250830": "ddgs_kxncaafgame-25aug31vtscar_20250830"
-        }
-    },
-    {
-        "bing_reports": {},
-        "event_ticker": "KXSERIEAGAME-25AUG31INTUDI",
-        "series_ticker": "KXSERIEAGAME",
-        "title": "Inter vs Udinese",
-        "sub_title": "INT vs UDI (Aug 31)",
-        "mutually_exclusive": true,
-        "category": "Sports",
-        "ddgs_reports": {
-            "20250830": "ddgs_kxserieagame-25aug31intudi_20250830"
         }
     },
     {
