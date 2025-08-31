@@ -1998,5 +1998,1585 @@
         "mutually_exclusive": true,
         "category": "Sports",
         "resolution_date": "20250830"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXUSAINTEL-25",
+        "series_ticker": "KXUSAINTEL",
+        "title": "Will the United States take a stake in Intel in 2025?",
+        "sub_title": "In 2025",
+        "mutually_exclusive": false,
+        "category": "Politics",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXHURCAT-FERNAND",
+        "series_ticker": "KXHURCAT",
+        "title": "Hurricane Fernand category?",
+        "sub_title": "Hurricane Fernand",
+        "mutually_exclusive": false,
+        "category": "Climate and Weather",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXMLSGAME-25AUG30TORMTL",
+        "series_ticker": "KXMLSGAME",
+        "title": "Toronto vs Montreal",
+        "sub_title": "TOR vs MTL (Aug 30)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXMLSGAME-25AUG30NYRBCLB",
+        "series_ticker": "KXMLSGAME",
+        "title": "New York vs Columbus",
+        "sub_title": "NYRB vs CLB (Aug 30)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXMLSGAME-25AUG30NYCDCU",
+        "series_ticker": "KXMLSGAME",
+        "title": "New York City vs DC United",
+        "sub_title": "NYC vs DCU (Aug 30)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXMLSGAME-25AUG30NECLT",
+        "series_ticker": "KXMLSGAME",
+        "title": "New England vs Charlotte",
+        "sub_title": "NE vs CLT (Aug 30)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXMLSGAME-25AUG30CINPHI",
+        "series_ticker": "KXMLSGAME",
+        "title": "Cincinnati vs Philadelphia",
+        "sub_title": "CIN vs PHI (Aug 30)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXNCAAFGAME-25AUG30SEMOARST",
+        "series_ticker": "KXNCAAFGAME",
+        "title": "Southeast Missouri St. at Arkansas St.",
+        "sub_title": "SEMO at ARST (Aug 30)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXNCAAFGAME-25AUG30NICHTROY",
+        "series_ticker": "KXNCAAFGAME",
+        "title": "Nicholls St. at Troy",
+        "sub_title": "NICH at TROY (Aug 30)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXNCAAFGAME-25AUG30LIUFLA",
+        "series_ticker": "KXNCAAFGAME",
+        "title": "LIU at Florida",
+        "sub_title": "LIU at FLA (Aug 30)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXNCAAFGAME-25AUG30CHSOVAN",
+        "series_ticker": "KXNCAAFGAME",
+        "title": "Charleston Southern at Vanderbilt",
+        "sub_title": "CHSO at VAN (Aug 30)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXNCAAFTOTAL-25AUG30WEBJMU",
+        "series_ticker": "KXNCAAFTOTAL",
+        "title": "Weber St. at James Madison: Point Total",
+        "sub_title": "WEB at JMU (Aug 30)",
+        "mutually_exclusive": false,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXNCAAFTOTAL-25AUG30ILSTOKLA",
+        "series_ticker": "KXNCAAFTOTAL",
+        "title": "Illinois St. at Oklahoma: Point Total",
+        "sub_title": "ILST at OKLA (Aug 30)",
+        "mutually_exclusive": false,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXNCAAFTOTAL-25AUG30ALBYIOWA",
+        "series_ticker": "KXNCAAFTOTAL",
+        "title": "University at Albany at Iowa: Point Total",
+        "sub_title": "ALBY at IOWA (Aug 30)",
+        "mutually_exclusive": false,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXNCAAFSPREAD-25AUG30WEBJMU",
+        "series_ticker": "KXNCAAFSPREAD",
+        "title": "Weber St. at James Madison: Spread",
+        "sub_title": "WEB at JMU (Aug 30)",
+        "mutually_exclusive": false,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXNCAAFSPREAD-25AUG30ILSTOKLA",
+        "series_ticker": "KXNCAAFSPREAD",
+        "title": "Illinois St. at Oklahoma: Spread",
+        "sub_title": "ILST at OKLA (Aug 30)",
+        "mutually_exclusive": false,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXNCAAFSPREAD-25AUG30ALBYIOWA",
+        "series_ticker": "KXNCAAFSPREAD",
+        "title": "University at Albany at Iowa: Spread",
+        "sub_title": "ALBY at IOWA (Aug 30)",
+        "mutually_exclusive": false,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXNCAAFGAME-25AUG30WEBJMU",
+        "series_ticker": "KXNCAAFGAME",
+        "title": "Weber St. at James Madison",
+        "sub_title": "WEB at JMU (Aug 30)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXNCAAFGAME-25AUG30ILSTOKLA",
+        "series_ticker": "KXNCAAFGAME",
+        "title": "Illinois St. at Oklahoma",
+        "sub_title": "ILST at OKLA (Aug 30)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXNCAAFGAME-25AUG30CCARUVA",
+        "series_ticker": "KXNCAAFGAME",
+        "title": "Coastal Carolina at Virginia",
+        "sub_title": "CCAR at UVA (Aug 30)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXNCAAFGAME-25AUG30ALBYIOWA",
+        "series_ticker": "KXNCAAFGAME",
+        "title": "University at Albany at Iowa",
+        "sub_title": "ALBY at IOWA (Aug 30)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXNCAAFGAME-25AUG30CHATMEM",
+        "series_ticker": "KXNCAAFGAME",
+        "title": "Chattanooga at Memphis",
+        "sub_title": "CHAT at MEM (Aug 30)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXNCAAFGAME-25AUG30AAMUARK",
+        "series_ticker": "KXNCAAFGAME",
+        "title": "Alabama A&M at Arkansas",
+        "sub_title": "AAMU at ARK (Aug 30)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXNCAAFTOTAL-25AUG30MTSTORE",
+        "series_ticker": "KXNCAAFTOTAL",
+        "title": "Montana St. at Oregon: Point Total",
+        "sub_title": "MTST at ORE (Aug 30)",
+        "mutually_exclusive": false,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXNCAAFTOTAL-25AUG30MELIB",
+        "series_ticker": "KXNCAAFTOTAL",
+        "title": "Maine at Liberty: Point Total",
+        "sub_title": "ME at LIB (Aug 30)",
+        "mutually_exclusive": false,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXNCAAFSPREAD-25AUG30MTSTORE",
+        "series_ticker": "KXNCAAFSPREAD",
+        "title": "Montana St. at Oregon: Spread",
+        "sub_title": "MTST at ORE (Aug 30)",
+        "mutually_exclusive": false,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXNCAAFSPREAD-25AUG30MELIB",
+        "series_ticker": "KXNCAAFSPREAD",
+        "title": "Maine at Liberty: Spread",
+        "sub_title": "ME at LIB (Aug 30)",
+        "mutually_exclusive": false,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXNCAAFGAME-25AUG30MTSTORE",
+        "series_ticker": "KXNCAAFGAME",
+        "title": "Montana St. at Oregon",
+        "sub_title": "MTST at ORE (Aug 30)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXNCAAFGAME-25AUG30MELIB",
+        "series_ticker": "KXNCAAFGAME",
+        "title": "Maine at Liberty",
+        "sub_title": "ME at LIB (Aug 30)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXNCAAFTOTAL-25AUG30TEMMASS",
+        "series_ticker": "KXNCAAFTOTAL",
+        "title": "Temple at UMass: Point Total",
+        "sub_title": "TEM at MASS (Aug 30)",
+        "mutually_exclusive": false,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXNCAAFTOTAL-25AUG30SDAKISU",
+        "series_ticker": "KXNCAAFTOTAL",
+        "title": "South Dakota at Iowa St.: Point Total",
+        "sub_title": "SDAK at ISU (Aug 30)",
+        "mutually_exclusive": false,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXNCAAFTOTAL-25AUG30NEVPSU",
+        "series_ticker": "KXNCAAFTOTAL",
+        "title": "Nevada at Penn St.: Point Total",
+        "sub_title": "NEV at PSU (Aug 30)",
+        "mutually_exclusive": false,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXNCAAFTOTAL-25AUG30MRSHUGA",
+        "series_ticker": "KXNCAAFTOTAL",
+        "title": "Marshall at Georgia: Point Total",
+        "sub_title": "MRSH at UGA (Aug 30)",
+        "mutually_exclusive": false,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXNCAAFTOTAL-25AUG30ALAFSU",
+        "series_ticker": "KXNCAAFTOTAL",
+        "title": "Alabama at Florida St.: Point Total",
+        "sub_title": "ALA at FSU (Aug 30)",
+        "mutually_exclusive": false,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXNCAAFSPREAD-25AUG30TEMMASS",
+        "series_ticker": "KXNCAAFSPREAD",
+        "title": "Temple at UMass: Spread",
+        "sub_title": "TEM at MASS (Aug 30)",
+        "mutually_exclusive": false,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXNCAAFSPREAD-25AUG30SDAKISU",
+        "series_ticker": "KXNCAAFSPREAD",
+        "title": "South Dakota at Iowa St.: Spread",
+        "sub_title": "SDAK at ISU (Aug 30)",
+        "mutually_exclusive": false,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXNCAAFSPREAD-25AUG30NEVPSU",
+        "series_ticker": "KXNCAAFSPREAD",
+        "title": "Nevada at Penn St.: Spread",
+        "sub_title": "NEV at PSU (Aug 30)",
+        "mutually_exclusive": false,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXNCAAFSPREAD-25AUG30MRSHUGA",
+        "series_ticker": "KXNCAAFSPREAD",
+        "title": "Marshall at Georgia: Spread",
+        "sub_title": "MRSH at UGA (Aug 30)",
+        "mutually_exclusive": false,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXNCAAFSPREAD-25AUG30ALAFSU",
+        "series_ticker": "KXNCAAFSPREAD",
+        "title": "Alabama at Florida St.: Spread",
+        "sub_title": "ALA at FSU (Aug 30)",
+        "mutually_exclusive": false,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXNCAAFGAME-25AUG30TEMMASS",
+        "series_ticker": "KXNCAAFGAME",
+        "title": "Temple at UMass",
+        "sub_title": "TEM at MASS (Aug 30)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXNCAAFGAME-25AUG30SDAKISU",
+        "series_ticker": "KXNCAAFGAME",
+        "title": "South Dakota at Iowa St.",
+        "sub_title": "SDAK at ISU (Aug 30)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXNCAAFGAME-25AUG30NEVPSU",
+        "series_ticker": "KXNCAAFGAME",
+        "title": "Nevada at Penn St.",
+        "sub_title": "NEV at PSU (Aug 30)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXNCAAFGAME-25AUG30MRSHUGA",
+        "series_ticker": "KXNCAAFGAME",
+        "title": "Marshall at Georgia",
+        "sub_title": "MRSH at UGA (Aug 30)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXNCAAFGAME-25AUG30HCNIU",
+        "series_ticker": "KXNCAAFGAME",
+        "title": "Holy Cross at Northern Illinois",
+        "sub_title": "HC at NIU (Aug 30)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXNCAAFGAME-25AUG30BUCKAFA",
+        "series_ticker": "KXNCAAFGAME",
+        "title": "Bucknell at Air Force",
+        "sub_title": "BUCK at AFA (Aug 30)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXNCAAFGAME-25AUG30ALAFSU",
+        "series_ticker": "KXNCAAFGAME",
+        "title": "Alabama at Florida St.",
+        "sub_title": "ALA at FSU (Aug 30)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXLALIGAGAME-25AUG30RMAMAL",
+        "series_ticker": "KXLALIGAGAME",
+        "title": "Real Madrid vs Mallorca",
+        "sub_title": "RMA vs MAL (Aug 30)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXLIGUE1GAME-25AUG30TFCPSG",
+        "series_ticker": "KXLIGUE1GAME",
+        "title": "Toulouse vs PSG",
+        "sub_title": "TFC vs PSG (Aug 30)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXNCAAFGAME-25AUG30EKYLOU",
+        "series_ticker": "KXNCAAFGAME",
+        "title": "Eastern Kentucky at Louisville",
+        "sub_title": "EKY at LOU (Aug 30)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXSERIEAGAME-25AUG30PISROM",
+        "series_ticker": "KXSERIEAGAME",
+        "title": "Pisa vs Roma",
+        "sub_title": "PIS vs ROM (Aug 30)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXSERIEAGAME-25AUG30NAPCAG",
+        "series_ticker": "KXSERIEAGAME",
+        "title": "Napoli vs Cagliari",
+        "sub_title": "NAP vs CAG (Aug 30)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXNCAAFTOTAL-25AUG30ODUIND",
+        "series_ticker": "KXNCAAFTOTAL",
+        "title": "Old Dominion at Indiana: Point Total",
+        "sub_title": "ODU at IND (Aug 30)",
+        "mutually_exclusive": false,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXNCAAFSPREAD-25AUG30ODUIND",
+        "series_ticker": "KXNCAAFSPREAD",
+        "title": "Old Dominion at Indiana: Spread",
+        "sub_title": "ODU at IND (Aug 30)",
+        "mutually_exclusive": false,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXNCAAFGAME-25AUG30ODUIND",
+        "series_ticker": "KXNCAAFGAME",
+        "title": "Old Dominion at Indiana",
+        "sub_title": "ODU at IND (Aug 30)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXNCAAFGAME-25AUG30RMUWVU",
+        "series_ticker": "KXNCAAFGAME",
+        "title": "Robert Morris at West Virginia",
+        "sub_title": "RMU at WVU (Aug 30)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXNCAAFGAME-25AUG30FORBC",
+        "series_ticker": "KXNCAAFGAME",
+        "title": "Fordham at Boston College",
+        "sub_title": "FOR at BC (Aug 30)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXNCAAFGAME-25AUG30CCSUCONN",
+        "series_ticker": "KXNCAAFGAME",
+        "title": "Central Connecticut St. at UConn",
+        "sub_title": "CCSU at CONN (Aug 30)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXLALIGAGAME-25AUG30GIRSEV",
+        "series_ticker": "KXLALIGAGAME",
+        "title": "Girona vs Sevilla",
+        "sub_title": "GIR vs SEV (Aug 30)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXLIGUE1GAME-25AUG30FCNAUX",
+        "series_ticker": "KXLIGUE1GAME",
+        "title": "Nantes vs Auxerre",
+        "sub_title": "FCN vs AUX (Aug 30)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXLALIGAGAME-25AUG30OVIRSO",
+        "series_ticker": "KXLALIGAGAME",
+        "title": "Oviedo vs Real Sociedad",
+        "sub_title": "OVI vs RSO (Aug 30)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXNCAAFTOTAL-25AUG30TOLUK",
+        "series_ticker": "KXNCAAFTOTAL",
+        "title": "Toledo at Kentucky: Point Total",
+        "sub_title": "TOL at UK (Aug 30)",
+        "mutually_exclusive": false,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXNCAAFSPREAD-25AUG30TOLUK",
+        "series_ticker": "KXNCAAFSPREAD",
+        "title": "Toledo at Kentucky: Spread",
+        "sub_title": "TOL at UK (Aug 30)",
+        "mutually_exclusive": false,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXNCAAFGAME-25AUG30TOLUK",
+        "series_ticker": "KXNCAAFGAME",
+        "title": "Toledo at Kentucky",
+        "sub_title": "TOL at UK (Aug 30)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXSERIEAGAME-25AUG30PARATA",
+        "series_ticker": "KXSERIEAGAME",
+        "title": "Parma Calcio vs Atalanta",
+        "sub_title": "PAR vs ATA (Aug 30)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXSERIEAGAME-25AUG30BFCCOM",
+        "series_ticker": "KXSERIEAGAME",
+        "title": "Bologna vs Como",
+        "sub_title": "BFC vs COM (Aug 30)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXEPLGAME-25AUG30LEENEW",
+        "series_ticker": "KXEPLGAME",
+        "title": "Leeds United vs Newcastle",
+        "sub_title": "LEE vs NEW (Aug 30)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXBUNDESLIGAGAME-25AUG30FCABMU",
+        "series_ticker": "KXBUNDESLIGAGAME",
+        "title": "Augsburg vs Bayern Munich",
+        "sub_title": "FCA vs BMU (Aug 30)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXNCAAFTOTAL-25AUG30TEXOSU",
+        "series_ticker": "KXNCAAFTOTAL",
+        "title": "Texas at Ohio St.: Point Total",
+        "sub_title": "TEX at OSU (Aug 30)",
+        "mutually_exclusive": false,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXNCAAFTOTAL-25AUG30SYRTENN",
+        "series_ticker": "KXNCAAFTOTAL",
+        "title": "Syracuse at Tennessee: Point Total",
+        "sub_title": "SYR at TENN (Aug 30)",
+        "mutually_exclusive": false,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXNCAAFTOTAL-25AUG30NWTULN",
+        "series_ticker": "KXNCAAFTOTAL",
+        "title": "Northwestern at Tulane: Point Total",
+        "sub_title": "NW at TULN (Aug 30)",
+        "mutually_exclusive": false,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXNCAAFTOTAL-25AUG30MSSTUSM",
+        "series_ticker": "KXNCAAFTOTAL",
+        "title": "Mississippi St. at Southern Miss: Point Total",
+        "sub_title": "MSST at USM (Aug 30)",
+        "mutually_exclusive": false,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXNCAAFTOTAL-25AUG30FAUMD",
+        "series_ticker": "KXNCAAFTOTAL",
+        "title": "Florida Atlantic at Maryland: Point Total",
+        "sub_title": "FAU at MD (Aug 30)",
+        "mutually_exclusive": false,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXNCAAFTOTAL-25AUG30BALLPUR",
+        "series_ticker": "KXNCAAFTOTAL",
+        "title": "Ball St. at Purdue: Point Total",
+        "sub_title": "BALL at PUR (Aug 30)",
+        "mutually_exclusive": false,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXNCAAFSPREAD-25AUG30TEXOSU",
+        "series_ticker": "KXNCAAFSPREAD",
+        "title": "Texas at Ohio St.: Spread",
+        "sub_title": "TEX at OSU (Aug 30)",
+        "mutually_exclusive": false,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXNCAAFSPREAD-25AUG30SYRTENN",
+        "series_ticker": "KXNCAAFSPREAD",
+        "title": "Syracuse at Tennessee: Spread",
+        "sub_title": "SYR at TENN (Aug 30)",
+        "mutually_exclusive": false,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXNCAAFSPREAD-25AUG30NWTULN",
+        "series_ticker": "KXNCAAFSPREAD",
+        "title": "Northwestern at Tulane: Spread",
+        "sub_title": "NW at TULN (Aug 30)",
+        "mutually_exclusive": false,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXNCAAFSPREAD-25AUG30MSSTUSM",
+        "series_ticker": "KXNCAAFSPREAD",
+        "title": "Mississippi St. at Southern Miss: Spread",
+        "sub_title": "MSST at USM (Aug 30)",
+        "mutually_exclusive": false,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXNCAAFSPREAD-25AUG30FAUMD",
+        "series_ticker": "KXNCAAFSPREAD",
+        "title": "Florida Atlantic at Maryland: Spread",
+        "sub_title": "FAU at MD (Aug 30)",
+        "mutually_exclusive": false,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXNCAAFSPREAD-25AUG30BALLPUR",
+        "series_ticker": "KXNCAAFSPREAD",
+        "title": "Ball St. at Purdue: Spread",
+        "sub_title": "BALL at PUR (Aug 30)",
+        "mutually_exclusive": false,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXNCAAFGAME-25AUG30VMINAVY",
+        "series_ticker": "KXNCAAFGAME",
+        "title": "VMI at Navy",
+        "sub_title": "VMI at NAVY (Aug 30)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXNCAAFGAME-25AUG30TEXOSU",
+        "series_ticker": "KXNCAAFGAME",
+        "title": "Texas at Ohio St.",
+        "sub_title": "TEX at OSU (Aug 30)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXNCAAFGAME-25AUG30SYRTENN",
+        "series_ticker": "KXNCAAFGAME",
+        "title": "Syracuse at Tennessee",
+        "sub_title": "SYR at TENN (Aug 30)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXNCAAFGAME-25AUG30NWTULN",
+        "series_ticker": "KXNCAAFGAME",
+        "title": "Northwestern at Tulane",
+        "sub_title": "NW at TULN (Aug 30)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXNCAAFGAME-25AUG30MSSTUSM",
+        "series_ticker": "KXNCAAFGAME",
+        "title": "Mississippi St. at Southern Miss",
+        "sub_title": "MSST at USM (Aug 30)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXNCAAFGAME-25AUG30MRMKKENT",
+        "series_ticker": "KXNCAAFGAME",
+        "title": "Merrimack at Kent St.",
+        "sub_title": "MRMK at KENT (Aug 30)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXNCAAFGAME-25AUG30FAUMD",
+        "series_ticker": "KXNCAAFGAME",
+        "title": "Florida Atlantic at Maryland",
+        "sub_title": "FAU at MD (Aug 30)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXNCAAFGAME-25AUG30DUQPITT",
+        "series_ticker": "KXNCAAFGAME",
+        "title": "Duquesne at Pittsburgh",
+        "sub_title": "DUQ at PITT (Aug 30)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXNCAAFGAME-25AUG30BALLPUR",
+        "series_ticker": "KXNCAAFGAME",
+        "title": "Ball St. at Purdue",
+        "sub_title": "BALL at PUR (Aug 30)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXLIGUE1GAME-25AUG30FCLLIL",
+        "series_ticker": "KXLIGUE1GAME",
+        "title": "Lorient vs Lille",
+        "sub_title": "FCL vs LIL (Aug 30)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXLALIGAGAME-25AUG30ALAATM",
+        "series_ticker": "KXLALIGAGAME",
+        "title": "Alaves vs Atletico",
+        "sub_title": "ALA vs ATM (Aug 30)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXEPLGAME-25AUG30WOLEVE",
+        "series_ticker": "KXEPLGAME",
+        "title": "Wolverhampton vs Everton",
+        "sub_title": "WOL vs EVE (Aug 30)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXEPLGAME-25AUG30TOTBOU",
+        "series_ticker": "KXEPLGAME",
+        "title": "Tottenham vs Bournemouth",
+        "sub_title": "TOT vs BOU (Aug 30)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXEPLGAME-25AUG30SUNBRE",
+        "series_ticker": "KXEPLGAME",
+        "title": "Sunderland vs Brentford",
+        "sub_title": "SUN vs BRE (Aug 30)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXEPLGAME-25AUG30MUNBUR",
+        "series_ticker": "KXEPLGAME",
+        "title": "Manchester United vs Burnley",
+        "sub_title": "MUN vs BUR (Aug 30)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXBUNDESLIGAGAME-25AUG30VFBBMG",
+        "series_ticker": "KXBUNDESLIGAGAME",
+        "title": "Stuttgart vs M\u00b4gladbach",
+        "sub_title": "VFB vs BMG (Aug 30)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXBUNDESLIGAGAME-25AUG30TSGSGE",
+        "series_ticker": "KXBUNDESLIGAGAME",
+        "title": "Hoffenheim vs Frankfurt",
+        "sub_title": "TSG vs SGE (Aug 30)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXBUNDESLIGAGAME-25AUG30SVWLEV",
+        "series_ticker": "KXBUNDESLIGAGAME",
+        "title": "Bremen vs Leverkusen",
+        "sub_title": "SVW vs LEV (Aug 30)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXBUNDESLIGAGAME-25AUG30RBLFCH",
+        "series_ticker": "KXBUNDESLIGAGAME",
+        "title": "Leipzig vs Heidenheim",
+        "sub_title": "RBL vs FCH (Aug 30)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXEPLGAME-25AUG30CHEFUL",
+        "series_ticker": "KXEPLGAME",
+        "title": "Chelsea vs Fulham",
+        "sub_title": "CHE vs FUL (Aug 30)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXNCAAFTOTAL-25AUG29CMUSJSU",
+        "series_ticker": "KXNCAAFTOTAL",
+        "title": "Central Michigan at San Jose St.: Point Total",
+        "sub_title": "CMU at SJSU (Aug 29)",
+        "mutually_exclusive": false,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXNCAAFSPREAD-25AUG29CMUSJSU",
+        "series_ticker": "KXNCAAFSPREAD",
+        "title": "Central Michigan at San Jose St.: Spread",
+        "sub_title": "CMU at SJSU (Aug 29)",
+        "mutually_exclusive": false,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXNCAAFGAME-25AUG29CMUSJSU",
+        "series_ticker": "KXNCAAFGAME",
+        "title": "Central Michigan at San Jose St.",
+        "sub_title": "CMU at SJSU (Aug 29)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXNCAAFTOTAL-25AUG29UNLVSHSU",
+        "series_ticker": "KXNCAAFTOTAL",
+        "title": "UNLV at Sam Houston: Point Total",
+        "sub_title": "UNLV at SHSU (Aug 29)",
+        "mutually_exclusive": false,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXNCAAFSPREAD-25AUG29UNLVSHSU",
+        "series_ticker": "KXNCAAFSPREAD",
+        "title": "UNLV at Sam Houston: Spread",
+        "sub_title": "UNLV at SHSU (Aug 29)",
+        "mutually_exclusive": false,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXNCAAFGAME-25AUG29UNLVSHSU",
+        "series_ticker": "KXNCAAFGAME",
+        "title": "UNLV at Sam Houston",
+        "sub_title": "UNLV at SHSU (Aug 29)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXNCAAFTOTAL-25AUG29GTCOLO",
+        "series_ticker": "KXNCAAFTOTAL",
+        "title": "Georgia Tech at Colorado: Point Total",
+        "sub_title": "GT at COLO (Aug 29)",
+        "mutually_exclusive": false,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXNCAAFTOTAL-25AUG29AUBBAY",
+        "series_ticker": "KXNCAAFTOTAL",
+        "title": "Auburn at Baylor: Point Total",
+        "sub_title": "AUB at BAY (Aug 29)",
+        "mutually_exclusive": false,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXNCAAFSPREAD-25AUG29GTCOLO",
+        "series_ticker": "KXNCAAFSPREAD",
+        "title": "Georgia Tech at Colorado: Spread",
+        "sub_title": "GT at COLO (Aug 29)",
+        "mutually_exclusive": false,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXNCAAFSPREAD-25AUG29AUBBAY",
+        "series_ticker": "KXNCAAFSPREAD",
+        "title": "Auburn at Baylor: Spread",
+        "sub_title": "AUB at BAY (Aug 29)",
+        "mutually_exclusive": false,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXNCAAFGAME-25AUG29GTCOLO",
+        "series_ticker": "KXNCAAFGAME",
+        "title": "Georgia Tech at Colorado",
+        "sub_title": "GT at COLO (Aug 29)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXNCAAFGAME-25AUG29AUBBAY",
+        "series_ticker": "KXNCAAFGAME",
+        "title": "Auburn at Baylor",
+        "sub_title": "AUB at BAY (Aug 29)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXNCAAFTOTAL-25AUG29WIUILL",
+        "series_ticker": "KXNCAAFTOTAL",
+        "title": "Western Illinois at Illinois: Point Total",
+        "sub_title": "WIU at ILL (Aug 29)",
+        "mutually_exclusive": false,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXNCAAFSPREAD-25AUG29WIUILL",
+        "series_ticker": "KXNCAAFSPREAD",
+        "title": "Western Illinois at Illinois: Spread",
+        "sub_title": "WIU at ILL (Aug 29)",
+        "mutually_exclusive": false,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXNCAAFGAME-25AUG29WIUILL",
+        "series_ticker": "KXNCAAFGAME",
+        "title": "Western Illinois at Illinois",
+        "sub_title": "WIU at ILL (Aug 29)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXNCAAFGAME-25AUG29WAGKU",
+        "series_ticker": "KXNCAAFGAME",
+        "title": "Wagner at Kansas",
+        "sub_title": "WAG at KU (Aug 29)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXNCAAFTOTAL-25AUG29WMUMSU",
+        "series_ticker": "KXNCAAFTOTAL",
+        "title": "Western Michigan at Michigan St.: Point Total",
+        "sub_title": "WMU at MSU (Aug 29)",
+        "mutually_exclusive": false,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXNCAAFTOTAL-25AUG29KENNWAKE",
+        "series_ticker": "KXNCAAFTOTAL",
+        "title": "Kennesaw St. at Wake Forest: Point Total",
+        "sub_title": "KENN at WAKE (Aug 29)",
+        "mutually_exclusive": false,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXNCAAFTOTAL-25AUG29APPCHAR",
+        "series_ticker": "KXNCAAFTOTAL",
+        "title": "Appalachian St. at Charlotte: Point Total",
+        "sub_title": "APP at CHAR (Aug 29)",
+        "mutually_exclusive": false,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXNCAAFSPREAD-25AUG29WMUMSU",
+        "series_ticker": "KXNCAAFSPREAD",
+        "title": "Western Michigan at Michigan St.: Spread",
+        "sub_title": "WMU at MSU (Aug 29)",
+        "mutually_exclusive": false,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXNCAAFSPREAD-25AUG29KENNWAKE",
+        "series_ticker": "KXNCAAFSPREAD",
+        "title": "Kennesaw St. at Wake Forest: Spread",
+        "sub_title": "KENN at WAKE (Aug 29)",
+        "mutually_exclusive": false,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXNCAAFSPREAD-25AUG29APPCHAR",
+        "series_ticker": "KXNCAAFSPREAD",
+        "title": "Appalachian St. at Charlotte: Spread",
+        "sub_title": "APP at CHAR (Aug 29)",
+        "mutually_exclusive": false,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXNCAAFGAME-25AUG29WMUMSU",
+        "series_ticker": "KXNCAAFGAME",
+        "title": "Western Michigan at Michigan St.",
+        "sub_title": "WMU at MSU (Aug 29)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXNCAAFGAME-25AUG29KENNWAKE",
+        "series_ticker": "KXNCAAFGAME",
+        "title": "Kennesaw St. at Wake Forest",
+        "sub_title": "KENN at WAKE (Aug 29)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXNCAAFGAME-25AUG29COOKFIU",
+        "series_ticker": "KXNCAAFGAME",
+        "title": "Bethune-Cookman at Florida International",
+        "sub_title": "COOK at FIU (Aug 29)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXNCAAFGAME-25AUG29APPCHAR",
+        "series_ticker": "KXNCAAFGAME",
+        "title": "Appalachian St. at Charlotte",
+        "sub_title": "APP at CHAR (Aug 29)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXMEDIADPNOONKICKOFF-08",
+        "series_ticker": "KXMEDIADPNOONKICKOFF",
+        "title": "Will Dave Portnoy go on Fox Sports \"Big Noon Kickoff\" before Sunday?",
+        "sub_title": "Before Aug 31, 2025",
+        "mutually_exclusive": false,
+        "category": "Entertainment",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXWTAMATCH-25AUG29TOWAND",
+        "series_ticker": "KXWTAMATCH",
+        "title": "Townsend vs Andreeva",
+        "sub_title": "Townsend vs Andreeva",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXATPMATCH-25AUG29KYMFRI",
+        "series_ticker": "KXATPMATCH",
+        "title": "Kym vs Fritz",
+        "sub_title": "Kym vs Fritz",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXWTAMATCH-25AUG30PARKOS",
+        "series_ticker": "KXWTAMATCH",
+        "title": "Parry vs Kostyuk",
+        "sub_title": "Parry vs Kostyuk",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXWTAMATCH-25AUG30KASOSA",
+        "series_ticker": "KXWTAMATCH",
+        "title": "Kasatkina vs Osaka",
+        "sub_title": "Kasatkina vs Osaka",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXWTAMATCH-25AUG30FREGAU",
+        "series_ticker": "KXWTAMATCH",
+        "title": "Frech vs Gauff",
+        "sub_title": "Frech vs Gauff",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXATPMATCH-25AUG30MUNBER",
+        "series_ticker": "KXATPMATCH",
+        "title": "Munar vs Bergs",
+        "sub_title": "Munar vs Bergs",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXRAINNYC-25AUG29",
+        "series_ticker": "KXRAINNYC",
+        "title": "Will it rain in NYC on Aug 29, 2025?",
+        "sub_title": "On Aug 29, 2025",
+        "mutually_exclusive": false,
+        "category": "Climate and Weather",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXAPPRANKFREE-25AUG30",
+        "series_ticker": "KXAPPRANKFREE",
+        "title": "Top US iPhone app on Aug 30, 2025?",
+        "sub_title": "On Aug 30, 2025 at 10 AM ET",
+        "mutually_exclusive": true,
+        "category": "Entertainment",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXAPPRANKFREE2-25AUG30",
+        "series_ticker": "KXAPPRANKFREE2",
+        "title": "Runner-up US iPhone app on Aug 30, 2025?",
+        "sub_title": "On Aug 30, 2025 at 10 AM ET",
+        "mutually_exclusive": true,
+        "category": "Entertainment",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXWNBAGAME-25AUG29INDLA",
+        "series_ticker": "KXWNBAGAME",
+        "title": "IND at LA",
+        "sub_title": "IND at LA (Aug 29)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXWTAMATCH-25AUG29NOSMUC",
+        "series_ticker": "KXWTAMATCH",
+        "title": "Noskova vs Muchova",
+        "sub_title": "Noskova vs Muchova",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXWTAMATCH-25AUG29KALSWI",
+        "series_ticker": "KXWTAMATCH",
+        "title": "Kalinskaya vs Swiatek",
+        "sub_title": "Kalinskaya vs Swiatek",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXWTAMATCH-25AUG29ALESIE",
+        "series_ticker": "KXWTAMATCH",
+        "title": "Alexandrova vs Siegemund",
+        "sub_title": "Alexandrova vs Siegemund",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXATPMATCH-25AUG29WONRUB",
+        "series_ticker": "KXATPMATCH",
+        "title": "Wong vs Rublev",
+        "sub_title": "Wong vs Rublev",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXATPMATCH-25AUG29SINSHA",
+        "series_ticker": "KXATPMATCH",
+        "title": "Sinner vs Shapovalov",
+        "sub_title": "Sinner vs Shapovalov",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXATPMATCH-25AUG29MUSCOB",
+        "series_ticker": "KXATPMATCH",
+        "title": "Musetti vs Cobolli",
+        "sub_title": "Musetti vs Cobolli",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXATPMATCH-25AUG29MAJRIE",
+        "series_ticker": "KXATPMATCH",
+        "title": "Majchrzak vs Riedi",
+        "sub_title": "Majchrzak vs Riedi",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXWNBAGAME-25AUG30MINCONN",
+        "series_ticker": "KXWNBAGAME",
+        "title": "MIN at CONN",
+        "sub_title": "MIN at CONN (Aug 30)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXWTAMATCH-25AUG30ANICRI",
+        "series_ticker": "KXWTAMATCH",
+        "title": "Anisimova vs Cristian",
+        "sub_title": "Anisimova vs Cristian",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXATPMATCH-25AUG30ALTDE",
+        "series_ticker": "KXATPMATCH",
+        "title": "Altmaier vs de Minaur",
+        "sub_title": "Altmaier vs de Minaur",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXMLBGAME-25AUG29BALSF",
+        "series_ticker": "KXMLBGAME",
+        "title": "Baltimore at San Francisco",
+        "sub_title": "BAL at SF (Aug 29)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXMLBGAME-25AUG29AZLAD",
+        "series_ticker": "KXMLBGAME",
+        "title": "Arizona at Los Angeles D",
+        "sub_title": "AZ at LAD (Aug 29)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXMLBGAME-25AUG29TEXATH",
+        "series_ticker": "KXMLBGAME",
+        "title": "Texas at A's",
+        "sub_title": "TEX at ATH (Aug 29)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXMLBGAME-25AUG29CHCCOL",
+        "series_ticker": "KXMLBGAME",
+        "title": "Chicago C at Colorado",
+        "sub_title": "CHC at COL (Aug 29)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXMLBGAME-25AUG29SDMIN",
+        "series_ticker": "KXMLBGAME",
+        "title": "San Diego at Minnesota",
+        "sub_title": "SD at MIN (Aug 29)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXMLBGAME-25AUG29LAAHOU",
+        "series_ticker": "KXMLBGAME",
+        "title": "Los Angeles A at Houston",
+        "sub_title": "LAA at HOU (Aug 29)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXMLBGAME-25AUG29DETKC",
+        "series_ticker": "KXMLBGAME",
+        "title": "Detroit at Kansas City",
+        "sub_title": "DET at KC (Aug 29)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXMLBGAME-25AUG29NYYCWS",
+        "series_ticker": "KXMLBGAME",
+        "title": "New York Y at Chicago WS",
+        "sub_title": "NYY at CWS (Aug 29)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXMLBGAME-25AUG29SEACLE",
+        "series_ticker": "KXMLBGAME",
+        "title": "Seattle at Cleveland",
+        "sub_title": "SEA at CLE (Aug 29)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXMLBGAME-25AUG29MIANYM",
+        "series_ticker": "KXMLBGAME",
+        "title": "Miami at New York M",
+        "sub_title": "MIA at NYM (Aug 29)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXMLBGAME-25AUG29MILTOR",
+        "series_ticker": "KXMLBGAME",
+        "title": "Milwaukee at Toronto",
+        "sub_title": "MIL at TOR (Aug 29)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": "",
+        "event_ticker": "KXMLBGAME-25AUG29STLCIN",
+        "series_ticker": "KXMLBGAME",
+        "title": "St. Louis at Cincinnati",
+        "sub_title": "STL at CIN (Aug 29)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250831"
     }
 ]
