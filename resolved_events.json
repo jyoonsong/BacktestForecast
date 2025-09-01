@@ -5338,5 +5338,119 @@
         "mutually_exclusive": true,
         "category": "Sports",
         "resolution_date": "20250831"
+    },
+    {
+        "bing_reports": {},
+        "event_ticker": "KXBEASTWATER-25",
+        "series_ticker": "KXBEASTWATER",
+        "title": "When will Mr. Beast's #TeamWater campaign raise $40 million?",
+        "sub_title": "In 2025",
+        "mutually_exclusive": false,
+        "category": "World",
+        "ddgs_reports": {
+            "20250830": "ddgs_kxbeastwater-25_20250830"
+        },
+        "resolution_date": "20250901"
+    },
+    {
+        "bing_reports": {},
+        "event_ticker": "KXNCAAFGAME-25AUG31VTSCAR",
+        "series_ticker": "KXNCAAFGAME",
+        "title": "Virginia Tech at South Carolina",
+        "sub_title": "VT at SCAR (Aug 31)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "ddgs_reports": {
+            "20250830": "ddgs_kxncaafgame-25aug31vtscar_20250830"
+        },
+        "resolution_date": "20250901"
+    },
+    {
+        "bing_reports": {},
+        "event_ticker": "KXWTAMATCH-25AUG31SABBUC",
+        "series_ticker": "KXWTAMATCH",
+        "title": "Sabalenka vs Bucsa",
+        "sub_title": "Sabalenka vs Bucsa",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "ddgs_reports": {},
+        "resolution_date": "20250901"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXWNBAGAME-25AUG31WSHLA",
+        "series_ticker": "KXWNBAGAME",
+        "title": "WSH at LA",
+        "sub_title": "WSH at LA (Aug 31)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250901"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXATPMATCH-25AUG31MACFRI",
+        "series_ticker": "KXATPMATCH",
+        "title": "Machac vs Fritz",
+        "sub_title": "Machac vs Fritz",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250901"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXATPMATCH-25AUG31DJOSTR",
+        "series_ticker": "KXATPMATCH",
+        "title": "Djokovic vs Struff",
+        "sub_title": "Djokovic vs Struff",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250901"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXMLBGAME-25AUG31ATLPHI",
+        "series_ticker": "KXMLBGAME",
+        "title": "Atlanta at Philadelphia",
+        "sub_title": "ATL at PHI (Aug 31)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250901"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXMLBGAME-25AUG31AZLAD",
+        "series_ticker": "KXMLBGAME",
+        "title": "Arizona at Los Angeles D",
+        "sub_title": "AZ at LAD (Aug 31)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250901"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXMLBGAME-25AUG31TEXATH",
+        "series_ticker": "KXMLBGAME",
+        "title": "Texas at A's",
+        "sub_title": "TEX at ATH (Aug 31)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250901"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXMLBGAME-25AUG31BALSF",
+        "series_ticker": "KXMLBGAME",
+        "title": "Baltimore at San Francisco",
+        "sub_title": "BAL at SF (Aug 31)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250901"
     }
 ]
