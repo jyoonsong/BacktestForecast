@@ -3164,7 +3164,11 @@
         "mutually_exclusive": false,
         "category": "Politics",
         "resolution_date": "2025-08-30",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxusaintel-25_20250830"
+            ]
+        },
         "earliest_open_time": "2025-08-14",
         "latest_close_time": "2025-08-30",
         "duration_days": 15
@@ -3178,7 +3182,11 @@
         "mutually_exclusive": false,
         "category": "Climate and Weather",
         "resolution_date": "2025-08-30",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxhurcat-fernand_20250830"
+            ]
+        },
         "earliest_open_time": "2025-06-25",
         "latest_close_time": "2025-08-30",
         "duration_days": 66
@@ -3192,7 +3200,11 @@
         "mutually_exclusive": true,
         "category": "Sports",
         "resolution_date": "2025-08-31",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxmlsgame-25aug30tormtl_20250830"
+            ]
+        },
         "earliest_open_time": "2025-08-25",
         "latest_close_time": "2025-08-31",
         "duration_days": 6
@@ -3206,7 +3218,11 @@
         "mutually_exclusive": true,
         "category": "Sports",
         "resolution_date": "2025-08-31",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxmlsgame-25aug30nyrbclb_20250830"
+            ]
+        },
         "earliest_open_time": "2025-08-25",
         "latest_close_time": "2025-08-31",
         "duration_days": 6
@@ -3220,7 +3236,11 @@
         "mutually_exclusive": true,
         "category": "Sports",
         "resolution_date": "2025-08-31",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxmlsgame-25aug30nycdcu_20250830"
+            ]
+        },
         "earliest_open_time": "2025-08-25",
         "latest_close_time": "2025-08-31",
         "duration_days": 6
@@ -3234,7 +3254,11 @@
         "mutually_exclusive": true,
         "category": "Sports",
         "resolution_date": "2025-08-31",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxmlsgame-25aug30neclt_20250830"
+            ]
+        },
         "earliest_open_time": "2025-08-25",
         "latest_close_time": "2025-08-31",
         "duration_days": 6
@@ -3248,7 +3272,11 @@
         "mutually_exclusive": true,
         "category": "Sports",
         "resolution_date": "2025-08-31",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxmlsgame-25aug30cinphi_20250830"
+            ]
+        },
         "earliest_open_time": "2025-08-25",
         "latest_close_time": "2025-08-31",
         "duration_days": 6
@@ -3306,7 +3334,11 @@
         "mutually_exclusive": true,
         "category": "Sports",
         "resolution_date": "2025-08-31",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxncaafgame-25aug30semoarst_20250830"
+            ]
+        },
         "earliest_open_time": "2025-07-01",
         "latest_close_time": "2025-08-31",
         "duration_days": 60
@@ -3320,7 +3352,11 @@
         "mutually_exclusive": true,
         "category": "Sports",
         "resolution_date": "2025-08-31",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxncaafgame-25aug30nichtroy_20250830"
+            ]
+        },
         "earliest_open_time": "2025-07-01",
         "latest_close_time": "2025-08-31",
         "duration_days": 60
@@ -3350,7 +3386,11 @@
         "mutually_exclusive": true,
         "category": "Sports",
         "resolution_date": "2025-08-31",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxncaafgame-25aug30liufla_20250830"
+            ]
+        },
         "earliest_open_time": "2025-07-01",
         "latest_close_time": "2025-08-31",
         "duration_days": 60
@@ -3364,7 +3404,11 @@
         "mutually_exclusive": true,
         "category": "Sports",
         "resolution_date": "2025-08-31",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxncaafgame-25aug30chsovan_20250830"
+            ]
+        },
         "earliest_open_time": "2025-07-01",
         "latest_close_time": "2025-08-31",
         "duration_days": 60
@@ -3378,7 +3422,11 @@
         "mutually_exclusive": false,
         "category": "Sports",
         "resolution_date": "2025-08-31",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxncaaftotal-25aug30webjmu_20250830"
+            ]
+        },
         "earliest_open_time": "2025-08-21",
         "latest_close_time": "2025-08-31",
         "duration_days": 10
@@ -3392,7 +3440,11 @@
         "mutually_exclusive": false,
         "category": "Sports",
         "resolution_date": "2025-08-31",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxncaaftotal-25aug30ilstokla_20250830"
+            ]
+        },
         "earliest_open_time": "2025-08-21",
         "latest_close_time": "2025-08-31",
         "duration_days": 10
@@ -3406,7 +3458,11 @@
         "mutually_exclusive": false,
         "category": "Sports",
         "resolution_date": "2025-08-31",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxncaaftotal-25aug30albyiowa_20250830"
+            ]
+        },
         "earliest_open_time": "2025-08-21",
         "latest_close_time": "2025-08-31",
         "duration_days": 10
@@ -3420,7 +3476,11 @@
         "mutually_exclusive": false,
         "category": "Sports",
         "resolution_date": "2025-08-31",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxncaafspread-25aug30webjmu_20250830"
+            ]
+        },
         "earliest_open_time": "2025-08-21",
         "latest_close_time": "2025-08-31",
         "duration_days": 10
@@ -3434,7 +3494,11 @@
         "mutually_exclusive": false,
         "category": "Sports",
         "resolution_date": "2025-08-31",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxncaafspread-25aug30ilstokla_20250830"
+            ]
+        },
         "earliest_open_time": "2025-08-21",
         "latest_close_time": "2025-08-31",
         "duration_days": 10
@@ -3448,7 +3512,11 @@
         "mutually_exclusive": false,
         "category": "Sports",
         "resolution_date": "2025-08-31",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxncaafspread-25aug30albyiowa_20250830"
+            ]
+        },
         "earliest_open_time": "2025-08-21",
         "latest_close_time": "2025-08-31",
         "duration_days": 10
@@ -3478,7 +3546,11 @@
         "mutually_exclusive": true,
         "category": "Sports",
         "resolution_date": "2025-08-31",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxncaafgame-25aug30webjmu_20250830"
+            ]
+        },
         "earliest_open_time": "2025-07-01",
         "latest_close_time": "2025-08-31",
         "duration_days": 60
@@ -3523,7 +3595,11 @@
         "mutually_exclusive": true,
         "category": "Sports",
         "resolution_date": "2025-08-31",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxncaafgame-25aug30ilstokla_20250830"
+            ]
+        },
         "earliest_open_time": "2025-07-01",
         "latest_close_time": "2025-08-31",
         "duration_days": 60
@@ -3544,7 +3620,11 @@
         "mutually_exclusive": true,
         "category": "Sports",
         "resolution_date": "2025-08-31",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxncaafgame-25aug30ccaruva_20250830"
+            ]
+        },
         "earliest_open_time": "2025-07-01",
         "latest_close_time": "2025-08-31",
         "duration_days": 60
@@ -3562,7 +3642,11 @@
         "mutually_exclusive": true,
         "category": "Sports",
         "resolution_date": "2025-08-31",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxncaafgame-25aug30albyiowa_20250830"
+            ]
+        },
         "earliest_open_time": "2025-07-01",
         "latest_close_time": "2025-08-31",
         "duration_days": 60
@@ -3590,7 +3674,11 @@
         "mutually_exclusive": true,
         "category": "Sports",
         "resolution_date": "2025-08-30",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxncaafgame-25aug30chatmem_20250830"
+            ]
+        },
         "earliest_open_time": "2025-07-01",
         "latest_close_time": "2025-08-30",
         "duration_days": 60
@@ -3604,7 +3692,11 @@
         "mutually_exclusive": true,
         "category": "Sports",
         "resolution_date": "2025-08-30",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxncaafgame-25aug30aamuark_20250830"
+            ]
+        },
         "earliest_open_time": "2025-07-01",
         "latest_close_time": "2025-08-30",
         "duration_days": 60
@@ -3618,7 +3710,11 @@
         "mutually_exclusive": false,
         "category": "Sports",
         "resolution_date": "2025-08-31",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxncaaftotal-25aug30mtstore_20250830"
+            ]
+        },
         "earliest_open_time": "2025-08-21",
         "latest_close_time": "2025-08-31",
         "duration_days": 9
@@ -3632,7 +3728,11 @@
         "mutually_exclusive": false,
         "category": "Sports",
         "resolution_date": "2025-08-30",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxncaaftotal-25aug30melib_20250830"
+            ]
+        },
         "earliest_open_time": "2025-08-21",
         "latest_close_time": "2025-08-30",
         "duration_days": 9
@@ -3646,7 +3746,11 @@
         "mutually_exclusive": false,
         "category": "Sports",
         "resolution_date": "2025-08-31",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxncaafspread-25aug30mtstore_20250830"
+            ]
+        },
         "earliest_open_time": "2025-08-21",
         "latest_close_time": "2025-08-31",
         "duration_days": 9
@@ -3660,7 +3764,11 @@
         "mutually_exclusive": false,
         "category": "Sports",
         "resolution_date": "2025-08-30",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxncaafspread-25aug30melib_20250830"
+            ]
+        },
         "earliest_open_time": "2025-08-21",
         "latest_close_time": "2025-08-30",
         "duration_days": 9
@@ -3716,7 +3824,11 @@
         "mutually_exclusive": true,
         "category": "Sports",
         "resolution_date": "2025-08-30",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxncaafgame-25aug30mtstore_20250830"
+            ]
+        },
         "earliest_open_time": "2025-07-01",
         "latest_close_time": "2025-08-30",
         "duration_days": 60
@@ -3800,7 +3912,11 @@
         "mutually_exclusive": true,
         "category": "Sports",
         "resolution_date": "2025-08-30",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxncaafgame-25aug30melib_20250830"
+            ]
+        },
         "earliest_open_time": "2025-07-01",
         "latest_close_time": "2025-08-30",
         "duration_days": 60
@@ -3814,7 +3930,11 @@
         "mutually_exclusive": false,
         "category": "Sports",
         "resolution_date": "2025-08-30",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxncaaftotal-25aug30temmass_20250830"
+            ]
+        },
         "earliest_open_time": "2025-08-21",
         "latest_close_time": "2025-08-30",
         "duration_days": 9
@@ -3828,7 +3948,11 @@
         "mutually_exclusive": false,
         "category": "Sports",
         "resolution_date": "2025-08-30",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxncaaftotal-25aug30sdakisu_20250830"
+            ]
+        },
         "earliest_open_time": "2025-08-21",
         "latest_close_time": "2025-08-30",
         "duration_days": 9
@@ -3842,7 +3966,11 @@
         "mutually_exclusive": false,
         "category": "Sports",
         "resolution_date": "2025-08-31",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxncaaftotal-25aug30nevpsu_20250830"
+            ]
+        },
         "earliest_open_time": "2025-08-21",
         "latest_close_time": "2025-08-31",
         "duration_days": 9
@@ -3856,7 +3984,11 @@
         "mutually_exclusive": false,
         "category": "Sports",
         "resolution_date": "2025-08-30",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxncaaftotal-25aug30mrshuga_20250830"
+            ]
+        },
         "earliest_open_time": "2025-08-21",
         "latest_close_time": "2025-08-30",
         "duration_days": 9
@@ -3870,7 +4002,11 @@
         "mutually_exclusive": false,
         "category": "Sports",
         "resolution_date": "2025-08-31",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxncaaftotal-25aug30alafsu_20250830"
+            ]
+        },
         "earliest_open_time": "2025-08-21",
         "latest_close_time": "2025-08-31",
         "duration_days": 10
@@ -3884,7 +4020,11 @@
         "mutually_exclusive": false,
         "category": "Sports",
         "resolution_date": "2025-08-30",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxncaafspread-25aug30temmass_20250830"
+            ]
+        },
         "earliest_open_time": "2025-08-21",
         "latest_close_time": "2025-08-30",
         "duration_days": 9
@@ -3898,7 +4038,11 @@
         "mutually_exclusive": false,
         "category": "Sports",
         "resolution_date": "2025-08-30",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxncaafspread-25aug30sdakisu_20250830"
+            ]
+        },
         "earliest_open_time": "2025-08-21",
         "latest_close_time": "2025-08-30",
         "duration_days": 9
@@ -3912,7 +4056,11 @@
         "mutually_exclusive": false,
         "category": "Sports",
         "resolution_date": "2025-08-31",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxncaafspread-25aug30nevpsu_20250830"
+            ]
+        },
         "earliest_open_time": "2025-08-21",
         "latest_close_time": "2025-08-31",
         "duration_days": 9
@@ -3926,7 +4074,11 @@
         "mutually_exclusive": false,
         "category": "Sports",
         "resolution_date": "2025-08-30",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxncaafspread-25aug30mrshuga_20250830"
+            ]
+        },
         "earliest_open_time": "2025-08-21",
         "latest_close_time": "2025-08-30",
         "duration_days": 9
@@ -3940,7 +4092,11 @@
         "mutually_exclusive": false,
         "category": "Sports",
         "resolution_date": "2025-08-31",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxncaafspread-25aug30alafsu_20250830"
+            ]
+        },
         "earliest_open_time": "2025-08-21",
         "latest_close_time": "2025-08-31",
         "duration_days": 10
@@ -3996,7 +4152,11 @@
         "mutually_exclusive": true,
         "category": "Sports",
         "resolution_date": "2025-08-30",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxncaafgame-25aug30temmass_20250830"
+            ]
+        },
         "earliest_open_time": "2025-07-01",
         "latest_close_time": "2025-08-30",
         "duration_days": 60
@@ -4065,7 +4225,11 @@
         "mutually_exclusive": true,
         "category": "Sports",
         "resolution_date": "2025-08-30",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxncaafgame-25aug30sdakisu_20250830"
+            ]
+        },
         "earliest_open_time": "2025-07-01",
         "latest_close_time": "2025-08-30",
         "duration_days": 60
@@ -4093,7 +4257,11 @@
         "mutually_exclusive": true,
         "category": "Sports",
         "resolution_date": "2025-08-30",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxncaafgame-25aug30nevpsu_20250830"
+            ]
+        },
         "earliest_open_time": "2025-07-01",
         "latest_close_time": "2025-08-30",
         "duration_days": 60
@@ -4115,7 +4283,11 @@
         "mutually_exclusive": true,
         "category": "Sports",
         "resolution_date": "2025-08-30",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxncaafgame-25aug30mrshuga_20250830"
+            ]
+        },
         "earliest_open_time": "2025-07-01",
         "latest_close_time": "2025-08-30",
         "duration_days": 60
@@ -4146,7 +4318,11 @@
         "mutually_exclusive": true,
         "category": "Sports",
         "resolution_date": "2025-08-30",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxncaafgame-25aug30hcniu_20250830"
+            ]
+        },
         "earliest_open_time": "2025-07-01",
         "latest_close_time": "2025-08-30",
         "duration_days": 60
@@ -4196,7 +4372,11 @@
         "mutually_exclusive": true,
         "category": "Sports",
         "resolution_date": "2025-08-30",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxncaafgame-25aug30buckafa_20250830"
+            ]
+        },
         "earliest_open_time": "2025-07-01",
         "latest_close_time": "2025-08-30",
         "duration_days": 60
@@ -4210,7 +4390,11 @@
         "mutually_exclusive": true,
         "category": "Sports",
         "resolution_date": "2025-08-30",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxncaafgame-25aug30alafsu_20250830"
+            ]
+        },
         "earliest_open_time": "2025-07-01",
         "latest_close_time": "2025-08-30",
         "duration_days": 60
@@ -4224,7 +4408,11 @@
         "mutually_exclusive": true,
         "category": "Sports",
         "resolution_date": "2025-08-30",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxlaligagame-25aug30rmamal_20250830"
+            ]
+        },
         "earliest_open_time": "2025-08-23",
         "latest_close_time": "2025-08-30",
         "duration_days": 7
@@ -4238,7 +4426,11 @@
         "mutually_exclusive": true,
         "category": "Sports",
         "resolution_date": "2025-08-30",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxligue1game-25aug30tfcpsg_20250830"
+            ]
+        },
         "earliest_open_time": "2025-08-23",
         "latest_close_time": "2025-08-30",
         "duration_days": 7
@@ -4281,7 +4473,11 @@
         "mutually_exclusive": true,
         "category": "Sports",
         "resolution_date": "2025-08-30",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxncaafgame-25aug30ekylou_20250830"
+            ]
+        },
         "earliest_open_time": "2025-07-01",
         "latest_close_time": "2025-08-30",
         "duration_days": 60
@@ -4295,7 +4491,11 @@
         "mutually_exclusive": true,
         "category": "Sports",
         "resolution_date": "2025-08-30",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxserieagame-25aug30pisrom_20250830"
+            ]
+        },
         "earliest_open_time": "2025-08-23",
         "latest_close_time": "2025-08-30",
         "duration_days": 7
@@ -4309,7 +4509,11 @@
         "mutually_exclusive": true,
         "category": "Sports",
         "resolution_date": "2025-08-30",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxserieagame-25aug30napcag_20250830"
+            ]
+        },
         "earliest_open_time": "2025-08-23",
         "latest_close_time": "2025-08-30",
         "duration_days": 7
@@ -4323,7 +4527,11 @@
         "mutually_exclusive": false,
         "category": "Sports",
         "resolution_date": "2025-08-30",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxncaaftotal-25aug30oduind_20250830"
+            ]
+        },
         "earliest_open_time": "2025-08-21",
         "latest_close_time": "2025-08-30",
         "duration_days": 9
@@ -4337,7 +4545,11 @@
         "mutually_exclusive": false,
         "category": "Sports",
         "resolution_date": "2025-08-30",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxncaafspread-25aug30oduind_20250830"
+            ]
+        },
         "earliest_open_time": "2025-08-21",
         "latest_close_time": "2025-08-30",
         "duration_days": 9
@@ -4365,7 +4577,11 @@
         "mutually_exclusive": true,
         "category": "Sports",
         "resolution_date": "2025-08-30",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxncaafgame-25aug30oduind_20250830"
+            ]
+        },
         "earliest_open_time": "2025-07-01",
         "latest_close_time": "2025-08-30",
         "duration_days": 60
@@ -4386,7 +4602,11 @@
         "mutually_exclusive": true,
         "category": "Sports",
         "resolution_date": "2025-08-30",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxncaafgame-25aug30rmuwvu_20250830"
+            ]
+        },
         "earliest_open_time": "2025-07-01",
         "latest_close_time": "2025-08-30",
         "duration_days": 60
@@ -4417,7 +4637,11 @@
         "mutually_exclusive": true,
         "category": "Sports",
         "resolution_date": "2025-08-30",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxncaafgame-25aug30forbc_20250830"
+            ]
+        },
         "earliest_open_time": "2025-07-01",
         "latest_close_time": "2025-08-30",
         "duration_days": 60
@@ -4460,7 +4684,11 @@
         "mutually_exclusive": true,
         "category": "Sports",
         "resolution_date": "2025-08-30",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxncaafgame-25aug30ccsuconn_20250830"
+            ]
+        },
         "earliest_open_time": "2025-07-01",
         "latest_close_time": "2025-08-30",
         "duration_days": 60
@@ -4474,7 +4702,11 @@
         "mutually_exclusive": true,
         "category": "Sports",
         "resolution_date": "2025-08-30",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxlaligagame-25aug30girsev_20250830"
+            ]
+        },
         "earliest_open_time": "2025-08-23",
         "latest_close_time": "2025-08-30",
         "duration_days": 7
@@ -4488,7 +4720,11 @@
         "mutually_exclusive": true,
         "category": "Sports",
         "resolution_date": "2025-08-30",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxligue1game-25aug30fcnaux_20250830"
+            ]
+        },
         "earliest_open_time": "2025-08-23",
         "latest_close_time": "2025-08-30",
         "duration_days": 7
@@ -4502,7 +4738,11 @@
         "mutually_exclusive": true,
         "category": "Sports",
         "resolution_date": "2025-08-30",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxlaligagame-25aug30ovirso_20250830"
+            ]
+        },
         "earliest_open_time": "2025-08-23",
         "latest_close_time": "2025-08-30",
         "duration_days": 7
@@ -4516,7 +4756,11 @@
         "mutually_exclusive": false,
         "category": "Sports",
         "resolution_date": "2025-08-30",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxncaaftotal-25aug30toluk_20250830"
+            ]
+        },
         "earliest_open_time": "2025-08-21",
         "latest_close_time": "2025-08-30",
         "duration_days": 9
@@ -4530,7 +4774,11 @@
         "mutually_exclusive": false,
         "category": "Sports",
         "resolution_date": "2025-08-30",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxncaafspread-25aug30toluk_20250830"
+            ]
+        },
         "earliest_open_time": "2025-08-21",
         "latest_close_time": "2025-08-30",
         "duration_days": 9
@@ -4567,7 +4815,11 @@
         "mutually_exclusive": true,
         "category": "Sports",
         "resolution_date": "2025-08-30",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxncaafgame-25aug30toluk_20250830"
+            ]
+        },
         "earliest_open_time": "2025-07-01",
         "latest_close_time": "2025-08-30",
         "duration_days": 59
@@ -4581,7 +4833,11 @@
         "mutually_exclusive": true,
         "category": "Sports",
         "resolution_date": "2025-08-30",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxserieagame-25aug30parata_20250830"
+            ]
+        },
         "earliest_open_time": "2025-08-23",
         "latest_close_time": "2025-08-30",
         "duration_days": 7
@@ -4595,7 +4851,11 @@
         "mutually_exclusive": true,
         "category": "Sports",
         "resolution_date": "2025-08-30",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxserieagame-25aug30bfccom_20250830"
+            ]
+        },
         "earliest_open_time": "2025-08-23",
         "latest_close_time": "2025-08-30",
         "duration_days": 7
@@ -4609,7 +4869,11 @@
         "mutually_exclusive": true,
         "category": "Sports",
         "resolution_date": "2025-08-30",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxeplgame-25aug30leenew_20250830"
+            ]
+        },
         "earliest_open_time": "2025-08-23",
         "latest_close_time": "2025-08-30",
         "duration_days": 7
@@ -4623,7 +4887,11 @@
         "mutually_exclusive": true,
         "category": "Sports",
         "resolution_date": "2025-08-30",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxbundesligagame-25aug30fcabmu_20250830"
+            ]
+        },
         "earliest_open_time": "2025-08-23",
         "latest_close_time": "2025-08-30",
         "duration_days": 7
@@ -4637,7 +4905,11 @@
         "mutually_exclusive": false,
         "category": "Sports",
         "resolution_date": "2025-08-30",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxncaaftotal-25aug30texosu_20250830"
+            ]
+        },
         "earliest_open_time": "2025-08-21",
         "latest_close_time": "2025-08-30",
         "duration_days": 9
@@ -4651,7 +4923,11 @@
         "mutually_exclusive": false,
         "category": "Sports",
         "resolution_date": "2025-08-30",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxncaaftotal-25aug30syrtenn_20250830"
+            ]
+        },
         "earliest_open_time": "2025-08-21",
         "latest_close_time": "2025-08-30",
         "duration_days": 9
@@ -4665,7 +4941,11 @@
         "mutually_exclusive": false,
         "category": "Sports",
         "resolution_date": "2025-08-30",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxncaaftotal-25aug30nwtuln_20250830"
+            ]
+        },
         "earliest_open_time": "2025-08-21",
         "latest_close_time": "2025-08-30",
         "duration_days": 9
@@ -4679,7 +4959,11 @@
         "mutually_exclusive": false,
         "category": "Sports",
         "resolution_date": "2025-08-30",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxncaaftotal-25aug30msstusm_20250830"
+            ]
+        },
         "earliest_open_time": "2025-08-21",
         "latest_close_time": "2025-08-30",
         "duration_days": 9
@@ -4693,7 +4977,11 @@
         "mutually_exclusive": false,
         "category": "Sports",
         "resolution_date": "2025-08-30",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxncaaftotal-25aug30faumd_20250830"
+            ]
+        },
         "earliest_open_time": "2025-08-21",
         "latest_close_time": "2025-08-30",
         "duration_days": 9
@@ -4707,7 +4995,11 @@
         "mutually_exclusive": false,
         "category": "Sports",
         "resolution_date": "2025-08-30",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxncaaftotal-25aug30ballpur_20250830"
+            ]
+        },
         "earliest_open_time": "2025-08-21",
         "latest_close_time": "2025-08-30",
         "duration_days": 9
@@ -4721,7 +5013,11 @@
         "mutually_exclusive": false,
         "category": "Sports",
         "resolution_date": "2025-08-30",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxncaafspread-25aug30texosu_20250830"
+            ]
+        },
         "earliest_open_time": "2025-08-21",
         "latest_close_time": "2025-08-30",
         "duration_days": 9
@@ -4735,7 +5031,11 @@
         "mutually_exclusive": false,
         "category": "Sports",
         "resolution_date": "2025-08-30",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxncaafspread-25aug30syrtenn_20250830"
+            ]
+        },
         "earliest_open_time": "2025-08-21",
         "latest_close_time": "2025-08-30",
         "duration_days": 9
@@ -4749,7 +5049,11 @@
         "mutually_exclusive": false,
         "category": "Sports",
         "resolution_date": "2025-08-30",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxncaafspread-25aug30nwtuln_20250830"
+            ]
+        },
         "earliest_open_time": "2025-08-21",
         "latest_close_time": "2025-08-30",
         "duration_days": 9
@@ -4763,7 +5067,11 @@
         "mutually_exclusive": false,
         "category": "Sports",
         "resolution_date": "2025-08-30",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxncaafspread-25aug30msstusm_20250830"
+            ]
+        },
         "earliest_open_time": "2025-08-21",
         "latest_close_time": "2025-08-30",
         "duration_days": 9
@@ -4777,7 +5085,11 @@
         "mutually_exclusive": false,
         "category": "Sports",
         "resolution_date": "2025-08-30",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxncaafspread-25aug30faumd_20250830"
+            ]
+        },
         "earliest_open_time": "2025-08-21",
         "latest_close_time": "2025-08-30",
         "duration_days": 9
@@ -4791,7 +5103,11 @@
         "mutually_exclusive": false,
         "category": "Sports",
         "resolution_date": "2025-08-30",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxncaafspread-25aug30ballpur_20250830"
+            ]
+        },
         "earliest_open_time": "2025-08-21",
         "latest_close_time": "2025-08-30",
         "duration_days": 9
@@ -4822,7 +5138,11 @@
         "mutually_exclusive": true,
         "category": "Sports",
         "resolution_date": "2025-08-30",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxncaafgame-25aug30vminavy_20250830"
+            ]
+        },
         "earliest_open_time": "2025-07-01",
         "latest_close_time": "2025-08-30",
         "duration_days": 59
@@ -4843,7 +5163,11 @@
         "mutually_exclusive": true,
         "category": "Sports",
         "resolution_date": "2025-08-30",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxncaafgame-25aug30texosu_20250830"
+            ]
+        },
         "earliest_open_time": "2025-07-01",
         "latest_close_time": "2025-08-30",
         "duration_days": 59
@@ -4857,7 +5181,11 @@
         "mutually_exclusive": true,
         "category": "Sports",
         "resolution_date": "2025-08-30",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxncaafgame-25aug30syrtenn_20250830"
+            ]
+        },
         "earliest_open_time": "2025-07-01",
         "latest_close_time": "2025-08-30",
         "duration_days": 59
@@ -4907,7 +5235,11 @@
         "mutually_exclusive": true,
         "category": "Sports",
         "resolution_date": "2025-08-30",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxncaafgame-25aug30nwtuln_20250830"
+            ]
+        },
         "earliest_open_time": "2025-07-01",
         "latest_close_time": "2025-08-30",
         "duration_days": 59
@@ -4929,7 +5261,11 @@
         "mutually_exclusive": true,
         "category": "Sports",
         "resolution_date": "2025-08-30",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxncaafgame-25aug30msstusm_20250830"
+            ]
+        },
         "earliest_open_time": "2025-07-01",
         "latest_close_time": "2025-08-30",
         "duration_days": 59
@@ -5005,7 +5341,11 @@
         "mutually_exclusive": true,
         "category": "Sports",
         "resolution_date": "2025-08-30",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxncaafgame-25aug30mrmkkent_20250830"
+            ]
+        },
         "earliest_open_time": "2025-07-01",
         "latest_close_time": "2025-08-30",
         "duration_days": 59
@@ -5023,7 +5363,11 @@
         "mutually_exclusive": true,
         "category": "Sports",
         "resolution_date": "2025-08-30",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxncaafgame-25aug30faumd_20250830"
+            ]
+        },
         "earliest_open_time": "2025-07-01",
         "latest_close_time": "2025-08-30",
         "duration_days": 59
@@ -5046,7 +5390,11 @@
         "mutually_exclusive": true,
         "category": "Sports",
         "resolution_date": "2025-08-30",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxncaafgame-25aug30duqpitt_20250830"
+            ]
+        },
         "earliest_open_time": "2025-07-01",
         "latest_close_time": "2025-08-30",
         "duration_days": 59
@@ -5060,7 +5408,11 @@
         "mutually_exclusive": true,
         "category": "Sports",
         "resolution_date": "2025-08-30",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxncaafgame-25aug30ballpur_20250830"
+            ]
+        },
         "earliest_open_time": "2025-07-01",
         "latest_close_time": "2025-08-30",
         "duration_days": 59
@@ -5074,7 +5426,11 @@
         "mutually_exclusive": true,
         "category": "Sports",
         "resolution_date": "2025-08-30",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxligue1game-25aug30fcllil_20250830"
+            ]
+        },
         "earliest_open_time": "2025-08-23",
         "latest_close_time": "2025-08-30",
         "duration_days": 7
@@ -5088,7 +5444,11 @@
         "mutually_exclusive": true,
         "category": "Sports",
         "resolution_date": "2025-08-30",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxlaligagame-25aug30alaatm_20250830"
+            ]
+        },
         "earliest_open_time": "2025-08-23",
         "latest_close_time": "2025-08-30",
         "duration_days": 7
@@ -5102,7 +5462,11 @@
         "mutually_exclusive": true,
         "category": "Sports",
         "resolution_date": "2025-08-30",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxeplgame-25aug30woleve_20250830"
+            ]
+        },
         "earliest_open_time": "2025-08-23",
         "latest_close_time": "2025-08-30",
         "duration_days": 7
@@ -6290,7 +6654,11 @@
         "mutually_exclusive": false,
         "category": "Social",
         "resolution_date": "2025-08-31",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxstatementcountsweeney-25sep01_20250830"
+            ]
+        },
         "earliest_open_time": "2025-08-04",
         "latest_close_time": "2025-08-31",
         "duration_days": 26
@@ -6304,7 +6672,11 @@
         "mutually_exclusive": true,
         "category": "Science and Technology",
         "resolution_date": "2025-08-31",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxtopmodel-25aug_20250830"
+            ]
+        },
         "earliest_open_time": "2025-07-31",
         "latest_close_time": "2025-08-31",
         "duration_days": 31
@@ -6325,7 +6697,11 @@
         "mutually_exclusive": false,
         "category": "Politics",
         "resolution_date": "2025-08-31",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxtariffrateindia-25aug31_20250830"
+            ]
+        },
         "earliest_open_time": "2025-07-30",
         "latest_close_time": "2025-08-31",
         "duration_days": 31
@@ -6350,7 +6726,11 @@
         "mutually_exclusive": false,
         "category": "Politics",
         "resolution_date": "2025-08-31",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxspecialprosecutorepstein-25_20250830"
+            ]
+        },
         "earliest_open_time": "2025-07-23",
         "latest_close_time": "2025-08-31",
         "duration_days": 38
@@ -6364,7 +6744,11 @@
         "mutually_exclusive": false,
         "category": "Climate and Weather",
         "resolution_date": "2025-08-31",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxhurpathgeneralmajor-25_20250830"
+            ]
+        },
         "earliest_open_time": "2025-07-18",
         "latest_close_time": "2025-08-31",
         "duration_days": 44
@@ -6378,7 +6762,11 @@
         "mutually_exclusive": false,
         "category": "Climate and Weather",
         "resolution_date": "2025-08-31",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxhurpathgeneral-25_20250830"
+            ]
+        },
         "earliest_open_time": "2025-07-18",
         "latest_close_time": "2025-08-31",
         "duration_days": 44
@@ -6392,7 +6780,11 @@
         "mutually_exclusive": true,
         "category": "Sports",
         "resolution_date": "2025-08-31",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxncaafgame-25aug30utahucla_20250830"
+            ]
+        },
         "earliest_open_time": "2025-07-01",
         "latest_close_time": "2025-08-31",
         "duration_days": 60
@@ -6458,7 +6850,11 @@
         "mutually_exclusive": true,
         "category": "Sports",
         "resolution_date": "2025-08-31",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxncaafgame-25aug30csuwash_20250830"
+            ]
+        },
         "earliest_open_time": "2025-07-01",
         "latest_close_time": "2025-08-31",
         "duration_days": 60
@@ -6482,7 +6878,11 @@
         "mutually_exclusive": true,
         "category": "Sports",
         "resolution_date": "2025-08-31",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxncaafgame-25aug30hawariz_20250830"
+            ]
+        },
         "earliest_open_time": "2025-07-01",
         "latest_close_time": "2025-08-31",
         "duration_days": 60
@@ -6532,7 +6932,11 @@
         "mutually_exclusive": true,
         "category": "Sports",
         "resolution_date": "2025-08-31",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxncaafgame-25aug30calorst_20250830"
+            ]
+        },
         "earliest_open_time": "2025-07-01",
         "latest_close_time": "2025-08-31",
         "duration_days": 60
@@ -6546,7 +6950,11 @@
         "mutually_exclusive": true,
         "category": "Sports",
         "resolution_date": "2025-08-31",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxncaafgame-25aug30nauasu_20250830"
+            ]
+        },
         "earliest_open_time": "2025-07-01",
         "latest_close_time": "2025-08-31",
         "duration_days": 60
@@ -6560,7 +6968,11 @@
         "mutually_exclusive": true,
         "category": "Sports",
         "resolution_date": "2025-08-31",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxncaafgame-25aug30idhowsu_20250830"
+            ]
+        },
         "earliest_open_time": "2025-07-01",
         "latest_close_time": "2025-08-31",
         "duration_days": 60
@@ -6574,7 +6986,11 @@
         "mutually_exclusive": true,
         "category": "Sports",
         "resolution_date": "2025-08-31",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxncaafgame-25aug30gasofres_20250830"
+            ]
+        },
         "earliest_open_time": "2025-07-01",
         "latest_close_time": "2025-08-31",
         "duration_days": 60
@@ -6598,7 +7014,11 @@
         "mutually_exclusive": true,
         "category": "Sports",
         "resolution_date": "2025-08-31",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxncaafgame-25aug30tamcsmu_20250830"
+            ]
+        },
         "earliest_open_time": "2025-07-01",
         "latest_close_time": "2025-08-31",
         "duration_days": 60
@@ -6620,7 +7040,11 @@
         "mutually_exclusive": true,
         "category": "Sports",
         "resolution_date": "2025-08-31",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxncaafgame-25aug30brynmsu_20250830"
+            ]
+        },
         "earliest_open_time": "2025-07-01",
         "latest_close_time": "2025-08-31",
         "duration_days": 60
@@ -6634,7 +7058,11 @@
         "mutually_exclusive": true,
         "category": "Sports",
         "resolution_date": "2025-08-31",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxmlsgame-25aug30stlhou_20250830"
+            ]
+        },
         "earliest_open_time": "2025-08-26",
         "latest_close_time": "2025-08-31",
         "duration_days": 5
@@ -6648,7 +7076,11 @@
         "mutually_exclusive": true,
         "category": "Sports",
         "resolution_date": "2025-08-31",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxmlsgame-25aug30skccol_20250830"
+            ]
+        },
         "earliest_open_time": "2025-08-26",
         "latest_close_time": "2025-08-31",
         "duration_days": 5
@@ -6662,7 +7094,11 @@
         "mutually_exclusive": true,
         "category": "Sports",
         "resolution_date": "2025-08-31",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxmlsgame-25aug30nshatl_20250830"
+            ]
+        },
         "earliest_open_time": "2025-08-26",
         "latest_close_time": "2025-08-31",
         "duration_days": 5
@@ -6676,7 +7112,11 @@
         "mutually_exclusive": true,
         "category": "Sports",
         "resolution_date": "2025-08-31",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxmlsgame-25aug30minpor_20250830"
+            ]
+        },
         "earliest_open_time": "2025-08-26",
         "latest_close_time": "2025-08-31",
         "duration_days": 5
@@ -6690,7 +7130,11 @@
         "mutually_exclusive": true,
         "category": "Sports",
         "resolution_date": "2025-08-31",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxmlsgame-25aug30atxsj_20250830"
+            ]
+        },
         "earliest_open_time": "2025-08-26",
         "latest_close_time": "2025-08-31",
         "duration_days": 5
@@ -6712,7 +7156,11 @@
         "mutually_exclusive": true,
         "category": "Sports",
         "resolution_date": "2025-08-31",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxncaafgame-25aug30riceull_20250830"
+            ]
+        },
         "earliest_open_time": "2025-07-01",
         "latest_close_time": "2025-08-31",
         "duration_days": 60
@@ -6771,7 +7219,11 @@
         "mutually_exclusive": true,
         "category": "Sports",
         "resolution_date": "2025-08-31",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxncaafgame-25aug30prstbyu_20250830"
+            ]
+        },
         "earliest_open_time": "2025-07-01",
         "latest_close_time": "2025-08-31",
         "duration_days": 60
@@ -6811,7 +7263,11 @@
         "mutually_exclusive": true,
         "category": "Sports",
         "resolution_date": "2025-08-31",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxncaafgame-25aug30lamunt_20250830"
+            ]
+        },
         "earliest_open_time": "2025-07-01",
         "latest_close_time": "2025-08-31",
         "duration_days": 60
@@ -6844,7 +7300,11 @@
         "mutually_exclusive": true,
         "category": "Sports",
         "resolution_date": "2025-08-31",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxncaafgame-25aug30emutxst_20250830"
+            ]
+        },
         "earliest_open_time": "2025-07-01",
         "latest_close_time": "2025-08-31",
         "duration_days": 60
@@ -6865,7 +7325,11 @@
         "mutually_exclusive": true,
         "category": "Sports",
         "resolution_date": "2025-08-31",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxncaafgame-25aug30actlsa_20250830"
+            ]
+        },
         "earliest_open_time": "2025-07-01",
         "latest_close_time": "2025-08-31",
         "duration_days": 60
@@ -6936,7 +7400,11 @@
         "mutually_exclusive": true,
         "category": "Sports",
         "resolution_date": "2025-08-31",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxncaafgame-25aug30gastmiss_20250830"
+            ]
+        },
         "earliest_open_time": "2025-07-01",
         "latest_close_time": "2025-08-31",
         "duration_days": 60
@@ -6950,7 +7418,11 @@
         "mutually_exclusive": false,
         "category": "Sports",
         "resolution_date": "2025-08-31",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxncaaftotal-25aug30selalt_20250830"
+            ]
+        },
         "earliest_open_time": "2025-08-21",
         "latest_close_time": "2025-08-31",
         "duration_days": 10
@@ -6964,7 +7436,11 @@
         "mutually_exclusive": false,
         "category": "Sports",
         "resolution_date": "2025-08-31",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxncaaftotal-25aug30lsuclem_20250830"
+            ]
+        },
         "earliest_open_time": "2025-08-21",
         "latest_close_time": "2025-08-31",
         "duration_days": 10
@@ -6978,7 +7454,11 @@
         "mutually_exclusive": false,
         "category": "Sports",
         "resolution_date": "2025-08-31",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxncaafspread-25aug30selalt_20250830"
+            ]
+        },
         "earliest_open_time": "2025-08-21",
         "latest_close_time": "2025-08-31",
         "duration_days": 10
@@ -6992,7 +7472,11 @@
         "mutually_exclusive": false,
         "category": "Sports",
         "resolution_date": "2025-08-31",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxncaafspread-25aug30lsuclem_20250830"
+            ]
+        },
         "earliest_open_time": "2025-08-21",
         "latest_close_time": "2025-08-31",
         "duration_days": 10
@@ -7018,7 +7502,11 @@
         "mutually_exclusive": true,
         "category": "Sports",
         "resolution_date": "2025-08-31",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxncaafgame-25aug30utepusu_20250830"
+            ]
+        },
         "earliest_open_time": "2025-07-01",
         "latest_close_time": "2025-08-31",
         "duration_days": 60
@@ -7036,7 +7524,11 @@
         "mutually_exclusive": true,
         "category": "Sports",
         "resolution_date": "2025-08-31",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxncaafgame-25aug30unmmich_20250830"
+            ]
+        },
         "earliest_open_time": "2025-07-01",
         "latest_close_time": "2025-08-31",
         "duration_days": 60
@@ -7079,7 +7571,11 @@
         "mutually_exclusive": true,
         "category": "Sports",
         "resolution_date": "2025-08-31",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxncaafgame-25aug30selalt_20250830"
+            ]
+        },
         "earliest_open_time": "2025-07-01",
         "latest_close_time": "2025-08-31",
         "duration_days": 60
@@ -7106,7 +7602,11 @@
         "mutually_exclusive": true,
         "category": "Sports",
         "resolution_date": "2025-08-31",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxncaafgame-25aug30mosuusc_20250830"
+            ]
+        },
         "earliest_open_time": "2025-07-01",
         "latest_close_time": "2025-08-31",
         "duration_days": 60
@@ -7154,7 +7654,11 @@
         "mutually_exclusive": true,
         "category": "Sports",
         "resolution_date": "2025-08-31",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxncaafgame-25aug30lsuclem_20250830"
+            ]
+        },
         "earliest_open_time": "2025-07-01",
         "latest_close_time": "2025-08-31",
         "duration_days": 60
@@ -7193,7 +7697,11 @@
         "mutually_exclusive": true,
         "category": "Sports",
         "resolution_date": "2025-08-31",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxncaafgame-25aug30arpbttu_20250830"
+            ]
+        },
         "earliest_open_time": "2025-07-01",
         "latest_close_time": "2025-08-31",
         "duration_days": 60
@@ -7207,7 +7715,11 @@
         "mutually_exclusive": false,
         "category": "Sports",
         "resolution_date": "2025-08-31",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxncaaftotal-25aug30undksu_20250830"
+            ]
+        },
         "earliest_open_time": "2025-08-21",
         "latest_close_time": "2025-08-31",
         "duration_days": 10
@@ -7221,7 +7733,11 @@
         "mutually_exclusive": false,
         "category": "Sports",
         "resolution_date": "2025-08-31",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxncaaftotal-25aug30semoarst_20250830"
+            ]
+        },
         "earliest_open_time": "2025-08-21",
         "latest_close_time": "2025-08-31",
         "duration_days": 10
@@ -7235,7 +7751,11 @@
         "mutually_exclusive": false,
         "category": "Sports",
         "resolution_date": "2025-08-31",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxncaaftotal-25aug30nichtroy_20250830"
+            ]
+        },
         "earliest_open_time": "2025-08-21",
         "latest_close_time": "2025-08-31",
         "duration_days": 10
@@ -7249,7 +7769,11 @@
         "mutually_exclusive": false,
         "category": "Sports",
         "resolution_date": "2025-08-31",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxncaaftotal-25aug30chsovan_20250830"
+            ]
+        },
         "earliest_open_time": "2025-08-21",
         "latest_close_time": "2025-08-31",
         "duration_days": 10
@@ -7263,7 +7787,11 @@
         "mutually_exclusive": false,
         "category": "Sports",
         "resolution_date": "2025-08-31",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxncaafspread-25aug30undksu_20250830"
+            ]
+        },
         "earliest_open_time": "2025-08-21",
         "latest_close_time": "2025-08-31",
         "duration_days": 10
@@ -7277,7 +7805,11 @@
         "mutually_exclusive": false,
         "category": "Sports",
         "resolution_date": "2025-08-31",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxncaafspread-25aug30semoarst_20250830"
+            ]
+        },
         "earliest_open_time": "2025-08-21",
         "latest_close_time": "2025-08-31",
         "duration_days": 10
@@ -7291,7 +7823,11 @@
         "mutually_exclusive": false,
         "category": "Sports",
         "resolution_date": "2025-08-31",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxncaafspread-25aug30nichtroy_20250830"
+            ]
+        },
         "earliest_open_time": "2025-08-21",
         "latest_close_time": "2025-08-31",
         "duration_days": 10
@@ -7305,7 +7841,11 @@
         "mutually_exclusive": false,
         "category": "Sports",
         "resolution_date": "2025-08-31",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxncaafspread-25aug30chsovan_20250830"
+            ]
+        },
         "earliest_open_time": "2025-08-21",
         "latest_close_time": "2025-08-31",
         "duration_days": 10
@@ -7394,7 +7934,11 @@
         "mutually_exclusive": true,
         "category": "Sports",
         "resolution_date": "2025-08-31",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxncaafgame-25aug30utsatxam_20250830"
+            ]
+        },
         "earliest_open_time": "2025-07-01",
         "latest_close_time": "2025-08-31",
         "duration_days": 60
@@ -7516,7 +8060,11 @@
         "mutually_exclusive": true,
         "category": "Sports",
         "resolution_date": "2025-08-31",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxncaafgame-25aug30undksu_20250830"
+            ]
+        },
         "earliest_open_time": "2025-07-01",
         "latest_close_time": "2025-08-31",
         "duration_days": 60
@@ -7535,7 +8083,11 @@
         "mutually_exclusive": true,
         "category": "Sports",
         "resolution_date": "2025-08-31",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxncaafgame-25aug30unawku_20250830"
+            ]
+        },
         "earliest_open_time": "2025-07-01",
         "latest_close_time": "2025-08-31",
         "duration_days": 60
@@ -7583,7 +8135,11 @@
         "mutually_exclusive": true,
         "category": "Sports",
         "resolution_date": "2025-08-31",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxncaafgame-25aug30peaymtu_20250830"
+            ]
+        },
         "earliest_open_time": "2025-07-01",
         "latest_close_time": "2025-08-31",
         "duration_days": 60
@@ -7635,7 +8191,11 @@
         "mutually_exclusive": true,
         "category": "Sports",
         "resolution_date": "2025-08-31",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxncaafgame-25aug30morgusa_20250830"
+            ]
+        },
         "earliest_open_time": "2025-07-01",
         "latest_close_time": "2025-08-31",
         "duration_days": 60
@@ -7649,7 +8209,11 @@
         "mutually_exclusive": false,
         "category": "Sports",
         "resolution_date": "2025-08-31",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxncaaftotal-25aug30ccaruva_20250830"
+            ]
+        },
         "earliest_open_time": "2025-08-21",
         "latest_close_time": "2025-08-31",
         "duration_days": 10
@@ -7663,7 +8227,11 @@
         "mutually_exclusive": false,
         "category": "Sports",
         "resolution_date": "2025-08-31",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxncaafspread-25aug30ccaruva_20250830"
+            ]
+        },
         "earliest_open_time": "2025-08-21",
         "latest_close_time": "2025-08-31",
         "duration_days": 10
@@ -7845,7 +8413,11 @@
         "mutually_exclusive": true,
         "category": "Sports",
         "resolution_date": "2025-08-31",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxeplgame-25aug31avlcry_20250830"
+            ]
+        },
         "earliest_open_time": "2025-08-24",
         "latest_close_time": "2025-08-31",
         "duration_days": 7
@@ -7859,7 +8431,11 @@
         "mutually_exclusive": true,
         "category": "Sports",
         "resolution_date": "2025-08-31",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxlaligagame-25aug31esposa_20250830"
+            ]
+        },
         "earliest_open_time": "2025-08-24",
         "latest_close_time": "2025-08-31",
         "duration_days": 7
@@ -7873,7 +8449,11 @@
         "mutually_exclusive": true,
         "category": "Sports",
         "resolution_date": "2025-08-31",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxbundesligagame-25aug31koescf_20250830"
+            ]
+        },
         "earliest_open_time": "2025-08-24",
         "latest_close_time": "2025-08-31",
         "duration_days": 7
@@ -7887,7 +8467,11 @@
         "mutually_exclusive": true,
         "category": "Sports",
         "resolution_date": "2025-08-31",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxlaligagame-25aug31rbbath_20250830"
+            ]
+        },
         "earliest_open_time": "2025-08-24",
         "latest_close_time": "2025-08-31",
         "duration_days": 7
@@ -7901,7 +8485,11 @@
         "mutually_exclusive": true,
         "category": "Sports",
         "resolution_date": "2025-08-31",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxserieagame-25aug31torfio_20250830"
+            ]
+        },
         "earliest_open_time": "2025-08-24",
         "latest_close_time": "2025-08-31",
         "duration_days": 7
@@ -7915,7 +8503,11 @@
         "mutually_exclusive": true,
         "category": "Sports",
         "resolution_date": "2025-08-31",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxserieagame-25aug31genjuv_20250830"
+            ]
+        },
         "earliest_open_time": "2025-08-24",
         "latest_close_time": "2025-08-31",
         "duration_days": 7
@@ -7929,7 +8521,11 @@
         "mutually_exclusive": true,
         "category": "Sports",
         "resolution_date": "2025-08-31",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxeplgame-25aug31lfcars_20250830"
+            ]
+        },
         "earliest_open_time": "2025-08-24",
         "latest_close_time": "2025-08-31",
         "duration_days": 7
@@ -7943,7 +8539,11 @@
         "mutually_exclusive": true,
         "category": "Sports",
         "resolution_date": "2025-08-31",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxbundesligagame-25aug31bvbuni_20250830"
+            ]
+        },
         "earliest_open_time": "2025-08-24",
         "latest_close_time": "2025-08-31",
         "duration_days": 7
@@ -7957,7 +8557,11 @@
         "mutually_exclusive": true,
         "category": "Sports",
         "resolution_date": "2025-08-31",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxligue1game-25aug31parfcm_20250830"
+            ]
+        },
         "earliest_open_time": "2025-08-24",
         "latest_close_time": "2025-08-31",
         "duration_days": 7
@@ -7971,7 +8575,11 @@
         "mutually_exclusive": true,
         "category": "Sports",
         "resolution_date": "2025-08-31",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxligue1game-25aug31hacnic_20250830"
+            ]
+        },
         "earliest_open_time": "2025-08-24",
         "latest_close_time": "2025-08-31",
         "duration_days": 7
@@ -7985,7 +8593,11 @@
         "mutually_exclusive": true,
         "category": "Sports",
         "resolution_date": "2025-08-31",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxligue1game-25aug31asmrcs_20250830"
+            ]
+        },
         "earliest_open_time": "2025-08-24",
         "latest_close_time": "2025-08-31",
         "duration_days": 7
@@ -7999,7 +8611,11 @@
         "mutually_exclusive": true,
         "category": "Sports",
         "resolution_date": "2025-08-31",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxlaligagame-25aug31rccvil_20250830"
+            ]
+        },
         "earliest_open_time": "2025-08-24",
         "latest_close_time": "2025-08-31",
         "duration_days": 7
@@ -8013,7 +8629,11 @@
         "mutually_exclusive": true,
         "category": "Sports",
         "resolution_date": "2025-08-31",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxbundesligagame-25aug31wobm05_20250830"
+            ]
+        },
         "earliest_open_time": "2025-08-24",
         "latest_close_time": "2025-08-31",
         "duration_days": 7
@@ -8027,7 +8647,11 @@
         "mutually_exclusive": true,
         "category": "Sports",
         "resolution_date": "2025-08-31",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxligue1game-25aug31angren_20250830"
+            ]
+        },
         "earliest_open_time": "2025-08-24",
         "latest_close_time": "2025-08-31",
         "duration_days": 7
@@ -8041,7 +8665,11 @@
         "mutually_exclusive": true,
         "category": "Sports",
         "resolution_date": "2025-08-31",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxeplgame-25aug31nfowhu_20250830"
+            ]
+        },
         "earliest_open_time": "2025-08-24",
         "latest_close_time": "2025-08-31",
         "duration_days": 7
@@ -8055,7 +8683,11 @@
         "mutually_exclusive": true,
         "category": "Sports",
         "resolution_date": "2025-08-31",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxeplgame-25aug31brimci_20250830"
+            ]
+        },
         "earliest_open_time": "2025-08-24",
         "latest_close_time": "2025-08-31",
         "duration_days": 7
@@ -8181,7 +8813,11 @@
         "mutually_exclusive": true,
         "category": "Sports",
         "resolution_date": "2025-08-31",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxserieagame-25aug31lazver_20250830"
+            ]
+        },
         "earliest_open_time": "2025-08-24",
         "latest_close_time": "2025-08-31",
         "duration_days": 7
@@ -8223,7 +8859,11 @@
         "mutually_exclusive": true,
         "category": "Sports",
         "resolution_date": "2025-08-31",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxserieagame-25aug31intudi_20250830"
+            ]
+        },
         "earliest_open_time": "2025-08-24",
         "latest_close_time": "2025-08-31",
         "duration_days": 7
@@ -8237,7 +8877,11 @@
         "mutually_exclusive": true,
         "category": "Sports",
         "resolution_date": "2025-08-31",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxligue1game-25aug31olom_20250830"
+            ]
+        },
         "earliest_open_time": "2025-08-24",
         "latest_close_time": "2025-08-31",
         "duration_days": 7
@@ -8293,7 +8937,11 @@
         "mutually_exclusive": true,
         "category": "Sports",
         "resolution_date": "2025-08-31",
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250830": [
+                "ddgs_kxlaligagame-25aug31rvcbar_20250830"
+            ]
+        },
         "earliest_open_time": "2025-08-24",
         "latest_close_time": "2025-08-31",
         "duration_days": 7
