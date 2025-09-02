@@ -193,6 +193,24 @@ def scrape_kalshi_events():
         else:
             logger.info(f"Event {event['event_ticker']} is no longer active.")
             event['resolution_date'] = timestamp_now
+            # Ensure 'ddgs_reports' field exists, then try to backfill last 3 days.
+            if "ddgs_reports" not in event:
+                event['ddgs_reports'] = {}
+            for timestamp in timestamps:
+                if timestamp not in event["ddgs_reports"]:
+                    report = read_from_db(timestamp, event["event_ticker"])
+                    if report is not None:
+                        # generate unique hash id
+                        hash_id = f"ddgs_{event['event_ticker'].lower()}_{timestamp}"
+                        # save it to reports.json
+                        ddgs_reports.append({
+                            "hash_id": hash_id,
+                            "timestamp": timestamp,
+                            "event_ticker": event["event_ticker"],
+                            "report": report,
+                        })
+                        # save hash id in events.json
+                        event['ddgs_reports'][timestamp] = hash_id
             resolved_events.append(event)
     
     # Add newly active events not seen in previous snapshot.
