@@ -165,7 +165,9 @@ def scrape_kalshi_events():
         if event['event_ticker'] in current_event_tickers:
             logger.info(f"Event {event['event_ticker']} is still active.")
             # TODO: add a timestamped research report for this event
-            event['bing_reports'] = {}
+            if "bing_reports" not in event:
+                event['bing_reports'] = {}
+
             # Ensure 'ddgs_reports' field exists, then try to backfill last 3 days.
             if "ddgs_reports" not in event:
                 event['ddgs_reports'] = {}
