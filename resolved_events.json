@@ -6232,5 +6232,180 @@
         "mutually_exclusive": true,
         "category": "Sports",
         "resolution_date": "20250902"
+    },
+    {
+        "bing_reports": {},
+        "event_ticker": "KXUNIPRESIDENTS-25SEP01",
+        "series_ticker": "KXUNIPRESIDENTS",
+        "title": "Which university presidents will leave this school year?",
+        "sub_title": "2025 school year",
+        "mutually_exclusive": false,
+        "category": "Politics",
+        "ddgs_reports": {
+            "20250830": "ddgs_kxunipresidents-25sep01_20250830",
+            "20250831": "ddgs_kxunipresidents-25sep01_20250831"
+        },
+        "resolution_date": "20250903"
+    },
+    {
+        "bing_reports": {},
+        "event_ticker": "KXEOCOUNTM-25SEP01",
+        "series_ticker": "KXEOCOUNTM",
+        "title": "How many Executive Orders will Trump issue in August?",
+        "sub_title": "On day 2 (January 21, 2025)",
+        "mutually_exclusive": false,
+        "category": "Politics",
+        "ddgs_reports": {
+            "20250830": "ddgs_kxeocountm-25sep01_20250830",
+            "20250831": "ddgs_kxeocountm-25sep01_20250831"
+        },
+        "resolution_date": "20250903"
+    },
+    {
+        "bing_reports": {},
+        "event_ticker": "KXNCAAFGAME-25SEP01TCUUNC",
+        "series_ticker": "KXNCAAFGAME",
+        "title": "TCU at North Carolina",
+        "sub_title": "TCU at UNC (Sep 1)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "ddgs_reports": {
+            "20250830": "ddgs_kxncaafgame-25sep01tcuunc_20250830",
+            "20250831": "ddgs_kxncaafgame-25sep01tcuunc_20250831"
+        },
+        "resolution_date": "20250903"
+    },
+    {
+        "bing_reports": {},
+        "event_ticker": "KXACELAII-25",
+        "series_ticker": "KXACELAII",
+        "title": "When will the Amtrak Acela II trains enter revenue service?",
+        "sub_title": "In 2025",
+        "mutually_exclusive": false,
+        "category": "Transportation",
+        "ddgs_reports": {
+            "20250831": "ddgs_kxacelaii-25_20250831"
+        },
+        "resolution_date": "20250903"
+    },
+    {
+        "bing_reports": {},
+        "event_ticker": "KXRTTHELONGWALK",
+        "series_ticker": "KXRTTHELONGWALK",
+        "title": "\"The Long Walk\" Rotten Tomatoes score?",
+        "sub_title": "Sep 15, 2025",
+        "mutually_exclusive": false,
+        "category": "Entertainment",
+        "ddgs_reports": {
+            "20250831": "ddgs_kxrtthelongwalk_20250831"
+        },
+        "resolution_date": "20250903"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250831": "ddgs_kxrainnyc-25sep01_20250831"
+        },
+        "event_ticker": "KXRAINNYC-25SEP01",
+        "series_ticker": "KXRAINNYC",
+        "title": "Will it rain in NYC on Sep 1, 2025?",
+        "sub_title": "On Sep 1, 2025",
+        "mutually_exclusive": false,
+        "category": "Climate and Weather",
+        "resolution_date": "20250903"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250831": "ddgs_kxapprankfree-25sep02_20250831"
+        },
+        "event_ticker": "KXAPPRANKFREE-25SEP02",
+        "series_ticker": "KXAPPRANKFREE",
+        "title": "Top US iPhone app on Sep 2, 2025?",
+        "sub_title": "On Sep 2, 2025 at 10 AM ET",
+        "mutually_exclusive": true,
+        "category": "Entertainment",
+        "resolution_date": "20250903"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250831": "ddgs_kxapprankfree2-25sep02_20250831"
+        },
+        "event_ticker": "KXAPPRANKFREE2-25SEP02",
+        "series_ticker": "KXAPPRANKFREE2",
+        "title": "Runner-up US iPhone app on Sep 2, 2025?",
+        "sub_title": "On Sep 2, 2025 at 10 AM ET",
+        "mutually_exclusive": true,
+        "category": "Entertainment",
+        "resolution_date": "20250903"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250831": "ddgs_kxwnbagame-25sep01lasea_20250831"
+        },
+        "event_ticker": "KXWNBAGAME-25SEP01LASEA",
+        "series_ticker": "KXWNBAGAME",
+        "title": "LA at SEA",
+        "sub_title": "LA at SEA (Sep 1)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250903"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXATPMATCH-25SEP02LEHALC",
+        "series_ticker": "KXATPMATCH",
+        "title": "Lehecka vs Alcaraz",
+        "sub_title": "Lehecka vs Alcaraz",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250903"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXWTAMATCH-25SEP02PEGKRE",
+        "series_ticker": "KXWTAMATCH",
+        "title": "Pegula vs Krejcikova",
+        "sub_title": "Pegula vs Krejcikova",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250903"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXUFCFIGHT-25SEP06ZIAFER",
+        "series_ticker": "KXUFCFIGHT",
+        "title": "UFC Fight Night: Ziam vs Fernandes",
+        "sub_title": "Ziam vs Fernandes",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250903"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXWTAMATCH-25SEP02SABVON",
+        "series_ticker": "KXWTAMATCH",
+        "title": "Sabalenka vs Vondrousova",
+        "sub_title": "Sabalenka vs Vondrousova",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250903"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXMLBGAME-25SEP01TEXAZ",
+        "series_ticker": "KXMLBGAME",
+        "title": "Texas at Arizona",
+        "sub_title": "TEX at AZ (Sep 1)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250903"
     }
 ]
