@@ -15640,5 +15640,2020 @@
         "earliest_open_time": "2025-08-12",
         "latest_close_time": "2025-08-17",
         "duration_days": 5
+    },
+    {
+        "event_ticker": "KXEMMYDACTR-77",
+        "series_ticker": "KXEMMYDACTR",
+        "title": "Emmy Award for Drama Actress?",
+        "sub_title": "77th Emmy Awards",
+        "mutually_exclusive": true,
+        "category": "Entertainment",
+        "bing_reports": {
+            "2025-07-01": [
+                "bing_kxemmydactr-77_2025-07-01",
+                "bing_kxemmydactr-77_2025-07-01"
+            ]
+        },
+        "is_resolved": false,
+        "resolution_date": "20250903",
+        "ddgs_reports": {}
+    },
+    {
+        "event_ticker": "KXNEXTUKPM-30",
+        "series_ticker": "KXNEXTUKPM",
+        "title": "Who will be the next Prime Minister of the UK?",
+        "sub_title": "Before 2030",
+        "mutually_exclusive": true,
+        "category": "Politics",
+        "bing_reports": {
+            "2025-07-02": [
+                "bing_kxnextukpm-30_2025-07-02"
+            ]
+        },
+        "is_resolved": false,
+        "resolution_date": "20250903",
+        "ddgs_reports": {}
+    },
+    {
+        "event_ticker": "KXGOVPANOMR-26",
+        "series_ticker": "KXGOVPANOMR",
+        "title": "Who will be the Republican nominee for Governor in Pennsylvania?",
+        "sub_title": "In 2026",
+        "mutually_exclusive": true,
+        "category": "Politics",
+        "bing_reports": {
+            "2025-07-02": [
+                "bing_kxgovpanomr-26_2025-07-02"
+            ]
+        },
+        "is_resolved": false,
+        "resolution_date": "20250903",
+        "ddgs_reports": {}
+    },
+    {
+        "event_ticker": "KXSPACEXCOUNT-25",
+        "series_ticker": "KXSPACEXCOUNT",
+        "title": "How many launches will SpaceX have in 2025?",
+        "sub_title": "In 2025",
+        "mutually_exclusive": false,
+        "category": "Companies",
+        "bing_reports": {
+            "2025-07-02": [
+                "bing_kxspacexcount-25_2025-07-02",
+                "bing_kxspacexcount-25_2025-07-02",
+                "bing_kxspacexcount-25_2025-07-02",
+                "bing_kxspacexcount-25_2025-07-02",
+                "bing_kxspacexcount-25_2025-07-02"
+            ]
+        },
+        "is_resolved": false,
+        "resolution_date": "20250903",
+        "ddgs_reports": {}
+    },
+    {
+        "event_ticker": "KXNFLEXACTWINSLV-25",
+        "series_ticker": "KXNFLEXACTWINSLV",
+        "title": "Las Vegas exact win total this season?",
+        "sub_title": "2025-26 season",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "bing_reports": {
+            "2025-07-02": [
+                "bing_kxnflexactwinslv-25_2025-07-02",
+                "bing_kxnflexactwinslv-25_2025-07-02",
+                "bing_kxnflexactwinslv-25_2025-07-02",
+                "bing_kxnflexactwinslv-25_2025-07-02",
+                "bing_kxnflexactwinslv-25_2025-07-02"
+            ]
+        },
+        "is_resolved": false,
+        "resolution_date": "20250903",
+        "ddgs_reports": {}
+    },
+    {
+        "event_ticker": "KXSPOTIFYBILLIONS-25DEC31",
+        "series_ticker": "KXSPOTIFYBILLIONS",
+        "title": "Which songs will hit 1 Billion Spotify streams in 2025?",
+        "sub_title": "On Dec 31, 2025 at 10:00 AM ET",
+        "mutually_exclusive": false,
+        "category": "Entertainment",
+        "bing_reports": {
+            "2025-07-02": [
+                "bing_kxspotifybillions-25dec31_2025-07-02"
+            ]
+        },
+        "is_resolved": false,
+        "resolution_date": "20250903",
+        "ddgs_reports": {}
+    },
+    {
+        "event_ticker": "KXU3MAX-30",
+        "series_ticker": "KXU3MAX",
+        "title": "How high will unemployment get before 2030?",
+        "sub_title": "Before 2030",
+        "mutually_exclusive": false,
+        "category": "Economics",
+        "bing_reports": {
+            "2025-07-07": [
+                "bing_kxu3max-30_2025-07-07"
+            ],
+            "2025-07-08": [
+                "bing_kxu3max-30_2025-07-08",
+                "bing_kxu3max-30_2025-07-08",
+                "bing_kxu3max-30_2025-07-08",
+                "bing_kxu3max-30_2025-07-08",
+                "bing_kxu3max-30_2025-07-08",
+                "bing_kxu3max-30_2025-07-08",
+                "bing_kxu3max-30_2025-07-08",
+                "bing_kxu3max-30_2025-07-08",
+                "bing_kxu3max-30_2025-07-08",
+                "bing_kxu3max-30_2025-07-08",
+                "bing_kxu3max-30_2025-07-08",
+                "bing_kxu3max-30_2025-07-08",
+                "bing_kxu3max-30_2025-07-08",
+                "bing_kxu3max-30_2025-07-08",
+                "bing_kxu3max-30_2025-07-08",
+                "bing_kxu3max-30_2025-07-08",
+                "bing_kxu3max-30_2025-07-08",
+                "bing_kxu3max-30_2025-07-08",
+                "bing_kxu3max-30_2025-07-08",
+                "bing_kxu3max-30_2025-07-08",
+                "bing_kxu3max-30_2025-07-08",
+                "bing_kxu3max-30_2025-07-08",
+                "bing_kxu3max-30_2025-07-08"
+            ],
+            "2025-07-09": [
+                "bing_kxu3max-30_2025-07-09",
+                "bing_kxu3max-30_2025-07-09",
+                "bing_kxu3max-30_2025-07-09",
+                "bing_kxu3max-30_2025-07-09",
+                "bing_kxu3max-30_2025-07-09",
+                "bing_kxu3max-30_2025-07-09",
+                "bing_kxu3max-30_2025-07-09",
+                "bing_kxu3max-30_2025-07-09",
+                "bing_kxu3max-30_2025-07-09",
+                "bing_kxu3max-30_2025-07-09",
+                "bing_kxu3max-30_2025-07-09",
+                "bing_kxu3max-30_2025-07-09",
+                "bing_kxu3max-30_2025-07-09",
+                "bing_kxu3max-30_2025-07-09"
+            ],
+            "2025-07-10": [
+                "bing_kxu3max-30_2025-07-10",
+                "bing_kxu3max-30_2025-07-10",
+                "bing_kxu3max-30_2025-07-10",
+                "bing_kxu3max-30_2025-07-10",
+                "bing_kxu3max-30_2025-07-10",
+                "bing_kxu3max-30_2025-07-10",
+                "bing_kxu3max-30_2025-07-10",
+                "bing_kxu3max-30_2025-07-10",
+                "bing_kxu3max-30_2025-07-10",
+                "bing_kxu3max-30_2025-07-10",
+                "bing_kxu3max-30_2025-07-10",
+                "bing_kxu3max-30_2025-07-10",
+                "bing_kxu3max-30_2025-07-10"
+            ]
+        },
+        "is_resolved": false,
+        "resolution_date": "20250903",
+        "ddgs_reports": {}
+    },
+    {
+        "event_ticker": "KXPRIMEENGCONSUMPTION-30",
+        "series_ticker": "KXPRIMEENGCONSUMPTION",
+        "title": "What will be the largest source of global primary energy consumption in 2030?",
+        "sub_title": "In 2030",
+        "mutually_exclusive": true,
+        "category": "Climate and Weather",
+        "bing_reports": {
+            "2025-07-07": [
+                "bing_kxprimeengconsumption-30_2025-07-07",
+                "bing_kxprimeengconsumption-30_2025-07-07",
+                "bing_kxprimeengconsumption-30_2025-07-07",
+                "bing_kxprimeengconsumption-30_2025-07-07",
+                "bing_kxprimeengconsumption-30_2025-07-07",
+                "bing_kxprimeengconsumption-30_2025-07-07",
+                "bing_kxprimeengconsumption-30_2025-07-07",
+                "bing_kxprimeengconsumption-30_2025-07-07",
+                "bing_kxprimeengconsumption-30_2025-07-07",
+                "bing_kxprimeengconsumption-30_2025-07-07",
+                "bing_kxprimeengconsumption-30_2025-07-07",
+                "bing_kxprimeengconsumption-30_2025-07-07",
+                "bing_kxprimeengconsumption-30_2025-07-07",
+                "bing_kxprimeengconsumption-30_2025-07-07",
+                "bing_kxprimeengconsumption-30_2025-07-07",
+                "bing_kxprimeengconsumption-30_2025-07-07",
+                "bing_kxprimeengconsumption-30_2025-07-07",
+                "bing_kxprimeengconsumption-30_2025-07-07",
+                "bing_kxprimeengconsumption-30_2025-07-07",
+                "bing_kxprimeengconsumption-30_2025-07-07",
+                "bing_kxprimeengconsumption-30_2025-07-07",
+                "bing_kxprimeengconsumption-30_2025-07-07",
+                "bing_kxprimeengconsumption-30_2025-07-07",
+                "bing_kxprimeengconsumption-30_2025-07-07",
+                "bing_kxprimeengconsumption-30_2025-07-07",
+                "bing_kxprimeengconsumption-30_2025-07-07",
+                "bing_kxprimeengconsumption-30_2025-07-07"
+            ],
+            "2025-07-08": [
+                "bing_kxprimeengconsumption-30_2025-07-08",
+                "bing_kxprimeengconsumption-30_2025-07-08",
+                "bing_kxprimeengconsumption-30_2025-07-08",
+                "bing_kxprimeengconsumption-30_2025-07-08",
+                "bing_kxprimeengconsumption-30_2025-07-08",
+                "bing_kxprimeengconsumption-30_2025-07-08",
+                "bing_kxprimeengconsumption-30_2025-07-08",
+                "bing_kxprimeengconsumption-30_2025-07-08",
+                "bing_kxprimeengconsumption-30_2025-07-08",
+                "bing_kxprimeengconsumption-30_2025-07-08",
+                "bing_kxprimeengconsumption-30_2025-07-08",
+                "bing_kxprimeengconsumption-30_2025-07-08",
+                "bing_kxprimeengconsumption-30_2025-07-08",
+                "bing_kxprimeengconsumption-30_2025-07-08",
+                "bing_kxprimeengconsumption-30_2025-07-08",
+                "bing_kxprimeengconsumption-30_2025-07-08",
+                "bing_kxprimeengconsumption-30_2025-07-08",
+                "bing_kxprimeengconsumption-30_2025-07-08",
+                "bing_kxprimeengconsumption-30_2025-07-08",
+                "bing_kxprimeengconsumption-30_2025-07-08",
+                "bing_kxprimeengconsumption-30_2025-07-08",
+                "bing_kxprimeengconsumption-30_2025-07-08",
+                "bing_kxprimeengconsumption-30_2025-07-08",
+                "bing_kxprimeengconsumption-30_2025-07-08",
+                "bing_kxprimeengconsumption-30_2025-07-08"
+            ],
+            "2025-07-09": [
+                "bing_kxprimeengconsumption-30_2025-07-09",
+                "bing_kxprimeengconsumption-30_2025-07-09",
+                "bing_kxprimeengconsumption-30_2025-07-09",
+                "bing_kxprimeengconsumption-30_2025-07-09",
+                "bing_kxprimeengconsumption-30_2025-07-09",
+                "bing_kxprimeengconsumption-30_2025-07-09",
+                "bing_kxprimeengconsumption-30_2025-07-09",
+                "bing_kxprimeengconsumption-30_2025-07-09",
+                "bing_kxprimeengconsumption-30_2025-07-09",
+                "bing_kxprimeengconsumption-30_2025-07-09",
+                "bing_kxprimeengconsumption-30_2025-07-09"
+            ],
+            "2025-07-10": [
+                "bing_kxprimeengconsumption-30_2025-07-10",
+                "bing_kxprimeengconsumption-30_2025-07-10",
+                "bing_kxprimeengconsumption-30_2025-07-10",
+                "bing_kxprimeengconsumption-30_2025-07-10",
+                "bing_kxprimeengconsumption-30_2025-07-10",
+                "bing_kxprimeengconsumption-30_2025-07-10",
+                "bing_kxprimeengconsumption-30_2025-07-10",
+                "bing_kxprimeengconsumption-30_2025-07-10",
+                "bing_kxprimeengconsumption-30_2025-07-10",
+                "bing_kxprimeengconsumption-30_2025-07-10",
+                "bing_kxprimeengconsumption-30_2025-07-10",
+                "bing_kxprimeengconsumption-30_2025-07-10",
+                "bing_kxprimeengconsumption-30_2025-07-10",
+                "bing_kxprimeengconsumption-30_2025-07-10",
+                "bing_kxprimeengconsumption-30_2025-07-10",
+                "bing_kxprimeengconsumption-30_2025-07-10",
+                "bing_kxprimeengconsumption-30_2025-07-10",
+                "bing_kxprimeengconsumption-30_2025-07-10"
+            ]
+        },
+        "is_resolved": false,
+        "resolution_date": "20250903",
+        "ddgs_reports": {}
+    },
+    {
+        "event_ticker": "KXLALEADEROUT-35",
+        "series_ticker": "KXLALEADEROUT",
+        "title": "Which of these Latin America leaders will leave office next?",
+        "sub_title": "Before 2035",
+        "mutually_exclusive": true,
+        "category": "Politics",
+        "bing_reports": {
+            "2025-07-07": [
+                "bing_kxlaleaderout-35_2025-07-07"
+            ],
+            "2025-07-08": [
+                "bing_kxlaleaderout-35_2025-07-08",
+                "bing_kxlaleaderout-35_2025-07-08",
+                "bing_kxlaleaderout-35_2025-07-08",
+                "bing_kxlaleaderout-35_2025-07-08",
+                "bing_kxlaleaderout-35_2025-07-08",
+                "bing_kxlaleaderout-35_2025-07-08",
+                "bing_kxlaleaderout-35_2025-07-08"
+            ],
+            "2025-07-09": [
+                "bing_kxlaleaderout-35_2025-07-09",
+                "bing_kxlaleaderout-35_2025-07-09",
+                "bing_kxlaleaderout-35_2025-07-09",
+                "bing_kxlaleaderout-35_2025-07-09",
+                "bing_kxlaleaderout-35_2025-07-09",
+                "bing_kxlaleaderout-35_2025-07-09",
+                "bing_kxlaleaderout-35_2025-07-09",
+                "bing_kxlaleaderout-35_2025-07-09",
+                "bing_kxlaleaderout-35_2025-07-09",
+                "bing_kxlaleaderout-35_2025-07-09",
+                "bing_kxlaleaderout-35_2025-07-09",
+                "bing_kxlaleaderout-35_2025-07-09",
+                "bing_kxlaleaderout-35_2025-07-09",
+                "bing_kxlaleaderout-35_2025-07-09",
+                "bing_kxlaleaderout-35_2025-07-09",
+                "bing_kxlaleaderout-35_2025-07-09",
+                "bing_kxlaleaderout-35_2025-07-09",
+                "bing_kxlaleaderout-35_2025-07-09"
+            ],
+            "2025-07-10": [
+                "bing_kxlaleaderout-35_2025-07-10",
+                "bing_kxlaleaderout-35_2025-07-10",
+                "bing_kxlaleaderout-35_2025-07-10",
+                "bing_kxlaleaderout-35_2025-07-10",
+                "bing_kxlaleaderout-35_2025-07-10",
+                "bing_kxlaleaderout-35_2025-07-10"
+            ]
+        },
+        "is_resolved": false,
+        "resolution_date": "20250903",
+        "ddgs_reports": {}
+    },
+    {
+        "event_ticker": "KXAFRICALEADEROUT-35",
+        "series_ticker": "KXAFRICALEADEROUT",
+        "title": "Which of these African leaders will leave office next?",
+        "sub_title": "Before 2035",
+        "mutually_exclusive": true,
+        "category": "Politics",
+        "bing_reports": {
+            "2025-07-07": [
+                "bing_kxafricaleaderout-35_2025-07-07",
+                "bing_kxafricaleaderout-35_2025-07-07",
+                "bing_kxafricaleaderout-35_2025-07-07",
+                "bing_kxafricaleaderout-35_2025-07-07"
+            ],
+            "2025-07-08": [
+                "bing_kxafricaleaderout-35_2025-07-08",
+                "bing_kxafricaleaderout-35_2025-07-08",
+                "bing_kxafricaleaderout-35_2025-07-08",
+                "bing_kxafricaleaderout-35_2025-07-08",
+                "bing_kxafricaleaderout-35_2025-07-08",
+                "bing_kxafricaleaderout-35_2025-07-08",
+                "bing_kxafricaleaderout-35_2025-07-08",
+                "bing_kxafricaleaderout-35_2025-07-08",
+                "bing_kxafricaleaderout-35_2025-07-08"
+            ],
+            "2025-07-09": [
+                "bing_kxafricaleaderout-35_2025-07-09",
+                "bing_kxafricaleaderout-35_2025-07-09",
+                "bing_kxafricaleaderout-35_2025-07-09",
+                "bing_kxafricaleaderout-35_2025-07-09",
+                "bing_kxafricaleaderout-35_2025-07-09",
+                "bing_kxafricaleaderout-35_2025-07-09",
+                "bing_kxafricaleaderout-35_2025-07-09",
+                "bing_kxafricaleaderout-35_2025-07-09",
+                "bing_kxafricaleaderout-35_2025-07-09"
+            ],
+            "2025-07-10": [
+                "bing_kxafricaleaderout-35_2025-07-10",
+                "bing_kxafricaleaderout-35_2025-07-10",
+                "bing_kxafricaleaderout-35_2025-07-10",
+                "bing_kxafricaleaderout-35_2025-07-10"
+            ]
+        },
+        "is_resolved": false,
+        "resolution_date": "20250903",
+        "ddgs_reports": {}
+    },
+    {
+        "event_ticker": "KXTVSEASONRELEASETHELASTOFUS",
+        "series_ticker": "KXTVSEASONRELEASETHELASTOFUS",
+        "title": "When will \"The Last of Us\" Season 3 be released?",
+        "sub_title": "\"The Last of Us\" Season 3",
+        "mutually_exclusive": false,
+        "category": "Entertainment",
+        "bing_reports": {
+            "2025-07-07": [
+                "bing_kxtvseasonreleasethelastofus_2025-07-07"
+            ],
+            "2025-07-08": [
+                "bing_kxtvseasonreleasethelastofus_2025-07-08",
+                "bing_kxtvseasonreleasethelastofus_2025-07-08",
+                "bing_kxtvseasonreleasethelastofus_2025-07-08",
+                "bing_kxtvseasonreleasethelastofus_2025-07-08",
+                "bing_kxtvseasonreleasethelastofus_2025-07-08",
+                "bing_kxtvseasonreleasethelastofus_2025-07-08",
+                "bing_kxtvseasonreleasethelastofus_2025-07-08",
+                "bing_kxtvseasonreleasethelastofus_2025-07-08",
+                "bing_kxtvseasonreleasethelastofus_2025-07-08",
+                "bing_kxtvseasonreleasethelastofus_2025-07-08",
+                "bing_kxtvseasonreleasethelastofus_2025-07-08",
+                "bing_kxtvseasonreleasethelastofus_2025-07-08",
+                "bing_kxtvseasonreleasethelastofus_2025-07-08",
+                "bing_kxtvseasonreleasethelastofus_2025-07-08",
+                "bing_kxtvseasonreleasethelastofus_2025-07-08",
+                "bing_kxtvseasonreleasethelastofus_2025-07-08",
+                "bing_kxtvseasonreleasethelastofus_2025-07-08",
+                "bing_kxtvseasonreleasethelastofus_2025-07-08",
+                "bing_kxtvseasonreleasethelastofus_2025-07-08",
+                "bing_kxtvseasonreleasethelastofus_2025-07-08",
+                "bing_kxtvseasonreleasethelastofus_2025-07-08",
+                "bing_kxtvseasonreleasethelastofus_2025-07-08",
+                "bing_kxtvseasonreleasethelastofus_2025-07-08"
+            ],
+            "2025-07-09": [
+                "bing_kxtvseasonreleasethelastofus_2025-07-09",
+                "bing_kxtvseasonreleasethelastofus_2025-07-09",
+                "bing_kxtvseasonreleasethelastofus_2025-07-09",
+                "bing_kxtvseasonreleasethelastofus_2025-07-09",
+                "bing_kxtvseasonreleasethelastofus_2025-07-09",
+                "bing_kxtvseasonreleasethelastofus_2025-07-09",
+                "bing_kxtvseasonreleasethelastofus_2025-07-09",
+                "bing_kxtvseasonreleasethelastofus_2025-07-09",
+                "bing_kxtvseasonreleasethelastofus_2025-07-09",
+                "bing_kxtvseasonreleasethelastofus_2025-07-09",
+                "bing_kxtvseasonreleasethelastofus_2025-07-09",
+                "bing_kxtvseasonreleasethelastofus_2025-07-09",
+                "bing_kxtvseasonreleasethelastofus_2025-07-09",
+                "bing_kxtvseasonreleasethelastofus_2025-07-09",
+                "bing_kxtvseasonreleasethelastofus_2025-07-09",
+                "bing_kxtvseasonreleasethelastofus_2025-07-09",
+                "bing_kxtvseasonreleasethelastofus_2025-07-09",
+                "bing_kxtvseasonreleasethelastofus_2025-07-09",
+                "bing_kxtvseasonreleasethelastofus_2025-07-09",
+                "bing_kxtvseasonreleasethelastofus_2025-07-09",
+                "bing_kxtvseasonreleasethelastofus_2025-07-09",
+                "bing_kxtvseasonreleasethelastofus_2025-07-09"
+            ],
+            "2025-07-10": [
+                "bing_kxtvseasonreleasethelastofus_2025-07-10",
+                "bing_kxtvseasonreleasethelastofus_2025-07-10",
+                "bing_kxtvseasonreleasethelastofus_2025-07-10",
+                "bing_kxtvseasonreleasethelastofus_2025-07-10",
+                "bing_kxtvseasonreleasethelastofus_2025-07-10",
+                "bing_kxtvseasonreleasethelastofus_2025-07-10",
+                "bing_kxtvseasonreleasethelastofus_2025-07-10",
+                "bing_kxtvseasonreleasethelastofus_2025-07-10",
+                "bing_kxtvseasonreleasethelastofus_2025-07-10",
+                "bing_kxtvseasonreleasethelastofus_2025-07-10",
+                "bing_kxtvseasonreleasethelastofus_2025-07-10",
+                "bing_kxtvseasonreleasethelastofus_2025-07-10",
+                "bing_kxtvseasonreleasethelastofus_2025-07-10",
+                "bing_kxtvseasonreleasethelastofus_2025-07-10",
+                "bing_kxtvseasonreleasethelastofus_2025-07-10",
+                "bing_kxtvseasonreleasethelastofus_2025-07-10",
+                "bing_kxtvseasonreleasethelastofus_2025-07-10"
+            ]
+        },
+        "is_resolved": false,
+        "resolution_date": "20250903",
+        "ddgs_reports": {}
+    },
+    {
+        "event_ticker": "KXUKPARTY-29",
+        "series_ticker": "KXUKPARTY",
+        "title": "Which party will win the next U.K. election?",
+        "sub_title": "In the next U.K. election",
+        "mutually_exclusive": true,
+        "category": "Elections",
+        "bing_reports": {
+            "2025-07-07": [
+                "bing_kxukparty-29_2025-07-07",
+                "bing_kxukparty-29_2025-07-07",
+                "bing_kxukparty-29_2025-07-07",
+                "bing_kxukparty-29_2025-07-07",
+                "bing_kxukparty-29_2025-07-07"
+            ],
+            "2025-07-08": [
+                "bing_kxukparty-29_2025-07-08",
+                "bing_kxukparty-29_2025-07-08",
+                "bing_kxukparty-29_2025-07-08",
+                "bing_kxukparty-29_2025-07-08",
+                "bing_kxukparty-29_2025-07-08",
+                "bing_kxukparty-29_2025-07-08",
+                "bing_kxukparty-29_2025-07-08",
+                "bing_kxukparty-29_2025-07-08",
+                "bing_kxukparty-29_2025-07-08",
+                "bing_kxukparty-29_2025-07-08",
+                "bing_kxukparty-29_2025-07-08",
+                "bing_kxukparty-29_2025-07-08",
+                "bing_kxukparty-29_2025-07-08",
+                "bing_kxukparty-29_2025-07-08",
+                "bing_kxukparty-29_2025-07-08",
+                "bing_kxukparty-29_2025-07-08",
+                "bing_kxukparty-29_2025-07-08",
+                "bing_kxukparty-29_2025-07-08",
+                "bing_kxukparty-29_2025-07-08",
+                "bing_kxukparty-29_2025-07-08",
+                "bing_kxukparty-29_2025-07-08",
+                "bing_kxukparty-29_2025-07-08"
+            ],
+            "2025-07-09": [
+                "bing_kxukparty-29_2025-07-09",
+                "bing_kxukparty-29_2025-07-09",
+                "bing_kxukparty-29_2025-07-09",
+                "bing_kxukparty-29_2025-07-09",
+                "bing_kxukparty-29_2025-07-09",
+                "bing_kxukparty-29_2025-07-09",
+                "bing_kxukparty-29_2025-07-09",
+                "bing_kxukparty-29_2025-07-09",
+                "bing_kxukparty-29_2025-07-09",
+                "bing_kxukparty-29_2025-07-09",
+                "bing_kxukparty-29_2025-07-09",
+                "bing_kxukparty-29_2025-07-09",
+                "bing_kxukparty-29_2025-07-09",
+                "bing_kxukparty-29_2025-07-09",
+                "bing_kxukparty-29_2025-07-09",
+                "bing_kxukparty-29_2025-07-09",
+                "bing_kxukparty-29_2025-07-09",
+                "bing_kxukparty-29_2025-07-09",
+                "bing_kxukparty-29_2025-07-09",
+                "bing_kxukparty-29_2025-07-09",
+                "bing_kxukparty-29_2025-07-09",
+                "bing_kxukparty-29_2025-07-09",
+                "bing_kxukparty-29_2025-07-09"
+            ],
+            "2025-07-10": [
+                "bing_kxukparty-29_2025-07-10",
+                "bing_kxukparty-29_2025-07-10",
+                "bing_kxukparty-29_2025-07-10",
+                "bing_kxukparty-29_2025-07-10",
+                "bing_kxukparty-29_2025-07-10",
+                "bing_kxukparty-29_2025-07-10",
+                "bing_kxukparty-29_2025-07-10",
+                "bing_kxukparty-29_2025-07-10",
+                "bing_kxukparty-29_2025-07-10",
+                "bing_kxukparty-29_2025-07-10"
+            ],
+            "2025-07-29": [
+                "bing_kxukparty-29_2025-07-29",
+                "bing_kxukparty-29_2025-07-29",
+                "bing_kxukparty-29_2025-07-29"
+            ],
+            "2025-07-30": [
+                "bing_kxukparty-29_2025-07-30",
+                "bing_kxukparty-29_2025-07-30"
+            ]
+        },
+        "is_resolved": false,
+        "resolution_date": "20250903",
+        "ddgs_reports": {}
+    },
+    {
+        "event_ticker": "POWER-28",
+        "series_ticker": "POWER",
+        "title": "Who will win the House, Senate, and Presidency?",
+        "sub_title": "In 2029",
+        "mutually_exclusive": true,
+        "category": "Politics",
+        "bing_reports": {
+            "2025-07-07": [
+                "bing_power-28_2025-07-07",
+                "bing_power-28_2025-07-07",
+                "bing_power-28_2025-07-07",
+                "bing_power-28_2025-07-07"
+            ],
+            "2025-07-08": [
+                "bing_power-28_2025-07-08",
+                "bing_power-28_2025-07-08",
+                "bing_power-28_2025-07-08",
+                "bing_power-28_2025-07-08",
+                "bing_power-28_2025-07-08",
+                "bing_power-28_2025-07-08",
+                "bing_power-28_2025-07-08",
+                "bing_power-28_2025-07-08",
+                "bing_power-28_2025-07-08",
+                "bing_power-28_2025-07-08",
+                "bing_power-28_2025-07-08",
+                "bing_power-28_2025-07-08",
+                "bing_power-28_2025-07-08",
+                "bing_power-28_2025-07-08",
+                "bing_power-28_2025-07-08",
+                "bing_power-28_2025-07-08",
+                "bing_power-28_2025-07-08",
+                "bing_power-28_2025-07-08",
+                "bing_power-28_2025-07-08",
+                "bing_power-28_2025-07-08",
+                "bing_power-28_2025-07-08",
+                "bing_power-28_2025-07-08"
+            ],
+            "2025-07-09": [
+                "bing_power-28_2025-07-09",
+                "bing_power-28_2025-07-09",
+                "bing_power-28_2025-07-09",
+                "bing_power-28_2025-07-09",
+                "bing_power-28_2025-07-09",
+                "bing_power-28_2025-07-09",
+                "bing_power-28_2025-07-09",
+                "bing_power-28_2025-07-09",
+                "bing_power-28_2025-07-09",
+                "bing_power-28_2025-07-09",
+                "bing_power-28_2025-07-09",
+                "bing_power-28_2025-07-09",
+                "bing_power-28_2025-07-09",
+                "bing_power-28_2025-07-09",
+                "bing_power-28_2025-07-09",
+                "bing_power-28_2025-07-09",
+                "bing_power-28_2025-07-09",
+                "bing_power-28_2025-07-09"
+            ],
+            "2025-07-10": [
+                "bing_power-28_2025-07-10",
+                "bing_power-28_2025-07-10",
+                "bing_power-28_2025-07-10",
+                "bing_power-28_2025-07-10",
+                "bing_power-28_2025-07-10",
+                "bing_power-28_2025-07-10"
+            ]
+        },
+        "is_resolved": false,
+        "resolution_date": "20250903",
+        "ddgs_reports": {}
+    },
+    {
+        "event_ticker": "KXLEAVEOPENAI-25",
+        "series_ticker": "KXLEAVEOPENAI",
+        "title": "Who will leave OpenAI in 2025?",
+        "sub_title": "Before 2026",
+        "mutually_exclusive": false,
+        "category": "Companies",
+        "bing_reports": {
+            "2025-07-10": [
+                "bing_kxleaveopenai-25_2025-07-10",
+                "bing_kxleaveopenai-25_2025-07-10",
+                "bing_kxleaveopenai-25_2025-07-10",
+                "bing_kxleaveopenai-25_2025-07-10",
+                "bing_kxleaveopenai-25_2025-07-10",
+                "bing_kxleaveopenai-25_2025-07-10",
+                "bing_kxleaveopenai-25_2025-07-10",
+                "bing_kxleaveopenai-25_2025-07-10",
+                "bing_kxleaveopenai-25_2025-07-10",
+                "bing_kxleaveopenai-25_2025-07-10",
+                "bing_kxleaveopenai-25_2025-07-10",
+                "bing_kxleaveopenai-25_2025-07-10",
+                "bing_kxleaveopenai-25_2025-07-10",
+                "bing_kxleaveopenai-25_2025-07-10",
+                "bing_kxleaveopenai-25_2025-07-10",
+                "bing_kxleaveopenai-25_2025-07-10",
+                "bing_kxleaveopenai-25_2025-07-10",
+                "bing_kxleaveopenai-25_2025-07-10",
+                "bing_kxleaveopenai-25_2025-07-10",
+                "bing_kxleaveopenai-25_2025-07-10",
+                "bing_kxleaveopenai-25_2025-07-10",
+                "bing_kxleaveopenai-25_2025-07-10",
+                "bing_kxleaveopenai-25_2025-07-10",
+                "bing_kxleaveopenai-25_2025-07-10",
+                "bing_kxleaveopenai-25_2025-07-10",
+                "bing_kxleaveopenai-25_2025-07-10",
+                "bing_kxleaveopenai-25_2025-07-10",
+                "bing_kxleaveopenai-25_2025-07-10",
+                "bing_kxleaveopenai-25_2025-07-10",
+                "bing_kxleaveopenai-25_2025-07-10",
+                "bing_kxleaveopenai-25_2025-07-10",
+                "bing_kxleaveopenai-25_2025-07-10",
+                "bing_kxleaveopenai-25_2025-07-10",
+                "bing_kxleaveopenai-25_2025-07-10",
+                "bing_kxleaveopenai-25_2025-07-10",
+                "bing_kxleaveopenai-25_2025-07-10"
+            ],
+            "2025-07-11": [
+                "bing_kxleaveopenai-25_2025-07-11",
+                "bing_kxleaveopenai-25_2025-07-11",
+                "bing_kxleaveopenai-25_2025-07-11",
+                "bing_kxleaveopenai-25_2025-07-11",
+                "bing_kxleaveopenai-25_2025-07-11",
+                "bing_kxleaveopenai-25_2025-07-11",
+                "bing_kxleaveopenai-25_2025-07-11",
+                "bing_kxleaveopenai-25_2025-07-11"
+            ],
+            "2025-07-12": [
+                "bing_kxleaveopenai-25_2025-07-12",
+                "bing_kxleaveopenai-25_2025-07-12",
+                "bing_kxleaveopenai-25_2025-07-12",
+                "bing_kxleaveopenai-25_2025-07-12",
+                "bing_kxleaveopenai-25_2025-07-12",
+                "bing_kxleaveopenai-25_2025-07-12",
+                "bing_kxleaveopenai-25_2025-07-12",
+                "bing_kxleaveopenai-25_2025-07-12",
+                "bing_kxleaveopenai-25_2025-07-12",
+                "bing_kxleaveopenai-25_2025-07-12",
+                "bing_kxleaveopenai-25_2025-07-12",
+                "bing_kxleaveopenai-25_2025-07-12",
+                "bing_kxleaveopenai-25_2025-07-12",
+                "bing_kxleaveopenai-25_2025-07-12",
+                "bing_kxleaveopenai-25_2025-07-12",
+                "bing_kxleaveopenai-25_2025-07-12",
+                "bing_kxleaveopenai-25_2025-07-12",
+                "bing_kxleaveopenai-25_2025-07-12",
+                "bing_kxleaveopenai-25_2025-07-12",
+                "bing_kxleaveopenai-25_2025-07-12",
+                "bing_kxleaveopenai-25_2025-07-12",
+                "bing_kxleaveopenai-25_2025-07-12",
+                "bing_kxleaveopenai-25_2025-07-12",
+                "bing_kxleaveopenai-25_2025-07-12",
+                "bing_kxleaveopenai-25_2025-07-12",
+                "bing_kxleaveopenai-25_2025-07-12",
+                "bing_kxleaveopenai-25_2025-07-12",
+                "bing_kxleaveopenai-25_2025-07-12"
+            ]
+        },
+        "is_resolved": false,
+        "resolution_date": "20250903",
+        "ddgs_reports": {}
+    },
+    {
+        "event_ticker": "GTA6",
+        "series_ticker": "KXGTA6",
+        "title": "GTA 6 release date?",
+        "sub_title": "GTA 6",
+        "mutually_exclusive": false,
+        "category": "Entertainment",
+        "bing_reports": {
+            "2025-07-21": [
+                "bing_gta6_2025-07-21"
+            ]
+        },
+        "is_resolved": false,
+        "resolution_date": "20250903",
+        "ddgs_reports": {}
+    },
+    {
+        "event_ticker": "KXGRAMMYNOMAOTY-68",
+        "series_ticker": "KXGRAMMYNOMAOTY",
+        "title": "2026 Grammy nominations for Album of the Year?",
+        "sub_title": "In 2026",
+        "mutually_exclusive": false,
+        "category": "Entertainment",
+        "bing_reports": {
+            "2025-07-21": [
+                "bing_kxgrammynomaoty-68_2025-07-21"
+            ]
+        },
+        "is_resolved": false,
+        "resolution_date": "20250903",
+        "ddgs_reports": {}
+    },
+    {
+        "event_ticker": "KXNFLEXACTWINSNYJ-25",
+        "series_ticker": "KXNFLEXACTWINSNYJ",
+        "title": "New York J exact win total this season?",
+        "sub_title": "2025-26 season",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "bing_reports": {
+            "2025-07-21": [
+                "bing_kxnflexactwinsnyj-25_2025-07-21"
+            ]
+        },
+        "is_resolved": false,
+        "resolution_date": "20250903",
+        "ddgs_reports": {}
+    },
+    {
+        "event_ticker": "KXBCHMAXY-25",
+        "series_ticker": "KXBCHMAXY",
+        "title": "How high will Bitcoin Cash get this year?",
+        "sub_title": "In 2025",
+        "mutually_exclusive": false,
+        "category": "Crypto",
+        "bing_reports": {
+            "2025-07-22": [
+                "bing_kxbchmaxy-25_2025-07-22",
+                "bing_kxbchmaxy-25_2025-07-22",
+                "bing_kxbchmaxy-25_2025-07-22",
+                "bing_kxbchmaxy-25_2025-07-22",
+                "bing_kxbchmaxy-25_2025-07-22",
+                "bing_kxbchmaxy-25_2025-07-22",
+                "bing_kxbchmaxy-25_2025-07-22",
+                "bing_kxbchmaxy-25_2025-07-22",
+                "bing_kxbchmaxy-25_2025-07-22",
+                "bing_kxbchmaxy-25_2025-07-22",
+                "bing_kxbchmaxy-25_2025-07-22",
+                "bing_kxbchmaxy-25_2025-07-22",
+                "bing_kxbchmaxy-25_2025-07-22",
+                "bing_kxbchmaxy-25_2025-07-22",
+                "bing_kxbchmaxy-25_2025-07-22"
+            ],
+            "2025-07-24": [
+                "bing_kxbchmaxy-25_2025-07-24",
+                "bing_kxbchmaxy-25_2025-07-24",
+                "bing_kxbchmaxy-25_2025-07-24",
+                "bing_kxbchmaxy-25_2025-07-24",
+                "bing_kxbchmaxy-25_2025-07-24",
+                "bing_kxbchmaxy-25_2025-07-24",
+                "bing_kxbchmaxy-25_2025-07-24",
+                "bing_kxbchmaxy-25_2025-07-24",
+                "bing_kxbchmaxy-25_2025-07-24"
+            ]
+        },
+        "is_resolved": false,
+        "resolution_date": "20250903",
+        "ddgs_reports": {}
+    },
+    {
+        "event_ticker": "KXOSCARNOMDOCU-26",
+        "series_ticker": "KXOSCARNOMDOCU",
+        "title": "Oscar nominations for Best Documentary Feature Film?",
+        "sub_title": "In 2026",
+        "mutually_exclusive": false,
+        "category": "Entertainment",
+        "bing_reports": {
+            "2025-07-25": [
+                "bing_kxoscarnomdocu-26_2025-07-25",
+                "bing_kxoscarnomdocu-26_2025-07-25",
+                "bing_kxoscarnomdocu-26_2025-07-25",
+                "bing_kxoscarnomdocu-26_2025-07-25",
+                "bing_kxoscarnomdocu-26_2025-07-25",
+                "bing_kxoscarnomdocu-26_2025-07-25",
+                "bing_kxoscarnomdocu-26_2025-07-25",
+                "bing_kxoscarnomdocu-26_2025-07-25",
+                "bing_kxoscarnomdocu-26_2025-07-25",
+                "bing_kxoscarnomdocu-26_2025-07-25",
+                "bing_kxoscarnomdocu-26_2025-07-25"
+            ]
+        },
+        "is_resolved": false,
+        "resolution_date": "20250903",
+        "ddgs_reports": {}
+    },
+    {
+        "event_ticker": "KXNBERRECESSQ",
+        "series_ticker": "KXNBERRECESSQ",
+        "title": "When will the next US recession start?",
+        "sub_title": "Next recession",
+        "mutually_exclusive": true,
+        "category": "Economics",
+        "bing_reports": {
+            "2025-07-29": [
+                "bing_kxnberrecessq_2025-07-29",
+                "bing_kxnberrecessq_2025-07-29",
+                "bing_kxnberrecessq_2025-07-29",
+                "bing_kxnberrecessq_2025-07-29",
+                "bing_kxnberrecessq_2025-07-29",
+                "bing_kxnberrecessq_2025-07-29",
+                "bing_kxnberrecessq_2025-07-29",
+                "bing_kxnberrecessq_2025-07-29",
+                "bing_kxnberrecessq_2025-07-29",
+                "bing_kxnberrecessq_2025-07-29",
+                "bing_kxnberrecessq_2025-07-29"
+            ],
+            "2025-08-01": [
+                "bing_kxnberrecessq_2025-08-01",
+                "bing_kxnberrecessq_2025-08-01"
+            ],
+            "2025-08-03": [
+                "bing_kxnberrecessq_2025-08-03",
+                "bing_kxnberrecessq_2025-08-03"
+            ],
+            "2025-08-04": [
+                "bing_kxnberrecessq_2025-08-04",
+                "bing_kxnberrecessq_2025-08-04",
+                "bing_kxnberrecessq_2025-08-04",
+                "bing_kxnberrecessq_2025-08-04",
+                "bing_kxnberrecessq_2025-08-04",
+                "bing_kxnberrecessq_2025-08-04",
+                "bing_kxnberrecessq_2025-08-04"
+            ],
+            "2025-08-07": [
+                "bing_kxnberrecessq_2025-08-07",
+                "bing_kxnberrecessq_2025-08-07",
+                "bing_kxnberrecessq_2025-08-07"
+            ],
+            "2025-08-09": [
+                "bing_kxnberrecessq_2025-08-09",
+                "bing_kxnberrecessq_2025-08-09",
+                "bing_kxnberrecessq_2025-08-09",
+                "bing_kxnberrecessq_2025-08-09",
+                "bing_kxnberrecessq_2025-08-09",
+                "bing_kxnberrecessq_2025-08-09",
+                "bing_kxnberrecessq_2025-08-09"
+            ]
+        },
+        "is_resolved": false,
+        "resolution_date": "20250903",
+        "ddgs_reports": {}
+    },
+    {
+        "event_ticker": "KXRECOGPALESTINE-25",
+        "series_ticker": "KXRECOGPALESTINE",
+        "title": "Who will recognize Palestine this year?",
+        "sub_title": "In 2025",
+        "mutually_exclusive": false,
+        "category": "Politics",
+        "bing_reports": {
+            "2025-07-30": [
+                "bing_kxrecogpalestine-25_2025-07-30",
+                "bing_kxrecogpalestine-25_2025-07-30",
+                "bing_kxrecogpalestine-25_2025-07-30",
+                "bing_kxrecogpalestine-25_2025-07-30",
+                "bing_kxrecogpalestine-25_2025-07-30",
+                "bing_kxrecogpalestine-25_2025-07-30",
+                "bing_kxrecogpalestine-25_2025-07-30",
+                "bing_kxrecogpalestine-25_2025-07-30",
+                "bing_kxrecogpalestine-25_2025-07-30",
+                "bing_kxrecogpalestine-25_2025-07-30",
+                "bing_kxrecogpalestine-25_2025-07-30"
+            ]
+        },
+        "is_resolved": false,
+        "resolution_date": "20250903",
+        "ddgs_reports": {}
+    },
+    {
+        "event_ticker": "KXSTARTCLEBROWNS-25SEP09",
+        "series_ticker": "KXSTARTCLEBROWNS",
+        "title": "Cleveland week one starting QB?",
+        "sub_title": "Before Sep 9, 2025",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "bing_reports": {
+            "2025-08-01": [
+                "bing_kxstartclebrowns-25sep09_2025-08-01",
+                "bing_kxstartclebrowns-25sep09_2025-08-01"
+            ]
+        },
+        "is_resolved": false,
+        "resolution_date": "20250903",
+        "ddgs_reports": {}
+    },
+    {
+        "event_ticker": "KXTESLA-25-Q3",
+        "series_ticker": "KXTESLA",
+        "title": "Tesla deliveries in Q3 2025?",
+        "sub_title": "In Q3 2025",
+        "mutually_exclusive": false,
+        "category": "Companies",
+        "bing_reports": {
+            "2025-08-01": [
+                "bing_kxtesla-25-q3_2025-08-01",
+                "bing_kxtesla-25-q3_2025-08-01",
+                "bing_kxtesla-25-q3_2025-08-01",
+                "bing_kxtesla-25-q3_2025-08-01",
+                "bing_kxtesla-25-q3_2025-08-01"
+            ]
+        },
+        "is_resolved": false,
+        "resolution_date": "20250903",
+        "ddgs_reports": {}
+    },
+    {
+        "event_ticker": "KXLLM1-25DEC31",
+        "series_ticker": "KXLLM1",
+        "title": "Best AI at the end of 2025?",
+        "sub_title": "On Dec 31, 2025",
+        "mutually_exclusive": true,
+        "category": "Science and Technology",
+        "bing_reports": {
+            "2025-08-02": [
+                "bing_kxllm1-25dec31_2025-08-02",
+                "bing_kxllm1-25dec31_2025-08-02"
+            ],
+            "2025-08-03": [
+                "bing_kxllm1-25dec31_2025-08-03",
+                "bing_kxllm1-25dec31_2025-08-03",
+                "bing_kxllm1-25dec31_2025-08-03",
+                "bing_kxllm1-25dec31_2025-08-03",
+                "bing_kxllm1-25dec31_2025-08-03",
+                "bing_kxllm1-25dec31_2025-08-03",
+                "bing_kxllm1-25dec31_2025-08-03",
+                "bing_kxllm1-25dec31_2025-08-03",
+                "bing_kxllm1-25dec31_2025-08-03"
+            ]
+        },
+        "is_resolved": false,
+        "resolution_date": "20250903",
+        "ddgs_reports": {}
+    },
+    {
+        "event_ticker": "KXSENATEMED-26",
+        "series_ticker": "KXSENATEMED",
+        "title": "Democratic nominee for Senate in Maine?",
+        "sub_title": "In 2026",
+        "mutually_exclusive": true,
+        "category": "Politics",
+        "bing_reports": {
+            "2025-08-07": [
+                "bing_kxsenatemed-26_2025-08-07",
+                "bing_kxsenatemed-26_2025-08-07",
+                "bing_kxsenatemed-26_2025-08-07",
+                "bing_kxsenatemed-26_2025-08-07"
+            ],
+            "2025-08-14": [
+                "bing_kxsenatemed-26_2025-08-14",
+                "bing_kxsenatemed-26_2025-08-14",
+                "bing_kxsenatemed-26_2025-08-14",
+                "bing_kxsenatemed-26_2025-08-14",
+                "bing_kxsenatemed-26_2025-08-14"
+            ],
+            "2025-08-15": [
+                "bing_kxsenatemed-26_2025-08-15"
+            ]
+        },
+        "is_resolved": false,
+        "resolution_date": "20250903",
+        "ddgs_reports": {}
+    },
+    {
+        "event_ticker": "KXTESLAPROD-25-Q3",
+        "series_ticker": "KXTESLAPROD",
+        "title": "Tesla production in Q3 2025?",
+        "sub_title": "In Q3 2025",
+        "mutually_exclusive": false,
+        "category": "Companies",
+        "bing_reports": {
+            "2025-08-08": [
+                "bing_kxteslaprod-25-q3_2025-08-08",
+                "bing_kxteslaprod-25-q3_2025-08-08",
+                "bing_kxteslaprod-25-q3_2025-08-08",
+                "bing_kxteslaprod-25-q3_2025-08-08",
+                "bing_kxteslaprod-25-q3_2025-08-08",
+                "bing_kxteslaprod-25-q3_2025-08-08",
+                "bing_kxteslaprod-25-q3_2025-08-08",
+                "bing_kxteslaprod-25-q3_2025-08-08",
+                "bing_kxteslaprod-25-q3_2025-08-08",
+                "bing_kxteslaprod-25-q3_2025-08-08",
+                "bing_kxteslaprod-25-q3_2025-08-08",
+                "bing_kxteslaprod-25-q3_2025-08-08",
+                "bing_kxteslaprod-25-q3_2025-08-08",
+                "bing_kxteslaprod-25-q3_2025-08-08",
+                "bing_kxteslaprod-25-q3_2025-08-08"
+            ]
+        },
+        "is_resolved": false,
+        "resolution_date": "20250903",
+        "ddgs_reports": {}
+    },
+    {
+        "bing_reports": {},
+        "event_ticker": "KXMUSKRECONCILIATION-25",
+        "series_ticker": "KXMUSKRECONCILIATION",
+        "title": "Will Musk support the Republican spending bill?",
+        "sub_title": "In 2025",
+        "mutually_exclusive": false,
+        "category": "World",
+        "ddgs_reports": {
+            "20250830": "ddgs_kxmuskreconciliation-25_20250830"
+        },
+        "resolution_date": "20250903"
+    },
+    {
+        "bing_reports": {},
+        "event_ticker": "KXUNIPRESIDENTS-25SEP01",
+        "series_ticker": "KXUNIPRESIDENTS",
+        "title": "Which university presidents will leave this school year?",
+        "sub_title": "2025 school year",
+        "mutually_exclusive": false,
+        "category": "Politics",
+        "ddgs_reports": {
+            "20250830": "ddgs_kxunipresidents-25sep01_20250830",
+            "20250902": "ddgs_kxunipresidents-25sep01_20250902"
+        },
+        "resolution_date": "20250903"
+    },
+    {
+        "bing_reports": {},
+        "event_ticker": "KXMEDIAGUESTTRYOFFDEAL-09",
+        "series_ticker": "KXMEDIAGUESTTRYOFFDEAL",
+        "title": "What shows will Ori Eldarov go on this month?",
+        "sub_title": "Before Sep 2025",
+        "mutually_exclusive": false,
+        "category": "Entertainment",
+        "ddgs_reports": {
+            "20250830": "ddgs_kxmediaguesttryoffdeal-09_20250830"
+        },
+        "resolution_date": "20250903"
+    },
+    {
+        "bing_reports": {},
+        "event_ticker": "KXEOCOUNTM-25SEP01",
+        "series_ticker": "KXEOCOUNTM",
+        "title": "How many Executive Orders will Trump issue in August?",
+        "sub_title": "On day 2 (January 21, 2025)",
+        "mutually_exclusive": false,
+        "category": "Politics",
+        "ddgs_reports": {
+            "20250830": "ddgs_kxeocountm-25sep01_20250830",
+            "20250902": "ddgs_kxeocountm-25sep01_20250902"
+        },
+        "resolution_date": "20250903"
+    },
+    {
+        "bing_reports": {},
+        "event_ticker": "KXNCAAFGAME-25SEP01TCUUNC",
+        "series_ticker": "KXNCAAFGAME",
+        "title": "TCU at North Carolina",
+        "sub_title": "TCU at UNC (Sep 1)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "ddgs_reports": {
+            "20250830": "ddgs_kxncaafgame-25sep01tcuunc_20250830",
+            "20250902": "ddgs_kxncaafgame-25sep01tcuunc_20250902"
+        },
+        "resolution_date": "20250903"
+    },
+    {
+        "bing_reports": {},
+        "event_ticker": "KXXFLARE-25SEP01",
+        "series_ticker": "KXXFLARE",
+        "title": "Will there be an X-class solar flare before September?",
+        "sub_title": "Before Sep 2025",
+        "mutually_exclusive": false,
+        "category": "Climate and Weather",
+        "ddgs_reports": {
+            "20250830": "ddgs_kxxflare-25sep01_20250830"
+        },
+        "resolution_date": "20250903"
+    },
+    {
+        "bing_reports": {},
+        "event_ticker": "KXWNBAPORTNOY-25SEP",
+        "series_ticker": "KXWNBAPORTNOY",
+        "title": "Will the WNBA ban Dave Portnoy?",
+        "sub_title": "Before Sep 2025",
+        "mutually_exclusive": false,
+        "category": "Sports",
+        "ddgs_reports": {
+            "20250830": "ddgs_kxwnbaportnoy-25sep_20250830"
+        },
+        "resolution_date": "20250903"
+    },
+    {
+        "bing_reports": {},
+        "event_ticker": "KXWAYMOCITYLV-25SEP",
+        "series_ticker": "KXWAYMOCITYLV",
+        "title": "Will Waymo operate in Las Vegas before September?",
+        "sub_title": "Before Sep 2025",
+        "mutually_exclusive": false,
+        "category": "Science and Technology",
+        "ddgs_reports": {
+            "20250830": "ddgs_kxwaymocitylv-25sep_20250830"
+        },
+        "resolution_date": "20250903"
+    },
+    {
+        "bing_reports": {},
+        "event_ticker": "KXTXHOUSEDEM-25SEP",
+        "series_ticker": "KXTXHOUSEDEM",
+        "title": "Will any Texas House Democrat be arrested this month?",
+        "sub_title": "Before Sep 2025",
+        "mutually_exclusive": false,
+        "category": "Politics",
+        "ddgs_reports": {
+            "20250830": "ddgs_kxtxhousedem-25sep_20250830"
+        },
+        "resolution_date": "20250903"
+    },
+    {
+        "bing_reports": {},
+        "event_ticker": "KXTRUMPVISITSTATES-25",
+        "series_ticker": "KXTRUMPVISITSTATES",
+        "title": "Which states will Trump visit before September?",
+        "sub_title": "Before 2025",
+        "mutually_exclusive": false,
+        "category": "World",
+        "ddgs_reports": {
+            "20250830": "ddgs_kxtrumpvisitstates-25_20250830"
+        },
+        "resolution_date": "20250903"
+    },
+    {
+        "bing_reports": {},
+        "event_ticker": "KXTRUMPPHONE",
+        "series_ticker": "KXTRUMPPHONE",
+        "title": "Trump Mobile smartphone released before September?",
+        "sub_title": "Before Sep 2025",
+        "mutually_exclusive": false,
+        "category": "Companies",
+        "ddgs_reports": {
+            "20250830": "ddgs_kxtrumpphone_20250830"
+        },
+        "resolution_date": "20250903"
+    },
+    {
+        "bing_reports": {},
+        "event_ticker": "KXTAYLORSWIFT-25",
+        "series_ticker": "KXTAYLORSWIFT",
+        "title": "Will Taylor Swift release an album this month?",
+        "sub_title": "Before Sep 1, 2025",
+        "mutually_exclusive": false,
+        "category": "Entertainment",
+        "ddgs_reports": {
+            "20250830": "ddgs_kxtaylorswift-25_20250830"
+        },
+        "resolution_date": "20250903"
+    },
+    {
+        "bing_reports": {},
+        "event_ticker": "KXSPOTIFYSONGRELEASETS-25",
+        "series_ticker": "KXSPOTIFYSONGRELEASETS",
+        "title": "New Taylor Swift song this month?",
+        "sub_title": "Before Sep 1, 2025",
+        "mutually_exclusive": false,
+        "category": "Entertainment",
+        "ddgs_reports": {
+            "20250830": "ddgs_kxspotifysongreleasets-25_20250830"
+        },
+        "resolution_date": "20250903"
+    },
+    {
+        "bing_reports": {},
+        "event_ticker": "KXSPOTIFYALBUMRELEASEDATEDRAKE-25B",
+        "series_ticker": "KXSPOTIFYALBUMRELEASEDATEDRAKE",
+        "title": "Will Drake release 'Iceman' before September?",
+        "sub_title": "Before Sep 1, 2025",
+        "mutually_exclusive": false,
+        "category": "Entertainment",
+        "ddgs_reports": {
+            "20250830": "ddgs_kxspotifyalbumreleasedatedrake-25b_20250830"
+        },
+        "resolution_date": "20250903"
+    },
+    {
+        "bing_reports": {},
+        "event_ticker": "KXRELEASEBESIGYE-25SEP01",
+        "series_ticker": "KXRELEASEBESIGYE",
+        "title": "Will Kizza Besigye be released before September?",
+        "sub_title": "Before Sep 1, 2025",
+        "mutually_exclusive": false,
+        "category": "Politics",
+        "ddgs_reports": {
+            "20250830": "ddgs_kxreleasebesigye-25sep01_20250830"
+        },
+        "resolution_date": "20250903"
+    },
+    {
+        "bing_reports": {},
+        "event_ticker": "KXRAINNYCM-25AUG",
+        "series_ticker": "KXRAINNYCM",
+        "title": "Rain in NYC this month?",
+        "sub_title": "In Aug 2025",
+        "mutually_exclusive": false,
+        "category": "Climate and Weather",
+        "ddgs_reports": {
+            "20250830": "ddgs_kxrainnycm-25aug_20250830"
+        },
+        "resolution_date": "20250903"
+    },
+    {
+        "bing_reports": {},
+        "event_ticker": "KXPUBLICTRUDEAUPERRY-25SEP",
+        "series_ticker": "KXPUBLICTRUDEAUPERRY",
+        "title": "Will Katy Perry & Justin Trudeau be seen together in public this month?",
+        "sub_title": "Before Sep 2025",
+        "mutually_exclusive": false,
+        "category": "Entertainment",
+        "ddgs_reports": {
+            "20250830": "ddgs_kxpublictrudeauperry-25sep_20250830"
+        },
+        "resolution_date": "20250903"
+    },
+    {
+        "bing_reports": {},
+        "event_ticker": "KXPROFILECHANGESWIFT-25SEP",
+        "series_ticker": "KXPROFILECHANGESWIFT",
+        "title": "What companies will change their profile pictures to reference Taylor Swift's new album?",
+        "sub_title": "Before Sep 2025",
+        "mutually_exclusive": false,
+        "category": "Social",
+        "ddgs_reports": {
+            "20250830": "ddgs_kxprofilechangeswift-25sep_20250830"
+        },
+        "resolution_date": "20250903"
+    },
+    {
+        "bing_reports": {},
+        "event_ticker": "KXPROFILECHANGEMUSK-25SEP",
+        "series_ticker": "KXPROFILECHANGEMUSK",
+        "title": "Will Elon Musk change his profile picture before September?",
+        "sub_title": "Before Sep 2025",
+        "mutually_exclusive": false,
+        "category": "Social",
+        "ddgs_reports": {
+            "20250830": "ddgs_kxprofilechangemusk-25sep_20250830"
+        },
+        "resolution_date": "20250903"
+    },
+    {
+        "bing_reports": {},
+        "event_ticker": "KXPOPEDJT-25SEP",
+        "series_ticker": "KXPOPEDJT",
+        "title": "Will the Pope say Trump's name before September?",
+        "sub_title": "Before Sep 2025",
+        "mutually_exclusive": false,
+        "category": "Politics",
+        "ddgs_reports": {
+            "20250830": "ddgs_kxpopedjt-25sep_20250830"
+        },
+        "resolution_date": "20250903"
+    },
+    {
+        "bing_reports": {},
+        "event_ticker": "KXPAHLAVIVISITA-25",
+        "series_ticker": "KXPAHLAVIVISITA",
+        "title": "Will Reza Pahlavi visit Iran before September?",
+        "sub_title": "Before 2026",
+        "mutually_exclusive": false,
+        "category": "World",
+        "ddgs_reports": {
+            "20250830": "ddgs_kxpahlavivisita-25_20250830"
+        },
+        "resolution_date": "20250903"
+    },
+    {
+        "bing_reports": {},
+        "event_ticker": "KXOBAMACHARGE-25SEP",
+        "series_ticker": "KXOBAMACHARGE",
+        "title": "Will Barack Obama be charged with a federal crime before September?",
+        "sub_title": "Before Sep 2025",
+        "mutually_exclusive": false,
+        "category": "Politics",
+        "ddgs_reports": {
+            "20250830": "ddgs_kxobamacharge-25sep_20250830"
+        },
+        "resolution_date": "20250903"
+    },
+    {
+        "bing_reports": {},
+        "event_ticker": "KXNEWCASTLEUBADGE-25SEP",
+        "series_ticker": "KXNEWCASTLEUBADGE",
+        "title": "Will Newcastle United renege on their new club badge before September?",
+        "sub_title": "Before Sep 2025",
+        "mutually_exclusive": false,
+        "category": "Sports",
+        "ddgs_reports": {
+            "20250830": "ddgs_kxnewcastleubadge-25sep_20250830"
+        },
+        "resolution_date": "20250903"
+    },
+    {
+        "bing_reports": {},
+        "event_ticker": "KXMYSTERYSTOCKBUFFET-25SEP",
+        "series_ticker": "KXMYSTERYSTOCKBUFFET",
+        "title": "What is Buffett's mystery stock this month?",
+        "sub_title": "Before Sep 2025",
+        "mutually_exclusive": true,
+        "category": "Companies",
+        "ddgs_reports": {
+            "20250830": "ddgs_kxmysterystockbuffet-25sep_20250830"
+        },
+        "resolution_date": "20250903"
+    },
+    {
+        "bing_reports": {},
+        "event_ticker": "KXMUSKX-25",
+        "series_ticker": "KXMUSKX",
+        "title": "Will a report about Musk manipulating X to benefit himself be confirmed?",
+        "sub_title": "In 2025",
+        "mutually_exclusive": false,
+        "category": "Financials",
+        "ddgs_reports": {
+            "20250830": "ddgs_kxmuskx-25_20250830"
+        },
+        "resolution_date": "20250903"
+    },
+    {
+        "bing_reports": {},
+        "event_ticker": "KXMUSKTAGDJT-25AUG",
+        "series_ticker": "KXMUSKTAGDJT",
+        "title": "Will Musk tag Trump in a post on X this month?",
+        "sub_title": "Before Sep 2025",
+        "mutually_exclusive": false,
+        "category": "Social",
+        "ddgs_reports": {
+            "20250830": "ddgs_kxmusktagdjt-25aug_20250830"
+        },
+        "resolution_date": "20250903"
+    },
+    {
+        "bing_reports": {},
+        "event_ticker": "KXMUSKFEUDCOORD-25SEP",
+        "series_ticker": "KXMUSKFEUDCOORD",
+        "title": "Will evidence be reported that Trump and Elon coordinated their feud before September?",
+        "sub_title": "Before Sep 2025",
+        "mutually_exclusive": false,
+        "category": "World",
+        "ddgs_reports": {
+            "20250830": "ddgs_kxmuskfeudcoord-25sep_20250830"
+        },
+        "resolution_date": "20250903"
+    },
+    {
+        "bing_reports": {},
+        "event_ticker": "KXMAXWELLPARDON-25SEP01",
+        "series_ticker": "KXMAXWELLPARDON",
+        "title": "Will President Trump pardon Ghislaine Maxwell this month?",
+        "sub_title": "Before his term ends",
+        "mutually_exclusive": false,
+        "category": "Politics",
+        "ddgs_reports": {
+            "20250830": "ddgs_kxmaxwellpardon-25sep01_20250830"
+        },
+        "resolution_date": "20250903"
+    },
+    {
+        "bing_reports": {},
+        "event_ticker": "KXLEAVESEANCOOK-25",
+        "series_ticker": "KXLEAVESEANCOOK",
+        "title": "Will Sean Cook leave Tea Dating Advice before September?",
+        "sub_title": "Before Sep 2025",
+        "mutually_exclusive": false,
+        "category": "Companies",
+        "ddgs_reports": {
+            "20250830": "ddgs_kxleaveseancook-25_20250830"
+        },
+        "resolution_date": "20250903"
+    },
+    {
+        "bing_reports": {},
+        "event_ticker": "KXLEAVEJAREDWISE-25SEP",
+        "series_ticker": "KXLEAVEJAREDWISE",
+        "title": "Jared Wise out as Senior Advisor in the Department of Justice before September?",
+        "sub_title": "Before Sep 2025",
+        "mutually_exclusive": false,
+        "category": "Politics",
+        "ddgs_reports": {
+            "20250830": "ddgs_kxleavejaredwise-25sep_20250830"
+        },
+        "resolution_date": "20250903"
+    },
+    {
+        "bing_reports": {},
+        "event_ticker": "KXLEAVECINCPOLICE-25SEP",
+        "series_ticker": "KXLEAVECINCPOLICE",
+        "title": "Teresa A. Theetge out as Cincinnati's Police Chief before September?",
+        "sub_title": "Before Sep 2025",
+        "mutually_exclusive": false,
+        "category": "Politics",
+        "ddgs_reports": {
+            "20250830": "ddgs_kxleavecincpolice-25sep_20250830"
+        },
+        "resolution_date": "20250903"
+    },
+    {
+        "bing_reports": {},
+        "event_ticker": "KXLEAVEACTINGBLS-25SEP",
+        "series_ticker": "KXLEAVEACTINGBLS",
+        "title": "William Wiatrowski out as acting BLS Commissioner before September?",
+        "sub_title": "Before Sep 2025",
+        "mutually_exclusive": false,
+        "category": "Politics",
+        "ddgs_reports": {
+            "20250830": "ddgs_kxleaveactingbls-25sep_20250830"
+        },
+        "resolution_date": "20250903"
+    },
+    {
+        "bing_reports": {},
+        "event_ticker": "KXJONYIVEMETA-25SEP",
+        "series_ticker": "KXJONYIVEMETA",
+        "title": "Will Jony Ive join Meta before September?",
+        "sub_title": "Before Sep 2025",
+        "mutually_exclusive": false,
+        "category": "Companies",
+        "ddgs_reports": {
+            "20250830": "ddgs_kxjonyivemeta-25sep_20250830"
+        },
+        "resolution_date": "20250903"
+    },
+    {
+        "bing_reports": {},
+        "event_ticker": "KXJOINNEYMARMIAMI-25",
+        "series_ticker": "KXJOINNEYMARMIAMI",
+        "title": "Will Neymar transfer to Inter Miami?",
+        "sub_title": "Before Sep 1, 2025",
+        "mutually_exclusive": false,
+        "category": "Sports",
+        "ddgs_reports": {
+            "20250830": "ddgs_kxjoinneymarmiami-25_20250830"
+        },
+        "resolution_date": "20250903"
+    },
+    {
+        "bing_reports": {},
+        "event_ticker": "KXGROKMACOS-SEP25",
+        "series_ticker": "KXGROKMACOS",
+        "title": "Will xAI release a Grok MacOS app before September?",
+        "sub_title": "Before Sep 2025",
+        "mutually_exclusive": false,
+        "category": "Companies",
+        "ddgs_reports": {
+            "20250830": "ddgs_kxgrokmacos-sep25_20250830"
+        },
+        "resolution_date": "20250903"
+    },
+    {
+        "bing_reports": {},
+        "event_ticker": "KXEPSTEINFOOTAGE-09",
+        "series_ticker": "KXEPSTEINFOOTAGE",
+        "title": "Will the government release new Epstein cell footage this month?",
+        "sub_title": "Before Sep 2025",
+        "mutually_exclusive": false,
+        "category": "Politics",
+        "ddgs_reports": {
+            "20250830": "ddgs_kxepsteinfootage-09_20250830"
+        },
+        "resolution_date": "20250903"
+    },
+    {
+        "bing_reports": {},
+        "event_ticker": "KXDONATEBEASTWATER-25SEP",
+        "series_ticker": "KXDONATEBEASTWATER",
+        "title": "Who will donate to MrBeast's Team Water before September?",
+        "sub_title": "Before Sep 2025",
+        "mutually_exclusive": false,
+        "category": "Social",
+        "ddgs_reports": {
+            "20250830": "ddgs_kxdonatebeastwater-25sep_20250830"
+        },
+        "resolution_date": "20250903"
+    },
+    {
+        "bing_reports": {},
+        "event_ticker": "KXDDSUESAPD-25",
+        "series_ticker": "KXDDSUESAPD",
+        "title": "Will Duke Dennis sue the SAPD before September?",
+        "sub_title": "Before Sep 1, 2025",
+        "mutually_exclusive": false,
+        "category": "Politics",
+        "ddgs_reports": {
+            "20250830": "ddgs_kxddsuesapd-25_20250830"
+        },
+        "resolution_date": "20250903"
+    },
+    {
+        "bing_reports": {},
+        "event_ticker": "KXCOMMENTTRUMP-25",
+        "series_ticker": "KXCOMMENTTRUMP",
+        "title": "Will Trump publicly comment on the 'Tea Dating Advice' app before September?",
+        "sub_title": "Before Sep 1, 2025",
+        "mutually_exclusive": false,
+        "category": "Social",
+        "ddgs_reports": {
+            "20250830": "ddgs_kxcommenttrump-25_20250830"
+        },
+        "resolution_date": "20250903"
+    },
+    {
+        "bing_reports": {},
+        "event_ticker": "KXBEASTWATER-25",
+        "series_ticker": "KXBEASTWATER",
+        "title": "When will Mr. Beast's #TeamWater campaign raise $40 million?",
+        "sub_title": "In 2025",
+        "mutually_exclusive": false,
+        "category": "World",
+        "ddgs_reports": {
+            "20250830": "ddgs_kxbeastwater-25_20250830"
+        },
+        "resolution_date": "20250903"
+    },
+    {
+        "bing_reports": {},
+        "event_ticker": "KXAAAGASW-25SEP01",
+        "series_ticker": "KXAAAGASW",
+        "title": "Gas prices in the US up this week?",
+        "sub_title": "On Sep 1, 2025",
+        "mutually_exclusive": false,
+        "category": "Economics",
+        "ddgs_reports": {
+            "20250830": "ddgs_kxaaagasw-25sep01_20250830"
+        },
+        "resolution_date": "20250903"
+    },
+    {
+        "bing_reports": {},
+        "event_ticker": "KXNCAAFGAME-25AUG31NDMIA",
+        "series_ticker": "KXNCAAFGAME",
+        "title": "Notre Dame at Miami (FL)",
+        "sub_title": "ND at MIA (Aug 31)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "ddgs_reports": {
+            "20250830": "ddgs_kxncaafgame-25aug31ndmia_20250830"
+        },
+        "resolution_date": "20250903"
+    },
+    {
+        "bing_reports": {},
+        "event_ticker": "KXNCAAFGAME-25AUG31VTSCAR",
+        "series_ticker": "KXNCAAFGAME",
+        "title": "Virginia Tech at South Carolina",
+        "sub_title": "VT at SCAR (Aug 31)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "ddgs_reports": {
+            "20250830": "ddgs_kxncaafgame-25aug31vtscar_20250830"
+        },
+        "resolution_date": "20250903"
+    },
+    {
+        "bing_reports": {},
+        "event_ticker": "KXSPACEXCOUNT-25AUG",
+        "series_ticker": "KXSPACEXCOUNT",
+        "title": "How many launches will SpaceX have this month?",
+        "sub_title": "In Aug 2025",
+        "mutually_exclusive": false,
+        "category": "Companies",
+        "ddgs_reports": {
+            "20250830": "ddgs_kxspacexcount-25aug_20250830"
+        },
+        "resolution_date": "20250903"
+    },
+    {
+        "bing_reports": {},
+        "event_ticker": "KXACELAII-25",
+        "series_ticker": "KXACELAII",
+        "title": "When will the Amtrak Acela II trains enter revenue service?",
+        "sub_title": "In 2025",
+        "mutually_exclusive": false,
+        "category": "Transportation",
+        "ddgs_reports": {
+            "20250902": "ddgs_kxacelaii-25_20250902"
+        },
+        "resolution_date": "20250903"
+    },
+    {
+        "bing_reports": {},
+        "event_ticker": "KXSPRUSE-25",
+        "series_ticker": "KXSPRUSE",
+        "title": "When will the US authorize new sales from the Strategic Petroleum Reserve?",
+        "sub_title": "In 2025",
+        "mutually_exclusive": false,
+        "category": "Economics",
+        "ddgs_reports": {},
+        "resolution_date": "20250903"
+    },
+    {
+        "bing_reports": {},
+        "event_ticker": "KXXPAYMENT-25",
+        "series_ticker": "KXXPAYMENT",
+        "title": "When will X's payment service be released to the public?",
+        "sub_title": "In 2025",
+        "mutually_exclusive": false,
+        "category": "Science and Technology",
+        "ddgs_reports": {},
+        "resolution_date": "20250903"
+    },
+    {
+        "bing_reports": {},
+        "event_ticker": "KXMLSGAME-25AUG31LAFCSD",
+        "series_ticker": "KXMLSGAME",
+        "title": "Los Angeles vs San Diego FC",
+        "sub_title": "LAFC vs SD (Aug 31)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "ddgs_reports": {},
+        "resolution_date": "20250903"
+    },
+    {
+        "bing_reports": {},
+        "event_ticker": "KXMEDIACONSUMPTIONTSWIFTIG-25SEP02",
+        "series_ticker": "KXMEDIACONSUMPTIONTSWIFTIG",
+        "title": "How many Likes will Taylor Swift and Travis Kelce's Instagram post get on September 2nd?",
+        "sub_title": "For the week ending Sep 2, 2025",
+        "mutually_exclusive": false,
+        "category": "Entertainment",
+        "ddgs_reports": {
+            "20250902": "ddgs_kxmediaconsumptiontswiftig-25sep02_20250902"
+        },
+        "resolution_date": "20250903"
+    },
+    {
+        "bing_reports": {},
+        "event_ticker": "KXRTTHELONGWALK",
+        "series_ticker": "KXRTTHELONGWALK",
+        "title": "\"The Long Walk\" Rotten Tomatoes score?",
+        "sub_title": "Sep 15, 2025",
+        "mutually_exclusive": false,
+        "category": "Entertainment",
+        "ddgs_reports": {
+            "20250902": "ddgs_kxrtthelongwalk_20250902"
+        },
+        "resolution_date": "20250903"
+    },
+    {
+        "bing_reports": {},
+        "event_ticker": "KXWTAMATCH-25AUG31SABBUC",
+        "series_ticker": "KXWTAMATCH",
+        "title": "Sabalenka vs Bucsa",
+        "sub_title": "Sabalenka vs Bucsa",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "ddgs_reports": {},
+        "resolution_date": "20250903"
+    },
+    {
+        "bing_reports": {},
+        "event_ticker": "KXWTAMATCH-25AUG31RYBVON",
+        "series_ticker": "KXWTAMATCH",
+        "title": "Rybakina vs Vondrousova",
+        "sub_title": "Rybakina vs Vondrousova",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "ddgs_reports": {},
+        "resolution_date": "20250903"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXWTAMATCH-25SEP01ALESWI",
+        "series_ticker": "KXWTAMATCH",
+        "title": "Alexandrova vs Swiatek",
+        "sub_title": "Alexandrova vs Swiatek",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250903"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXATPMATCH-25SEP01RIEDE",
+        "series_ticker": "KXATPMATCH",
+        "title": "Riedi vs de Minaur",
+        "sub_title": "Riedi vs de Minaur",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250903"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXRAINNYC-25AUG31",
+        "series_ticker": "KXRAINNYC",
+        "title": "Will it rain in NYC on Aug 31, 2025?",
+        "sub_title": "On Aug 31, 2025",
+        "mutually_exclusive": false,
+        "category": "Climate and Weather",
+        "resolution_date": "20250903"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXAPPRANKFREE-25SEP01",
+        "series_ticker": "KXAPPRANKFREE",
+        "title": "Top US iPhone app on Sep 1, 2025?",
+        "sub_title": "On Sep 1, 2025 at 10 AM ET",
+        "mutually_exclusive": true,
+        "category": "Entertainment",
+        "resolution_date": "20250903"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXAPPRANKFREE2-25SEP01",
+        "series_ticker": "KXAPPRANKFREE2",
+        "title": "Runner-up US iPhone app on Sep 1, 2025?",
+        "sub_title": "On Sep 1, 2025 at 10 AM ET",
+        "mutually_exclusive": true,
+        "category": "Entertainment",
+        "resolution_date": "20250903"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXWNBAGAME-25AUG31INDGS",
+        "series_ticker": "KXWNBAGAME",
+        "title": "IND at GS",
+        "sub_title": "IND at GS (Aug 31)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250903"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXWNBAGAME-25AUG31WSHLA",
+        "series_ticker": "KXWNBAGAME",
+        "title": "WSH at LA",
+        "sub_title": "WSH at LA (Aug 31)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250903"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXWTAMATCH-25AUG31OSAGAU",
+        "series_ticker": "KXWTAMATCH",
+        "title": "Osaka vs Gauff",
+        "sub_title": "Osaka vs Gauff",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250903"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXWTAMATCH-25AUG31KOSMUC",
+        "series_ticker": "KXWTAMATCH",
+        "title": "Kostyuk vs Muchova",
+        "sub_title": "Kostyuk vs Muchova",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250903"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXATPMATCH-25AUG31MUSMUN",
+        "series_ticker": "KXATPMATCH",
+        "title": "Musetti vs Munar",
+        "sub_title": "Musetti vs Munar",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250903"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXATPMATCH-25AUG31MACFRI",
+        "series_ticker": "KXATPMATCH",
+        "title": "Machac vs Fritz",
+        "sub_title": "Machac vs Fritz",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250903"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXATPMATCH-25AUG31DJOSTR",
+        "series_ticker": "KXATPMATCH",
+        "title": "Djokovic vs Struff",
+        "sub_title": "Djokovic vs Struff",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250903"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250902": "ddgs_kxrainnyc-25sep01_20250902"
+        },
+        "event_ticker": "KXRAINNYC-25SEP01",
+        "series_ticker": "KXRAINNYC",
+        "title": "Will it rain in NYC on Sep 1, 2025?",
+        "sub_title": "On Sep 1, 2025",
+        "mutually_exclusive": false,
+        "category": "Climate and Weather",
+        "resolution_date": "20250903"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250902": "ddgs_kxapprankfree-25sep02_20250902"
+        },
+        "event_ticker": "KXAPPRANKFREE-25SEP02",
+        "series_ticker": "KXAPPRANKFREE",
+        "title": "Top US iPhone app on Sep 2, 2025?",
+        "sub_title": "On Sep 2, 2025 at 10 AM ET",
+        "mutually_exclusive": true,
+        "category": "Entertainment",
+        "resolution_date": "20250903"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250902": "ddgs_kxapprankfree2-25sep02_20250902"
+        },
+        "event_ticker": "KXAPPRANKFREE2-25SEP02",
+        "series_ticker": "KXAPPRANKFREE2",
+        "title": "Runner-up US iPhone app on Sep 2, 2025?",
+        "sub_title": "On Sep 2, 2025 at 10 AM ET",
+        "mutually_exclusive": true,
+        "category": "Entertainment",
+        "resolution_date": "20250903"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250902": "ddgs_kxwnbagame-25sep01lasea_20250902"
+        },
+        "event_ticker": "KXWNBAGAME-25SEP01LASEA",
+        "series_ticker": "KXWNBAGAME",
+        "title": "LA at SEA",
+        "sub_title": "LA at SEA (Sep 1)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250903"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXWNBAGAME-25SEP01DALMIN",
+        "series_ticker": "KXWNBAGAME",
+        "title": "DAL at MIN",
+        "sub_title": "DAL at MIN (Sep 1)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250903"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXWNBAGAME-25SEP01ATLCONN",
+        "series_ticker": "KXWNBAGAME",
+        "title": "ATL at CONN",
+        "sub_title": "ATL at CONN (Sep 1)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250903"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXWTAMATCH-25SEP01ANIHAD",
+        "series_ticker": "KXWTAMATCH",
+        "title": "Anisimova vs Haddad Maia",
+        "sub_title": "Anisimova vs Haddad Maia",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250903"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXATPMATCH-25SEP01SINBUB",
+        "series_ticker": "KXATPMATCH",
+        "title": "Sinner vs Bublik",
+        "sub_title": "Sinner vs Bublik",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250903"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXATPMATCH-25SEP01AUGRUB",
+        "series_ticker": "KXATPMATCH",
+        "title": "Auger-Aliassime vs Rublev",
+        "sub_title": "Auger-Aliassime vs Rublev",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250903"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXMLBGAME-25AUG31ATLPHI",
+        "series_ticker": "KXMLBGAME",
+        "title": "Atlanta at Philadelphia",
+        "sub_title": "ATL at PHI (Aug 31)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250903"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXMLBGAME-25AUG31AZLAD",
+        "series_ticker": "KXMLBGAME",
+        "title": "Arizona at Los Angeles D",
+        "sub_title": "AZ at LAD (Aug 31)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250903"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXMLBGAME-25AUG31TEXATH",
+        "series_ticker": "KXMLBGAME",
+        "title": "Texas at A's",
+        "sub_title": "TEX at ATH (Aug 31)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250903"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXMLBGAME-25AUG31BALSF",
+        "series_ticker": "KXMLBGAME",
+        "title": "Baltimore at San Francisco",
+        "sub_title": "BAL at SF (Aug 31)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250903"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250902": "ddgs_kxatpmatch-25sep02lehalc_20250902"
+        },
+        "event_ticker": "KXATPMATCH-25SEP02LEHALC",
+        "series_ticker": "KXATPMATCH",
+        "title": "Lehecka vs Alcaraz",
+        "sub_title": "Lehecka vs Alcaraz",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250903"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250902": "ddgs_kxwtamatch-25sep02pegkre_20250902"
+        },
+        "event_ticker": "KXWTAMATCH-25SEP02PEGKRE",
+        "series_ticker": "KXWTAMATCH",
+        "title": "Pegula vs Krejcikova",
+        "sub_title": "Pegula vs Krejcikova",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250903"
     }
 ]
