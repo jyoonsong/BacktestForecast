@@ -1176,6 +1176,20 @@
         "duration_days": 3
     },
     {
+        "bing_reports": {},
+        "event_ticker": "KXRTCONJURING",
+        "series_ticker": "KXRTCONJURING",
+        "title": "\"The Conjuring: Last Rites\" Rotten Tomatoes score?",
+        "sub_title": "Sep 8, 2025",
+        "mutually_exclusive": false,
+        "category": "Entertainment",
+        "resolution_date": "2025-09-08",
+        "ddgs_reports": {},
+        "earliest_open_time": "2025-08-08",
+        "latest_close_time": "2025-09-08",
+        "duration_days": 31
+    },
+    {
         "bing_reports": {
             "2025-07-29": [
                 "bing_kxncaafgame-25aug28ohiorutg_2025-07-29",
