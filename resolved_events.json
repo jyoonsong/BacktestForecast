@@ -17655,5 +17655,316 @@
         "mutually_exclusive": true,
         "category": "Sports",
         "resolution_date": "20250903"
+    },
+    {
+        "event_ticker": "KXSENATEIAR-26",
+        "series_ticker": "KXSENATEIAR",
+        "title": "Iowa Republican Senate Nominee",
+        "sub_title": "In 2026",
+        "mutually_exclusive": true,
+        "category": "Politics",
+        "bing_reports": {
+            "2025-08-03": [
+                "bing_kxsenateiar-26_2025-08-03",
+                "bing_kxsenateiar-26_2025-08-03",
+                "bing_kxsenateiar-26_2025-08-03",
+                "bing_kxsenateiar-26_2025-08-03",
+                "bing_kxsenateiar-26_2025-08-03",
+                "bing_kxsenateiar-26_2025-08-03"
+            ]
+        },
+        "is_resolved": false,
+        "ddgs_reports": {
+            "20250830": "ddgs_kxsenateiar-26_20250830",
+            "20250831": "ddgs_kxsenateiar-26_20250831",
+            "20250902": "ddgs_kxsenateiar-26_20250902",
+            "20250903": "ddgs_kxsenateiar-26_20250903"
+        },
+        "resolution_date": "20250904"
+    },
+    {
+        "bing_reports": {},
+        "event_ticker": "KXTOPALBUMSTRAYKIDS-25DEC",
+        "series_ticker": "KXTOPALBUMSTRAYKIDS",
+        "title": "Stray Kids has a #1 album this year?",
+        "sub_title": "In 2025",
+        "mutually_exclusive": false,
+        "category": "Entertainment",
+        "ddgs_reports": {
+            "20250830": "ddgs_kxtopalbumstraykids-25dec_20250830",
+            "20250902": "ddgs_kxtopalbumstraykids-25dec_20250902",
+            "20250903": "ddgs_kxtopalbumstraykids-25dec_20250903"
+        },
+        "resolution_date": "20250904"
+    },
+    {
+        "bing_reports": {},
+        "event_ticker": "KXTECHLAYOFF-25JUL",
+        "series_ticker": "KXTECHLAYOFF",
+        "title": "Tech layoffs up in July 2025?",
+        "sub_title": "In Jul 2025",
+        "mutually_exclusive": false,
+        "category": "Science and Technology",
+        "ddgs_reports": {
+            "20250830": "ddgs_kxtechlayoff-25jul_20250830",
+            "20250902": "ddgs_kxtechlayoff-25jul_20250902",
+            "20250903": "ddgs_kxtechlayoff-25jul_20250903"
+        },
+        "resolution_date": "20250904"
+    },
+    {
+        "bing_reports": {},
+        "event_ticker": "KXJOLTS-25JUL",
+        "series_ticker": "KXJOLTS",
+        "title": "Job openings in July 2025?",
+        "sub_title": "In Jul 2025",
+        "mutually_exclusive": false,
+        "category": "World",
+        "ddgs_reports": {
+            "20250830": "ddgs_kxjolts-25jul_20250830",
+            "20250902": "ddgs_kxjolts-25jul_20250902",
+            "20250903": "ddgs_kxjolts-25jul_20250903"
+        },
+        "resolution_date": "20250904"
+    },
+    {
+        "bing_reports": {},
+        "event_ticker": "KXRTTRONARES",
+        "series_ticker": "KXRTTRONARES",
+        "title": "\"Tron: Ares\" Rotten Tomatoes score?",
+        "sub_title": "Oct 13, 2025",
+        "mutually_exclusive": false,
+        "category": "Entertainment",
+        "ddgs_reports": {
+            "20250902": "ddgs_kxrttronares_20250902",
+            "20250903": "ddgs_kxrttronares_20250903"
+        },
+        "resolution_date": "20250904"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250903": "ddgs_kxwnbagame-25sep03connchi_20250903"
+        },
+        "event_ticker": "KXWNBAGAME-25SEP03CONNCHI",
+        "series_ticker": "KXWNBAGAME",
+        "title": "CONN at CHI",
+        "sub_title": "CONN at CHI (Sep 3)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250904"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250903": "ddgs_kxmlbgame-25sep03athstl_20250903"
+        },
+        "event_ticker": "KXMLBGAME-25SEP03ATHSTL",
+        "series_ticker": "KXMLBGAME",
+        "title": "A's at St. Louis",
+        "sub_title": "ATH at STL (Sep 3)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250904"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250903": "ddgs_kxmlbgame-25sep03atlchc_20250903"
+        },
+        "event_ticker": "KXMLBGAME-25SEP03ATLCHC",
+        "series_ticker": "KXMLBGAME",
+        "title": "Atlanta at Chicago C",
+        "sub_title": "ATL at CHC (Sep 3)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250904"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250903": "ddgs_kxmlbgame-25sep03seatb_20250903"
+        },
+        "event_ticker": "KXMLBGAME-25SEP03SEATB",
+        "series_ticker": "KXMLBGAME",
+        "title": "Seattle at Tampa Bay",
+        "sub_title": "SEA at TB (Sep 3)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250904"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250903": "ddgs_kxwnbagame-25sep03laatl_20250903"
+        },
+        "event_ticker": "KXWNBAGAME-25SEP03LAATL",
+        "series_ticker": "KXWNBAGAME",
+        "title": "LA at ATL",
+        "sub_title": "LA at ATL (Sep 3)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250904"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250903": "ddgs_kxmlbgame-25sep03clebos_20250903"
+        },
+        "event_ticker": "KXMLBGAME-25SEP03CLEBOS",
+        "series_ticker": "KXMLBGAME",
+        "title": "Cleveland at Boston",
+        "sub_title": "CLE at BOS (Sep 3)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250904"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250903": "ddgs_kxmlbgame-25sep03torcin_20250903"
+        },
+        "event_ticker": "KXMLBGAME-25SEP03TORCIN",
+        "series_ticker": "KXMLBGAME",
+        "title": "Toronto at Cincinnati",
+        "sub_title": "TOR at CIN (Sep 3)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250904"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250903": "ddgs_kxmlbgame-25sep03ladpit_20250903"
+        },
+        "event_ticker": "KXMLBGAME-25SEP03LADPIT",
+        "series_ticker": "KXMLBGAME",
+        "title": "Los Angeles D at Pittsburgh",
+        "sub_title": "LAD at PIT (Sep 3)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250904"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250903": "ddgs_kxmlbgame-25sep03balsd_20250903"
+        },
+        "event_ticker": "KXMLBGAME-25SEP03BALSD",
+        "series_ticker": "KXMLBGAME",
+        "title": "Baltimore at San Diego",
+        "sub_title": "BAL at SD (Sep 3)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250904"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250903": "ddgs_kxmlbgame-25sep03texaz_20250903"
+        },
+        "event_ticker": "KXMLBGAME-25SEP03TEXAZ",
+        "series_ticker": "KXMLBGAME",
+        "title": "Texas at Arizona",
+        "sub_title": "TEX at AZ (Sep 3)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250904"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250903": "ddgs_kxmlbgame-25sep03nymdet_20250903"
+        },
+        "event_ticker": "KXMLBGAME-25SEP03NYMDET",
+        "series_ticker": "KXMLBGAME",
+        "title": "New York M at Detroit",
+        "sub_title": "NYM at DET (Sep 3)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250904"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250903": "ddgs_kxmlbgame-25sep03miawsh_20250903"
+        },
+        "event_ticker": "KXMLBGAME-25SEP03MIAWSH",
+        "series_ticker": "KXMLBGAME",
+        "title": "Miami at Washington",
+        "sub_title": "MIA at WSH (Sep 3)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250904"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250903": "ddgs_kxwtamatch-25sep03aniswi_20250903",
+            "20250902": "ddgs_kxwtamatch-25sep03aniswi_20250902"
+        },
+        "event_ticker": "KXWTAMATCH-25SEP03ANISWI",
+        "series_ticker": "KXWTAMATCH",
+        "title": "Anisimova vs Swiatek",
+        "sub_title": "Anisimova vs Swiatek",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250904"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250903": "ddgs_kxapprankfree-25sep03_20250903",
+            "20250902": "ddgs_kxapprankfree-25sep03_20250902"
+        },
+        "event_ticker": "KXAPPRANKFREE-25SEP03",
+        "series_ticker": "KXAPPRANKFREE",
+        "title": "Top US iPhone app on Sep 3, 2025?",
+        "sub_title": "On Sep 3, 2025 at 10 AM ET",
+        "mutually_exclusive": true,
+        "category": "Entertainment",
+        "resolution_date": "20250904"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250903": "ddgs_kxapprankfree2-25sep03_20250903",
+            "20250902": "ddgs_kxapprankfree2-25sep03_20250902"
+        },
+        "event_ticker": "KXAPPRANKFREE2-25SEP03",
+        "series_ticker": "KXAPPRANKFREE2",
+        "title": "Runner-up US iPhone app on Sep 3, 2025?",
+        "sub_title": "On Sep 3, 2025 at 10 AM ET",
+        "mutually_exclusive": true,
+        "category": "Entertainment",
+        "resolution_date": "20250904"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250903": "ddgs_kxwtamatch-25sep02mucosa_20250903",
+            "20250902": "ddgs_kxwtamatch-25sep02mucosa_20250902"
+        },
+        "event_ticker": "KXWTAMATCH-25SEP02MUCOSA",
+        "series_ticker": "KXWTAMATCH",
+        "title": "Muchova vs Osaka",
+        "sub_title": "Muchova vs Osaka",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250904"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250903": "ddgs_kxatpmatch-25sep02augde_20250903",
+            "20250902": "ddgs_kxatpmatch-25sep02augde_20250902"
+        },
+        "event_ticker": "KXATPMATCH-25SEP02AUGDE",
+        "series_ticker": "KXATPMATCH",
+        "title": "Auger-Aliassime vs de Minaur",
+        "sub_title": "Auger-Aliassime vs de Minaur",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250904"
     }
 ]
