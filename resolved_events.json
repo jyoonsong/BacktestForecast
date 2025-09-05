@@ -12406,5 +12406,195 @@
         "mutually_exclusive": true,
         "category": "Sports",
         "resolution_date": "20250904"
+    },
+    {
+        "event_ticker": "KXRADIOHEAD-25",
+        "series_ticker": "KXRADIOHEAD",
+        "title": "Will Radiohead announce a new tour this year?",
+        "sub_title": "In 2025",
+        "mutually_exclusive": false,
+        "category": "Entertainment",
+        "bing_reports": {
+            "2025-07-13": "bing_kxradiohead-25_2025-07-13",
+            "2025-07-30": "bing_kxradiohead-25_2025-07-30"
+        },
+        "is_resolved": false,
+        "ddgs_reports": {
+            "20250830": "ddgs_kxradiohead-25_20250830",
+            "20250902": "ddgs_kxradiohead-25_20250902",
+            "20250903": "ddgs_kxradiohead-25_20250903",
+            "20250904": "ddgs_kxradiohead-25_20250904"
+        },
+        "resolution_date": "20250905"
+    },
+    {
+        "bing_reports": {},
+        "event_ticker": "KXBOLIVIAFIRSTROUND-25",
+        "series_ticker": "KXBOLIVIAFIRSTROUND",
+        "title": "Who will win the first round of the Bolivian presidential election?",
+        "sub_title": "In 2025",
+        "mutually_exclusive": false,
+        "category": "Elections",
+        "ddgs_reports": {
+            "20250902": "ddgs_kxboliviafirstround-25_20250902",
+            "20250903": "ddgs_kxboliviafirstround-25_20250903",
+            "20250904": "ddgs_kxboliviafirstround-25_20250904"
+        },
+        "resolution_date": "20250905"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250903": "ddgs_kxwnbagame-25sep04phxwsh_20250903",
+            "20250904": "ddgs_kxwnbagame-25sep04phxwsh_20250904"
+        },
+        "event_ticker": "KXWNBAGAME-25SEP04PHXWSH",
+        "series_ticker": "KXWNBAGAME",
+        "title": "PHX at WSH",
+        "sub_title": "PHX at WSH (Sep 4)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250905"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250903": "ddgs_kxwtamatch-25sep04sabpeg_20250903",
+            "20250904": "ddgs_kxwtamatch-25sep04sabpeg_20250904"
+        },
+        "event_ticker": "KXWTAMATCH-25SEP04SABPEG",
+        "series_ticker": "KXWTAMATCH",
+        "title": "Sabalenka vs Pegula",
+        "sub_title": "Sabalenka vs Pegula",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250905"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250903": "ddgs_kxrainnyc-25sep03_20250903",
+            "20250904": "ddgs_kxrainnyc-25sep03_20250904"
+        },
+        "event_ticker": "KXRAINNYC-25SEP03",
+        "series_ticker": "KXRAINNYC",
+        "title": "Will it rain in NYC on Sep 3, 2025?",
+        "sub_title": "On Sep 3, 2025",
+        "mutually_exclusive": false,
+        "category": "Climate and Weather",
+        "resolution_date": "20250905"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250903": "ddgs_kxapprankfree-25sep04_20250903",
+            "20250904": "ddgs_kxapprankfree-25sep04_20250904"
+        },
+        "event_ticker": "KXAPPRANKFREE-25SEP04",
+        "series_ticker": "KXAPPRANKFREE",
+        "title": "Top US iPhone app on Sep 4, 2025?",
+        "sub_title": "On Sep 4, 2025 at 10 AM ET",
+        "mutually_exclusive": true,
+        "category": "Entertainment",
+        "resolution_date": "20250905"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250903": "ddgs_kxapprankfree2-25sep04_20250903",
+            "20250904": "ddgs_kxapprankfree2-25sep04_20250904"
+        },
+        "event_ticker": "KXAPPRANKFREE2-25SEP04",
+        "series_ticker": "KXAPPRANKFREE2",
+        "title": "Runner-up US iPhone app on Sep 4, 2025?",
+        "sub_title": "On Sep 4, 2025 at 10 AM ET",
+        "mutually_exclusive": true,
+        "category": "Entertainment",
+        "resolution_date": "20250905"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250903": "ddgs_kxmlbgame-25sep03sfcol_20250903",
+            "20250904": "ddgs_kxmlbgame-25sep03sfcol_20250904"
+        },
+        "event_ticker": "KXMLBGAME-25SEP03SFCOL",
+        "series_ticker": "KXMLBGAME",
+        "title": "San Francisco at Colorado",
+        "sub_title": "SF at COL (Sep 3)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250905"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250903": "ddgs_kxmlbgame-25sep03nyyhou_20250903",
+            "20250904": "ddgs_kxmlbgame-25sep03nyyhou_20250904"
+        },
+        "event_ticker": "KXMLBGAME-25SEP03NYYHOU",
+        "series_ticker": "KXMLBGAME",
+        "title": "New York Y at Houston",
+        "sub_title": "NYY at HOU (Sep 3)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250905"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250903": "ddgs_kxmlbgame-25sep03phimil_20250903",
+            "20250904": "ddgs_kxmlbgame-25sep03phimil_20250904"
+        },
+        "event_ticker": "KXMLBGAME-25SEP03PHIMIL",
+        "series_ticker": "KXMLBGAME",
+        "title": "Philadelphia at Milwaukee",
+        "sub_title": "PHI at MIL (Sep 3)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250905"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250903": "ddgs_kxmlbgame-25sep03laakc_20250903",
+            "20250904": "ddgs_kxmlbgame-25sep03laakc_20250904"
+        },
+        "event_ticker": "KXMLBGAME-25SEP03LAAKC",
+        "series_ticker": "KXMLBGAME",
+        "title": "Los Angeles A at Kansas City",
+        "sub_title": "LAA at KC (Sep 3)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250905"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250903": "ddgs_kxmlbgame-25sep03cwsmin_20250903",
+            "20250904": "ddgs_kxmlbgame-25sep03cwsmin_20250904"
+        },
+        "event_ticker": "KXMLBGAME-25SEP03CWSMIN",
+        "series_ticker": "KXMLBGAME",
+        "title": "Chicago WS at Minnesota",
+        "sub_title": "CWS at MIN (Sep 3)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250905"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250903": "ddgs_kxatpmatch-25sep02sinmus_20250903",
+            "20250902": "ddgs_kxatpmatch-25sep02sinmus_20250902",
+            "20250904": "ddgs_kxatpmatch-25sep02sinmus_20250904"
+        },
+        "event_ticker": "KXATPMATCH-25SEP02SINMUS",
+        "series_ticker": "KXATPMATCH",
+        "title": "Sinner vs Musetti",
+        "sub_title": "Sinner vs Musetti",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250905"
     }
 ]
