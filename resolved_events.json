@@ -12596,5 +12596,197 @@
         "mutually_exclusive": true,
         "category": "Sports",
         "resolution_date": "20250905"
+    },
+    {
+        "event_ticker": "KXNFLGAME-25SEP04DALPHI",
+        "series_ticker": "KXNFLGAME",
+        "title": "Dallas at Philadelphia",
+        "sub_title": "DAL at PHI (Sep 4)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "bing_reports": {
+            "2025-07-29": "bing_kxnflgame-25sep04dalphi_2025-07-29",
+            "2025-08-01": "bing_kxnflgame-25sep04dalphi_2025-08-01"
+        },
+        "is_resolved": false,
+        "ddgs_reports": {
+            "20250830": "ddgs_kxnflgame-25sep04dalphi_20250830",
+            "20250902": "ddgs_kxnflgame-25sep04dalphi_20250902",
+            "20250903": "ddgs_kxnflgame-25sep04dalphi_20250903",
+            "20250904": "ddgs_kxnflgame-25sep04dalphi_20250904",
+            "20250905": "ddgs_kxnflgame-25sep04dalphi_20250905"
+        },
+        "resolution_date": "20250906"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250903": "ddgs_kxatpmatch-25sep05djoalc_20250903",
+            "20250904": "ddgs_kxatpmatch-25sep05djoalc_20250904"
+        },
+        "event_ticker": "KXATPMATCH-25SEP05DJOALC",
+        "series_ticker": "KXATPMATCH",
+        "title": "Djokovic vs Alcaraz",
+        "sub_title": "Djokovic vs Alcaraz",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250906"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250903": "ddgs_kxwnbagame-25sep04minlv_20250903",
+            "20250904": "ddgs_kxwnbagame-25sep04minlv_20250904"
+        },
+        "event_ticker": "KXWNBAGAME-25SEP04MINLV",
+        "series_ticker": "KXWNBAGAME",
+        "title": "MIN at LV",
+        "sub_title": "MIN at LV (Sep 4)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250906"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250903": "ddgs_kxwnbagame-25sep04dalgs_20250903",
+            "20250904": "ddgs_kxwnbagame-25sep04dalgs_20250904"
+        },
+        "event_ticker": "KXWNBAGAME-25SEP04DALGS",
+        "series_ticker": "KXWNBAGAME",
+        "title": "DAL at GS",
+        "sub_title": "DAL at GS (Sep 4)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250906"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250904": "ddgs_kxrainnyc-25sep04_20250904"
+        },
+        "event_ticker": "KXRAINNYC-25SEP04",
+        "series_ticker": "KXRAINNYC",
+        "title": "Will it rain in NYC on Sep 4, 2025?",
+        "sub_title": "On Sep 4, 2025",
+        "mutually_exclusive": false,
+        "category": "Climate and Weather",
+        "resolution_date": "20250906"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250904": "ddgs_kxapprankfree-25sep05_20250904"
+        },
+        "event_ticker": "KXAPPRANKFREE-25SEP05",
+        "series_ticker": "KXAPPRANKFREE",
+        "title": "Top US iPhone app on Sep 5, 2025?",
+        "sub_title": "On Sep 5, 2025 at 10 AM ET",
+        "mutually_exclusive": true,
+        "category": "Entertainment",
+        "resolution_date": "20250906"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250904": "ddgs_kxapprankfree2-25sep05_20250904"
+        },
+        "event_ticker": "KXAPPRANKFREE2-25SEP05",
+        "series_ticker": "KXAPPRANKFREE2",
+        "title": "Runner-up US iPhone app on Sep 5, 2025?",
+        "sub_title": "On Sep 5, 2025 at 10 AM ET",
+        "mutually_exclusive": true,
+        "category": "Entertainment",
+        "resolution_date": "20250906"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250904": "ddgs_kxwtamatch-25sep04osaani_20250904"
+        },
+        "event_ticker": "KXWTAMATCH-25SEP04OSAANI",
+        "series_ticker": "KXWTAMATCH",
+        "title": "Osaka vs Anisimova",
+        "sub_title": "Osaka vs Anisimova",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250906"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXAPPRANKFREE-25SEP06",
+        "series_ticker": "KXAPPRANKFREE",
+        "title": "Top US iPhone app on Sep 6, 2025?",
+        "sub_title": "On Sep 6, 2025 at 10 AM ET",
+        "mutually_exclusive": true,
+        "category": "Entertainment",
+        "resolution_date": "20250906"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXAPPRANKFREE2-25SEP06",
+        "series_ticker": "KXAPPRANKFREE2",
+        "title": "Runner-up US iPhone app on Sep 6, 2025?",
+        "sub_title": "On Sep 6, 2025 at 10 AM ET",
+        "mutually_exclusive": true,
+        "category": "Entertainment",
+        "resolution_date": "20250906"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXWNBAGAME-25SEP05LAATL",
+        "series_ticker": "KXWNBAGAME",
+        "title": "LA at ATL",
+        "sub_title": "LA at ATL (Sep 5)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250906"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXWNBAGAME-25SEP05CHIIND",
+        "series_ticker": "KXWNBAGAME",
+        "title": "CHI at IND",
+        "sub_title": "CHI at IND (Sep 5)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250906"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNFLCOMBO-25SEP04DALPHI",
+        "series_ticker": "KXNFLCOMBO",
+        "title": "Dallas at Philadelphia: Dallas Wins, Over 47.5 points scored, and CeeDee Lamb TD?",
+        "sub_title": "DAL at PHI (Sep 4)",
+        "mutually_exclusive": false,
+        "category": "Politics",
+        "resolution_date": "20250906"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXMLBGAME-25SEP04NYYHOU",
+        "series_ticker": "KXMLBGAME",
+        "title": "New York Y at Houston",
+        "sub_title": "NYY at HOU (Sep 4)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250906"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXMLBGAME-25SEP04CWSMIN",
+        "series_ticker": "KXMLBGAME",
+        "title": "Chicago WS at Minnesota",
+        "sub_title": "CWS at MIN (Sep 4)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250906"
     }
 ]
