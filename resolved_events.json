@@ -14371,5 +14371,1112 @@
         "mutually_exclusive": true,
         "category": "Sports",
         "resolution_date": "20250907"
+    },
+    {
+        "event_ticker": "KXNFLGAME-25SEP07PITNYJ",
+        "series_ticker": "KXNFLGAME",
+        "title": "Pittsburgh at New York J",
+        "sub_title": "PIT at NYJ (Sep 7)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "bing_reports": {
+            "2025-07-02": "bing_kxnflgame-25sep07pitnyj_2025-07-02",
+            "2025-07-13": "bing_kxnflgame-25sep07pitnyj_2025-07-13"
+        },
+        "is_resolved": false,
+        "ddgs_reports": {
+            "20250830": "ddgs_kxnflgame-25sep07pitnyj_20250830",
+            "20250902": "ddgs_kxnflgame-25sep07pitnyj_20250902",
+            "20250903": "ddgs_kxnflgame-25sep07pitnyj_20250903",
+            "20250904": "ddgs_kxnflgame-25sep07pitnyj_20250904",
+            "20250905": "ddgs_kxnflgame-25sep07pitnyj_20250905",
+            "20250906": "ddgs_kxnflgame-25sep07pitnyj_20250906",
+            "20250908": "ddgs_kxnflgame-25sep07pitnyj_20250908",
+            "20250907": "ddgs_kxnflgame-25sep07pitnyj_20250907"
+        },
+        "resolution_date": "20250908"
+    },
+    {
+        "event_ticker": "KXNCAAFGAME-25SEP06GASOUSC",
+        "series_ticker": "KXNCAAFGAME",
+        "title": "Georgia Southern at USC",
+        "sub_title": "GASO at USC (Sep 6)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "bing_reports": {
+            "2025-07-13": "bing_kxncaafgame-25sep06gasousc_2025-07-13",
+            "2025-08-01": "bing_kxncaafgame-25sep06gasousc_2025-08-01"
+        },
+        "is_resolved": false,
+        "ddgs_reports": {
+            "20250830": "ddgs_kxncaafgame-25sep06gasousc_20250830",
+            "20250902": "ddgs_kxncaafgame-25sep06gasousc_20250902",
+            "20250903": "ddgs_kxncaafgame-25sep06gasousc_20250903",
+            "20250904": "ddgs_kxncaafgame-25sep06gasousc_20250904",
+            "20250905": "ddgs_kxncaafgame-25sep06gasousc_20250905",
+            "20250906": "ddgs_kxncaafgame-25sep06gasousc_20250906",
+            "20250908": "ddgs_kxncaafgame-25sep06gasousc_20250908",
+            "20250907": "ddgs_kxncaafgame-25sep06gasousc_20250907"
+        },
+        "resolution_date": "20250908"
+    },
+    {
+        "event_ticker": "KXNCAAFGAME-25SEP06NCATUCF",
+        "series_ticker": "KXNCAAFGAME",
+        "title": "North Carolina A&T at UCF",
+        "sub_title": "NCAT at UCF (Sep 6)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "bing_reports": {
+            "2025-07-13": "bing_kxncaafgame-25sep06ncatucf_2025-07-13"
+        },
+        "is_resolved": false,
+        "ddgs_reports": {
+            "20250830": "ddgs_kxncaafgame-25sep06ncatucf_20250830",
+            "20250902": "ddgs_kxncaafgame-25sep06ncatucf_20250902",
+            "20250903": "ddgs_kxncaafgame-25sep06ncatucf_20250903",
+            "20250904": "ddgs_kxncaafgame-25sep06ncatucf_20250904",
+            "20250905": "ddgs_kxncaafgame-25sep06ncatucf_20250905",
+            "20250906": "ddgs_kxncaafgame-25sep06ncatucf_20250906",
+            "20250908": "ddgs_kxncaafgame-25sep06ncatucf_20250908",
+            "20250907": "ddgs_kxncaafgame-25sep06ncatucf_20250907"
+        },
+        "resolution_date": "20250908"
+    },
+    {
+        "event_ticker": "KXNCAAFGAME-25SEP06UNCCHAR",
+        "series_ticker": "KXNCAAFGAME",
+        "title": "North Carolina at Charlotte",
+        "sub_title": "UNC at CHAR (Sep 6)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "bing_reports": {
+            "2025-07-13": "bing_kxncaafgame-25sep06uncchar_2025-07-13",
+            "2025-08-10": "bing_kxncaafgame-25sep06uncchar_2025-08-10",
+            "2025-08-11": "bing_kxncaafgame-25sep06uncchar_2025-08-11"
+        },
+        "is_resolved": false,
+        "ddgs_reports": {
+            "20250830": "ddgs_kxncaafgame-25sep06uncchar_20250830",
+            "20250902": "ddgs_kxncaafgame-25sep06uncchar_20250902",
+            "20250903": "ddgs_kxncaafgame-25sep06uncchar_20250903",
+            "20250904": "ddgs_kxncaafgame-25sep06uncchar_20250904",
+            "20250905": "ddgs_kxncaafgame-25sep06uncchar_20250905",
+            "20250906": "ddgs_kxncaafgame-25sep06uncchar_20250906",
+            "20250908": "ddgs_kxncaafgame-25sep06uncchar_20250908",
+            "20250907": "ddgs_kxncaafgame-25sep06uncchar_20250907"
+        },
+        "resolution_date": "20250908"
+    },
+    {
+        "event_ticker": "KXNCAAFGAME-25SEP06BALLAUB",
+        "series_ticker": "KXNCAAFGAME",
+        "title": "Ball St. at Auburn",
+        "sub_title": "BALL at AUB (Sep 6)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "bing_reports": {
+            "2025-07-21": "bing_kxncaafgame-25sep06ballaub_2025-07-21",
+            "2025-07-29": "bing_kxncaafgame-25sep06ballaub_2025-07-29",
+            "2025-08-01": "bing_kxncaafgame-25sep06ballaub_2025-08-01"
+        },
+        "is_resolved": false,
+        "ddgs_reports": {
+            "20250830": "ddgs_kxncaafgame-25sep06ballaub_20250830",
+            "20250902": "ddgs_kxncaafgame-25sep06ballaub_20250902",
+            "20250903": "ddgs_kxncaafgame-25sep06ballaub_20250903",
+            "20250904": "ddgs_kxncaafgame-25sep06ballaub_20250904",
+            "20250905": "ddgs_kxncaafgame-25sep06ballaub_20250905",
+            "20250906": "ddgs_kxncaafgame-25sep06ballaub_20250906",
+            "20250907": "ddgs_kxncaafgame-25sep06ballaub_20250907"
+        },
+        "resolution_date": "20250908"
+    },
+    {
+        "event_ticker": "KXNCAAFGAME-25SEP06STANBYU",
+        "series_ticker": "KXNCAAFGAME",
+        "title": "Stanford at BYU",
+        "sub_title": "STAN at BYU (Sep 6)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "bing_reports": {
+            "2025-07-22": "bing_kxncaafgame-25sep06stanbyu_2025-07-22",
+            "2025-07-29": "bing_kxncaafgame-25sep06stanbyu_2025-07-29",
+            "2025-07-30": "bing_kxncaafgame-25sep06stanbyu_2025-07-30",
+            "2025-08-04": "bing_kxncaafgame-25sep06stanbyu_2025-08-04",
+            "2025-08-06": "bing_kxncaafgame-25sep06stanbyu_2025-08-06",
+            "2025-08-07": "bing_kxncaafgame-25sep06stanbyu_2025-08-07"
+        },
+        "is_resolved": false,
+        "ddgs_reports": {
+            "20250830": "ddgs_kxncaafgame-25sep06stanbyu_20250830",
+            "20250902": "ddgs_kxncaafgame-25sep06stanbyu_20250902",
+            "20250903": "ddgs_kxncaafgame-25sep06stanbyu_20250903",
+            "20250904": "ddgs_kxncaafgame-25sep06stanbyu_20250904",
+            "20250905": "ddgs_kxncaafgame-25sep06stanbyu_20250905",
+            "20250906": "ddgs_kxncaafgame-25sep06stanbyu_20250906",
+            "20250907": "ddgs_kxncaafgame-25sep06stanbyu_20250907"
+        },
+        "resolution_date": "20250908"
+    },
+    {
+        "event_ticker": "KXNFLGAME-25SEP07MIAIND",
+        "series_ticker": "KXNFLGAME",
+        "title": "Miami at Indianapolis",
+        "sub_title": "MIA at IND (Sep 7)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "bing_reports": {
+            "2025-07-22": "bing_kxnflgame-25sep07miaind_2025-07-22",
+            "2025-08-02": "bing_kxnflgame-25sep07miaind_2025-08-02",
+            "2025-08-04": "bing_kxnflgame-25sep07miaind_2025-08-04",
+            "2025-08-06": "bing_kxnflgame-25sep07miaind_2025-08-06",
+            "2025-08-07": "bing_kxnflgame-25sep07miaind_2025-08-07",
+            "2025-08-08": "bing_kxnflgame-25sep07miaind_2025-08-08"
+        },
+        "is_resolved": false,
+        "ddgs_reports": {
+            "20250830": "ddgs_kxnflgame-25sep07miaind_20250830",
+            "20250902": "ddgs_kxnflgame-25sep07miaind_20250902",
+            "20250903": "ddgs_kxnflgame-25sep07miaind_20250903",
+            "20250904": "ddgs_kxnflgame-25sep07miaind_20250904",
+            "20250905": "ddgs_kxnflgame-25sep07miaind_20250905",
+            "20250906": "ddgs_kxnflgame-25sep07miaind_20250906",
+            "20250907": "ddgs_kxnflgame-25sep07miaind_20250907"
+        },
+        "resolution_date": "20250908"
+    },
+    {
+        "event_ticker": "KXNCAAFGAME-25SEP06SIUPUR",
+        "series_ticker": "KXNCAAFGAME",
+        "title": "Southern Illinois at Purdue",
+        "sub_title": "SIU at PUR (Sep 6)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "bing_reports": {
+            "2025-07-29": "bing_kxncaafgame-25sep06siupur_2025-07-29",
+            "2025-07-30": "bing_kxncaafgame-25sep06siupur_2025-07-30",
+            "2025-08-01": "bing_kxncaafgame-25sep06siupur_2025-08-01"
+        },
+        "is_resolved": false,
+        "ddgs_reports": {
+            "20250830": "ddgs_kxncaafgame-25sep06siupur_20250830",
+            "20250902": "ddgs_kxncaafgame-25sep06siupur_20250902",
+            "20250903": "ddgs_kxncaafgame-25sep06siupur_20250903",
+            "20250904": "ddgs_kxncaafgame-25sep06siupur_20250904",
+            "20250905": "ddgs_kxncaafgame-25sep06siupur_20250905",
+            "20250906": "ddgs_kxncaafgame-25sep06siupur_20250906",
+            "20250907": "ddgs_kxncaafgame-25sep06siupur_20250907"
+        },
+        "resolution_date": "20250908"
+    },
+    {
+        "event_ticker": "KXNCAAFGAME-25SEP06SCSTSCAR",
+        "series_ticker": "KXNCAAFGAME",
+        "title": "South Carolina St. at South Carolina",
+        "sub_title": "SCST at SCAR (Sep 6)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "bing_reports": {
+            "2025-07-30": "bing_kxncaafgame-25sep06scstscar_2025-07-30"
+        },
+        "is_resolved": false,
+        "ddgs_reports": {
+            "20250830": "ddgs_kxncaafgame-25sep06scstscar_20250830",
+            "20250902": "ddgs_kxncaafgame-25sep06scstscar_20250902",
+            "20250903": "ddgs_kxncaafgame-25sep06scstscar_20250903",
+            "20250904": "ddgs_kxncaafgame-25sep06scstscar_20250904",
+            "20250905": "ddgs_kxncaafgame-25sep06scstscar_20250905",
+            "20250906": "ddgs_kxncaafgame-25sep06scstscar_20250906",
+            "20250907": "ddgs_kxncaafgame-25sep06scstscar_20250907"
+        },
+        "resolution_date": "20250908"
+    },
+    {
+        "event_ticker": "KXNFLGAME-25SEP07TBATL",
+        "series_ticker": "KXNFLGAME",
+        "title": "Tampa Bay at Atlanta",
+        "sub_title": "TB at ATL (Sep 7)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "bing_reports": {
+            "2025-07-30": "bing_kxnflgame-25sep07tbatl_2025-07-30"
+        },
+        "is_resolved": false,
+        "ddgs_reports": {
+            "20250830": "ddgs_kxnflgame-25sep07tbatl_20250830",
+            "20250902": "ddgs_kxnflgame-25sep07tbatl_20250902",
+            "20250903": "ddgs_kxnflgame-25sep07tbatl_20250903",
+            "20250904": "ddgs_kxnflgame-25sep07tbatl_20250904",
+            "20250905": "ddgs_kxnflgame-25sep07tbatl_20250905",
+            "20250906": "ddgs_kxnflgame-25sep07tbatl_20250906",
+            "20250907": "ddgs_kxnflgame-25sep07tbatl_20250907"
+        },
+        "resolution_date": "20250908"
+    },
+    {
+        "event_ticker": "KXNCAAFGAME-25SEP06UCLAUNLV",
+        "series_ticker": "KXNCAAFGAME",
+        "title": "UCLA at UNLV",
+        "sub_title": "UCLA at UNLV (Sep 6)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "bing_reports": {
+            "2025-08-01": "bing_kxncaafgame-25sep06uclaunlv_2025-08-01",
+            "2025-08-02": "bing_kxncaafgame-25sep06uclaunlv_2025-08-02",
+            "2025-08-03": "bing_kxncaafgame-25sep06uclaunlv_2025-08-03"
+        },
+        "is_resolved": false,
+        "ddgs_reports": {
+            "20250830": "ddgs_kxncaafgame-25sep06uclaunlv_20250830",
+            "20250902": "ddgs_kxncaafgame-25sep06uclaunlv_20250902",
+            "20250903": "ddgs_kxncaafgame-25sep06uclaunlv_20250903",
+            "20250904": "ddgs_kxncaafgame-25sep06uclaunlv_20250904",
+            "20250905": "ddgs_kxncaafgame-25sep06uclaunlv_20250905",
+            "20250906": "ddgs_kxncaafgame-25sep06uclaunlv_20250906",
+            "20250907": "ddgs_kxncaafgame-25sep06uclaunlv_20250907"
+        },
+        "resolution_date": "20250908"
+    },
+    {
+        "event_ticker": "KXNCAAFGAME-25SEP06VANVT",
+        "series_ticker": "KXNCAAFGAME",
+        "title": "Vanderbilt at Virginia Tech",
+        "sub_title": "VAN at VT (Sep 6)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "bing_reports": {
+            "2025-08-01": "bing_kxncaafgame-25sep06vanvt_2025-08-01",
+            "2025-08-10": "bing_kxncaafgame-25sep06vanvt_2025-08-10",
+            "2025-08-11": "bing_kxncaafgame-25sep06vanvt_2025-08-11"
+        },
+        "is_resolved": false,
+        "ddgs_reports": {
+            "20250830": "ddgs_kxncaafgame-25sep06vanvt_20250830",
+            "20250902": "ddgs_kxncaafgame-25sep06vanvt_20250902",
+            "20250903": "ddgs_kxncaafgame-25sep06vanvt_20250903",
+            "20250904": "ddgs_kxncaafgame-25sep06vanvt_20250904",
+            "20250905": "ddgs_kxncaafgame-25sep06vanvt_20250905",
+            "20250906": "ddgs_kxncaafgame-25sep06vanvt_20250906",
+            "20250907": "ddgs_kxncaafgame-25sep06vanvt_20250907"
+        },
+        "resolution_date": "20250908"
+    },
+    {
+        "event_ticker": "KXNCAAFGAME-25SEP06SDSUWSU",
+        "series_ticker": "KXNCAAFGAME",
+        "title": "San Diego St. at Washington St.",
+        "sub_title": "SDSU at WSU (Sep 6)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "bing_reports": {
+            "2025-08-01": "bing_kxncaafgame-25sep06sdsuwsu_2025-08-01"
+        },
+        "is_resolved": false,
+        "ddgs_reports": {
+            "20250830": "ddgs_kxncaafgame-25sep06sdsuwsu_20250830",
+            "20250902": "ddgs_kxncaafgame-25sep06sdsuwsu_20250902",
+            "20250903": "ddgs_kxncaafgame-25sep06sdsuwsu_20250903",
+            "20250904": "ddgs_kxncaafgame-25sep06sdsuwsu_20250904",
+            "20250905": "ddgs_kxncaafgame-25sep06sdsuwsu_20250905",
+            "20250906": "ddgs_kxncaafgame-25sep06sdsuwsu_20250906",
+            "20250907": "ddgs_kxncaafgame-25sep06sdsuwsu_20250907"
+        },
+        "resolution_date": "20250908"
+    },
+    {
+        "event_ticker": "KXNFLGAME-25SEP07TENDEN",
+        "series_ticker": "KXNFLGAME",
+        "title": "Tennessee at Denver",
+        "sub_title": "TEN at DEN (Sep 7)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "bing_reports": {
+            "2025-08-01": "bing_kxnflgame-25sep07tenden_2025-08-01",
+            "2025-08-03": "bing_kxnflgame-25sep07tenden_2025-08-03",
+            "2025-08-07": "bing_kxnflgame-25sep07tenden_2025-08-07"
+        },
+        "is_resolved": false,
+        "ddgs_reports": {
+            "20250830": "ddgs_kxnflgame-25sep07tenden_20250830",
+            "20250902": "ddgs_kxnflgame-25sep07tenden_20250902",
+            "20250903": "ddgs_kxnflgame-25sep07tenden_20250903",
+            "20250904": "ddgs_kxnflgame-25sep07tenden_20250904",
+            "20250905": "ddgs_kxnflgame-25sep07tenden_20250905",
+            "20250906": "ddgs_kxnflgame-25sep07tenden_20250906",
+            "20250907": "ddgs_kxnflgame-25sep07tenden_20250907"
+        },
+        "resolution_date": "20250908"
+    },
+    {
+        "event_ticker": "KXNFLGAME-25SEP07CINCLE",
+        "series_ticker": "KXNFLGAME",
+        "title": "Cincinnati at Cleveland",
+        "sub_title": "CIN at CLE (Sep 7)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "bing_reports": {
+            "2025-08-01": "bing_kxnflgame-25sep07cincle_2025-08-01",
+            "2025-08-15": "bing_kxnflgame-25sep07cincle_2025-08-15"
+        },
+        "is_resolved": false,
+        "ddgs_reports": {
+            "20250830": "ddgs_kxnflgame-25sep07cincle_20250830",
+            "20250902": "ddgs_kxnflgame-25sep07cincle_20250902",
+            "20250903": "ddgs_kxnflgame-25sep07cincle_20250903",
+            "20250904": "ddgs_kxnflgame-25sep07cincle_20250904",
+            "20250905": "ddgs_kxnflgame-25sep07cincle_20250905",
+            "20250906": "ddgs_kxnflgame-25sep07cincle_20250906",
+            "20250907": "ddgs_kxnflgame-25sep07cincle_20250907"
+        },
+        "resolution_date": "20250908"
+    },
+    {
+        "event_ticker": "KXNCAAFGAME-25SEP06SHSUHAW",
+        "series_ticker": "KXNCAAFGAME",
+        "title": "Sam Houston at Hawai'i",
+        "sub_title": "SHSU at HAW (Sep 6)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "bing_reports": {
+            "2025-08-01": "bing_kxncaafgame-25sep06shsuhaw_2025-08-01"
+        },
+        "is_resolved": false,
+        "ddgs_reports": {
+            "20250830": "ddgs_kxncaafgame-25sep06shsuhaw_20250830",
+            "20250902": "ddgs_kxncaafgame-25sep06shsuhaw_20250902",
+            "20250903": "ddgs_kxncaafgame-25sep06shsuhaw_20250903",
+            "20250904": "ddgs_kxncaafgame-25sep06shsuhaw_20250904",
+            "20250905": "ddgs_kxncaafgame-25sep06shsuhaw_20250905",
+            "20250906": "ddgs_kxncaafgame-25sep06shsuhaw_20250906",
+            "20250907": "ddgs_kxncaafgame-25sep06shsuhaw_20250907"
+        },
+        "resolution_date": "20250908"
+    },
+    {
+        "event_ticker": "KXNFLGAME-25SEP07CARJAC",
+        "series_ticker": "KXNFLGAME",
+        "title": "Carolina at Jacksonville",
+        "sub_title": "CAR at JAC (Sep 7)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "bing_reports": {
+            "2025-08-01": "bing_kxnflgame-25sep07carjac_2025-08-01",
+            "2025-08-02": "bing_kxnflgame-25sep07carjac_2025-08-02"
+        },
+        "is_resolved": false,
+        "ddgs_reports": {
+            "20250830": "ddgs_kxnflgame-25sep07carjac_20250830",
+            "20250902": "ddgs_kxnflgame-25sep07carjac_20250902",
+            "20250903": "ddgs_kxnflgame-25sep07carjac_20250903",
+            "20250904": "ddgs_kxnflgame-25sep07carjac_20250904",
+            "20250905": "ddgs_kxnflgame-25sep07carjac_20250905",
+            "20250906": "ddgs_kxnflgame-25sep07carjac_20250906",
+            "20250907": "ddgs_kxnflgame-25sep07carjac_20250907"
+        },
+        "resolution_date": "20250908"
+    },
+    {
+        "event_ticker": "KXNFLGAME-25SEP07NYGWAS",
+        "series_ticker": "KXNFLGAME",
+        "title": "New York G at Washington",
+        "sub_title": "NYG at WAS (Sep 7)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "bing_reports": {
+            "2025-08-01": "bing_kxnflgame-25sep07nygwas_2025-08-01",
+            "2025-08-02": "bing_kxnflgame-25sep07nygwas_2025-08-02",
+            "2025-08-04": "bing_kxnflgame-25sep07nygwas_2025-08-04",
+            "2025-08-06": "bing_kxnflgame-25sep07nygwas_2025-08-06",
+            "2025-08-07": "bing_kxnflgame-25sep07nygwas_2025-08-07"
+        },
+        "is_resolved": false,
+        "ddgs_reports": {
+            "20250830": "ddgs_kxnflgame-25sep07nygwas_20250830",
+            "20250902": "ddgs_kxnflgame-25sep07nygwas_20250902",
+            "20250903": "ddgs_kxnflgame-25sep07nygwas_20250903",
+            "20250904": "ddgs_kxnflgame-25sep07nygwas_20250904",
+            "20250905": "ddgs_kxnflgame-25sep07nygwas_20250905",
+            "20250906": "ddgs_kxnflgame-25sep07nygwas_20250906",
+            "20250907": "ddgs_kxnflgame-25sep07nygwas_20250907"
+        },
+        "resolution_date": "20250908"
+    },
+    {
+        "event_ticker": "KXNFLGAME-25SEP07ARINO",
+        "series_ticker": "KXNFLGAME",
+        "title": "Arizona at New Orleans",
+        "sub_title": "ARI at NO (Sep 7)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "bing_reports": {
+            "2025-08-01": "bing_kxnflgame-25sep07arino_2025-08-01",
+            "2025-08-02": "bing_kxnflgame-25sep07arino_2025-08-02"
+        },
+        "is_resolved": false,
+        "ddgs_reports": {
+            "20250830": "ddgs_kxnflgame-25sep07arino_20250830",
+            "20250902": "ddgs_kxnflgame-25sep07arino_20250902",
+            "20250903": "ddgs_kxnflgame-25sep07arino_20250903",
+            "20250904": "ddgs_kxnflgame-25sep07arino_20250904",
+            "20250905": "ddgs_kxnflgame-25sep07arino_20250905",
+            "20250906": "ddgs_kxnflgame-25sep07arino_20250906",
+            "20250907": "ddgs_kxnflgame-25sep07arino_20250907"
+        },
+        "resolution_date": "20250908"
+    },
+    {
+        "event_ticker": "KXDOGEMAX1",
+        "series_ticker": "KXDOGEMAX1",
+        "title": "When will Dogecoin hit $1?",
+        "sub_title": "Hit $1 or higher",
+        "mutually_exclusive": false,
+        "category": "Crypto",
+        "bing_reports": {
+            "2025-08-01": "bing_kxdogemax1_2025-08-01",
+            "2025-08-02": "bing_kxdogemax1_2025-08-02",
+            "2025-08-03": "bing_kxdogemax1_2025-08-03"
+        },
+        "is_resolved": false,
+        "ddgs_reports": {
+            "20250830": "ddgs_kxdogemax1_20250830",
+            "20250831": "ddgs_kxdogemax1_20250831",
+            "20250902": "ddgs_kxdogemax1_20250902",
+            "20250903": "ddgs_kxdogemax1_20250903",
+            "20250904": "ddgs_kxdogemax1_20250904",
+            "20250905": "ddgs_kxdogemax1_20250905",
+            "20250906": "ddgs_kxdogemax1_20250906",
+            "20250907": "ddgs_kxdogemax1_20250907"
+        },
+        "resolution_date": "20250908"
+    },
+    {
+        "event_ticker": "KXNCAAFGAME-25SEP06TLSANMSU",
+        "series_ticker": "KXNCAAFGAME",
+        "title": "Tulsa at New Mexico St.",
+        "sub_title": "TLSA at NMSU (Sep 6)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "bing_reports": {
+            "2025-08-03": "bing_kxncaafgame-25sep06tlsanmsu_2025-08-03",
+            "2025-08-04": "bing_kxncaafgame-25sep06tlsanmsu_2025-08-04",
+            "2025-08-05": "bing_kxncaafgame-25sep06tlsanmsu_2025-08-05",
+            "2025-08-06": "bing_kxncaafgame-25sep06tlsanmsu_2025-08-06",
+            "2025-08-08": "bing_kxncaafgame-25sep06tlsanmsu_2025-08-08"
+        },
+        "is_resolved": false,
+        "ddgs_reports": {
+            "20250830": "ddgs_kxncaafgame-25sep06tlsanmsu_20250830",
+            "20250902": "ddgs_kxncaafgame-25sep06tlsanmsu_20250902",
+            "20250903": "ddgs_kxncaafgame-25sep06tlsanmsu_20250903",
+            "20250904": "ddgs_kxncaafgame-25sep06tlsanmsu_20250904",
+            "20250905": "ddgs_kxncaafgame-25sep06tlsanmsu_20250905",
+            "20250906": "ddgs_kxncaafgame-25sep06tlsanmsu_20250906",
+            "20250907": "ddgs_kxncaafgame-25sep06tlsanmsu_20250907"
+        },
+        "resolution_date": "20250908"
+    },
+    {
+        "event_ticker": "KXNCAAFGAME-25SEP06BCMSU",
+        "series_ticker": "KXNCAAFGAME",
+        "title": "Boston College at Michigan St.",
+        "sub_title": "BC at MSU (Sep 6)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "bing_reports": {
+            "2025-08-03": "bing_kxncaafgame-25sep06bcmsu_2025-08-03",
+            "2025-08-11": "bing_kxncaafgame-25sep06bcmsu_2025-08-11"
+        },
+        "is_resolved": false,
+        "ddgs_reports": {
+            "20250830": "ddgs_kxncaafgame-25sep06bcmsu_20250830",
+            "20250902": "ddgs_kxncaafgame-25sep06bcmsu_20250902",
+            "20250903": "ddgs_kxncaafgame-25sep06bcmsu_20250903",
+            "20250904": "ddgs_kxncaafgame-25sep06bcmsu_20250904",
+            "20250905": "ddgs_kxncaafgame-25sep06bcmsu_20250905",
+            "20250906": "ddgs_kxncaafgame-25sep06bcmsu_20250906",
+            "20250907": "ddgs_kxncaafgame-25sep06bcmsu_20250907"
+        },
+        "resolution_date": "20250908"
+    },
+    {
+        "event_ticker": "KXNFLGAME-25SEP07SFSEA",
+        "series_ticker": "KXNFLGAME",
+        "title": "San Francisco at Seattle",
+        "sub_title": "SF at SEA (Sep 7)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "bing_reports": {
+            "2025-08-06": "bing_kxnflgame-25sep07sfsea_2025-08-06"
+        },
+        "is_resolved": false,
+        "ddgs_reports": {
+            "20250830": "ddgs_kxnflgame-25sep07sfsea_20250830",
+            "20250902": "ddgs_kxnflgame-25sep07sfsea_20250902",
+            "20250903": "ddgs_kxnflgame-25sep07sfsea_20250903",
+            "20250904": "ddgs_kxnflgame-25sep07sfsea_20250904",
+            "20250905": "ddgs_kxnflgame-25sep07sfsea_20250905",
+            "20250906": "ddgs_kxnflgame-25sep07sfsea_20250906",
+            "20250907": "ddgs_kxnflgame-25sep07sfsea_20250907"
+        },
+        "resolution_date": "20250908"
+    },
+    {
+        "event_ticker": "KXNFLGAME-25SEP07DETGB",
+        "series_ticker": "KXNFLGAME",
+        "title": "Detroit at Green Bay",
+        "sub_title": "DET at GB (Sep 7)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "bing_reports": {
+            "2025-08-08": "bing_kxnflgame-25sep07detgb_2025-08-08"
+        },
+        "is_resolved": false,
+        "ddgs_reports": {
+            "20250830": "ddgs_kxnflgame-25sep07detgb_20250830",
+            "20250902": "ddgs_kxnflgame-25sep07detgb_20250902",
+            "20250903": "ddgs_kxnflgame-25sep07detgb_20250903",
+            "20250904": "ddgs_kxnflgame-25sep07detgb_20250904",
+            "20250905": "ddgs_kxnflgame-25sep07detgb_20250905",
+            "20250906": "ddgs_kxnflgame-25sep07detgb_20250906",
+            "20250907": "ddgs_kxnflgame-25sep07detgb_20250907"
+        },
+        "resolution_date": "20250908"
+    },
+    {
+        "event_ticker": "KXNCAAFGAME-25SEP06WEBARIZ",
+        "series_ticker": "KXNCAAFGAME",
+        "title": "Weber St. at Arizona",
+        "sub_title": "WEB at ARIZ (Sep 6)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "bing_reports": {
+            "2025-08-08": "bing_kxncaafgame-25sep06webariz_2025-08-08",
+            "2025-08-11": "bing_kxncaafgame-25sep06webariz_2025-08-11",
+            "2025-08-12": "bing_kxncaafgame-25sep06webariz_2025-08-12",
+            "2025-08-14": "bing_kxncaafgame-25sep06webariz_2025-08-14",
+            "2025-08-15": "bing_kxncaafgame-25sep06webariz_2025-08-15"
+        },
+        "is_resolved": false,
+        "ddgs_reports": {
+            "20250830": "ddgs_kxncaafgame-25sep06webariz_20250830",
+            "20250902": "ddgs_kxncaafgame-25sep06webariz_20250902",
+            "20250903": "ddgs_kxncaafgame-25sep06webariz_20250903",
+            "20250904": "ddgs_kxncaafgame-25sep06webariz_20250904",
+            "20250905": "ddgs_kxncaafgame-25sep06webariz_20250905",
+            "20250906": "ddgs_kxncaafgame-25sep06webariz_20250906",
+            "20250907": "ddgs_kxncaafgame-25sep06webariz_20250907"
+        },
+        "resolution_date": "20250908"
+    },
+    {
+        "event_ticker": "KXSTARTIND-25SEP09",
+        "series_ticker": "KXSTARTIND",
+        "title": "Indianapolis week one starting QB?",
+        "sub_title": "Before Sep 9, 2025",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "bing_reports": {
+            "2025-08-11": "bing_kxstartind-25sep09_2025-08-11",
+            "2025-08-12": "bing_kxstartind-25sep09_2025-08-12"
+        },
+        "is_resolved": false,
+        "ddgs_reports": {
+            "20250830": "ddgs_kxstartind-25sep09_20250830",
+            "20250902": "ddgs_kxstartind-25sep09_20250902",
+            "20250903": "ddgs_kxstartind-25sep09_20250903",
+            "20250904": "ddgs_kxstartind-25sep09_20250904",
+            "20250905": "ddgs_kxstartind-25sep09_20250905",
+            "20250906": "ddgs_kxstartind-25sep09_20250906",
+            "20250907": "ddgs_kxstartind-25sep09_20250907"
+        },
+        "resolution_date": "20250908"
+    },
+    {
+        "event_ticker": "KXSTARTNYG-25SEP09",
+        "series_ticker": "KXSTARTNYG",
+        "title": "New York G week one starting QB?",
+        "sub_title": "Before Sep 9, 2025",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "bing_reports": {
+            "2025-08-11": "bing_kxstartnyg-25sep09_2025-08-11",
+            "2025-08-12": "bing_kxstartnyg-25sep09_2025-08-12"
+        },
+        "is_resolved": false,
+        "ddgs_reports": {
+            "20250830": "ddgs_kxstartnyg-25sep09_20250830",
+            "20250902": "ddgs_kxstartnyg-25sep09_20250902",
+            "20250903": "ddgs_kxstartnyg-25sep09_20250903",
+            "20250904": "ddgs_kxstartnyg-25sep09_20250904",
+            "20250905": "ddgs_kxstartnyg-25sep09_20250905",
+            "20250906": "ddgs_kxstartnyg-25sep09_20250906",
+            "20250907": "ddgs_kxstartnyg-25sep09_20250907"
+        },
+        "resolution_date": "20250908"
+    },
+    {
+        "event_ticker": "KXNCAAFGAME-25SEP06MCNSULL",
+        "series_ticker": "KXNCAAFGAME",
+        "title": "McNeese at Louisiana",
+        "sub_title": "MCNS at ULL (Sep 6)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "bing_reports": {
+            "2025-08-15": "bing_kxncaafgame-25sep06mcnsull_2025-08-15"
+        },
+        "is_resolved": false,
+        "ddgs_reports": {
+            "20250830": "ddgs_kxncaafgame-25sep06mcnsull_20250830",
+            "20250902": "ddgs_kxncaafgame-25sep06mcnsull_20250902",
+            "20250903": "ddgs_kxncaafgame-25sep06mcnsull_20250903",
+            "20250904": "ddgs_kxncaafgame-25sep06mcnsull_20250904",
+            "20250905": "ddgs_kxncaafgame-25sep06mcnsull_20250905",
+            "20250906": "ddgs_kxncaafgame-25sep06mcnsull_20250906",
+            "20250907": "ddgs_kxncaafgame-25sep06mcnsull_20250907"
+        },
+        "resolution_date": "20250908"
+    },
+    {
+        "bing_reports": {},
+        "event_ticker": "KXCBVOLUME-Q3-25",
+        "series_ticker": "KXCBVOLUME",
+        "title": "Coinbase volume in Q3 2025?",
+        "sub_title": "In Q3 2025",
+        "mutually_exclusive": false,
+        "category": "Companies",
+        "ddgs_reports": {
+            "20250830": "ddgs_kxcbvolume-q3-25_20250830",
+            "20250902": "ddgs_kxcbvolume-q3-25_20250902",
+            "20250903": "ddgs_kxcbvolume-q3-25_20250903",
+            "20250904": "ddgs_kxcbvolume-q3-25_20250904",
+            "20250906": "ddgs_kxcbvolume-q3-25_20250906",
+            "20250907": "ddgs_kxcbvolume-q3-25_20250907"
+        },
+        "resolution_date": "20250908"
+    },
+    {
+        "bing_reports": {},
+        "event_ticker": "KXTOP10SABRINAC-25SEP13-SAB",
+        "series_ticker": "KXTOP10SABRINAC",
+        "title": "Sabrina Carpenter holds top ten spots on the Billboard Hot 100 for the week of September 13th?",
+        "sub_title": "By Sep 13, 2025",
+        "mutually_exclusive": false,
+        "category": "Entertainment",
+        "ddgs_reports": {
+            "20250830": "ddgs_kxtop10sabrinac-25sep13-sab_20250830",
+            "20250902": "ddgs_kxtop10sabrinac-25sep13-sab_20250902",
+            "20250903": "ddgs_kxtop10sabrinac-25sep13-sab_20250903",
+            "20250904": "ddgs_kxtop10sabrinac-25sep13-sab_20250904",
+            "20250906": "ddgs_kxtop10sabrinac-25sep13-sab_20250906",
+            "20250907": "ddgs_kxtop10sabrinac-25sep13-sab_20250907"
+        },
+        "resolution_date": "20250908"
+    },
+    {
+        "bing_reports": {},
+        "event_ticker": "KXSTARTNYJ-25SEP09",
+        "series_ticker": "KXSTARTNYJ",
+        "title": "New York J week one starting QB?",
+        "sub_title": "Before Sep 9, 2025",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "ddgs_reports": {
+            "20250830": "ddgs_kxstartnyj-25sep09_20250830",
+            "20250902": "ddgs_kxstartnyj-25sep09_20250902",
+            "20250903": "ddgs_kxstartnyj-25sep09_20250903",
+            "20250904": "ddgs_kxstartnyj-25sep09_20250904",
+            "20250906": "ddgs_kxstartnyj-25sep09_20250906",
+            "20250907": "ddgs_kxstartnyj-25sep09_20250907"
+        },
+        "resolution_date": "20250908"
+    },
+    {
+        "bing_reports": {},
+        "event_ticker": "KXSTARTNOSAINTS-25SEP09",
+        "series_ticker": "KXSTARTNOSAINTS",
+        "title": "New Orleans week one starting QB?",
+        "sub_title": "Before Sep 9, 2025",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "ddgs_reports": {
+            "20250830": "ddgs_kxstartnosaints-25sep09_20250830",
+            "20250902": "ddgs_kxstartnosaints-25sep09_20250902",
+            "20250903": "ddgs_kxstartnosaints-25sep09_20250903",
+            "20250904": "ddgs_kxstartnosaints-25sep09_20250904",
+            "20250906": "ddgs_kxstartnosaints-25sep09_20250906",
+            "20250907": "ddgs_kxstartnosaints-25sep09_20250907"
+        },
+        "resolution_date": "20250908"
+    },
+    {
+        "bing_reports": {},
+        "event_ticker": "KXNFLGAME-25SEP07HOULA",
+        "series_ticker": "KXNFLGAME",
+        "title": "Houston at Los Angeles R",
+        "sub_title": "HOU at LA (Sep 7)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "ddgs_reports": {
+            "20250830": "ddgs_kxnflgame-25sep07houla_20250830",
+            "20250902": "ddgs_kxnflgame-25sep07houla_20250902",
+            "20250903": "ddgs_kxnflgame-25sep07houla_20250903",
+            "20250904": "ddgs_kxnflgame-25sep07houla_20250904",
+            "20250906": "ddgs_kxnflgame-25sep07houla_20250906",
+            "20250907": "ddgs_kxnflgame-25sep07houla_20250907"
+        },
+        "resolution_date": "20250908"
+    },
+    {
+        "bing_reports": {},
+        "event_ticker": "KXNFLGAME-25SEP07LVNE",
+        "series_ticker": "KXNFLGAME",
+        "title": "Las Vegas at New England",
+        "sub_title": "LV at NE (Sep 7)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "ddgs_reports": {
+            "20250830": "ddgs_kxnflgame-25sep07lvne_20250830",
+            "20250902": "ddgs_kxnflgame-25sep07lvne_20250902",
+            "20250903": "ddgs_kxnflgame-25sep07lvne_20250903",
+            "20250904": "ddgs_kxnflgame-25sep07lvne_20250904",
+            "20250906": "ddgs_kxnflgame-25sep07lvne_20250906",
+            "20250907": "ddgs_kxnflgame-25sep07lvne_20250907"
+        },
+        "resolution_date": "20250908"
+    },
+    {
+        "bing_reports": {},
+        "event_ticker": "KXNCAAFGAME-25SEP06UCDWASH",
+        "series_ticker": "KXNCAAFGAME",
+        "title": "UC Davis at Washington",
+        "sub_title": "UCD at WASH (Sep 6)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "ddgs_reports": {
+            "20250830": "ddgs_kxncaafgame-25sep06ucdwash_20250830",
+            "20250902": "ddgs_kxncaafgame-25sep06ucdwash_20250902",
+            "20250903": "ddgs_kxncaafgame-25sep06ucdwash_20250903",
+            "20250904": "ddgs_kxncaafgame-25sep06ucdwash_20250904",
+            "20250906": "ddgs_kxncaafgame-25sep06ucdwash_20250906",
+            "20250907": "ddgs_kxncaafgame-25sep06ucdwash_20250907"
+        },
+        "resolution_date": "20250908"
+    },
+    {
+        "bing_reports": {},
+        "event_ticker": "KXNCAAFGAME-25SEP06UTMUTEP",
+        "series_ticker": "KXNCAAFGAME",
+        "title": "Tennessee-Martin at UTEP",
+        "sub_title": "UTM at UTEP (Sep 6)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "ddgs_reports": {
+            "20250830": "ddgs_kxncaafgame-25sep06utmutep_20250830",
+            "20250902": "ddgs_kxncaafgame-25sep06utmutep_20250902",
+            "20250903": "ddgs_kxncaafgame-25sep06utmutep_20250903",
+            "20250904": "ddgs_kxncaafgame-25sep06utmutep_20250904",
+            "20250906": "ddgs_kxncaafgame-25sep06utmutep_20250906",
+            "20250907": "ddgs_kxncaafgame-25sep06utmutep_20250907"
+        },
+        "resolution_date": "20250908"
+    },
+    {
+        "bing_reports": {},
+        "event_ticker": "KXNCAAFGAME-25SEP06ULMALA",
+        "series_ticker": "KXNCAAFGAME",
+        "title": "Louisiana-Monroe at Alabama",
+        "sub_title": "ULM at ALA (Sep 6)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "ddgs_reports": {
+            "20250830": "ddgs_kxncaafgame-25sep06ulmala_20250830",
+            "20250902": "ddgs_kxncaafgame-25sep06ulmala_20250902",
+            "20250903": "ddgs_kxncaafgame-25sep06ulmala_20250903",
+            "20250904": "ddgs_kxncaafgame-25sep06ulmala_20250904",
+            "20250906": "ddgs_kxncaafgame-25sep06ulmala_20250906",
+            "20250907": "ddgs_kxncaafgame-25sep06ulmala_20250907"
+        },
+        "resolution_date": "20250908"
+    },
+    {
+        "bing_reports": {},
+        "event_ticker": "KXNCAAFGAME-25SEP06MICHOKLA",
+        "series_ticker": "KXNCAAFGAME",
+        "title": "Michigan at Oklahoma",
+        "sub_title": "MICH at OKLA (Sep 6)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "ddgs_reports": {
+            "20250830": "ddgs_kxncaafgame-25sep06michokla_20250830",
+            "20250902": "ddgs_kxncaafgame-25sep06michokla_20250902",
+            "20250903": "ddgs_kxncaafgame-25sep06michokla_20250903",
+            "20250904": "ddgs_kxncaafgame-25sep06michokla_20250904",
+            "20250906": "ddgs_kxncaafgame-25sep06michokla_20250906",
+            "20250907": "ddgs_kxncaafgame-25sep06michokla_20250907"
+        },
+        "resolution_date": "20250908"
+    },
+    {
+        "bing_reports": {},
+        "event_ticker": "KXNCAAFGAME-25SEP06CHSOCCAR",
+        "series_ticker": "KXNCAAFGAME",
+        "title": "Charleston Southern at Coastal Carolina",
+        "sub_title": "CHSO at CCAR (Sep 6)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "ddgs_reports": {
+            "20250830": "ddgs_kxncaafgame-25sep06chsoccar_20250830",
+            "20250902": "ddgs_kxncaafgame-25sep06chsoccar_20250902",
+            "20250903": "ddgs_kxncaafgame-25sep06chsoccar_20250903",
+            "20250904": "ddgs_kxncaafgame-25sep06chsoccar_20250904",
+            "20250906": "ddgs_kxncaafgame-25sep06chsoccar_20250906",
+            "20250907": "ddgs_kxncaafgame-25sep06chsoccar_20250907"
+        },
+        "resolution_date": "20250908"
+    },
+    {
+        "bing_reports": {},
+        "event_ticker": "KXNCAAFGAME-25SEP06AKRNEB",
+        "series_ticker": "KXNCAAFGAME",
+        "title": "Akron at Nebraska",
+        "sub_title": "AKR at NEB (Sep 6)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "ddgs_reports": {
+            "20250830": "ddgs_kxncaafgame-25sep06akrneb_20250830",
+            "20250902": "ddgs_kxncaafgame-25sep06akrneb_20250902",
+            "20250903": "ddgs_kxncaafgame-25sep06akrneb_20250903",
+            "20250904": "ddgs_kxncaafgame-25sep06akrneb_20250904",
+            "20250906": "ddgs_kxncaafgame-25sep06akrneb_20250906",
+            "20250907": "ddgs_kxncaafgame-25sep06akrneb_20250907"
+        },
+        "resolution_date": "20250908"
+    },
+    {
+        "bing_reports": {},
+        "event_ticker": "KXMLSGAME-25JUL25HOULAG",
+        "series_ticker": "KXMLSGAME",
+        "title": "Houston vs LA Galaxy",
+        "sub_title": "HOU vs LAG (Jul 25)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "ddgs_reports": {
+            "20250902": "ddgs_kxmlsgame-25jul25houlag_20250902",
+            "20250903": "ddgs_kxmlsgame-25jul25houlag_20250903",
+            "20250904": "ddgs_kxmlsgame-25jul25houlag_20250904",
+            "20250906": "ddgs_kxmlsgame-25jul25houlag_20250906",
+            "20250907": "ddgs_kxmlsgame-25jul25houlag_20250907"
+        },
+        "resolution_date": "20250908"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250903": "ddgs_kxmlsgame-25sep06stldal_20250903",
+            "20250902": "ddgs_kxmlsgame-25sep06stldal_20250902",
+            "20250904": "ddgs_kxmlsgame-25sep06stldal_20250904",
+            "20250906": "ddgs_kxmlsgame-25sep06stldal_20250906",
+            "20250907": "ddgs_kxmlsgame-25sep06stldal_20250907"
+        },
+        "event_ticker": "KXMLSGAME-25SEP06STLDAL",
+        "series_ticker": "KXMLSGAME",
+        "title": "Saint Louis vs Dallas",
+        "sub_title": "STL vs DAL (Sep 6)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250908"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250903": "ddgs_kxmlsgame-25sep06chine_20250903",
+            "20250902": "ddgs_kxmlsgame-25sep06chine_20250902",
+            "20250904": "ddgs_kxmlsgame-25sep06chine_20250904",
+            "20250906": "ddgs_kxmlsgame-25sep06chine_20250906",
+            "20250907": "ddgs_kxmlsgame-25sep06chine_20250907"
+        },
+        "event_ticker": "KXMLSGAME-25SEP06CHINE",
+        "series_ticker": "KXMLSGAME",
+        "title": "Chicago Fire vs New England",
+        "sub_title": "CHI vs NE (Sep 6)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250908"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250903": "ddgs_kxncaafgame-25sep06ltlsu_20250903",
+            "20250904": "ddgs_kxncaafgame-25sep06ltlsu_20250904",
+            "20250906": "ddgs_kxncaafgame-25sep06ltlsu_20250906",
+            "20250907": "ddgs_kxncaafgame-25sep06ltlsu_20250907"
+        },
+        "event_ticker": "KXNCAAFGAME-25SEP06LTLSU",
+        "series_ticker": "KXNCAAFGAME",
+        "title": "Louisiana Tech at LSU",
+        "sub_title": "LT at LSU (Sep 6)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250908"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250903": "ddgs_kxncaafgame-25sep06asumsst_20250903",
+            "20250904": "ddgs_kxncaafgame-25sep06asumsst_20250904",
+            "20250906": "ddgs_kxncaafgame-25sep06asumsst_20250906",
+            "20250907": "ddgs_kxncaafgame-25sep06asumsst_20250907"
+        },
+        "event_ticker": "KXNCAAFGAME-25SEP06ASUMSST",
+        "series_ticker": "KXNCAAFGAME",
+        "title": "Arizona St. at Mississippi St.",
+        "sub_title": "ASU at MSST (Sep 6)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250908"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250907": "ddgs_kxrainnyc-25sep06_20250907"
+        },
+        "event_ticker": "KXRAINNYC-25SEP06",
+        "series_ticker": "KXRAINNYC",
+        "title": "Will it rain in NYC on Sep 6, 2025?",
+        "sub_title": "On Sep 6, 2025",
+        "mutually_exclusive": false,
+        "category": "Climate and Weather",
+        "resolution_date": "20250908"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250907": "ddgs_kxapprankfree-25sep07_20250907"
+        },
+        "event_ticker": "KXAPPRANKFREE-25SEP07",
+        "series_ticker": "KXAPPRANKFREE",
+        "title": "Top US iPhone app on Sep 7, 2025?",
+        "sub_title": "On Sep 7, 2025 at 10 AM ET",
+        "mutually_exclusive": true,
+        "category": "Entertainment",
+        "resolution_date": "20250908"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250907": "ddgs_kxapprankfree2-25sep07_20250907"
+        },
+        "event_ticker": "KXAPPRANKFREE2-25SEP07",
+        "series_ticker": "KXAPPRANKFREE2",
+        "title": "Runner-up US iPhone app on Sep 7, 2025?",
+        "sub_title": "On Sep 7, 2025 at 10 AM ET",
+        "mutually_exclusive": true,
+        "category": "Entertainment",
+        "resolution_date": "20250908"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250907": "ddgs_kxwnbagame-25sep06mings_20250907"
+        },
+        "event_ticker": "KXWNBAGAME-25SEP06MINGS",
+        "series_ticker": "KXWNBAGAME",
+        "title": "MIN at GS",
+        "sub_title": "MIN at GS (Sep 6)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250908"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250907": "ddgs_kxmlsgame-25sep06houlag_20250907"
+        },
+        "event_ticker": "KXMLSGAME-25SEP06HOULAG",
+        "series_ticker": "KXMLSGAME",
+        "title": "Houston vs LA Galaxy",
+        "sub_title": "HOU vs LAG (Sep 6)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250908"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250907": "ddgs_kxwnbagame-25sep07dalla_20250907"
+        },
+        "event_ticker": "KXWNBAGAME-25SEP07DALLA",
+        "series_ticker": "KXWNBAGAME",
+        "title": "DAL at LA",
+        "sub_title": "DAL at LA (Sep 7)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250908"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250907": "ddgs_kxwnbagame-25sep07indwsh_20250907"
+        },
+        "event_ticker": "KXWNBAGAME-25SEP07INDWSH",
+        "series_ticker": "KXWNBAGAME",
+        "title": "IND at WSH",
+        "sub_title": "IND at WSH (Sep 7)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250908"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250907": "ddgs_kxmlbgame-25sep06athlaa_20250907"
+        },
+        "event_ticker": "KXMLBGAME-25SEP06ATHLAA",
+        "series_ticker": "KXMLBGAME",
+        "title": "A's at Los Angeles A",
+        "sub_title": "ATH at LAA (Sep 6)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250908"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250907": "ddgs_kxmlbgame-25sep06sdcol_20250907"
+        },
+        "event_ticker": "KXMLBGAME-25SEP06SDCOL",
+        "series_ticker": "KXMLBGAME",
+        "title": "San Diego at Colorado",
+        "sub_title": "SD at COL (Sep 6)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250908"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250907": "ddgs_kxmlbgame-25sep06bosaz_20250907"
+        },
+        "event_ticker": "KXMLBGAME-25SEP06BOSAZ",
+        "series_ticker": "KXMLBGAME",
+        "title": "Boston at Arizona",
+        "sub_title": "BOS at AZ (Sep 6)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250908"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250907": "ddgs_kxmlbgame-25sep06houtex_20250907"
+        },
+        "event_ticker": "KXMLBGAME-25SEP06HOUTEX",
+        "series_ticker": "KXMLBGAME",
+        "title": "Houston at Texas",
+        "sub_title": "HOU at TEX (Sep 6)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250908"
     }
 ]
