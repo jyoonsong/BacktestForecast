@@ -304,8 +304,8 @@ def scrape_kalshi_events():
     # For events that resolved within 30 days from today, try to backfill last 3 days of reports.
     for index, event in enumerate(resolved_events):
         latest_close_time = event.get("latest_close_time", None)
-        latest_close_time = dt.strptime(latest_close_time, "%Y-%m-%d")
-        if latest_close_time >= dt.utcnow() - dt.timedelta(days=30):
+        latest_close_time = dt.datetime.strptime(latest_close_time, "%Y-%m-%d")
+        if latest_close_time >= dt.datetime.utcnow() - dt.timedelta(days=30):
             if "ddgs_reports" not in event:
                 resolved_events[index]['ddgs_reports'] = {}
             for timestamp in timestamps:
