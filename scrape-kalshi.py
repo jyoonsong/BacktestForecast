@@ -197,7 +197,7 @@ def scrape_kalshi_events():
             while resolved_event == None and trials < 3:
                 try:
                     resp = requests.get(
-                        f"https://api.elections.kalshi.com/trade-api/v2/events/{event_ticker}?with_nested_markets=true",
+                        f"https://api.elections.kalshi.com/trade-api/v2/events/{event['event_ticker']}?with_nested_markets=true",
                         timeout=15
                     )
                     resp.raise_for_status()
@@ -352,7 +352,7 @@ def scrape_kalshi_events():
             logger.info(f"Market {market['ticker']} is no longer active.")
             market['resolution_date'] = timestamp_now
             resolved_markets.append(market)
-            
+
     # For events that resolved within 30 days from today, try to backfill last 3 days of reports.
     for index, event in enumerate(resolved_events):
         latest_close_time = event.get("latest_close_time", None)
