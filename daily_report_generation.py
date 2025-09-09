@@ -320,7 +320,7 @@ async def get_ddgs_report(index, event):
     # combine summaries (your step 5)
     reports = "\n\n".join(f"# Research Report {i+1}:\n{summary}" for i, summary in enumerate(summaries)).strip()
 
-    print(f"Completed report for event {index}: {event['event_ticker']}")
+    print(f"Completed report generation for event {index}: {event['event_ticker']}")
     return reports
 
 
