@@ -15478,5 +15478,293 @@
         "mutually_exclusive": true,
         "category": "Sports",
         "resolution_date": "20250908"
+    },
+    {
+        "event_ticker": "KXTOPALBUMBYSABRINA-25",
+        "series_ticker": "KXTOPALBUMBYSABRINA",
+        "title": "Sabrina Carpenter has a #1 album in 2025?",
+        "sub_title": "In 2025",
+        "mutually_exclusive": false,
+        "category": "Entertainment",
+        "bing_reports": {
+            "2025-07-31": "bing_kxtopalbumbysabrina-25_2025-07-31",
+            "2025-08-01": "bing_kxtopalbumbysabrina-25_2025-08-01",
+            "2025-08-11": "bing_kxtopalbumbysabrina-25_2025-08-11",
+            "2025-08-12": "bing_kxtopalbumbysabrina-25_2025-08-12"
+        },
+        "is_resolved": false,
+        "ddgs_reports": {
+            "20250830": "ddgs_kxtopalbumbysabrina-25_20250830",
+            "20250902": "ddgs_kxtopalbumbysabrina-25_20250902",
+            "20250903": "ddgs_kxtopalbumbysabrina-25_20250903",
+            "20250904": "ddgs_kxtopalbumbysabrina-25_20250904",
+            "20250905": "ddgs_kxtopalbumbysabrina-25_20250905",
+            "20250906": "ddgs_kxtopalbumbysabrina-25_20250906",
+            "20250907": "ddgs_kxtopalbumbysabrina-25_20250907",
+            "20250908": "ddgs_kxtopalbumbysabrina-25_20250908"
+        },
+        "resolution_date": "20250909"
+    },
+    {
+        "event_ticker": "KXNFLGAME-25SEP07BALBUF",
+        "series_ticker": "KXNFLGAME",
+        "title": "Baltimore at Buffalo",
+        "sub_title": "BAL at BUF (Sep 7)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "bing_reports": {
+            "2025-08-01": "bing_kxnflgame-25sep07balbuf_2025-08-01"
+        },
+        "is_resolved": false,
+        "ddgs_reports": {
+            "20250830": "ddgs_kxnflgame-25sep07balbuf_20250830",
+            "20250902": "ddgs_kxnflgame-25sep07balbuf_20250902",
+            "20250903": "ddgs_kxnflgame-25sep07balbuf_20250903",
+            "20250904": "ddgs_kxnflgame-25sep07balbuf_20250904",
+            "20250905": "ddgs_kxnflgame-25sep07balbuf_20250905",
+            "20250906": "ddgs_kxnflgame-25sep07balbuf_20250906",
+            "20250907": "ddgs_kxnflgame-25sep07balbuf_20250907",
+            "20250908": "ddgs_kxnflgame-25sep07balbuf_20250908"
+        },
+        "resolution_date": "20250909"
+    },
+    {
+        "event_ticker": "KXEUROVISIONHOST-26",
+        "series_ticker": "KXEUROVISIONHOST",
+        "title": "Which city will host Eurovision in 2026?",
+        "sub_title": "In 2026",
+        "mutually_exclusive": true,
+        "category": "Entertainment",
+        "bing_reports": {
+            "2025-08-01": "bing_kxeurovisionhost-26_2025-08-01",
+            "2025-08-03": "bing_kxeurovisionhost-26_2025-08-03",
+            "2025-08-05": "bing_kxeurovisionhost-26_2025-08-05",
+            "2025-08-07": "bing_kxeurovisionhost-26_2025-08-07",
+            "2025-08-08": "bing_kxeurovisionhost-26_2025-08-08"
+        },
+        "is_resolved": false,
+        "ddgs_reports": {
+            "20250830": "ddgs_kxeurovisionhost-26_20250830",
+            "20250831": "ddgs_kxeurovisionhost-26_20250831",
+            "20250902": "ddgs_kxeurovisionhost-26_20250902",
+            "20250903": "ddgs_kxeurovisionhost-26_20250903",
+            "20250904": "ddgs_kxeurovisionhost-26_20250904",
+            "20250905": "ddgs_kxeurovisionhost-26_20250905",
+            "20250906": "ddgs_kxeurovisionhost-26_20250906",
+            "20250907": "ddgs_kxeurovisionhost-26_20250907",
+            "20250908": "ddgs_kxeurovisionhost-26_20250908"
+        },
+        "resolution_date": "20250909"
+    },
+    {
+        "event_ticker": "KXBOLIVIADEPUTIES-25",
+        "series_ticker": "KXBOLIVIADEPUTIES",
+        "title": "Who will win the next Bolivian Chamber of Deputies election?",
+        "sub_title": "In 2025",
+        "mutually_exclusive": true,
+        "category": "Elections",
+        "bing_reports": {
+            "2025-08-14": "bing_kxboliviadeputies-25_2025-08-14"
+        },
+        "is_resolved": false,
+        "ddgs_reports": {
+            "20250902": "ddgs_kxboliviadeputies-25_20250902",
+            "20250903": "ddgs_kxboliviadeputies-25_20250903",
+            "20250904": "ddgs_kxboliviadeputies-25_20250904",
+            "20250905": "ddgs_kxboliviadeputies-25_20250905",
+            "20250906": "ddgs_kxboliviadeputies-25_20250906",
+            "20250907": "ddgs_kxboliviadeputies-25_20250907",
+            "20250908": "ddgs_kxboliviadeputies-25_20250908"
+        },
+        "resolution_date": "20250909"
+    },
+    {
+        "bing_reports": {},
+        "event_ticker": "KXFFQBALLENMAHOMES-25SEP09",
+        "series_ticker": "KXFFQBALLENMAHOMES",
+        "title": "Will Josh Allen or Patrick Mahomes have more fantasy points in Week 1?",
+        "sub_title": "In week 1",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "ddgs_reports": {
+            "20250830": "ddgs_kxffqballenmahomes-25sep09_20250830",
+            "20250902": "ddgs_kxffqballenmahomes-25sep09_20250902",
+            "20250903": "ddgs_kxffqballenmahomes-25sep09_20250903",
+            "20250904": "ddgs_kxffqballenmahomes-25sep09_20250904",
+            "20250906": "ddgs_kxffqballenmahomes-25sep09_20250906",
+            "20250907": "ddgs_kxffqballenmahomes-25sep09_20250907",
+            "20250908": "ddgs_kxffqballenmahomes-25sep09_20250908"
+        },
+        "resolution_date": "20250909"
+    },
+    {
+        "bing_reports": {},
+        "event_ticker": "KXMRBEAST100M-25AUG31",
+        "series_ticker": "KXMRBEAST100M",
+        "title": "Will any MrBeast video get more than 100 Million views a week after upload this month?",
+        "sub_title": "Before Sep 1, 2025",
+        "mutually_exclusive": false,
+        "category": "Entertainment",
+        "ddgs_reports": {
+            "20250830": "ddgs_kxmrbeast100m-25aug31_20250830",
+            "20250902": "ddgs_kxmrbeast100m-25aug31_20250902",
+            "20250903": "ddgs_kxmrbeast100m-25aug31_20250903",
+            "20250904": "ddgs_kxmrbeast100m-25aug31_20250904",
+            "20250906": "ddgs_kxmrbeast100m-25aug31_20250906",
+            "20250907": "ddgs_kxmrbeast100m-25aug31_20250907",
+            "20250908": "ddgs_kxmrbeast100m-25aug31_20250908"
+        },
+        "resolution_date": "20250909"
+    },
+    {
+        "bing_reports": {},
+        "event_ticker": "KXBOLIVIASENATE-25",
+        "series_ticker": "KXBOLIVIASENATE",
+        "title": "Who will win the next Bolivian Senate election?",
+        "sub_title": "In 2025",
+        "mutually_exclusive": true,
+        "category": "Elections",
+        "ddgs_reports": {
+            "20250902": "ddgs_kxboliviasenate-25_20250902",
+            "20250903": "ddgs_kxboliviasenate-25_20250903",
+            "20250904": "ddgs_kxboliviasenate-25_20250904",
+            "20250906": "ddgs_kxboliviasenate-25_20250906",
+            "20250907": "ddgs_kxboliviasenate-25_20250907",
+            "20250908": "ddgs_kxboliviasenate-25_20250908"
+        },
+        "resolution_date": "20250909"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250903": "ddgs_kxaaagasw-25sep08_20250903",
+            "20250902": "ddgs_kxaaagasw-25sep08_20250902",
+            "20250904": "ddgs_kxaaagasw-25sep08_20250904",
+            "20250906": "ddgs_kxaaagasw-25sep08_20250906",
+            "20250907": "ddgs_kxaaagasw-25sep08_20250907",
+            "20250908": "ddgs_kxaaagasw-25sep08_20250908"
+        },
+        "event_ticker": "KXAAAGASW-25SEP08",
+        "series_ticker": "KXAAAGASW",
+        "title": "Gas prices in the US up this week?",
+        "sub_title": "On Sep 8, 2025",
+        "mutually_exclusive": false,
+        "category": "Economics",
+        "resolution_date": "20250909"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250903": "ddgs_kxmlsgame-25sep07skcatx_20250903",
+            "20250902": "ddgs_kxmlsgame-25sep07skcatx_20250902",
+            "20250904": "ddgs_kxmlsgame-25sep07skcatx_20250904",
+            "20250906": "ddgs_kxmlsgame-25sep07skcatx_20250906",
+            "20250907": "ddgs_kxmlsgame-25sep07skcatx_20250907",
+            "20250908": "ddgs_kxmlsgame-25sep07skcatx_20250908"
+        },
+        "event_ticker": "KXMLSGAME-25SEP07SKCATX",
+        "series_ticker": "KXMLSGAME",
+        "title": "Kansas City vs Austin",
+        "sub_title": "SKC vs ATX (Sep 7)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250909"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250907": "ddgs_kxusopenattend-25sep06_20250907",
+            "20250908": "ddgs_kxusopenattend-25sep06_20250908"
+        },
+        "event_ticker": "KXUSOPENATTEND-25SEP06",
+        "series_ticker": "KXUSOPENATTEND",
+        "title": "Who will attend the US Open Men\u2019s and Women\u2019s Singles Finals in New York?",
+        "sub_title": "On Sep 6, 2025",
+        "mutually_exclusive": false,
+        "category": "Entertainment",
+        "resolution_date": "20250909"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250907": "ddgs_kxnflredzonebrandads-25sep08_20250907",
+            "20250908": "ddgs_kxnflredzonebrandads-25sep08_20250908"
+        },
+        "event_ticker": "KXNFLREDZONEBRANDADS-25SEP08",
+        "series_ticker": "KXNFLREDZONEBRANDADS",
+        "title": "Which brands will advertise during NFL Redzone week 1?",
+        "sub_title": "Sep 8, 2025",
+        "mutually_exclusive": false,
+        "category": "Sports",
+        "resolution_date": "20250909"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250907": "ddgs_kxrainnyc-25sep07_20250907",
+            "20250908": "ddgs_kxrainnyc-25sep07_20250908"
+        },
+        "event_ticker": "KXRAINNYC-25SEP07",
+        "series_ticker": "KXRAINNYC",
+        "title": "Will it rain in NYC on Sep 7, 2025?",
+        "sub_title": "On Sep 7, 2025",
+        "mutually_exclusive": false,
+        "category": "Climate and Weather",
+        "resolution_date": "20250909"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250907": "ddgs_kxapprankfree-25sep08_20250907",
+            "20250908": "ddgs_kxapprankfree-25sep08_20250908"
+        },
+        "event_ticker": "KXAPPRANKFREE-25SEP08",
+        "series_ticker": "KXAPPRANKFREE",
+        "title": "Top US iPhone app on Sep 8, 2025?",
+        "sub_title": "On Sep 8, 2025 at 10 AM ET",
+        "mutually_exclusive": true,
+        "category": "Entertainment",
+        "resolution_date": "20250909"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250907": "ddgs_kxapprankfree2-25sep08_20250907",
+            "20250908": "ddgs_kxapprankfree2-25sep08_20250908"
+        },
+        "event_ticker": "KXAPPRANKFREE2-25SEP08",
+        "series_ticker": "KXAPPRANKFREE2",
+        "title": "Runner-up US iPhone app on Sep 8, 2025?",
+        "sub_title": "On Sep 8, 2025 at 10 AM ET",
+        "mutually_exclusive": true,
+        "category": "Entertainment",
+        "resolution_date": "20250909"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250907": "ddgs_kxwnbagame-25sep07chilv_20250907",
+            "20250908": "ddgs_kxwnbagame-25sep07chilv_20250908"
+        },
+        "event_ticker": "KXWNBAGAME-25SEP07CHILV",
+        "series_ticker": "KXWNBAGAME",
+        "title": "CHI at LV",
+        "sub_title": "CHI at LV (Sep 7)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250909"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250908": "ddgs_kxwnbagame-25sep08connatl_20250908"
+        },
+        "event_ticker": "KXWNBAGAME-25SEP08CONNATL",
+        "series_ticker": "KXWNBAGAME",
+        "title": "CONN at ATL",
+        "sub_title": "CONN at ATL (Sep 8)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "20250909"
     }
 ]
