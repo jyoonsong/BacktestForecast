@@ -254,7 +254,7 @@ def scrape_kalshi_events():
                         })
                         # save hash id in events.json
                         event['ddgs_reports'][timestamp] = hash_id
-                        
+
             resolved_events.append(event)
     
     # Add newly active events not seen in previous snapshot.
@@ -345,11 +345,22 @@ def scrape_kalshi_events():
                         prev_market['market_price'][timestamp_now] = market_price
                         final_markets.append(prev_market)
 
+    # Any previously-known market not seen as active now is considered resolved.
+    final_market_tickers = [m['ticker'] for m in final_markets]
+    for market in previous_markets:
+        if market['ticker'] not in final_market_tickers:
+            logger.info(f"Market {market['ticker']} is no longer active.")
+            market['resolution_date'] = timestamp_now
+            resolved_markets.append(market)
+            
     # For events that resolved within 30 days from today, try to backfill last 3 days of reports.
     for index, event in enumerate(resolved_events):
         latest_close_time = event.get("latest_close_time", None)
+        if latest_close_time is None:
+            continue
         latest_close_time = dt.datetime.strptime(latest_close_time, "%Y-%m-%d")
         if latest_close_time >= dt.datetime.utcnow() - dt.timedelta(days=30):
+            print(f"Backfilling reports for recently resolved event {event['event_ticker']}")
             if "ddgs_reports" not in event:
                 resolved_events[index]['ddgs_reports'] = {}
             for timestamp in timestamps:
@@ -367,14 +378,6 @@ def scrape_kalshi_events():
                         })
                         # save hash id in events.json
                         resolved_events[index]['ddgs_reports'][timestamp] = hash_id
-
-    # Any previously-known market not seen as active now is considered resolved.
-    final_market_tickers = [m['ticker'] for m in final_markets]
-    for market in previous_markets:
-        if market['ticker'] not in final_market_tickers:
-            logger.info(f"Market {market['ticker']} is no longer active.")
-            market['resolution_date'] = timestamp_now
-            resolved_markets.append(market)
 
     # Persist updated snapshots to disk.
     with open(files[0], "w") as f:
