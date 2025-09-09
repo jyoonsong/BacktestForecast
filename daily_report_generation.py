@@ -370,7 +370,7 @@ async def main():
         # Idempotency: if today's report exists for this ticker, skip the work.
         existing_report = read_from_db(timestamp, event_ticker)
         if existing_report is not None:
-            print(f"Report already exists for {event_ticker} at {timestamp}, skipping...")
+            print(f"Report already exists for {event_ticker} at {index}, skipping...")
             continue
 
         # fetch event details without blocking the whole loop
@@ -383,7 +383,10 @@ async def main():
                         timeout=15
                     )
                     resp.raise_for_status()
-                    return resp.json()["event"]
+                    event = resp.json()["event"]
+                    if "markets" not in event:
+                        continue
+                    return event
                 except Exception as e:
                     print(f"Retrying event fetch for {event_ticker}: {e}")
 
