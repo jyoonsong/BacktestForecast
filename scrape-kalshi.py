@@ -192,7 +192,50 @@ def scrape_kalshi_events():
             
         else:
             logger.info(f"Event {event['event_ticker']} is no longer active.")
-            event['resolution_date'] = timestamp_now
+            resolved_event = None
+            trials = 0
+            while resolved_event == None and trials < 3:
+                try:
+                    resp = requests.get(
+                        f"https://api.elections.kalshi.com/trade-api/v2/events/{event_ticker}?with_nested_markets=true",
+                        timeout=15
+                    )
+                    resp.raise_for_status()
+                    resolved_event = resp.json()["event"]
+                except Exception as e:
+                    logger.error(f"Failed to fetch details for resolved event {event['event_ticker']}: {e}")
+                    trials += 1
+                    continue
+
+            earliest_open_time = None
+            latest_close_time = None
+            is_resolved = True
+            has_resolved = False
+            if "markets" not in resolved_event:
+                continue
+            for market in resolved_event["markets"]:
+                # parse 2025-08-26T19:30:40.273125Z to datetime
+                open_time_format = "%Y-%m-%dT%H:%M:%SZ" if "." not in market["open_time"] else "%Y-%m-%dT%H:%M:%S.%fZ"
+                close_time_format = "%Y-%m-%dT%H:%M:%SZ" if "." not in market["close_time"] else "%Y-%m-%dT%H:%M:%S.%fZ"
+                open_time = dt.datetime.strptime(market["open_time"], open_time_format)
+                close_time = dt.datetime.strptime(market["close_time"], close_time_format)
+                if earliest_open_time is None or open_time < earliest_open_time:
+                    earliest_open_time = open_time
+                if latest_close_time is None or close_time > latest_close_time:
+                    latest_close_time = close_time
+
+                if market["status"] == "active" or market["status"] == "initialized":
+                    is_resolved = False
+                if market["status"] != "active" and market["status"] != "initialized" and market["result"] in ["yes", "no"]:
+                    has_resolved = True
+
+            event['resolution_date'] = latest_close_time.strftime("%Y-%m-%d")
+            event['latest_close_time'] = latest_close_time.strftime("%Y-%m-%d")
+            event['earliest_open_time'] = earliest_open_time.strftime("%Y-%m-%d")
+            event['category'] = resolved_event.get("category", "Uncategorized")
+            event['is_resolved'] = is_resolved
+            event['has_resolved'] = has_resolved
+
             # Ensure 'ddgs_reports' field exists, then try to backfill last 3 days.
             if "ddgs_reports" not in event:
                 event['ddgs_reports'] = {}
@@ -211,6 +254,7 @@ def scrape_kalshi_events():
                         })
                         # save hash id in events.json
                         event['ddgs_reports'][timestamp] = hash_id
+                        
             resolved_events.append(event)
     
     # Add newly active events not seen in previous snapshot.
