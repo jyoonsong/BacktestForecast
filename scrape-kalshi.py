@@ -301,6 +301,29 @@ def scrape_kalshi_events():
                         prev_market['market_price'][timestamp_now] = market_price
                         final_markets.append(prev_market)
 
+    # For events that resolved within 30 days from today, try to backfill last 3 days of reports.
+    for index, event in enumerate(resolved_events):
+        latest_close_time = event.get("latest_close_time", None)
+        latest_close_time = dt.strptime(latest_close_time, "%Y-%m-%d")
+        if latest_close_time >= dt.utcnow() - dt.timedelta(days=30):
+            if "ddgs_reports" not in event:
+                resolved_events[index]['ddgs_reports'] = {}
+            for timestamp in timestamps:
+                if timestamp not in event["ddgs_reports"]:
+                    report = read_from_db(timestamp, event["event_ticker"])
+                    if report is not None:
+                        # generate unique hash id
+                        hash_id = f"ddgs_{event['event_ticker'].lower()}_{timestamp}"
+                        # save it to reports.json
+                        ddgs_reports.append({
+                            "hash_id": hash_id,
+                            "timestamp": timestamp,
+                            "event_ticker": event["event_ticker"],
+                            "report": report,
+                        })
+                        # save hash id in events.json
+                        resolved_events[index]['ddgs_reports'][timestamp] = hash_id
+
     # Any previously-known market not seen as active now is considered resolved.
     final_market_tickers = [m['ticker'] for m in final_markets]
     for market in previous_markets:
