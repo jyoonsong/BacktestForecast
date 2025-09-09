@@ -367,6 +367,8 @@ async def main():
 
     tasks = []
     for index, event_ticker in enumerate(event_tickers):
+        if index < 1690:
+            continue
         # Idempotency: if today's report exists for this ticker, skip the work.
         existing_report = read_from_db(timestamp, event_ticker)
         if existing_report is not None:
@@ -384,14 +386,15 @@ async def main():
                     )
                     resp.raise_for_status()
                     event = resp.json()["event"]
-                    if "markets" not in event:
-                        continue
                     return event
                 except Exception as e:
                     print(f"Retrying event fetch for {event_ticker}: {e}")
 
         # Offload the blocking requests.get to a worker thread.
         event = await asyncio.to_thread(fetch_event)  # offload blocking requests
+        if "markets" not in event or event["markets"] is None or len(event["markets"]) == 0:
+            print(f"No markets found for event {event_ticker} at {index}, skipping...")
+            continue
         tasks.append(asyncio.create_task(guarded_process(index, event)))
 
     # Wait for all event tasks to complete.
