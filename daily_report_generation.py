@@ -367,8 +367,6 @@ async def main():
 
     tasks = []
     for index, event_ticker in enumerate(event_tickers):
-        if index < 1690:
-            continue
         # Idempotency: if today's report exists for this ticker, skip the work.
         existing_report = read_from_db(timestamp, event_ticker)
         if existing_report is not None:
@@ -385,8 +383,7 @@ async def main():
                         timeout=15
                     )
                     resp.raise_for_status()
-                    event = resp.json()["event"]
-                    return event
+                    return resp.json()["event"]
                 except Exception as e:
                     print(f"Retrying event fetch for {event_ticker}: {e}")
 
