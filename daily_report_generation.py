@@ -78,8 +78,10 @@ def write_to_db(report, contents, timestamp, event_ticker):
             "body": content.get("body", ""),
             "href": content.get("href", ""),
         }
-        for content in contents
+        for sublist in contents
+        for content in sublist
     ]
+
     data = {}
     data["timestamp"] = timestamp
     data["event_ticker"] = event_ticker
