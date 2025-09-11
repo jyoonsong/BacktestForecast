@@ -35651,7 +35651,8 @@
     {
         "bing_reports": {},
         "ddgs_reports": {
-            "20250909": "ddgs_kxwnbagame-25sep09minind_20250909"
+            "20250909": "ddgs_kxwnbagame-25sep09minind_20250909",
+            "20250910": "ddgs_kxwnbagame-25sep09minind_20250910"
         },
         "event_ticker": "KXWNBAGAME-25SEP09MININD",
         "series_ticker": "KXWNBAGAME",
@@ -35668,7 +35669,8 @@
     {
         "bing_reports": {},
         "ddgs_reports": {
-            "20250909": "ddgs_kxwnbagame-25sep09wshny_20250909"
+            "20250909": "ddgs_kxwnbagame-25sep09wshny_20250909",
+            "20250910": "ddgs_kxwnbagame-25sep09wshny_20250910"
         },
         "event_ticker": "KXWNBAGAME-25SEP09WSHNY",
         "series_ticker": "KXWNBAGAME",
@@ -35685,7 +35687,8 @@
     {
         "bing_reports": {},
         "ddgs_reports": {
-            "20250909": "ddgs_kxwtamatch-25sep08tremar_20250909"
+            "20250909": "ddgs_kxwtamatch-25sep08tremar_20250909",
+            "20250910": "ddgs_kxwtamatch-25sep08tremar_20250910"
         },
         "event_ticker": "KXWTAMATCH-25SEP08TREMAR",
         "series_ticker": "KXWTAMATCH",
@@ -35702,7 +35705,8 @@
     {
         "bing_reports": {},
         "ddgs_reports": {
-            "20250909": "ddgs_kxwtamatch-25sep08sakjac_20250909"
+            "20250909": "ddgs_kxwtamatch-25sep08sakjac_20250909",
+            "20250910": "ddgs_kxwtamatch-25sep08sakjac_20250910"
         },
         "event_ticker": "KXWTAMATCH-25SEP08SAKJAC",
         "series_ticker": "KXWTAMATCH",
@@ -35718,7 +35722,9 @@
     },
     {
         "bing_reports": {},
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250910": "ddgs_kxmlbgame-25sep09chcatl_20250910"
+        },
         "event_ticker": "KXMLBGAME-25SEP09CHCATL",
         "series_ticker": "KXMLBGAME",
         "title": "Chicago C at Atlanta",
@@ -35733,7 +35739,9 @@
     },
     {
         "bing_reports": {},
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250910": "ddgs_kxmlbgame-25sep09detnyy_20250910"
+        },
         "event_ticker": "KXMLBGAME-25SEP09DETNYY",
         "series_ticker": "KXMLBGAME",
         "title": "Detroit at New York Y",
@@ -35748,7 +35756,9 @@
     },
     {
         "bing_reports": {},
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250910": "ddgs_kxmlbgame-25sep09nymphi_20250910"
+        },
         "event_ticker": "KXMLBGAME-25SEP09NYMPHI",
         "series_ticker": "KXMLBGAME",
         "title": "New York M at Philadelphia",
@@ -35763,7 +35773,9 @@
     },
     {
         "bing_reports": {},
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250910": "ddgs_kxmlbgame-25sep09wshmia_20250910"
+        },
         "event_ticker": "KXMLBGAME-25SEP09WSHMIA",
         "series_ticker": "KXMLBGAME",
         "title": "Washington at Miami",
@@ -35778,7 +35790,9 @@
     },
     {
         "bing_reports": {},
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250910": "ddgs_kxmlbgame-25sep09kccle_20250910"
+        },
         "event_ticker": "KXMLBGAME-25SEP09KCCLE",
         "series_ticker": "KXMLBGAME",
         "title": "Kansas City at Cleveland",
@@ -35793,7 +35807,9 @@
     },
     {
         "bing_reports": {},
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250910": "ddgs_kxmlbgame-25sep09pitbal_20250910"
+        },
         "event_ticker": "KXMLBGAME-25SEP09PITBAL",
         "series_ticker": "KXMLBGAME",
         "title": "Pittsburgh at Baltimore",
@@ -35808,11 +35824,552 @@
     },
     {
         "bing_reports": {},
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250910": "ddgs_kxwtamatch-25sep09hadton_20250910"
+        },
         "event_ticker": "KXWTAMATCH-25SEP09HADTON",
         "series_ticker": "KXWTAMATCH",
         "title": "Haddad Maia vs Tona",
         "sub_title": "Haddad Maia vs Tona",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "2025-09-10",
+        "latest_close_time": "2025-09-10",
+        "earliest_open_time": "2025-09-09",
+        "is_resolved": true,
+        "has_resolved": true
+    },
+    {
+        "event_ticker": "KXDCMINWAGE-25",
+        "series_ticker": "KXDCMINWAGE",
+        "title": "Will DC repeal its new minimum wage law?",
+        "sub_title": "In 2025",
+        "mutually_exclusive": false,
+        "category": "Health",
+        "bing_reports": {
+            "2025-07-15": "bing_kxdcminwage-25_2025-07-15",
+            "2025-08-02": "bing_kxdcminwage-25_2025-08-02",
+            "2025-08-03": "bing_kxdcminwage-25_2025-08-03",
+            "2025-08-10": "bing_kxdcminwage-25_2025-08-10",
+            "2025-08-11": "bing_kxdcminwage-25_2025-08-11"
+        },
+        "is_resolved": true,
+        "ddgs_reports": {
+            "20250902": "ddgs_kxdcminwage-25_20250902",
+            "20250903": "ddgs_kxdcminwage-25_20250903",
+            "20250904": "ddgs_kxdcminwage-25_20250904",
+            "20250905": "ddgs_kxdcminwage-25_20250905",
+            "20250906": "ddgs_kxdcminwage-25_20250906",
+            "20250907": "ddgs_kxdcminwage-25_20250907",
+            "20250908": "ddgs_kxdcminwage-25_20250908",
+            "20250909": "ddgs_kxdcminwage-25_20250909",
+            "20250910": "ddgs_kxdcminwage-25_20250910"
+        },
+        "resolution_date": "2025-09-10",
+        "latest_close_time": "2025-09-10",
+        "earliest_open_time": "2025-06-04",
+        "has_resolved": true
+    },
+    {
+        "event_ticker": "HOUSEVA11S-25",
+        "series_ticker": "HOUSEVA11S",
+        "title": "Which party will win the House race for VA-11?",
+        "sub_title": "In 2025",
+        "mutually_exclusive": true,
+        "category": "Politics",
+        "bing_reports": {
+            "2025-07-29": "bing_houseva11s-25_2025-07-29"
+        },
+        "is_resolved": true,
+        "ddgs_reports": {
+            "20250830": "ddgs_houseva11s-25_20250830",
+            "20250902": "ddgs_houseva11s-25_20250902",
+            "20250903": "ddgs_houseva11s-25_20250903",
+            "20250904": "ddgs_houseva11s-25_20250904",
+            "20250905": "ddgs_houseva11s-25_20250905",
+            "20250906": "ddgs_houseva11s-25_20250906",
+            "20250907": "ddgs_houseva11s-25_20250907",
+            "20250908": "ddgs_houseva11s-25_20250908",
+            "20250909": "ddgs_houseva11s-25_20250909",
+            "20250910": "ddgs_houseva11s-25_20250910"
+        },
+        "resolution_date": "2025-09-10",
+        "latest_close_time": "2025-09-10",
+        "earliest_open_time": "2025-07-17",
+        "has_resolved": true
+    },
+    {
+        "event_ticker": "KXAAPLPRICE17OVER16-25",
+        "series_ticker": "KXAAPLPRICE17OVER16",
+        "title": "Will the iPhone 17 cost more than iPhone 16?",
+        "sub_title": "In 2025",
+        "mutually_exclusive": false,
+        "category": "Science and Technology",
+        "bing_reports": {
+            "2025-08-09": "bing_kxaaplprice17over16-25_2025-08-09"
+        },
+        "is_resolved": true,
+        "ddgs_reports": {
+            "20250830": "ddgs_kxaaplprice17over16-25_20250830",
+            "20250902": "ddgs_kxaaplprice17over16-25_20250902",
+            "20250903": "ddgs_kxaaplprice17over16-25_20250903",
+            "20250904": "ddgs_kxaaplprice17over16-25_20250904",
+            "20250905": "ddgs_kxaaplprice17over16-25_20250905",
+            "20250906": "ddgs_kxaaplprice17over16-25_20250906",
+            "20250907": "ddgs_kxaaplprice17over16-25_20250907",
+            "20250908": "ddgs_kxaaplprice17over16-25_20250908",
+            "20250909": "ddgs_kxaaplprice17over16-25_20250909",
+            "20250910": "ddgs_kxaaplprice17over16-25_20250910"
+        },
+        "resolution_date": "2025-09-10",
+        "latest_close_time": "2025-09-10",
+        "earliest_open_time": "2025-07-23",
+        "has_resolved": true
+    },
+    {
+        "event_ticker": "KXGUYANAPRES-25",
+        "series_ticker": "KXGUYANAPRES",
+        "title": "Who will win the Guyana Presidential Election?",
+        "sub_title": "In 2025",
+        "mutually_exclusive": true,
+        "category": "Elections",
+        "bing_reports": {
+            "2025-08-10": "bing_kxguyanapres-25_2025-08-10",
+            "2025-08-11": "bing_kxguyanapres-25_2025-08-11"
+        },
+        "is_resolved": true,
+        "ddgs_reports": {
+            "20250830": "ddgs_kxguyanapres-25_20250830",
+            "20250902": "ddgs_kxguyanapres-25_20250902",
+            "20250903": "ddgs_kxguyanapres-25_20250903",
+            "20250904": "ddgs_kxguyanapres-25_20250904",
+            "20250905": "ddgs_kxguyanapres-25_20250905",
+            "20250906": "ddgs_kxguyanapres-25_20250906",
+            "20250907": "ddgs_kxguyanapres-25_20250907",
+            "20250908": "ddgs_kxguyanapres-25_20250908",
+            "20250909": "ddgs_kxguyanapres-25_20250909",
+            "20250910": "ddgs_kxguyanapres-25_20250910"
+        },
+        "resolution_date": "2025-09-10",
+        "latest_close_time": "2025-09-10",
+        "earliest_open_time": "2025-07-25",
+        "has_resolved": true
+    },
+    {
+        "bing_reports": {},
+        "event_ticker": "KXTAIWANREF-26",
+        "series_ticker": "KXTAIWANREF",
+        "title": "Will the Taiwanese referendum on the Maanshan Nuclear Power Plant pass?",
+        "sub_title": "In 2026",
+        "mutually_exclusive": false,
+        "category": "Elections",
+        "ddgs_reports": {
+            "20250830": "ddgs_kxtaiwanref-26_20250830",
+            "20250831": "ddgs_kxtaiwanref-26_20250831",
+            "20250902": "ddgs_kxtaiwanref-26_20250902",
+            "20250903": "ddgs_kxtaiwanref-26_20250903",
+            "20250904": "ddgs_kxtaiwanref-26_20250904",
+            "20250905": "ddgs_kxtaiwanref-26_20250905",
+            "20250906": "ddgs_kxtaiwanref-26_20250906",
+            "20250907": "ddgs_kxtaiwanref-26_20250907",
+            "20250908": "ddgs_kxtaiwanref-26_20250908",
+            "20250909": "ddgs_kxtaiwanref-26_20250909",
+            "20250910": "ddgs_kxtaiwanref-26_20250910"
+        },
+        "resolution_date": "2025-09-10",
+        "latest_close_time": "2025-09-10",
+        "earliest_open_time": "2025-08-15",
+        "is_resolved": true,
+        "has_resolved": true
+    },
+    {
+        "bing_reports": {},
+        "event_ticker": "KXRELEASEIPHONE-25",
+        "series_ticker": "KXRELEASEIPHONE",
+        "title": "Will Apple release the iPhone 17 before Sep 10, 2025?",
+        "sub_title": "Before September 10, 2025",
+        "mutually_exclusive": false,
+        "category": "Companies",
+        "ddgs_reports": {
+            "20250830": "ddgs_kxreleaseiphone-25_20250830",
+            "20250902": "ddgs_kxreleaseiphone-25_20250902",
+            "20250903": "ddgs_kxreleaseiphone-25_20250903",
+            "20250904": "ddgs_kxreleaseiphone-25_20250904",
+            "20250906": "ddgs_kxreleaseiphone-25_20250906",
+            "20250907": "ddgs_kxreleaseiphone-25_20250907",
+            "20250908": "ddgs_kxreleaseiphone-25_20250908",
+            "20250909": "ddgs_kxreleaseiphone-25_20250909",
+            "20250910": "ddgs_kxreleaseiphone-25_20250910"
+        },
+        "resolution_date": "2025-09-10",
+        "latest_close_time": "2025-09-10",
+        "earliest_open_time": "2025-08-13",
+        "is_resolved": true,
+        "has_resolved": true
+    },
+    {
+        "bing_reports": {},
+        "event_ticker": "KXWIKIMEDIA-25SEP11",
+        "series_ticker": "KXWIKIMEDIA",
+        "title": "Will the Wikimedia Foundation divulge user data to the House Oversight Committee?",
+        "sub_title": "Before Sep 11, 2025",
+        "mutually_exclusive": false,
+        "category": "Companies",
+        "ddgs_reports": {
+            "20250902": "ddgs_kxwikimedia-25sep11_20250902",
+            "20250903": "ddgs_kxwikimedia-25sep11_20250903",
+            "20250904": "ddgs_kxwikimedia-25sep11_20250904",
+            "20250906": "ddgs_kxwikimedia-25sep11_20250906",
+            "20250907": "ddgs_kxwikimedia-25sep11_20250907",
+            "20250908": "ddgs_kxwikimedia-25sep11_20250908",
+            "20250909": "ddgs_kxwikimedia-25sep11_20250909",
+            "20250910": "ddgs_kxwikimedia-25sep11_20250910"
+        },
+        "resolution_date": "2025-09-10",
+        "latest_close_time": "2025-09-10",
+        "earliest_open_time": "2025-08-29",
+        "is_resolved": true,
+        "has_resolved": false
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250909": "ddgs_kxboxing-25sep13malajorn_20250909",
+            "20250910": "ddgs_kxboxing-25sep13malajorn_20250910"
+        },
+        "event_ticker": "KXBOXING-25SEP13MALAJORN",
+        "series_ticker": "KXBOXING",
+        "title": "Boxing: Mohammed Alakel vs. John Ornelas",
+        "sub_title": "Boxing: Mohammed Alakel vs. John Ornelas (Sep 13)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "2025-09-28",
+        "latest_close_time": "2025-09-28",
+        "earliest_open_time": "2025-09-08",
+        "is_resolved": true,
+        "has_resolved": false
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250909": "ddgs_kxrainnyc-25sep09_20250909",
+            "20250910": "ddgs_kxrainnyc-25sep09_20250910"
+        },
+        "event_ticker": "KXRAINNYC-25SEP09",
+        "series_ticker": "KXRAINNYC",
+        "title": "Will it rain in NYC on Sep 9, 2025?",
+        "sub_title": "On Sep 9, 2025",
+        "mutually_exclusive": false,
+        "category": "Climate and Weather",
+        "resolution_date": "2025-09-10",
+        "latest_close_time": "2025-09-10",
+        "earliest_open_time": "2025-09-08",
+        "is_resolved": true,
+        "has_resolved": true
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250909": "ddgs_kxapprankfree-25sep10_20250909",
+            "20250910": "ddgs_kxapprankfree-25sep10_20250910"
+        },
+        "event_ticker": "KXAPPRANKFREE-25SEP10",
+        "series_ticker": "KXAPPRANKFREE",
+        "title": "Top US iPhone app on Sep 10, 2025?",
+        "sub_title": "On Sep 10, 2025 at 10 AM ET",
+        "mutually_exclusive": true,
+        "category": "Entertainment",
+        "resolution_date": "2025-09-10",
+        "latest_close_time": "2025-09-10",
+        "earliest_open_time": "2025-09-08",
+        "is_resolved": true,
+        "has_resolved": true
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250909": "ddgs_kxapprankfree2-25sep10_20250909",
+            "20250910": "ddgs_kxapprankfree2-25sep10_20250910"
+        },
+        "event_ticker": "KXAPPRANKFREE2-25SEP10",
+        "series_ticker": "KXAPPRANKFREE2",
+        "title": "Runner-up US iPhone app on Sep 10, 2025?",
+        "sub_title": "On Sep 10, 2025 at 10 AM ET",
+        "mutually_exclusive": true,
+        "category": "Entertainment",
+        "resolution_date": "2025-09-10",
+        "latest_close_time": "2025-09-10",
+        "earliest_open_time": "2025-09-08",
+        "is_resolved": true,
+        "has_resolved": true
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250909": "ddgs_kxwnbagame-25sep09laphx_20250909",
+            "20250910": "ddgs_kxwnbagame-25sep09laphx_20250910"
+        },
+        "event_ticker": "KXWNBAGAME-25SEP09LAPHX",
+        "series_ticker": "KXWNBAGAME",
+        "title": "LA at PHX",
+        "sub_title": "LA at PHX (Sep 9)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "2025-09-10",
+        "latest_close_time": "2025-09-10",
+        "earliest_open_time": "2025-09-08",
+        "is_resolved": true,
+        "has_resolved": true
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250909": "ddgs_kxwnbagame-25sep09gssea_20250909",
+            "20250910": "ddgs_kxwnbagame-25sep09gssea_20250910"
+        },
+        "event_ticker": "KXWNBAGAME-25SEP09GSSEA",
+        "series_ticker": "KXWNBAGAME",
+        "title": "GS at SEA",
+        "sub_title": "GS at SEA (Sep 9)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "2025-09-10",
+        "latest_close_time": "2025-09-10",
+        "earliest_open_time": "2025-09-08",
+        "is_resolved": true,
+        "has_resolved": true
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250909": "ddgs_kxwnbagame-25sep09chilv_20250909",
+            "20250910": "ddgs_kxwnbagame-25sep09chilv_20250910"
+        },
+        "event_ticker": "KXWNBAGAME-25SEP09CHILV",
+        "series_ticker": "KXWNBAGAME",
+        "title": "CHI at LV",
+        "sub_title": "CHI at LV (Sep 9)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "2025-09-10",
+        "latest_close_time": "2025-09-10",
+        "earliest_open_time": "2025-09-08",
+        "is_resolved": true,
+        "has_resolved": true
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250910": "ddgs_kxwnbagame-25sep10atlconn_20250910"
+        },
+        "event_ticker": "KXWNBAGAME-25SEP10ATLCONN",
+        "series_ticker": "KXWNBAGAME",
+        "title": "ATL at CONN",
+        "sub_title": "ATL at CONN (Sep 10)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "2025-09-11",
+        "latest_close_time": "2025-09-11",
+        "earliest_open_time": "2025-09-09",
+        "is_resolved": true,
+        "has_resolved": true
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250910": "ddgs_kxmlbgame-25sep09collad_20250910"
+        },
+        "event_ticker": "KXMLBGAME-25SEP09COLLAD",
+        "series_ticker": "KXMLBGAME",
+        "title": "Colorado at Los Angeles D",
+        "sub_title": "COL at LAD (Sep 9)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "2025-09-10",
+        "latest_close_time": "2025-09-10",
+        "earliest_open_time": "2025-09-09",
+        "is_resolved": true,
+        "has_resolved": true
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250910": "ddgs_kxmlbgame-25sep09bosath_20250910"
+        },
+        "event_ticker": "KXMLBGAME-25SEP09BOSATH",
+        "series_ticker": "KXMLBGAME",
+        "title": "Boston at A's",
+        "sub_title": "BOS at ATH (Sep 9)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "2025-09-10",
+        "latest_close_time": "2025-09-10",
+        "earliest_open_time": "2025-09-09",
+        "is_resolved": true,
+        "has_resolved": true
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250910": "ddgs_kxmlbgame-25sep09azsf_20250910"
+        },
+        "event_ticker": "KXMLBGAME-25SEP09AZSF",
+        "series_ticker": "KXMLBGAME",
+        "title": "Arizona at San Francisco",
+        "sub_title": "AZ at SF (Sep 9)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "2025-09-10",
+        "latest_close_time": "2025-09-10",
+        "earliest_open_time": "2025-09-09",
+        "is_resolved": true,
+        "has_resolved": true
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250910": "ddgs_kxmlbgame-25sep09stlsea_20250910"
+        },
+        "event_ticker": "KXMLBGAME-25SEP09STLSEA",
+        "series_ticker": "KXMLBGAME",
+        "title": "St. Louis at Seattle",
+        "sub_title": "STL at SEA (Sep 9)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "2025-09-10",
+        "latest_close_time": "2025-09-10",
+        "earliest_open_time": "2025-09-09",
+        "is_resolved": true,
+        "has_resolved": true
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250910": "ddgs_kxmlbgame-25sep09cinsd_20250910"
+        },
+        "event_ticker": "KXMLBGAME-25SEP09CINSD",
+        "series_ticker": "KXMLBGAME",
+        "title": "Cincinnati at San Diego",
+        "sub_title": "CIN at SD (Sep 9)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "2025-09-10",
+        "latest_close_time": "2025-09-10",
+        "earliest_open_time": "2025-09-09",
+        "is_resolved": true,
+        "has_resolved": true
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250910": "ddgs_kxmlbgame-25sep09minlaa_20250910"
+        },
+        "event_ticker": "KXMLBGAME-25SEP09MINLAA",
+        "series_ticker": "KXMLBGAME",
+        "title": "Minnesota at Los Angeles A",
+        "sub_title": "MIN at LAA (Sep 9)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "2025-09-10",
+        "latest_close_time": "2025-09-10",
+        "earliest_open_time": "2025-09-09",
+        "is_resolved": true,
+        "has_resolved": true
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250910": "ddgs_kxwtamatch-25sep09steste2_20250910"
+        },
+        "event_ticker": "KXWTAMATCH-25SEP09STESTE2",
+        "series_ticker": "KXWTAMATCH",
+        "title": "Stephens vs Stefanini",
+        "sub_title": "Stephens vs Stefanini",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "2025-09-10",
+        "latest_close_time": "2025-09-10",
+        "earliest_open_time": "2025-09-09",
+        "is_resolved": true,
+        "has_resolved": true
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250910": "ddgs_kxmlbgame-25sep09miltex_20250910"
+        },
+        "event_ticker": "KXMLBGAME-25SEP09MILTEX",
+        "series_ticker": "KXMLBGAME",
+        "title": "Milwaukee at Texas",
+        "sub_title": "MIL at TEX (Sep 9)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "2025-09-10",
+        "latest_close_time": "2025-09-10",
+        "earliest_open_time": "2025-09-09",
+        "is_resolved": true,
+        "has_resolved": true
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250910": "ddgs_kxwtamatch-25sep09osorak_20250910"
+        },
+        "event_ticker": "KXWTAMATCH-25SEP09OSORAK",
+        "series_ticker": "KXWTAMATCH",
+        "title": "Osorio vs Rakhimova",
+        "sub_title": "Osorio vs Rakhimova",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "2025-09-10",
+        "latest_close_time": "2025-09-10",
+        "earliest_open_time": "2025-09-09",
+        "is_resolved": true,
+        "has_resolved": true
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250910": "ddgs_kxmlbgame-25sep09tbcws_20250910"
+        },
+        "event_ticker": "KXMLBGAME-25SEP09TBCWS",
+        "series_ticker": "KXMLBGAME",
+        "title": "Tampa Bay at Chicago WS",
+        "sub_title": "TB at CWS (Sep 9)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "2025-09-10",
+        "latest_close_time": "2025-09-10",
+        "earliest_open_time": "2025-09-09",
+        "is_resolved": true,
+        "has_resolved": true
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250910": "ddgs_kxmlbgame-25sep09houtor_20250910"
+        },
+        "event_ticker": "KXMLBGAME-25SEP09HOUTOR",
+        "series_ticker": "KXMLBGAME",
+        "title": "Houston at Toronto",
+        "sub_title": "HOU at TOR (Sep 9)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "2025-09-10",
+        "latest_close_time": "2025-09-10",
+        "earliest_open_time": "2025-09-09",
+        "is_resolved": true,
+        "has_resolved": true
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250910": "ddgs_kxwtamatch-25sep09hunsin_20250910"
+        },
+        "event_ticker": "KXWTAMATCH-25SEP09HUNSIN",
+        "series_ticker": "KXWTAMATCH",
+        "title": "Hunter vs Siniakova",
+        "sub_title": "Hunter vs Siniakova",
         "mutually_exclusive": true,
         "category": "Sports",
         "resolution_date": "2025-09-10",
