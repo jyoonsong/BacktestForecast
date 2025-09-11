@@ -25,6 +25,7 @@ import os
 from pymongo import MongoClient
 import datetime as dt
 from typing import List, Dict, Any
+import json
 
 import aiohttp
 import asyncio
@@ -64,17 +65,26 @@ def utc_stamp():
     return dt.datetime.utcnow().strftime("%Y%m%d")
 
 
-def write_to_db(report, timestamp, event_ticker):
+def write_to_db(report, contents, timestamp, event_ticker):
     """
     Persist a single research report for (timestamp, event_ticker).
     Overwrites are not handled; caller ensures uniqueness before insert.
     """
     collection = db["reports"]
 
+    filtered_urls = [
+        {
+            "title": content.get("title", ""),
+            "body": content.get("body", ""),
+            "href": content.get("href", ""),
+        }
+        for content in contents
+    ]
     data = {}
     data["timestamp"] = timestamp
     data["event_ticker"] = event_ticker
     data["ddgs_report"] = report
+    data["ddgs_urls"] = json.dumps(filtered_urls)
     
     result = collection.insert_one(data)
     print(f"Inserted document with _id: {result.inserted_id}")
@@ -298,7 +308,7 @@ async def process_query(search_query, event, market_descriptions, num_urls=5):
     results  = await step2_search_ddgs(search_query, num_urls)
     contents = await step3_scrape_urls(results, num_urls)
     summary = await step4_summarization(contents, event, market_descriptions)
-    return summary
+    return summary, contents
 
 
 # --- per-ticker pipeline with fan-out across queries ---
@@ -315,13 +325,17 @@ async def get_ddgs_report(index, event):
 
     # run step 2->3->4 for many queries in parallel (bounded by semaphores inside)
     per_query_tasks = [asyncio.create_task(process_query(q, event, market_descriptions, num_urls=5)) for q in queries]
-    summaries = await asyncio.gather(*per_query_tasks, return_exceptions=False)
+    results = await asyncio.gather(*per_query_tasks, return_exceptions=False)
+
+    # Separate summaries and contents
+    summaries, all_contents = zip(*results)  # Each result is a (summary, contents) tuple
+
 
     # combine summaries (your step 5)
     reports = "\n\n".join(f"# Research Report {i+1}:\n{summary}" for i, summary in enumerate(summaries)).strip()
 
     print(f"Completed report generation for event {index}: {event['event_ticker']}")
-    return reports
+    return reports, all_contents
 
 
 def fetch_current_events():
@@ -362,8 +376,8 @@ async def main():
     async def guarded_process(index, event):
         # Per-event concurrency guard so we don't overload downstream services.
         async with SEM_TICKERS:
-            ddgs_report = await get_ddgs_report(index, event)
-            write_to_db(ddgs_report, timestamp, event["event_ticker"])
+            ddgs_report, all_contents = await get_ddgs_report(index, event)
+            write_to_db(ddgs_report, all_contents, timestamp, event["event_ticker"])
 
     tasks = []
     for index, event_ticker in enumerate(event_tickers):
