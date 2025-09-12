@@ -321,23 +321,32 @@ async def get_ddgs_report(index, event):
       - Fan out processing (steps 2-4) across queries concurrently.
       - Join summaries into a single research report string.
     """
-    print(f"Generating report for event {index}: {event['event_ticker']}")
-    market_descriptions = get_market_descriptions(event, event['markets'])
-    queries = await step1_generate_queries(event, market_descriptions)
+    MAX_RETRIES = 5  # max URLs to fetch per query
+    trials = 0
+    while trials < MAX_RETRIES:
+        try:
+            print(f"Generating report for event {index}: {event['event_ticker']}")
+            market_descriptions = get_market_descriptions(event, event['markets'])
+            queries = await step1_generate_queries(event, market_descriptions)
 
-    # run step 2->3->4 for many queries in parallel (bounded by semaphores inside)
-    per_query_tasks = [asyncio.create_task(process_query(q, event, market_descriptions, num_urls=5)) for q in queries]
-    results = await asyncio.gather(*per_query_tasks, return_exceptions=False)
+            # run step 2->3->4 for many queries in parallel (bounded by semaphores inside)
+            per_query_tasks = [asyncio.create_task(process_query(q, event, market_descriptions, num_urls=5)) for q in queries]
+            results = await asyncio.gather(*per_query_tasks, return_exceptions=False)
 
-    # Separate summaries and contents
-    summaries, all_contents = zip(*results)  # Each result is a (summary, contents) tuple
+            # Separate summaries and contents
+            summaries, all_contents = zip(*results)  # Each result is a (summary, contents) tuple
 
 
-    # combine summaries (your step 5)
-    reports = "\n\n".join(f"# Research Report {i+1}:\n{summary}" for i, summary in enumerate(summaries)).strip()
+            # combine summaries (your step 5)
+            reports = "\n\n".join(f"# Research Report {i+1}:\n{summary}" for i, summary in enumerate(summaries)).strip()
 
-    print(f"Completed report generation for event {index}: {event['event_ticker']}")
-    return reports, all_contents
+            print(f"Completed report generation for event {index}: {event['event_ticker']}")
+            return reports, all_contents
+        except Exception as e:
+            trials += 1
+            print(f"Error processing event, retrying... ({trials}/{MAX_RETRIES}): {e}")
+            continue
+
 
 
 def fetch_current_events():
