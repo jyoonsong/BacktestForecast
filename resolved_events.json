@@ -36400,7 +36400,8 @@
             "20250908": "ddgs_kxecb-25sep11_20250908",
             "20250909": "ddgs_kxecb-25sep11_20250909",
             "20250910": "ddgs_kxecb-25sep11_20250910",
-            "20250911": "ddgs_kxecb-25sep11_20250911"
+            "20250911": "ddgs_kxecb-25sep11_20250911",
+            "20250912": "ddgs_kxecb-25sep11_20250912"
         },
         "resolution_date": "2025-09-11",
         "latest_close_time": "2025-09-11",
@@ -36433,7 +36434,8 @@
             "20250908": "ddgs_kxeggs-aug_20250908",
             "20250909": "ddgs_kxeggs-aug_20250909",
             "20250910": "ddgs_kxeggs-aug_20250910",
-            "20250911": "ddgs_kxeggs-aug_20250911"
+            "20250911": "ddgs_kxeggs-aug_20250911",
+            "20250912": "ddgs_kxeggs-aug_20250912"
         },
         "resolution_date": "2025-09-11",
         "latest_close_time": "2025-09-11",
@@ -36465,7 +36467,8 @@
             "20250908": "ddgs_kxcpicore-25aug_20250908",
             "20250909": "ddgs_kxcpicore-25aug_20250909",
             "20250910": "ddgs_kxcpicore-25aug_20250910",
-            "20250911": "ddgs_kxcpicore-25aug_20250911"
+            "20250911": "ddgs_kxcpicore-25aug_20250911",
+            "20250912": "ddgs_kxcpicore-25aug_20250912"
         },
         "resolution_date": "2025-09-11",
         "latest_close_time": "2025-09-11",
@@ -36491,7 +36494,8 @@
             "20250908": "ddgs_kxboliviarunoff-25_20250908",
             "20250909": "ddgs_kxboliviarunoff-25_20250909",
             "20250910": "ddgs_kxboliviarunoff-25_20250910",
-            "20250911": "ddgs_kxboliviarunoff-25_20250911"
+            "20250911": "ddgs_kxboliviarunoff-25_20250911",
+            "20250912": "ddgs_kxboliviarunoff-25_20250912"
         },
         "resolution_date": "2025-09-11",
         "latest_close_time": "2025-09-11",
@@ -36516,7 +36520,8 @@
             "20250908": "ddgs_kxfdvwlfi-27jan01_20250908",
             "20250909": "ddgs_kxfdvwlfi-27jan01_20250909",
             "20250910": "ddgs_kxfdvwlfi-27jan01_20250910",
-            "20250911": "ddgs_kxfdvwlfi-27jan01_20250911"
+            "20250911": "ddgs_kxfdvwlfi-27jan01_20250911",
+            "20250912": "ddgs_kxfdvwlfi-27jan01_20250912"
         },
         "resolution_date": "2025-09-11",
         "latest_close_time": "2025-09-11",
@@ -36541,7 +36546,8 @@
             "20250908": "ddgs_kxtokenlaunchunit-26jan01_20250908",
             "20250909": "ddgs_kxtokenlaunchunit-26jan01_20250909",
             "20250910": "ddgs_kxtokenlaunchunit-26jan01_20250910",
-            "20250911": "ddgs_kxtokenlaunchunit-26jan01_20250911"
+            "20250911": "ddgs_kxtokenlaunchunit-26jan01_20250911",
+            "20250912": "ddgs_kxtokenlaunchunit-26jan01_20250912"
         },
         "resolution_date": "2026-01-01",
         "latest_close_time": "2026-01-01",
@@ -36555,7 +36561,8 @@
             "20250907": "ddgs_kxcompanyboardopendoor-26_20250907",
             "20250908": "ddgs_kxcompanyboardopendoor-26_20250908",
             "20250909": "ddgs_kxcompanyboardopendoor-26_20250909",
-            "20250910": "ddgs_kxcompanyboardopendoor-26_20250910"
+            "20250910": "ddgs_kxcompanyboardopendoor-26_20250910",
+            "20250912": "ddgs_kxcompanyboardopendoor-26_20250912"
         },
         "event_ticker": "KXCOMPANYBOARDOPENDOOR-26",
         "series_ticker": "KXCOMPANYBOARDOPENDOOR",
@@ -36572,7 +36579,8 @@
     {
         "bing_reports": {},
         "ddgs_reports": {
-            "20250910": "ddgs_kxrainnyc-25sep10_20250910"
+            "20250910": "ddgs_kxrainnyc-25sep10_20250910",
+            "20250912": "ddgs_kxrainnyc-25sep10_20250912"
         },
         "event_ticker": "KXRAINNYC-25SEP10",
         "series_ticker": "KXRAINNYC",
@@ -36589,7 +36597,8 @@
     {
         "bing_reports": {},
         "ddgs_reports": {
-            "20250910": "ddgs_kxapprankfree-25sep11_20250910"
+            "20250910": "ddgs_kxapprankfree-25sep11_20250910",
+            "20250912": "ddgs_kxapprankfree-25sep11_20250912"
         },
         "event_ticker": "KXAPPRANKFREE-25SEP11",
         "series_ticker": "KXAPPRANKFREE",
@@ -36606,7 +36615,8 @@
     {
         "bing_reports": {},
         "ddgs_reports": {
-            "20250910": "ddgs_kxapprankfree2-25sep11_20250910"
+            "20250910": "ddgs_kxapprankfree2-25sep11_20250910",
+            "20250912": "ddgs_kxapprankfree2-25sep11_20250912"
         },
         "event_ticker": "KXAPPRANKFREE2-25SEP11",
         "series_ticker": "KXAPPRANKFREE2",
@@ -36623,7 +36633,8 @@
     {
         "bing_reports": {},
         "ddgs_reports": {
-            "20250910": "ddgs_kxwtamatch-25sep09aralin_20250910"
+            "20250910": "ddgs_kxwtamatch-25sep09aralin_20250910",
+            "20250912": "ddgs_kxwtamatch-25sep09aralin_20250912"
         },
         "event_ticker": "KXWTAMATCH-25SEP09ARALIN",
         "series_ticker": "KXWTAMATCH",
@@ -36639,7 +36650,9 @@
     },
     {
         "bing_reports": {},
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250912": "ddgs_kxwnbagame-25sep11phxdal_20250912"
+        },
         "event_ticker": "KXWNBAGAME-25SEP11PHXDAL",
         "series_ticker": "KXWNBAGAME",
         "title": "PHX at DAL",
@@ -36654,7 +36667,9 @@
     },
     {
         "bing_reports": {},
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250912": "ddgs_kxwnbagame-25sep11nychi_20250912"
+        },
         "event_ticker": "KXWNBAGAME-25SEP11NYCHI",
         "series_ticker": "KXWNBAGAME",
         "title": "NY at CHI",
@@ -36669,7 +36684,9 @@
     },
     {
         "bing_reports": {},
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250912": "ddgs_kxwnbagame-25sep11gsmin_20250912"
+        },
         "event_ticker": "KXWNBAGAME-25SEP11GSMIN",
         "series_ticker": "KXWNBAGAME",
         "title": "GS at MIN",
@@ -36684,7 +36701,9 @@
     },
     {
         "bing_reports": {},
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250912": "ddgs_kxmlbgame-25sep10collad_20250912"
+        },
         "event_ticker": "KXMLBGAME-25SEP10COLLAD",
         "series_ticker": "KXMLBGAME",
         "title": "Colorado at Los Angeles D",
@@ -36699,7 +36718,9 @@
     },
     {
         "bing_reports": {},
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250912": "ddgs_kxmlbgame-25sep10stlsea_20250912"
+        },
         "event_ticker": "KXMLBGAME-25SEP10STLSEA",
         "series_ticker": "KXMLBGAME",
         "title": "St. Louis at Seattle",
@@ -36714,7 +36735,9 @@
     },
     {
         "bing_reports": {},
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250912": "ddgs_kxwtamatch-25sep10jimkud_20250912"
+        },
         "event_ticker": "KXWTAMATCH-25SEP10JIMKUD",
         "series_ticker": "KXWTAMATCH",
         "title": "Jimenez Kasintseva vs Kudermetova",
@@ -36729,7 +36752,9 @@
     },
     {
         "bing_reports": {},
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250912": "ddgs_kxmlbgame-25sep10cinsd_20250912"
+        },
         "event_ticker": "KXMLBGAME-25SEP10CINSD",
         "series_ticker": "KXMLBGAME",
         "title": "Cincinnati at San Diego",
@@ -36744,7 +36769,9 @@
     },
     {
         "bing_reports": {},
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250912": "ddgs_kxwtamatch-25sep10merjac_20250912"
+        },
         "event_ticker": "KXWTAMATCH-25SEP10MERJAC",
         "series_ticker": "KXWTAMATCH",
         "title": "Mertens vs Jacquemot",
@@ -36759,7 +36786,9 @@
     },
     {
         "bing_reports": {},
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250912": "ddgs_kxmlbgame-25sep10tbcws_20250912"
+        },
         "event_ticker": "KXMLBGAME-25SEP10TBCWS",
         "series_ticker": "KXMLBGAME",
         "title": "Tampa Bay at Chicago WS",
@@ -36774,7 +36803,9 @@
     },
     {
         "bing_reports": {},
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250912": "ddgs_kxmlbgame-25sep10detnyy_20250912"
+        },
         "event_ticker": "KXMLBGAME-25SEP10DETNYY",
         "series_ticker": "KXMLBGAME",
         "title": "Detroit at New York Y",
@@ -36789,7 +36820,9 @@
     },
     {
         "bing_reports": {},
-        "ddgs_reports": {},
+        "ddgs_reports": {
+            "20250912": "ddgs_kxwtamatch-25sep10hunara_20250912"
+        },
         "event_ticker": "KXWTAMATCH-25SEP10HUNARA",
         "series_ticker": "KXWTAMATCH",
         "title": "Hunter vs Arango",
@@ -36799,6 +36832,338 @@
         "resolution_date": "2025-09-11",
         "latest_close_time": "2025-09-11",
         "earliest_open_time": "2025-09-10",
+        "is_resolved": true,
+        "has_resolved": true
+    },
+    {
+        "bing_reports": {},
+        "event_ticker": "KXRESTORELOCAL-25OCT",
+        "series_ticker": "KXRESTORELOCAL",
+        "title": "Will Trump restore local control of DC police before October?",
+        "sub_title": "Before Oct 2025",
+        "mutually_exclusive": false,
+        "category": "Politics",
+        "ddgs_reports": {
+            "20250830": "ddgs_kxrestorelocal-25oct_20250830",
+            "20250902": "ddgs_kxrestorelocal-25oct_20250902",
+            "20250903": "ddgs_kxrestorelocal-25oct_20250903",
+            "20250904": "ddgs_kxrestorelocal-25oct_20250904",
+            "20250906": "ddgs_kxrestorelocal-25oct_20250906",
+            "20250907": "ddgs_kxrestorelocal-25oct_20250907",
+            "20250908": "ddgs_kxrestorelocal-25oct_20250908",
+            "20250909": "ddgs_kxrestorelocal-25oct_20250909",
+            "20250910": "ddgs_kxrestorelocal-25oct_20250910",
+            "20250911": "ddgs_kxrestorelocal-25oct_20250911",
+            "20250912": "ddgs_kxrestorelocal-25oct_20250912"
+        },
+        "resolution_date": "2025-09-12",
+        "latest_close_time": "2025-09-12",
+        "earliest_open_time": "2025-08-13",
+        "is_resolved": true,
+        "has_resolved": true
+    },
+    {
+        "bing_reports": {},
+        "event_ticker": "KXNFLGAME-25SEP11WASGB",
+        "series_ticker": "KXNFLGAME",
+        "title": "Washington at Green Bay",
+        "sub_title": "WAS at GB (Sep 11)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "ddgs_reports": {
+            "20250830": "ddgs_kxnflgame-25sep11wasgb_20250830",
+            "20250902": "ddgs_kxnflgame-25sep11wasgb_20250902",
+            "20250903": "ddgs_kxnflgame-25sep11wasgb_20250903",
+            "20250904": "ddgs_kxnflgame-25sep11wasgb_20250904",
+            "20250906": "ddgs_kxnflgame-25sep11wasgb_20250906",
+            "20250907": "ddgs_kxnflgame-25sep11wasgb_20250907",
+            "20250908": "ddgs_kxnflgame-25sep11wasgb_20250908",
+            "20250909": "ddgs_kxnflgame-25sep11wasgb_20250909",
+            "20250910": "ddgs_kxnflgame-25sep11wasgb_20250910",
+            "20250911": "ddgs_kxnflgame-25sep11wasgb_20250911",
+            "20250912": "ddgs_kxnflgame-25sep11wasgb_20250912"
+        },
+        "resolution_date": "2025-09-12",
+        "latest_close_time": "2025-09-12",
+        "earliest_open_time": "2025-06-30",
+        "is_resolved": true,
+        "has_resolved": true
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250903": "ddgs_kxncaafgame-25sep12instind_20250903",
+            "20250902": "ddgs_kxncaafgame-25sep12instind_20250902",
+            "20250904": "ddgs_kxncaafgame-25sep12instind_20250904",
+            "20250906": "ddgs_kxncaafgame-25sep12instind_20250906",
+            "20250907": "ddgs_kxncaafgame-25sep12instind_20250907",
+            "20250908": "ddgs_kxncaafgame-25sep12instind_20250908",
+            "20250909": "ddgs_kxncaafgame-25sep12instind_20250909",
+            "20250910": "ddgs_kxncaafgame-25sep12instind_20250910",
+            "20250912": "ddgs_kxncaafgame-25sep12instind_20250912"
+        },
+        "event_ticker": "KXNCAAFGAME-25SEP12INSTIND",
+        "series_ticker": "KXNCAAFGAME",
+        "title": "Indiana St. at Indiana",
+        "sub_title": "INST at IND (Sep 12)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "2025-09-13",
+        "latest_close_time": "2025-09-13",
+        "earliest_open_time": "2025-09-01",
+        "is_resolved": true,
+        "has_resolved": true
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250903": "ddgs_kxncaafgame-25sep11ncstwake_20250903",
+            "20250902": "ddgs_kxncaafgame-25sep11ncstwake_20250902",
+            "20250904": "ddgs_kxncaafgame-25sep11ncstwake_20250904",
+            "20250906": "ddgs_kxncaafgame-25sep11ncstwake_20250906",
+            "20250907": "ddgs_kxncaafgame-25sep11ncstwake_20250907",
+            "20250908": "ddgs_kxncaafgame-25sep11ncstwake_20250908",
+            "20250909": "ddgs_kxncaafgame-25sep11ncstwake_20250909",
+            "20250910": "ddgs_kxncaafgame-25sep11ncstwake_20250910",
+            "20250912": "ddgs_kxncaafgame-25sep11ncstwake_20250912"
+        },
+        "event_ticker": "KXNCAAFGAME-25SEP11NCSTWAKE",
+        "series_ticker": "KXNCAAFGAME",
+        "title": "North Carolina St. at Wake Forest",
+        "sub_title": "NCST at WAKE (Sep 11)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "2025-09-12",
+        "latest_close_time": "2025-09-12",
+        "earliest_open_time": "2025-09-01",
+        "is_resolved": true,
+        "has_resolved": true
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250906": "ddgs_kxlaligagame-25sep12sevelc_20250906",
+            "20250907": "ddgs_kxlaligagame-25sep12sevelc_20250907",
+            "20250908": "ddgs_kxlaligagame-25sep12sevelc_20250908",
+            "20250909": "ddgs_kxlaligagame-25sep12sevelc_20250909",
+            "20250910": "ddgs_kxlaligagame-25sep12sevelc_20250910",
+            "20250912": "ddgs_kxlaligagame-25sep12sevelc_20250912"
+        },
+        "event_ticker": "KXLALIGAGAME-25SEP12SEVELC",
+        "series_ticker": "KXLALIGAGAME",
+        "title": "Sevilla vs Elche",
+        "sub_title": "SEV vs ELC (Sep 12)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "2025-09-12",
+        "latest_close_time": "2025-09-12",
+        "earliest_open_time": "2025-09-05",
+        "is_resolved": true,
+        "has_resolved": true
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250906": "ddgs_kxligue1game-25sep12omfcl_20250906",
+            "20250907": "ddgs_kxligue1game-25sep12omfcl_20250907",
+            "20250908": "ddgs_kxligue1game-25sep12omfcl_20250908",
+            "20250909": "ddgs_kxligue1game-25sep12omfcl_20250909",
+            "20250910": "ddgs_kxligue1game-25sep12omfcl_20250910",
+            "20250912": "ddgs_kxligue1game-25sep12omfcl_20250912"
+        },
+        "event_ticker": "KXLIGUE1GAME-25SEP12OMFCL",
+        "series_ticker": "KXLIGUE1GAME",
+        "title": "Marseille vs Lorient",
+        "sub_title": "OM vs FCL (Sep 12)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "2025-09-12",
+        "latest_close_time": "2025-09-12",
+        "earliest_open_time": "2025-09-05",
+        "is_resolved": true,
+        "has_resolved": true
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250906": "ddgs_kxbundesligagame-25sep12levsge_20250906",
+            "20250907": "ddgs_kxbundesligagame-25sep12levsge_20250907",
+            "20250908": "ddgs_kxbundesligagame-25sep12levsge_20250908",
+            "20250909": "ddgs_kxbundesligagame-25sep12levsge_20250909",
+            "20250910": "ddgs_kxbundesligagame-25sep12levsge_20250910",
+            "20250912": "ddgs_kxbundesligagame-25sep12levsge_20250912"
+        },
+        "event_ticker": "KXBUNDESLIGAGAME-25SEP12LEVSGE",
+        "series_ticker": "KXBUNDESLIGAGAME",
+        "title": "Leverkusen vs Frankfurt",
+        "sub_title": "LEV vs SGE (Sep 12)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "2025-09-12",
+        "latest_close_time": "2025-09-12",
+        "earliest_open_time": "2025-09-05",
+        "is_resolved": true,
+        "has_resolved": true
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250912": "ddgs_kxrainnyc-25sep11_20250912"
+        },
+        "event_ticker": "KXRAINNYC-25SEP11",
+        "series_ticker": "KXRAINNYC",
+        "title": "Will it rain in NYC on Sep 11, 2025?",
+        "sub_title": "On Sep 11, 2025",
+        "mutually_exclusive": false,
+        "category": "Climate and Weather",
+        "resolution_date": "2025-09-12",
+        "latest_close_time": "2025-09-12",
+        "earliest_open_time": "2025-09-10",
+        "is_resolved": true,
+        "has_resolved": true
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250912": "ddgs_kxapprankfree-25sep12_20250912"
+        },
+        "event_ticker": "KXAPPRANKFREE-25SEP12",
+        "series_ticker": "KXAPPRANKFREE",
+        "title": "Top US iPhone app on Sep 12, 2025?",
+        "sub_title": "On Sep 12, 2025 at 10 AM ET",
+        "mutually_exclusive": true,
+        "category": "Entertainment",
+        "resolution_date": "2025-09-12",
+        "latest_close_time": "2025-09-12",
+        "earliest_open_time": "2025-09-10",
+        "is_resolved": true,
+        "has_resolved": true
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250912": "ddgs_kxapprankfree2-25sep12_20250912"
+        },
+        "event_ticker": "KXAPPRANKFREE2-25SEP12",
+        "series_ticker": "KXAPPRANKFREE2",
+        "title": "Runner-up US iPhone app on Sep 12, 2025?",
+        "sub_title": "On Sep 12, 2025 at 10 AM ET",
+        "mutually_exclusive": true,
+        "category": "Entertainment",
+        "resolution_date": "2025-09-12",
+        "latest_close_time": "2025-09-12",
+        "earliest_open_time": "2025-09-10",
+        "is_resolved": true,
+        "has_resolved": true
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250912": "ddgs_kxwnbagame-25sep11lvla_20250912"
+        },
+        "event_ticker": "KXWNBAGAME-25SEP11LVLA",
+        "series_ticker": "KXWNBAGAME",
+        "title": "LV at LA",
+        "sub_title": "LV at LA (Sep 11)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "2025-09-12",
+        "latest_close_time": "2025-09-12",
+        "earliest_open_time": "2025-09-10",
+        "is_resolved": true,
+        "has_resolved": true
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250912": "ddgs_kxwtamatch-25sep10oststa_20250912"
+        },
+        "event_ticker": "KXWTAMATCH-25SEP10OSTSTA",
+        "series_ticker": "KXWTAMATCH",
+        "title": "Ostapenko vs Stakusic",
+        "sub_title": "Ostapenko vs Stakusic",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "2025-09-12",
+        "latest_close_time": "2025-09-12",
+        "earliest_open_time": "2025-09-10",
+        "is_resolved": true,
+        "has_resolved": true
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250912": "ddgs_kxwtamatch-25sep10osojov_20250912"
+        },
+        "event_ticker": "KXWTAMATCH-25SEP10OSOJOV",
+        "series_ticker": "KXWTAMATCH",
+        "title": "Osorio vs Jovic",
+        "sub_title": "Osorio vs Jovic",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "2025-09-12",
+        "latest_close_time": "2025-09-12",
+        "earliest_open_time": "2025-09-10",
+        "is_resolved": true,
+        "has_resolved": true
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXMLBGAME-25SEP11LAASEA",
+        "series_ticker": "KXMLBGAME",
+        "title": "Los Angeles A at Seattle",
+        "sub_title": "LAA at SEA (Sep 11)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "2025-09-12",
+        "latest_close_time": "2025-09-12",
+        "earliest_open_time": "2025-09-11",
+        "is_resolved": true,
+        "has_resolved": true
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXMLBGAME-25SEP11COLSD",
+        "series_ticker": "KXMLBGAME",
+        "title": "Colorado at San Diego",
+        "sub_title": "COL at SD (Sep 11)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "2025-09-12",
+        "latest_close_time": "2025-09-12",
+        "earliest_open_time": "2025-09-11",
+        "is_resolved": true,
+        "has_resolved": true
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXWTAMATCH-25SEP11STEFRE",
+        "series_ticker": "KXWTAMATCH",
+        "title": "Stefanini vs Frech",
+        "sub_title": "Stefanini vs Frech",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "2025-09-12",
+        "latest_close_time": "2025-09-12",
+        "earliest_open_time": "2025-09-11",
+        "is_resolved": true,
+        "has_resolved": true
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXMLBGAME-25SEP11DETNYY",
+        "series_ticker": "KXMLBGAME",
+        "title": "Detroit at New York Y",
+        "sub_title": "DET at NYY (Sep 11)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "2025-09-12",
+        "latest_close_time": "2025-09-12",
+        "earliest_open_time": "2025-09-11",
         "is_resolved": true,
         "has_resolved": true
     }
