@@ -43646,5 +43646,873 @@
         "earliest_open_time": "2025-09-16",
         "is_resolved": true,
         "has_resolved": true
+    },
+    {
+        "event_ticker": "KXGOVFLNOMR-26",
+        "series_ticker": "KXGOVFLNOMR",
+        "title": "Who will be the Republican nominee for Governor in Florida?",
+        "sub_title": "In 2026",
+        "mutually_exclusive": true,
+        "category": "Politics",
+        "bing_reports": {
+            "2025-07-13": "bing_kxgovflnomr-26_2025-07-13",
+            "2025-07-29": "bing_kxgovflnomr-26_2025-07-29",
+            "2025-08-01": "bing_kxgovflnomr-26_2025-08-01"
+        },
+        "is_resolved": false,
+        "ddgs_reports": {
+            "20250830": "ddgs_kxgovflnomr-26_20250830",
+            "20250831": "ddgs_kxgovflnomr-26_20250831",
+            "20250902": "ddgs_kxgovflnomr-26_20250902",
+            "20250903": "ddgs_kxgovflnomr-26_20250903",
+            "20250904": "ddgs_kxgovflnomr-26_20250904",
+            "20250905": "ddgs_kxgovflnomr-26_20250905",
+            "20250906": "ddgs_kxgovflnomr-26_20250906",
+            "20250908": "ddgs_kxgovflnomr-26_20250908",
+            "20250907": "ddgs_kxgovflnomr-26_20250907",
+            "20250909": "ddgs_kxgovflnomr-26_20250909",
+            "20250910": "ddgs_kxgovflnomr-26_20250910",
+            "20250912": "ddgs_kxgovflnomr-26_20250912",
+            "20250911": "ddgs_kxgovflnomr-26_20250911",
+            "20250914": "ddgs_kxgovflnomr-26_20250914",
+            "20250913": "ddgs_kxgovflnomr-26_20250913",
+            "20250915": "ddgs_kxgovflnomr-26_20250915",
+            "20250916": "ddgs_kxgovflnomr-26_20250916",
+            "20250917": "ddgs_kxgovflnomr-26_20250917",
+            "20250918": "ddgs_kxgovflnomr-26_20250918"
+        },
+        "resolution_date": "2026-11-03",
+        "latest_close_time": "2026-11-03",
+        "earliest_open_time": "2025-01-16",
+        "has_resolved": false
+    },
+    {
+        "event_ticker": "FBUSTER-25DEC31",
+        "series_ticker": "KXFBUSTER",
+        "title": "Filibuster weakened in 2025?",
+        "sub_title": "Before 2026",
+        "mutually_exclusive": false,
+        "category": "Politics",
+        "bing_reports": {
+            "2025-07-21": "bing_fbuster-25dec31_2025-07-21"
+        },
+        "is_resolved": true,
+        "ddgs_reports": {
+            "20250830": "ddgs_fbuster-25dec31_20250830",
+            "20250902": "ddgs_fbuster-25dec31_20250902",
+            "20250903": "ddgs_fbuster-25dec31_20250903",
+            "20250904": "ddgs_fbuster-25dec31_20250904",
+            "20250905": "ddgs_fbuster-25dec31_20250905",
+            "20250906": "ddgs_fbuster-25dec31_20250906",
+            "20250907": "ddgs_fbuster-25dec31_20250907",
+            "20250908": "ddgs_fbuster-25dec31_20250908",
+            "20250909": "ddgs_fbuster-25dec31_20250909",
+            "20250910": "ddgs_fbuster-25dec31_20250910",
+            "20250911": "ddgs_fbuster-25dec31_20250911",
+            "20250912": "ddgs_fbuster-25dec31_20250912",
+            "20250914": "ddgs_fbuster-25dec31_20250914",
+            "20250913": "ddgs_fbuster-25dec31_20250913",
+            "20250915": "ddgs_fbuster-25dec31_20250915",
+            "20250916": "ddgs_fbuster-25dec31_20250916",
+            "20250917": "ddgs_fbuster-25dec31_20250917",
+            "20250918": "ddgs_fbuster-25dec31_20250918"
+        },
+        "resolution_date": "2025-09-18",
+        "latest_close_time": "2025-09-18",
+        "earliest_open_time": "2024-01-30",
+        "has_resolved": true
+    },
+    {
+        "bing_reports": {},
+        "event_ticker": "KXMLSGAME-25JUN25RSLLAFC",
+        "series_ticker": "KXMLSGAME",
+        "title": "Salt Lake vs Los Angeles",
+        "sub_title": "RSL vs LAFC (Sep 17)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "ddgs_reports": {
+            "20250902": "ddgs_kxmlsgame-25jun25rsllafc_20250902",
+            "20250903": "ddgs_kxmlsgame-25jun25rsllafc_20250903",
+            "20250904": "ddgs_kxmlsgame-25jun25rsllafc_20250904",
+            "20250906": "ddgs_kxmlsgame-25jun25rsllafc_20250906",
+            "20250907": "ddgs_kxmlsgame-25jun25rsllafc_20250907",
+            "20250908": "ddgs_kxmlsgame-25jun25rsllafc_20250908",
+            "20250909": "ddgs_kxmlsgame-25jun25rsllafc_20250909",
+            "20250910": "ddgs_kxmlsgame-25jun25rsllafc_20250910",
+            "20250911": "ddgs_kxmlsgame-25jun25rsllafc_20250911",
+            "20250912": "ddgs_kxmlsgame-25jun25rsllafc_20250912",
+            "20250913": "ddgs_kxmlsgame-25jun25rsllafc_20250913",
+            "20250914": "ddgs_kxmlsgame-25jun25rsllafc_20250914",
+            "20250915": "ddgs_kxmlsgame-25jun25rsllafc_20250915",
+            "20250916": "ddgs_kxmlsgame-25jun25rsllafc_20250916",
+            "20250917": "ddgs_kxmlsgame-25jun25rsllafc_20250917",
+            "20250918": "ddgs_kxmlsgame-25jun25rsllafc_20250918"
+        },
+        "resolution_date": "2025-09-18",
+        "latest_close_time": "2025-09-18",
+        "earliest_open_time": "2025-06-21",
+        "is_resolved": true,
+        "has_resolved": true
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250904": "ddgs_kxuclgame-25sep18spoalm_20250904",
+            "20250906": "ddgs_kxuclgame-25sep18spoalm_20250906",
+            "20250907": "ddgs_kxuclgame-25sep18spoalm_20250907",
+            "20250908": "ddgs_kxuclgame-25sep18spoalm_20250908",
+            "20250909": "ddgs_kxuclgame-25sep18spoalm_20250909",
+            "20250910": "ddgs_kxuclgame-25sep18spoalm_20250910",
+            "20250912": "ddgs_kxuclgame-25sep18spoalm_20250912",
+            "20250913": "ddgs_kxuclgame-25sep18spoalm_20250913",
+            "20250914": "ddgs_kxuclgame-25sep18spoalm_20250914",
+            "20250915": "ddgs_kxuclgame-25sep18spoalm_20250915",
+            "20250916": "ddgs_kxuclgame-25sep18spoalm_20250916",
+            "20250917": "ddgs_kxuclgame-25sep18spoalm_20250917",
+            "20250918": "ddgs_kxuclgame-25sep18spoalm_20250918"
+        },
+        "event_ticker": "KXUCLGAME-25SEP18SPOALM",
+        "series_ticker": "KXUCLGAME",
+        "title": "Sporting Lisbon vs Kairat",
+        "sub_title": "SPO vs ALM (Sep 18)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "2025-09-18",
+        "latest_close_time": "2025-09-18",
+        "earliest_open_time": "2025-09-04",
+        "is_resolved": true,
+        "has_resolved": true
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250904": "ddgs_kxuclgame-25sep18sgegal_20250904",
+            "20250906": "ddgs_kxuclgame-25sep18sgegal_20250906",
+            "20250907": "ddgs_kxuclgame-25sep18sgegal_20250907",
+            "20250908": "ddgs_kxuclgame-25sep18sgegal_20250908",
+            "20250909": "ddgs_kxuclgame-25sep18sgegal_20250909",
+            "20250910": "ddgs_kxuclgame-25sep18sgegal_20250910",
+            "20250912": "ddgs_kxuclgame-25sep18sgegal_20250912",
+            "20250913": "ddgs_kxuclgame-25sep18sgegal_20250913",
+            "20250914": "ddgs_kxuclgame-25sep18sgegal_20250914",
+            "20250915": "ddgs_kxuclgame-25sep18sgegal_20250915",
+            "20250916": "ddgs_kxuclgame-25sep18sgegal_20250916",
+            "20250917": "ddgs_kxuclgame-25sep18sgegal_20250917",
+            "20250918": "ddgs_kxuclgame-25sep18sgegal_20250918"
+        },
+        "event_ticker": "KXUCLGAME-25SEP18SGEGAL",
+        "series_ticker": "KXUCLGAME",
+        "title": "Frankfurt vs Galatasaray",
+        "sub_title": "SGE vs GAL (Sep 18)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "2025-09-18",
+        "latest_close_time": "2025-09-18",
+        "earliest_open_time": "2025-09-04",
+        "is_resolved": true,
+        "has_resolved": true
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250904": "ddgs_kxuclgame-25sep18newbar_20250904",
+            "20250906": "ddgs_kxuclgame-25sep18newbar_20250906",
+            "20250907": "ddgs_kxuclgame-25sep18newbar_20250907",
+            "20250908": "ddgs_kxuclgame-25sep18newbar_20250908",
+            "20250909": "ddgs_kxuclgame-25sep18newbar_20250909",
+            "20250910": "ddgs_kxuclgame-25sep18newbar_20250910",
+            "20250912": "ddgs_kxuclgame-25sep18newbar_20250912",
+            "20250913": "ddgs_kxuclgame-25sep18newbar_20250913",
+            "20250914": "ddgs_kxuclgame-25sep18newbar_20250914",
+            "20250915": "ddgs_kxuclgame-25sep18newbar_20250915",
+            "20250916": "ddgs_kxuclgame-25sep18newbar_20250916",
+            "20250917": "ddgs_kxuclgame-25sep18newbar_20250917",
+            "20250918": "ddgs_kxuclgame-25sep18newbar_20250918"
+        },
+        "event_ticker": "KXUCLGAME-25SEP18NEWBAR",
+        "series_ticker": "KXUCLGAME",
+        "title": "Newcastle vs Barcelona",
+        "sub_title": "NEW vs BAR (Sep 18)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "2025-09-18",
+        "latest_close_time": "2025-09-18",
+        "earliest_open_time": "2025-09-04",
+        "is_resolved": true,
+        "has_resolved": true
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250904": "ddgs_kxuclgame-25sep18mcinap_20250904",
+            "20250906": "ddgs_kxuclgame-25sep18mcinap_20250906",
+            "20250907": "ddgs_kxuclgame-25sep18mcinap_20250907",
+            "20250908": "ddgs_kxuclgame-25sep18mcinap_20250908",
+            "20250909": "ddgs_kxuclgame-25sep18mcinap_20250909",
+            "20250910": "ddgs_kxuclgame-25sep18mcinap_20250910",
+            "20250912": "ddgs_kxuclgame-25sep18mcinap_20250912",
+            "20250913": "ddgs_kxuclgame-25sep18mcinap_20250913",
+            "20250914": "ddgs_kxuclgame-25sep18mcinap_20250914",
+            "20250915": "ddgs_kxuclgame-25sep18mcinap_20250915",
+            "20250916": "ddgs_kxuclgame-25sep18mcinap_20250916",
+            "20250917": "ddgs_kxuclgame-25sep18mcinap_20250917",
+            "20250918": "ddgs_kxuclgame-25sep18mcinap_20250918"
+        },
+        "event_ticker": "KXUCLGAME-25SEP18MCINAP",
+        "series_ticker": "KXUCLGAME",
+        "title": "Manchester City vs Napoli",
+        "sub_title": "MCI vs NAP (Sep 18)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "2025-09-18",
+        "latest_close_time": "2025-09-18",
+        "earliest_open_time": "2025-09-04",
+        "is_resolved": true,
+        "has_resolved": true
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250904": "ddgs_kxuclgame-25sep18fcclev_20250904",
+            "20250906": "ddgs_kxuclgame-25sep18fcclev_20250906",
+            "20250907": "ddgs_kxuclgame-25sep18fcclev_20250907",
+            "20250908": "ddgs_kxuclgame-25sep18fcclev_20250908",
+            "20250909": "ddgs_kxuclgame-25sep18fcclev_20250909",
+            "20250910": "ddgs_kxuclgame-25sep18fcclev_20250910",
+            "20250912": "ddgs_kxuclgame-25sep18fcclev_20250912",
+            "20250913": "ddgs_kxuclgame-25sep18fcclev_20250913",
+            "20250914": "ddgs_kxuclgame-25sep18fcclev_20250914",
+            "20250915": "ddgs_kxuclgame-25sep18fcclev_20250915",
+            "20250916": "ddgs_kxuclgame-25sep18fcclev_20250916",
+            "20250917": "ddgs_kxuclgame-25sep18fcclev_20250917",
+            "20250918": "ddgs_kxuclgame-25sep18fcclev_20250918"
+        },
+        "event_ticker": "KXUCLGAME-25SEP18FCCLEV",
+        "series_ticker": "KXUCLGAME",
+        "title": "Copenhagen vs Leverkusen",
+        "sub_title": "FCC vs LEV (Sep 18)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "2025-09-18",
+        "latest_close_time": "2025-09-18",
+        "earliest_open_time": "2025-09-04",
+        "is_resolved": true,
+        "has_resolved": true
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250904": "ddgs_kxuclgame-25sep18bruasm_20250904",
+            "20250906": "ddgs_kxuclgame-25sep18bruasm_20250906",
+            "20250907": "ddgs_kxuclgame-25sep18bruasm_20250907",
+            "20250908": "ddgs_kxuclgame-25sep18bruasm_20250908",
+            "20250909": "ddgs_kxuclgame-25sep18bruasm_20250909",
+            "20250910": "ddgs_kxuclgame-25sep18bruasm_20250910",
+            "20250912": "ddgs_kxuclgame-25sep18bruasm_20250912",
+            "20250913": "ddgs_kxuclgame-25sep18bruasm_20250913",
+            "20250914": "ddgs_kxuclgame-25sep18bruasm_20250914",
+            "20250915": "ddgs_kxuclgame-25sep18bruasm_20250915",
+            "20250916": "ddgs_kxuclgame-25sep18bruasm_20250916",
+            "20250917": "ddgs_kxuclgame-25sep18bruasm_20250917",
+            "20250918": "ddgs_kxuclgame-25sep18bruasm_20250918"
+        },
+        "event_ticker": "KXUCLGAME-25SEP18BRUASM",
+        "series_ticker": "KXUCLGAME",
+        "title": "Club Brugge vs Monaco",
+        "sub_title": "BRU vs ASM (Sep 18)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "2025-09-18",
+        "latest_close_time": "2025-09-18",
+        "earliest_open_time": "2025-09-04",
+        "is_resolved": true,
+        "has_resolved": true
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250915": "ddgs_kxwnbaseries-25indatl_20250915",
+            "20250916": "ddgs_kxwnbaseries-25indatl_20250916",
+            "20250917": "ddgs_kxwnbaseries-25indatl_20250917",
+            "20250918": "ddgs_kxwnbaseries-25indatl_20250918"
+        },
+        "event_ticker": "KXWNBASERIES-25INDATL",
+        "series_ticker": "KXWNBASERIES",
+        "title": "Indiana vs Atlanta: Series Winner?",
+        "sub_title": "Indiana vs Atlanta",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "2025-09-19",
+        "latest_close_time": "2025-09-19",
+        "earliest_open_time": "2025-09-14",
+        "is_resolved": true,
+        "has_resolved": true
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250915": "ddgs_kxwnbaseries-25gsvmin_20250915",
+            "20250916": "ddgs_kxwnbaseries-25gsvmin_20250916",
+            "20250917": "ddgs_kxwnbaseries-25gsvmin_20250917",
+            "20250918": "ddgs_kxwnbaseries-25gsvmin_20250918"
+        },
+        "event_ticker": "KXWNBASERIES-25GSVMIN",
+        "series_ticker": "KXWNBASERIES",
+        "title": "Golden State vs Minnesota: Series Winner?",
+        "sub_title": "Golden State vs Minnesota",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "2025-09-18",
+        "latest_close_time": "2025-09-18",
+        "earliest_open_time": "2025-09-14",
+        "is_resolved": true,
+        "has_resolved": true
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250917": "ddgs_kxrainnyc-25sep17_20250917",
+            "20250918": "ddgs_kxrainnyc-25sep17_20250918"
+        },
+        "event_ticker": "KXRAINNYC-25SEP17",
+        "series_ticker": "KXRAINNYC",
+        "title": "Will it rain in NYC on Sep 17, 2025?",
+        "sub_title": "On Sep 17, 2025",
+        "mutually_exclusive": false,
+        "category": "Climate and Weather",
+        "resolution_date": "2025-09-18",
+        "latest_close_time": "2025-09-18",
+        "earliest_open_time": "2025-09-16",
+        "is_resolved": true,
+        "has_resolved": true
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250917": "ddgs_kxapprankfree-25sep18_20250917",
+            "20250918": "ddgs_kxapprankfree-25sep18_20250918"
+        },
+        "event_ticker": "KXAPPRANKFREE-25SEP18",
+        "series_ticker": "KXAPPRANKFREE",
+        "title": "Top US iPhone app on Sep 18, 2025?",
+        "sub_title": "On Sep 18, 2025 at 10 AM ET",
+        "mutually_exclusive": true,
+        "category": "Entertainment",
+        "resolution_date": "2025-09-18",
+        "latest_close_time": "2025-09-18",
+        "earliest_open_time": "2025-09-16",
+        "is_resolved": true,
+        "has_resolved": true
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250917": "ddgs_kxapprankfree2-25sep18_20250917",
+            "20250918": "ddgs_kxapprankfree2-25sep18_20250918"
+        },
+        "event_ticker": "KXAPPRANKFREE2-25SEP18",
+        "series_ticker": "KXAPPRANKFREE2",
+        "title": "Runner-up US iPhone app on Sep 18, 2025?",
+        "sub_title": "On Sep 18, 2025 at 10 AM ET",
+        "mutually_exclusive": true,
+        "category": "Entertainment",
+        "resolution_date": "2025-09-18",
+        "latest_close_time": "2025-09-18",
+        "earliest_open_time": "2025-09-16",
+        "is_resolved": true,
+        "has_resolved": true
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250918": "ddgs_kxtvshowscancelled-25_20250918"
+        },
+        "event_ticker": "KXTVSHOWSCANCELLED-25",
+        "series_ticker": "KXTVSHOWSCANCELLED",
+        "title": "Which TV shows will be cancelled this year?",
+        "sub_title": "Before 2026",
+        "mutually_exclusive": false,
+        "category": "Entertainment",
+        "resolution_date": "2025-12-31",
+        "latest_close_time": "2025-12-31",
+        "earliest_open_time": "2025-06-12",
+        "is_resolved": false,
+        "has_resolved": true
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250918": "ddgs_kxwnbagame-25sep18indatl_20250918"
+        },
+        "event_ticker": "KXWNBAGAME-25SEP18INDATL",
+        "series_ticker": "KXWNBAGAME",
+        "title": "Indiana at Atlanta",
+        "sub_title": "Indiana at Atlanta (Sep 18)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "2025-09-19",
+        "latest_close_time": "2025-09-19",
+        "earliest_open_time": "2025-09-17",
+        "is_resolved": true,
+        "has_resolved": true
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250918": "ddgs_kxatpmatch-25sep18yunzha_20250918"
+        },
+        "event_ticker": "KXATPMATCH-25SEP18YUNZHA",
+        "series_ticker": "KXATPMATCH",
+        "title": "Bu vs Zhang",
+        "sub_title": "Bu vs Zhang",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "2025-09-18",
+        "latest_close_time": "2025-09-18",
+        "earliest_open_time": "2025-09-18",
+        "is_resolved": true,
+        "has_resolved": true
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250918": "ddgs_kxwtamatch-25sep18krerad_20250918"
+        },
+        "event_ticker": "KXWTAMATCH-25SEP18KRERAD",
+        "series_ticker": "KXWTAMATCH",
+        "title": "Krejcikova vs Raducanu",
+        "sub_title": "Krejcikova vs Raducanu",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "2025-09-18",
+        "latest_close_time": "2025-09-18",
+        "earliest_open_time": "2025-09-18",
+        "is_resolved": true,
+        "has_resolved": true
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250918": "ddgs_kxwtamatch-25sep18sinkas_20250918"
+        },
+        "event_ticker": "KXWTAMATCH-25SEP18SINKAS",
+        "series_ticker": "KXWTAMATCH",
+        "title": "Siniakova vs Kasatkina",
+        "sub_title": "Siniakova vs Kasatkina",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "2025-09-18",
+        "latest_close_time": "2025-09-18",
+        "earliest_open_time": "2025-09-17",
+        "is_resolved": true,
+        "has_resolved": true
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250918": "ddgs_kxatpmatch-25sep18shemon_20250918"
+        },
+        "event_ticker": "KXATPMATCH-25SEP18SHEMON",
+        "series_ticker": "KXATPMATCH",
+        "title": "Shevchenko vs Monfils",
+        "sub_title": "Shevchenko vs Monfils",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "2025-09-18",
+        "latest_close_time": "2025-09-18",
+        "earliest_open_time": "2025-09-17",
+        "is_resolved": true,
+        "has_resolved": true
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250918": "ddgs_kxatpmatch-25sep18bascil_20250918"
+        },
+        "event_ticker": "KXATPMATCH-25SEP18BASCIL",
+        "series_ticker": "KXATPMATCH",
+        "title": "Basavareddy vs Cilic",
+        "sub_title": "Basavareddy vs Cilic",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "2025-09-18",
+        "latest_close_time": "2025-09-18",
+        "earliest_open_time": "2025-09-17",
+        "is_resolved": true,
+        "has_resolved": true
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250918": "ddgs_kxatpmatch-25sep18mcdvan_20250918"
+        },
+        "event_ticker": "KXATPMATCH-25SEP18MCDVAN",
+        "series_ticker": "KXATPMATCH",
+        "title": "McDonald vs Van de Zandschulp",
+        "sub_title": "McDonald vs Van de Zandschulp",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "2025-09-18",
+        "latest_close_time": "2025-09-18",
+        "earliest_open_time": "2025-09-17",
+        "is_resolved": true,
+        "has_resolved": true
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250918": "ddgs_kxatpmatch-25sep18zepsun_20250918"
+        },
+        "event_ticker": "KXATPMATCH-25SEP18ZEPSUN",
+        "series_ticker": "KXATPMATCH",
+        "title": "Zeppieri vs Sun",
+        "sub_title": "Zeppieri vs Sun",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "2025-09-18",
+        "latest_close_time": "2025-09-18",
+        "earliest_open_time": "2025-09-17",
+        "is_resolved": true,
+        "has_resolved": true
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250918": "ddgs_kxatpmatch-25sep18bersvr_20250918"
+        },
+        "event_ticker": "KXATPMATCH-25SEP18BERSVR",
+        "series_ticker": "KXATPMATCH",
+        "title": "Berrettini vs Svrcina",
+        "sub_title": "Berrettini vs Svrcina",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "2025-09-18",
+        "latest_close_time": "2025-09-18",
+        "earliest_open_time": "2025-09-17",
+        "is_resolved": true,
+        "has_resolved": true
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250918": "ddgs_kxwtamatch-25sep18swicir_20250918"
+        },
+        "event_ticker": "KXWTAMATCH-25SEP18SWICIR",
+        "series_ticker": "KXWTAMATCH",
+        "title": "Swiatek vs Cirstea",
+        "sub_title": "Swiatek vs Cirstea",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "2025-09-18",
+        "latest_close_time": "2025-09-18",
+        "earliest_open_time": "2025-09-17",
+        "is_resolved": true,
+        "has_resolved": true
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250918": "ddgs_kxwtamatch-25sep18hadsei_20250918"
+        },
+        "event_ticker": "KXWTAMATCH-25SEP18HADSEI",
+        "series_ticker": "KXWTAMATCH",
+        "title": "Haddad Maia vs Seidel",
+        "sub_title": "Haddad Maia vs Seidel",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "2025-09-18",
+        "latest_close_time": "2025-09-18",
+        "earliest_open_time": "2025-09-17",
+        "is_resolved": true,
+        "has_resolved": true
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250918": "ddgs_kxatpmatch-25sep18danwon_20250918"
+        },
+        "event_ticker": "KXATPMATCH-25SEP18DANWON",
+        "series_ticker": "KXATPMATCH",
+        "title": "Daniel vs Wong",
+        "sub_title": "Daniel vs Wong",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "2025-09-18",
+        "latest_close_time": "2025-09-18",
+        "earliest_open_time": "2025-09-17",
+        "is_resolved": true,
+        "has_resolved": true
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250918": "ddgs_kxatpmatch-25sep18atmpri_20250918"
+        },
+        "event_ticker": "KXATPMATCH-25SEP18ATMPRI",
+        "series_ticker": "KXATPMATCH",
+        "title": "Atmane vs Prizmic",
+        "sub_title": "Atmane vs Prizmic",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "2025-09-18",
+        "latest_close_time": "2025-09-18",
+        "earliest_open_time": "2025-09-17",
+        "is_resolved": true,
+        "has_resolved": true
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250918": "ddgs_kxatpmatch-25sep18thotab_20250918"
+        },
+        "event_ticker": "KXATPMATCH-25SEP18THOTAB",
+        "series_ticker": "KXATPMATCH",
+        "title": "Thompson vs Tabilo",
+        "sub_title": "Thompson vs Tabilo",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "2025-09-18",
+        "latest_close_time": "2025-09-18",
+        "earliest_open_time": "2025-09-17",
+        "is_resolved": true,
+        "has_resolved": true
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250918": "ddgs_kxatpmatch-25sep18dzuetc_20250918"
+        },
+        "event_ticker": "KXATPMATCH-25SEP18DZUETC",
+        "series_ticker": "KXATPMATCH",
+        "title": "Dzumhur vs Etcheverry",
+        "sub_title": "Dzumhur vs Etcheverry",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "2025-09-18",
+        "latest_close_time": "2025-09-18",
+        "earliest_open_time": "2025-09-17",
+        "is_resolved": true,
+        "has_resolved": true
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250918": "ddgs_kxwtamatch-25sep18shnlam_20250918"
+        },
+        "event_ticker": "KXWTAMATCH-25SEP18SHNLAM",
+        "series_ticker": "KXWTAMATCH",
+        "title": "Shnaider vs Lamens",
+        "sub_title": "Shnaider vs Lamens",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "2025-09-18",
+        "latest_close_time": "2025-09-18",
+        "earliest_open_time": "2025-09-17",
+        "is_resolved": true,
+        "has_resolved": true
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250918": "ddgs_kxwtamatch-25sep18boiale_20250918"
+        },
+        "event_ticker": "KXWTAMATCH-25SEP18BOIALE",
+        "series_ticker": "KXWTAMATCH",
+        "title": "Boisson vs Alexandrova",
+        "sub_title": "Boisson vs Alexandrova",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "2025-09-18",
+        "latest_close_time": "2025-09-18",
+        "earliest_open_time": "2025-09-17",
+        "is_resolved": true,
+        "has_resolved": true
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250918": "ddgs_kxatpmatch-25sep18soncer_20250918"
+        },
+        "event_ticker": "KXATPMATCH-25SEP18SONCER",
+        "series_ticker": "KXATPMATCH",
+        "title": "Sonego vs Cerundolo",
+        "sub_title": "Sonego vs Cerundolo",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "2025-09-18",
+        "latest_close_time": "2025-09-18",
+        "earliest_open_time": "2025-09-17",
+        "is_resolved": true,
+        "has_resolved": true
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250918": "ddgs_kxatpmatch-25sep18mismpe_20250918"
+        },
+        "event_ticker": "KXATPMATCH-25SEP18MISMPE",
+        "series_ticker": "KXATPMATCH",
+        "title": "Misolic vs Mpetshi Perricard",
+        "sub_title": "Misolic vs Mpetshi Perricard",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "2025-09-18",
+        "latest_close_time": "2025-09-18",
+        "earliest_open_time": "2025-09-17",
+        "is_resolved": true,
+        "has_resolved": true
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250918": "ddgs_kxmlbgame-25sep17philad_20250918"
+        },
+        "event_ticker": "KXMLBGAME-25SEP17PHILAD",
+        "series_ticker": "KXMLBGAME",
+        "title": "Philadelphia at Los Angeles D",
+        "sub_title": "PHI at LAD (Sep 17)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "2025-09-18",
+        "latest_close_time": "2025-09-18",
+        "earliest_open_time": "2025-09-17",
+        "is_resolved": true,
+        "has_resolved": true
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250918": "ddgs_kxwnbagame-25sep17mingsv_20250918"
+        },
+        "event_ticker": "KXWNBAGAME-25SEP17MINGSV",
+        "series_ticker": "KXWNBAGAME",
+        "title": "Minnesota at Golden State",
+        "sub_title": "Minnesota at Golden State (Sep 17)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "2025-09-18",
+        "latest_close_time": "2025-09-18",
+        "earliest_open_time": "2025-09-17",
+        "is_resolved": true,
+        "has_resolved": true
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250918": "ddgs_kxmlbgame-25sep17miacol_20250918"
+        },
+        "event_ticker": "KXMLBGAME-25SEP17MIACOL",
+        "series_ticker": "KXMLBGAME",
+        "title": "Miami at Colorado",
+        "sub_title": "MIA at COL (Sep 17)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "2025-09-18",
+        "latest_close_time": "2025-09-18",
+        "earliest_open_time": "2025-09-17",
+        "is_resolved": true,
+        "has_resolved": true
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250918": "ddgs_kxmlbgame-25sep17texhou_20250918"
+        },
+        "event_ticker": "KXMLBGAME-25SEP17TEXHOU",
+        "series_ticker": "KXMLBGAME",
+        "title": "Texas at Houston",
+        "sub_title": "TEX at HOU (Sep 17)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "2025-09-18",
+        "latest_close_time": "2025-09-18",
+        "earliest_open_time": "2025-09-17",
+        "is_resolved": true,
+        "has_resolved": true
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250918": "ddgs_kxwnbagame-25sep17phxnyl_20250918"
+        },
+        "event_ticker": "KXWNBAGAME-25SEP17PHXNYL",
+        "series_ticker": "KXWNBAGAME",
+        "title": "Phoenix at New York",
+        "sub_title": "Phoenix at New York (Sep 17)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "2025-09-18",
+        "latest_close_time": "2025-09-18",
+        "earliest_open_time": "2025-09-17",
+        "is_resolved": true,
+        "has_resolved": true
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250918": "ddgs_kxmlbgame-25sep17seakc_20250918"
+        },
+        "event_ticker": "KXMLBGAME-25SEP17SEAKC",
+        "series_ticker": "KXMLBGAME",
+        "title": "Seattle at Kansas City",
+        "sub_title": "SEA at KC (Sep 17)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "2025-09-18",
+        "latest_close_time": "2025-09-18",
+        "earliest_open_time": "2025-09-17",
+        "is_resolved": true,
+        "has_resolved": true
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250918": "ddgs_kxmlbgame-25sep17nyymin_20250918"
+        },
+        "event_ticker": "KXMLBGAME-25SEP17NYYMIN",
+        "series_ticker": "KXMLBGAME",
+        "title": "New York Y at Minnesota",
+        "sub_title": "NYY at MIN (Sep 17)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "2025-09-18",
+        "latest_close_time": "2025-09-18",
+        "earliest_open_time": "2025-09-17",
+        "is_resolved": true,
+        "has_resolved": true
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250918": "ddgs_kxmlbgame-25sep17sdnym_20250918"
+        },
+        "event_ticker": "KXMLBGAME-25SEP17SDNYM",
+        "series_ticker": "KXMLBGAME",
+        "title": "San Diego at New York M",
+        "sub_title": "SD at NYM (Sep 17)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "2025-09-18",
+        "latest_close_time": "2025-09-18",
+        "earliest_open_time": "2025-09-17",
+        "is_resolved": true,
+        "has_resolved": true
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {
+            "20250918": "ddgs_kxmlbgame-25sep17athbos_20250918"
+        },
+        "event_ticker": "KXMLBGAME-25SEP17ATHBOS",
+        "series_ticker": "KXMLBGAME",
+        "title": "A's at Boston",
+        "sub_title": "ATH at BOS (Sep 17)",
+        "mutually_exclusive": true,
+        "category": "Sports",
+        "resolution_date": "2025-09-18",
+        "latest_close_time": "2025-09-18",
+        "earliest_open_time": "2025-09-17",
+        "is_resolved": true,
+        "has_resolved": true
     }
 ]
