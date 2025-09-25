@@ -26,6 +26,7 @@ from pymongo import MongoClient
 import datetime as dt
 from typing import List, Dict, Any
 import json
+import time
 
 import aiohttp
 import asyncio
@@ -181,6 +182,7 @@ async def step1_generate_queries(event, market_descriptions):
 
 # Instructions
 What are {num_queries} short search queries that would meaningfully improve the accuracy and confidence of a forecast regarding the market outcomes described above? Output exactly {num_queries} queries, one query per line, without any other text or number. Each query should be less than {max_words_in_query} words."""
+    # output_text = await run_openai(prompt=query_prompt, model="gpt-4.1-nano")
     output_text = await run_openai(prompt=query_prompt, model="gpt-4o-mini-2024-07-18")
     queries = output_text.strip().split("\n")
     queries = [q.strip() for q in queries if len(q.strip()) > 0]
@@ -295,8 +297,10 @@ Full Content: {content['article']}\n\n"""
 {articles_concatenated}
 
 # Instructions
-Carefully read the articles provided above. Your task is to generate a multi-paragraph summary (one paragraph per article) that highlights factual insights or relevant context related to the listed markets. Avoid subjective opinions or speculative statements. Omit an article that does not contain meaningful information. Use plain text without markdown syntax, heading, or numbering. Do not add any additional text outside the summary.
+Carefully read the articles provided above. Your task is to generate a multi-paragraph summary (one paragraph per article) that highlights factual insights or relevant context related to the listed markets. Avoid subjective opinions or speculative statements. Use plain text without markdown syntax, heading, or numbering. Do not add any additional text outside the summary.
+Return blank for an article that does not contain relevant information. Not all of the articles are relevant to the markets above. Some are clearly unrelated to the topic and should be excluded. Exclude only the articles that are clearly off-topic, entirely unrelated to the markets. If an article is at least broadly related or offers potentially useful context, it should be considered relevant.
 Important note: Include the date and source URL of the article at the end of each paragraph."""
+    # output_text = await run_openai(prompt=prompt, model="gpt-4.1-nano")
     output_text = await run_openai(prompt=prompt, model="gpt-4o-mini-2024-07-18")
     return output_text
 
@@ -336,7 +340,6 @@ async def get_ddgs_report(index, event):
             # Separate summaries and contents
             summaries, all_contents = zip(*results)  # Each result is a (summary, contents) tuple
 
-
             # combine summaries (your step 5)
             reports = "\n\n".join(f"# Research Report {i+1}:\n{summary}" for i, summary in enumerate(summaries)).strip()
 
@@ -345,6 +348,7 @@ async def get_ddgs_report(index, event):
         except Exception as e:
             trials += 1
             print(f"Error processing event, retrying... ({trials}/{MAX_RETRIES}): {e}")
+            time.sleep(3)
             continue
 
 
@@ -401,7 +405,9 @@ async def main():
         # fetch event details without blocking the whole loop
         def fetch_event():
             # Retry until success; consider backoff or max-retries in the future.
-            while True:
+            trials = 0
+            MAX_TRIALS = 10
+            while trials < MAX_TRIALS:
                 try:
                     resp = requests.get(
                         f"https://api.elections.kalshi.com/trade-api/v2/events/{event_ticker}?with_nested_markets=true",
@@ -411,11 +417,15 @@ async def main():
                     return resp.json()["event"]
                 except Exception as e:
                     print(f"Retrying event fetch for {event_ticker}: {e}")
+                    trials += 1
 
         # Offload the blocking requests.get to a worker thread.
         event = await asyncio.to_thread(fetch_event)  # offload blocking requests
-        if "markets" not in event or event["markets"] is None or len(event["markets"]) == 0:
+        if event is None or "markets" not in event or event["markets"] is None or len(event["markets"]) == 0:
             print(f"No markets found for event {event_ticker} at {index}, skipping...")
+            continue
+        if len(event["markets"]) > 6:
+            print(f"Too many markets ({len(event['markets'])}) for event {event_ticker} at {index}, skipping...")
             continue
         tasks.append(asyncio.create_task(guarded_process(index, event)))
 
