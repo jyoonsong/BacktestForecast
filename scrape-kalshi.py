@@ -139,7 +139,6 @@ def scrape_kalshi_events():
         "resolved_events.json",
         "active_markets.json", 
         "resolved_markets.json",
-        "reports_ddgs.json",
     ]
 
     # Load previous snapshots; these files are expected to exist beforehand.
@@ -156,9 +155,6 @@ def scrape_kalshi_events():
 
     with open(files[3], "r") as f:
         resolved_markets = json.load(f)
-
-    with open(files[4], "r") as f:
-        ddgs_reports = json.load(f)
 
     # Reconcile events: keep active ones; move disappeared ones to resolved.
     for event in previous_events:
@@ -177,13 +173,6 @@ def scrape_kalshi_events():
                     if report is not None:
                         # generate unique hash id
                         hash_id = f"ddgs_{event['event_ticker'].lower()}_{timestamp}"
-                        # save it to reports.json
-                        ddgs_reports.append({
-                            "hash_id": hash_id,
-                            "timestamp": timestamp,
-                            "event_ticker": event["event_ticker"],
-                            "report": report,
-                        })
                         # save hash id in events.json
                         event['ddgs_reports'][timestamp] = hash_id
 
@@ -245,13 +234,6 @@ def scrape_kalshi_events():
                     if report is not None:
                         # generate unique hash id
                         hash_id = f"ddgs_{event['event_ticker'].lower()}_{timestamp}"
-                        # save it to reports.json
-                        ddgs_reports.append({
-                            "hash_id": hash_id,
-                            "timestamp": timestamp,
-                            "event_ticker": event["event_ticker"],
-                            "report": report,
-                        })
                         # save hash id in events.json
                         event['ddgs_reports'][timestamp] = hash_id
 
@@ -271,13 +253,6 @@ def scrape_kalshi_events():
             if report is not None:
                 # generate unique hash id
                 hash_id = f"ddgs_{event['event_ticker'].lower()}_{timestamp_now}"
-                # save it to reports.json
-                ddgs_reports.append({
-                    "hash_id": hash_id,
-                    "timestamp": timestamp_now,
-                    "event_ticker": event["event_ticker"],
-                    "report": report,
-                })
                 # save hash id in events.json
                 event_obj['ddgs_reports'][timestamp_now] = hash_id
 
@@ -369,13 +344,6 @@ def scrape_kalshi_events():
                     if report is not None:
                         # generate unique hash id
                         hash_id = f"ddgs_{event['event_ticker'].lower()}_{timestamp}"
-                        # save it to reports.json
-                        ddgs_reports.append({
-                            "hash_id": hash_id,
-                            "timestamp": timestamp,
-                            "event_ticker": event["event_ticker"],
-                            "report": report,
-                        })
                         # save hash id in events.json
                         resolved_events[index]['ddgs_reports'][timestamp] = hash_id
 
@@ -388,8 +356,6 @@ def scrape_kalshi_events():
         json.dump(final_markets, f, indent=4)
     with open(files[3], "w") as f:
         json.dump(resolved_markets, f, indent=4)
-    with open(files[4], "w") as f:
-        json.dump(ddgs_reports, f, indent=4)
 
     return files, final_events
 

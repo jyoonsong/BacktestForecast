@@ -27,6 +27,7 @@ import datetime as dt
 from typing import List, Dict, Any
 import json
 import time
+import random
 
 import aiohttp
 import asyncio
@@ -73,21 +74,21 @@ def write_to_db(report, contents, timestamp, event_ticker):
     """
     collection = db["reports"]
 
-    filtered_urls = [
-        {
-            "title": content.get("title", ""),
-            "body": content.get("body", ""),
-            "href": content.get("href", ""),
-        }
-        for sublist in contents
-        for content in sublist
-    ]
+    # filtered_urls = [
+    #     {
+    #         "title": content.get("title", ""),
+    #         "body": content.get("body", ""),
+    #         "href": content.get("href", ""),
+    #     }
+    #     for sublist in contents
+    #     for content in sublist
+    # ]
 
     data = {}
     data["timestamp"] = timestamp
     data["event_ticker"] = event_ticker
     data["ddgs_report"] = report
-    data["ddgs_urls"] = json.dumps(filtered_urls)
+    # data["ddgs_urls"] = json.dumps(filtered_urls)
     
     result = collection.insert_one(data)
     print(f"Inserted document with _id: {result.inserted_id}")
@@ -387,6 +388,12 @@ async def main():
 
     event_tickers = fetch_current_events()
     print(f"Fetched {len(event_tickers)} current events from GitHub")
+
+    if len(event_tickers) > 2000:
+        # sample 2000 of the event_tickers
+        random.seed(37) # for reproducibility
+        event_tickers = random.sample(event_tickers, 2000)
+    print(f"Processing {len(event_tickers)} events after sampling")
 
     async def guarded_process(index, event):
         # Per-event concurrency guard so we don't overload downstream services.
