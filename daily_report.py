@@ -170,12 +170,15 @@ def get_ddgs_report(index, event):
 
 def fetch_current_events():
     url = "https://raw.githubusercontent.com/jyoonsong/FutureBench/refs/heads/main/active_events.json"
-    while True:
+    events = None
+    while events == None:
         try:
             r = requests.get(url)
-            return r.json()
+            events = r.json()
+            return events
         except Exception as e:
             print("Retrying fetch_current_events:", e)
+            events = None
 
 def main():
     timestamp = utc_stamp()
