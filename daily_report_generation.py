@@ -188,6 +188,7 @@ What are {num_queries} short search queries that would meaningfully improve the 
     output_text = await run_openai(prompt=query_prompt, model="gpt-4o-mini-2024-07-18")
     queries = output_text.strip().split("\n")
     queries = [q.strip() for q in queries if len(q.strip()) > 0]
+    print(queries)
 
     return queries
 
