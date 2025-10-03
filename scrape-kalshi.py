@@ -329,23 +329,23 @@ def scrape_kalshi_events():
             resolved_markets.append(market)
 
     # For events that resolved within 5 days from today, try to backfill last 3 days of reports.
-    for index, event in enumerate(resolved_events):
-        latest_close_time = event.get("latest_close_time", None)
-        if latest_close_time is None:
-            continue
-        latest_close_time = dt.datetime.strptime(latest_close_time, "%Y-%m-%d")
-        if latest_close_time >= dt.datetime.utcnow() - dt.timedelta(days=5):
-            print(f"Backfilling reports for recently resolved event {event['event_ticker']}")
-            if "ddgs_reports" not in event:
-                resolved_events[index]['ddgs_reports'] = {}
-            for timestamp in timestamps:
-                if timestamp not in event["ddgs_reports"]:
-                    report = read_from_db(timestamp, event["event_ticker"])
-                    if report is not None:
-                        # generate unique hash id
-                        hash_id = f"ddgs_{event['event_ticker'].lower()}_{timestamp}"
-                        # save hash id in events.json
-                        resolved_events[index]['ddgs_reports'][timestamp] = hash_id
+    # for index, event in enumerate(resolved_events):
+    #     latest_close_time = event.get("latest_close_time", None)
+    #     if latest_close_time is None:
+    #         continue
+    #     latest_close_time = dt.datetime.strptime(latest_close_time, "%Y-%m-%d")
+    #     if latest_close_time >= dt.datetime.utcnow() - dt.timedelta(days=5):
+    #         print(f"Backfilling reports for recently resolved event {event['event_ticker']}")
+    #         if "ddgs_reports" not in event:
+    #             resolved_events[index]['ddgs_reports'] = {}
+    #         for timestamp in timestamps:
+    #             if timestamp not in event["ddgs_reports"]:
+    #                 report = read_from_db(timestamp, event["event_ticker"])
+    #                 if report is not None:
+    #                     # generate unique hash id
+    #                     hash_id = f"ddgs_{event['event_ticker'].lower()}_{timestamp}"
+    #                     # save hash id in events.json
+    #                     resolved_events[index]['ddgs_reports'][timestamp] = hash_id
 
     # Persist updated snapshots to disk.
     with open(files[0], "w") as f:
