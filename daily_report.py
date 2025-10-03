@@ -181,7 +181,9 @@ def fetch_current_events():
             events = None
 
 def main():
+    print("Starting daily report generation...")
     timestamp = utc_stamp()
+    print(f"Timestamp: {timestamp}")
     events = fetch_current_events()
     print(f"Fetched {len(events)} events")
     for index, e in enumerate(events[:5]):  # limit for demo
