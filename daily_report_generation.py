@@ -28,6 +28,7 @@ from typing import List, Dict, Any
 import json
 import time
 import random
+from collections import Counter
 
 import aiohttp
 import asyncio
@@ -361,18 +362,17 @@ def fetch_current_events():
     """
     json_url = "https://raw.githubusercontent.com/jyoonsong/FutureBench/refs/heads/main/active_events.json"
 
-    event_tickers = None
-    while event_tickers == None:
+    events = None
+    while events == None:
         try:
             response = requests.get(json_url)
             events = response.json()
-            event_tickers = [event['event_ticker'] for event in events]
         except Exception as e:
             print(f"Error fetching current events: {e}")
             continue
-    
-    return event_tickers
-    
+
+    return events
+
 
 async def main():
     """
@@ -386,13 +386,40 @@ async def main():
     timestamp = utc_stamp()
     print(f"Running Kalshi scraper at {timestamp}")
 
-    event_tickers = fetch_current_events()
-    print(f"Fetched {len(event_tickers)} current events from GitHub")
+    events = fetch_current_events()
+    print(f"Fetched {len(events)} current events from GitHub")
 
-    if len(event_tickers) > 2000:
-        # sample 2000 of the event_tickers
-        random.seed(37) # for reproducibility
-        event_tickers = random.sample(event_tickers, 2000)
+    TARGET = 200
+    if len(events) > TARGET:
+        random.seed(37)  # reproducible
+
+        # group by category
+        cats = {}
+        for e in events:
+            cats.setdefault(e["category"], []).append(e)
+
+        # smallest categories first; give each category an equal "share" of remaining slots
+        sampled, remaining = [], TARGET
+        cat_lists = sorted(cats.values(), key=len)
+        for i, lst in enumerate(cat_lists):
+            slots_left = len(cat_lists) - i
+            share = max(1, remaining // slots_left)
+            take = len(lst) if len(lst) <= share else share
+            sampled += lst if take == len(lst) else random.sample(lst, take)
+            remaining -= take
+
+        events = sampled
+
+        # original counts
+        orig_counts = Counter(e["category"] for e in fetch_current_events())
+        # sampled counts
+        sampled_counts = Counter(e["category"] for e in events)
+
+        # print side by side
+        for cat in orig_counts:
+            print(f"{cat}: original={orig_counts[cat]}, sampled={sampled_counts.get(cat, 0)}")
+
+    event_tickers = [e["event_ticker"] for e in events]
     print(f"Processing {len(event_tickers)} events after sampling")
 
     async def guarded_process(index, event):
