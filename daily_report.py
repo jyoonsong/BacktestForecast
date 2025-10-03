@@ -17,7 +17,7 @@ from collections import Counter
 from openai import OpenAI
 
 # Load env vars
-load_dotenv()
+# load_dotenv()
 
 # Sync OpenAI client
 client = OpenAI(

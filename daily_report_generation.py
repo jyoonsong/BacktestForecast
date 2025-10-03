@@ -35,7 +35,7 @@ import asyncio
 from openai import AsyncOpenAI
 
 # Load env vars from .env if present (OPENAI keys, Mongo URI, etc.)
-load_dotenv()
+# load_dotenv()
 
 # Async OpenAI client (only used for chat.completions in this script)
 client = AsyncOpenAI(

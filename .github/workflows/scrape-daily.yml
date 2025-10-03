@@ -40,4 +40,4 @@ jobs:
                   OPENAI_ORG_ID: ${{ secrets.OPENAI_ORGANIZATION }}
                   # Mongo URI
                   MONGO_URI: ${{ secrets.MONGO_URI }}
-              run: python daily_report.py
+              run: python daily_report_generation.py
