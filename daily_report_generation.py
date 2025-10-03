@@ -183,7 +183,8 @@ async def step1_generate_queries(event, market_descriptions):
 {market_descriptions}
 
 # Instructions
-What are {num_queries} short search queries that would meaningfully improve the accuracy and confidence of a forecast regarding the market outcomes described above? Output exactly {num_queries} queries, one query per line, without any other text or number. Each query should be less than {max_words_in_query} words."""
+What are {num_queries} short search queries that would meaningfully improve the accuracy and confidence of a forecast regarding the market outcomes described above? Output exactly {num_queries} queries, one query per line, without any other text or number. Each query should be less than {max_words_in_query} words. 
+Important Note: Do not include any numbers or special characters in the queries. Do not include any other text or explanation outside the queries."""
     # output_text = await run_openai(prompt=query_prompt, model="gpt-4.1-nano")
     output_text = await run_openai(prompt=query_prompt, model="gpt-4o-mini-2024-07-18")
     queries = output_text.strip().split("\n")
