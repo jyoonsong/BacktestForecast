@@ -185,8 +185,38 @@ def main():
     timestamp = utc_stamp()
     print(f"Timestamp: {timestamp}")
     events = fetch_current_events()
-    print(f"Fetched {len(events)} events")
-    for index, e in enumerate(events[:5]):  # limit for demo
+    print(f"Fetched {len(events)} events from GitHub.")
+
+    TARGET = 200
+    sampled, remaining = [], TARGET
+    if len(events) > TARGET:
+        random.seed(37)  # reproducible
+
+        # group by category
+        cats = {}
+        for e in events:
+            cats.setdefault(e["category"], []).append(e)
+
+        # smallest categories first; give each category an equal "share" of remaining slots
+        cat_lists = sorted(cats.values(), key=len)
+        for i, lst in enumerate(cat_lists):
+            slots_left = len(cat_lists) - i
+            share = max(1, remaining // slots_left)
+            take = len(lst) if len(lst) <= share else share
+            sampled += lst if take == len(lst) else random.sample(lst, take)
+            remaining -= take
+
+        # original counts
+        orig_counts = Counter(e["category"] for e in events)
+        # sampled counts
+        sampled_counts = Counter(e["category"] for e in sampled)
+
+        # print side by side
+        for cat in orig_counts:
+            print(f"{cat}: original={orig_counts[cat]}, sampled={sampled_counts.get(cat, 0)}")
+
+
+    for index, e in enumerate(sampled):  # limit for demo
         ticker = e["event_ticker"]
         if read_from_db(timestamp, ticker):
             print(f"Already exists: {ticker}, skipping.")
