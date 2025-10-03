@@ -91,7 +91,8 @@ def step1_generate_queries(event, market_descriptions):
 {market_descriptions}
 
 # Instructions
-What are {num_queries} short search queries..."""
+What are {num_queries} short search queries that would meaningfully improve the accuracy and confidence of a forecast regarding the market outcomes described above? Output exactly {num_queries} queries, one query per line, without any other text or number. Each query should be less than {max_words_in_query} words. 
+Important Note: Do not include any numbers or special characters in the queries. Do not include any other text or explanation outside the queries."""
     output_text = run_openai(query_prompt)
     queries = [q.strip() for q in output_text.strip().split("\n") if q.strip()]
     print(queries)
@@ -148,7 +149,10 @@ Full Content: {c['article']}\n\n"""
 {articles_concatenated}
 
 # Instructions
-Carefully read the articles..."""
+Carefully read the articles provided above. Your task is to generate a multi-paragraph summary (one paragraph per article) that highlights factual insights or relevant context related to the listed markets. Avoid subjective opinions or speculative statements. Use plain text without markdown syntax, heading, or numbering. Do not add any additional text outside the summary.
+Return blank for an article that does not contain relevant information. Not all of the articles are relevant to the markets above. Some are clearly unrelated to the topic and should be excluded. Exclude only the articles that are clearly off-topic, entirely unrelated to the markets. If an article is at least broadly related or offers potentially useful context, it should be considered relevant.
+Important note: Include the date and source URL of the article at the end of each paragraph."""
+
     return run_openai(prompt)
 
 def process_query(search_query, event, market_descriptions, num_urls=5):
