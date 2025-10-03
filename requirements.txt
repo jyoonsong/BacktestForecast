@@ -1,3 +1,5 @@
+aiohttp
+asyncio
 backoff
 beautifulsoup4
 cryptography
