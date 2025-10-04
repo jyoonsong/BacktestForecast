@@ -95,7 +95,7 @@ What are {num_queries} short search queries that would meaningfully improve the 
 Important Note: Do not include any numbers or special characters in the queries. Do not include any other text or explanation outside the queries."""
     output_text = run_openai(query_prompt)
     queries = [q.strip() for q in output_text.strip().split("\n") if q.strip()]
-    print(queries)
+    # print(queries)
     return queries
 
 def step2_search_ddgs(search_query, num_urls=5):
