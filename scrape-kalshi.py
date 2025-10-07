@@ -64,7 +64,8 @@ def get_timestamps():
     Current implementation returns today, yesterday, and the day before.
     """
     timestamps = []
-    for delta in range(3):
+    # for delta in range(3):
+    for delta in range(1):
         day = dt.datetime.utcnow() - dt.timedelta(days=delta)
         timestamps.append(day.strftime("%Y%m%d"))
     return timestamps
