@@ -19,17 +19,25 @@ def stratified_sample_events(events: List[Dict[str, any]], target: int = TARGET_
     """Stratified sampling of events across categories."""
     if len(events) <= target:
         return events
+    
     random.seed(37)
-    cats = {}
+
+    # group by category
+    categories = {}
     for e in events:
-        cats.setdefault(e["category"], []).append(e)
+        categories.setdefault(e["category"], []).append(e)
     sampled, remaining = [], target
-    cat_lists = sorted(cats.values(), key=len)
+
+    # smallest categories first; give each category an equal "share" of remaining slots
+    cat_lists = sorted(categories.values(), key=len)
     for i, lst in enumerate(cat_lists):
-        share = max(1, remaining // (len(cat_lists) - i))
-        take = len(lst) if len(lst) <= share else random.sample(lst, share)
-        sampled += take
-        remaining -= min(len(lst), share)
+        slots_left = len(cat_lists) - i
+        share = max(1, remaining // slots_left)
+        take = len(lst) if len(lst) <= share else share
+        sampled += lst if take == len(lst) else random.sample(lst, take)
+        remaining -= take
+
+    # print counts of original vs sampled
     orig_counts = Counter(e["category"] for e in events)
     sampled_counts = Counter(e["category"] for e in sampled)
     for cat in orig_counts:

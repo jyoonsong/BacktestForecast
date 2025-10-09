@@ -9,6 +9,7 @@ def main():
     timestamp = utc_stamp()
     events = fetch_current_events()
     log(f"Fetched {len(events)} events from GitHub.")
+    
     sampled = stratified_sample_events(events)
 
     for e in sampled:
