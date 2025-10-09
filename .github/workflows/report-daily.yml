@@ -1,4 +1,4 @@
-name: Daily Kalshi Scraper
+name: Daily Report Generator
 
 permissions:
     contents: write
