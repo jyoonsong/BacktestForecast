@@ -15644,46 +15644,6 @@
         }
     },
     {
-        "event_ticker": "KXGOVCAPRIMARY-26",
-        "series_ticker": "KXGOVCAPRIMARY",
-        "title": "Who will win California's top-two primary for governor?",
-        "sub_title": "In 2026",
-        "mutually_exclusive": false,
-        "category": "Elections",
-        "bing_reports": {
-            "2025-07-28": "bing_kxgovcaprimary-26_2025-07-28"
-        },
-        "is_resolved": false,
-        "ddgs_reports": {
-            "20250830": "ddgs_kxgovcaprimary-26_20250830",
-            "20250831": "ddgs_kxgovcaprimary-26_20250831",
-            "20250902": "ddgs_kxgovcaprimary-26_20250902",
-            "20250903": "ddgs_kxgovcaprimary-26_20250903",
-            "20250904": "ddgs_kxgovcaprimary-26_20250904",
-            "20250905": "ddgs_kxgovcaprimary-26_20250905",
-            "20250906": "ddgs_kxgovcaprimary-26_20250906",
-            "20250907": "ddgs_kxgovcaprimary-26_20250907",
-            "20250908": "ddgs_kxgovcaprimary-26_20250908",
-            "20250909": "ddgs_kxgovcaprimary-26_20250909",
-            "20250910": "ddgs_kxgovcaprimary-26_20250910",
-            "20250911": "ddgs_kxgovcaprimary-26_20250911",
-            "20250912": "ddgs_kxgovcaprimary-26_20250912",
-            "20250913": "ddgs_kxgovcaprimary-26_20250913",
-            "20250914": "ddgs_kxgovcaprimary-26_20250914",
-            "20250915": "ddgs_kxgovcaprimary-26_20250915",
-            "20250916": "ddgs_kxgovcaprimary-26_20250916",
-            "20250917": "ddgs_kxgovcaprimary-26_20250917",
-            "20250918": "ddgs_kxgovcaprimary-26_20250918",
-            "20250919": "ddgs_kxgovcaprimary-26_20250919",
-            "20250920": "ddgs_kxgovcaprimary-26_20250920",
-            "20250921": "ddgs_kxgovcaprimary-26_20250921",
-            "20250922": "ddgs_kxgovcaprimary-26_20250922",
-            "20250924": "ddgs_kxgovcaprimary-26_20250924",
-            "20250926": "ddgs_kxgovcaprimary-26_20250926",
-            "20250929": "ddgs_kxgovcaprimary-26_20250929"
-        }
-    },
-    {
         "event_ticker": "KXCRYPTOSTRUCTURE-26JAN",
         "series_ticker": "KXCRYPTOSTRUCTURE",
         "title": "Will crypto market structure legislation become law this year?",
@@ -55250,33 +55210,11 @@
     },
     {
         "bing_reports": {},
-        "ddgs_reports": {
-            "20251003": "ddgs_kxrtwickedforgood_20251003"
-        },
-        "event_ticker": "KXRTWICKEDFORGOOD",
-        "series_ticker": "KXRTWICKEDFORGOOD",
-        "title": "\"Wicked: For Good\" Rotten Tomatoes score?",
-        "sub_title": "Nov 24, 2025",
-        "mutually_exclusive": false,
-        "category": "Entertainment"
-    },
-    {
-        "bing_reports": {},
         "ddgs_reports": {},
         "event_ticker": "KXRTTHERUNNINGMAN",
         "series_ticker": "KXRTTHERUNNINGMAN",
         "title": "\"The Running Man\" Rotten Tomatoes score?",
         "sub_title": "Nov 17, 2025",
-        "mutually_exclusive": false,
-        "category": "Entertainment"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXRTPREDATORBADLANDS",
-        "series_ticker": "KXRTPREDATORBADLANDS",
-        "title": "\"Predator: Badlands\" Rotten Tomatoes score?",
-        "sub_title": "Nov 10, 2025",
         "mutually_exclusive": false,
         "category": "Entertainment"
     },
@@ -56379,36 +56317,6 @@
     {
         "bing_reports": {},
         "ddgs_reports": {},
-        "event_ticker": "KXMLBGAME-25OCT08MILCHC",
-        "series_ticker": "KXMLBGAME",
-        "title": "Milwaukee vs Chicago C (Game 3)",
-        "sub_title": "MIL at CHC (Oct 8)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXMLBGAME-25OCT07TORNYY",
-        "series_ticker": "KXMLBGAME",
-        "title": "Toronto vs New York Y (Game 3)",
-        "sub_title": "TOR at NYY (Oct 7)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXMLBGAME-25OCT07SEADET",
-        "series_ticker": "KXMLBGAME",
-        "title": "Seattle vs Detroit (Game 3)",
-        "sub_title": "SEA at DET (Oct 7)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
         "event_ticker": "KXCALABRIAPRES-25OCT06",
         "series_ticker": "KXCALABRIAPRES",
         "title": "Who will win the 2025 Calabrian presidential election?",
@@ -56479,16 +56387,6 @@
     {
         "bing_reports": {},
         "ddgs_reports": {},
-        "event_ticker": "KXSWISSREF-EID-25",
-        "series_ticker": "KXSWISSREF",
-        "title": "Will the e-ID Act referendum in Switzerland pass?",
-        "sub_title": "In 2025",
-        "mutually_exclusive": false,
-        "category": "Elections"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
         "event_ticker": "KXMOLDOVAPARLIAMENT-25SEP28",
         "series_ticker": "KXMOLDOVAPARLIAMENT",
         "title": "Who will win the 2025 Moldova parliamentary election?",
@@ -56514,16 +56412,6 @@
         "title": "Which party will win the Pennsylvania Commonwealth Court election?",
         "sub_title": "In 2025",
         "mutually_exclusive": true,
-        "category": "Elections"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXGUINEAREF-25",
-        "series_ticker": "KXGUINEAREF",
-        "title": "Will the 2025 Constitutional Referendum in Guinea pass?",
-        "sub_title": "In 2025",
-        "mutually_exclusive": false,
         "category": "Elections"
     },
     {
@@ -56964,26 +56852,6 @@
     {
         "bing_reports": {},
         "ddgs_reports": {},
-        "event_ticker": "KXNHLGAME-25OCT07COLLA",
-        "series_ticker": "KXNHLGAME",
-        "title": "Colorado vs Los Angeles",
-        "sub_title": "COL at LA (Oct 7)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNHLGAME-25OCT07PITNYR",
-        "series_ticker": "KXNHLGAME",
-        "title": "Pittsburgh vs New York R",
-        "sub_title": "PIT at NYR (Oct 7)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
         "event_ticker": "KXFEDDECISION-28JAN",
         "series_ticker": "KXFEDDECISION",
         "title": "Fed decision in Jan 2028?",
@@ -57264,60 +57132,10 @@
     {
         "bing_reports": {},
         "ddgs_reports": {},
-        "event_ticker": "KXRAINNYC-25OCT07",
-        "series_ticker": "KXRAINNYC",
-        "title": "Will it rain in NYC on Oct 7, 2025?",
-        "sub_title": "On Oct 7, 2025",
-        "mutually_exclusive": false,
-        "category": "Climate and Weather"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXAPPRANKFREE-25OCT08",
-        "series_ticker": "KXAPPRANKFREE",
-        "title": "Top US iPhone app on Oct 8, 2025?",
-        "sub_title": "On Oct 8, 2025 at 10 AM ET",
-        "mutually_exclusive": true,
-        "category": "Entertainment"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXAPPRANKFREE2-25OCT08",
-        "series_ticker": "KXAPPRANKFREE2",
-        "title": "Runner-up US iPhone app on Oct 8, 2025?",
-        "sub_title": "On Oct 8, 2025 at 10 AM ET",
-        "mutually_exclusive": true,
-        "category": "Entertainment"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
         "event_ticker": "KXPICKLEBALLGAMES-JIGNJARN25OCT07",
         "series_ticker": "KXPICKLEBALLGAMES",
         "title": "PPA Tour Men's Singles: James Ignatowich vs. Julian Arnold",
         "sub_title": "On Oct 7, 2025",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXWTAMATCH-25OCT07CIROST",
-        "series_ticker": "KXWTAMATCH",
-        "title": "Cirstea vs Ostapenko",
-        "sub_title": "Cirstea vs Ostapenko",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXWTAMATCH-25OCT07RADANN",
-        "series_ticker": "KXWTAMATCH",
-        "title": "Raducanu vs Li",
-        "sub_title": "Raducanu vs Li",
         "mutually_exclusive": true,
         "category": "Sports"
     },
@@ -57624,120 +57442,10 @@
     {
         "bing_reports": {},
         "ddgs_reports": {},
-        "event_ticker": "KXMLBGAME-25OCT08SEADET",
-        "series_ticker": "KXMLBGAME",
-        "title": "Seattle vs Detroit (Game 4)",
-        "sub_title": "SEA at DET (Oct 8)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXWTAMATCH-25OCT08PAOYUA",
-        "series_ticker": "KXWTAMATCH",
-        "title": "Paolini vs Yuan",
-        "sub_title": "Paolini vs Yuan",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXATPMATCH-25OCT08AUGMUS",
-        "series_ticker": "KXATPMATCH",
-        "title": "Auger-Aliassime vs Musetti",
-        "sub_title": "Auger-Aliassime vs Musetti",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXWTAMATCH-25OCT08OSANOS",
-        "series_ticker": "KXWTAMATCH",
-        "title": "Osaka vs Noskova",
-        "sub_title": "Osaka vs Noskova",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXWTAMATCH-25OCT08ZHACIR",
-        "series_ticker": "KXWTAMATCH",
-        "title": "Zhang vs Cirstea",
-        "sub_title": "Zhang vs Cirstea",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXATPMATCH-25OCT08BORDE",
-        "series_ticker": "KXATPMATCH",
-        "title": "Borges vs de Minaur",
-        "sub_title": "Borges vs de Minaur",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXWTAMATCH-25OCT08SABSRA",
-        "series_ticker": "KXWTAMATCH",
-        "title": "Sabalenka vs Sramkova",
-        "sub_title": "Sabalenka vs Sramkova",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXWTAMATCH-25OCT08RUZTAU",
-        "series_ticker": "KXWTAMATCH",
-        "title": "Ruzic vs Tauson",
-        "sub_title": "Ruzic vs Tauson",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
         "event_ticker": "KXWTAMATCH-25OCT08BENMER",
         "series_ticker": "KXWTAMATCH",
         "title": "Bencic vs Mertens",
         "sub_title": "Bencic vs Mertens",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXATPMATCH-25OCT08RINLEH",
-        "series_ticker": "KXATPMATCH",
-        "title": "Rinderknech vs Lehecka",
-        "sub_title": "Rinderknech vs Lehecka",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXWTAMATCH-25OCT08UCHGAU",
-        "series_ticker": "KXWTAMATCH",
-        "title": "Uchijima vs Gauff",
-        "sub_title": "Uchijima vs Gauff",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXWTAMATCH-25OCT08KENSAM",
-        "series_ticker": "KXWTAMATCH",
-        "title": "Kenin vs Samsonova",
-        "sub_title": "Kenin vs Samsonova",
         "mutually_exclusive": true,
         "category": "Sports"
     },
@@ -57754,46 +57462,6 @@
     {
         "bing_reports": {},
         "ddgs_reports": {},
-        "event_ticker": "KXWTAMATCH-25OCT07JOVBOU",
-        "series_ticker": "KXWTAMATCH",
-        "title": "Jovic vs Bouzas Maneiro",
-        "sub_title": "Jovic vs Bouzas Maneiro",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXWTAMATCH-25OCT07JOISIN",
-        "series_ticker": "KXWTAMATCH",
-        "title": "Joint vs Siniakova",
-        "sub_title": "Joint vs Siniakova",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXWTAMATCH-25OCT07BAPPEG",
-        "series_ticker": "KXWTAMATCH",
-        "title": "Baptiste vs Pegula",
-        "sub_title": "Baptiste vs Pegula",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXWTAMATCH-25OCT07ALEANN",
-        "series_ticker": "KXWTAMATCH",
-        "title": "Alexandrova vs Li",
-        "sub_title": "Alexandrova vs Li",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
         "event_ticker": "KXATPMATCH-25OCT07BERDJO",
         "series_ticker": "KXATPMATCH",
         "title": "Bergs vs Djokovic",
@@ -57804,10 +57472,490 @@
     {
         "bing_reports": {},
         "ddgs_reports": {},
-        "event_ticker": "KXPICKLEBALLGAMES-JONBELDIMSOC25OCT07",
+        "event_ticker": "KXCOACHOUTUNC-1",
+        "series_ticker": "KXCOACHOUTUNC",
+        "title": "Will Bill Belichick leave UNC this month?",
+        "sub_title": "Before Nov 1, 2025",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXCBDECISIONCANADA-25OCT",
+        "series_ticker": "KXCBDECISIONCANADA",
+        "title": "Bank of Canada decision in Oct 2025?",
+        "sub_title": "In Oct 2025",
+        "mutually_exclusive": true,
+        "category": "World"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAFGAME-25OCT25CSUWYO",
+        "series_ticker": "KXNCAAFGAME",
+        "title": "Colorado St. at Wyoming",
+        "sub_title": "CSU at WYO (Oct 25)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAFGAME-25OCT25ULLTROY",
+        "series_ticker": "KXNCAAFGAME",
+        "title": "Louisiana at Troy",
+        "sub_title": "ULL at TROY (Oct 25)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAFGAME-25OCT25GASOARST",
+        "series_ticker": "KXNCAAFGAME",
+        "title": "Georgia Southern at Arkansas St.",
+        "sub_title": "GASO at ARST (Oct 25)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAFGAME-25OCT25WMUM-OH",
+        "series_ticker": "KXNCAAFGAME",
+        "title": "Western Michigan at Miami (OH)",
+        "sub_title": "WMU at M-OH (Oct 25)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAFGAME-25OCT25TOLWSU",
+        "series_ticker": "KXNCAAFGAME",
+        "title": "Toledo at Washington St.",
+        "sub_title": "TOL at WSU (Oct 25)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAFGAME-25OCT25MASSCMU",
+        "series_ticker": "KXNCAAFGAME",
+        "title": "UMass at Central Michigan",
+        "sub_title": "MASS at CMU (Oct 25)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAFGAME-25OCT25FAUNAVY",
+        "series_ticker": "KXNCAAFGAME",
+        "title": "Florida Atlantic at Navy",
+        "sub_title": "FAU at NAVY (Oct 25)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAFGAME-25OCT25USUUNM",
+        "series_ticker": "KXNCAAFGAME",
+        "title": "Utah St. at New Mexico",
+        "sub_title": "USU at UNM (Oct 25)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAFGAME-25OCT24BSUNEV",
+        "series_ticker": "KXNCAAFGAME",
+        "title": "Boise St. at Nevada",
+        "sub_title": "BSU at NEV (Oct 24)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAFGAME-25OCT24CALVT",
+        "series_ticker": "KXNCAAFGAME",
+        "title": "California at Virginia Tech",
+        "sub_title": "CAL at VT (Oct 24)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAFGAME-25OCT24UNTCHAR",
+        "series_ticker": "KXNCAAFGAME",
+        "title": "North Texas at Charlotte",
+        "sub_title": "UNT at CHAR (Oct 24)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAFGAME-25OCT23USAGAST",
+        "series_ticker": "KXNCAAFGAME",
+        "title": "South Alabama at Georgia St.",
+        "sub_title": "USA at GAST (Oct 23)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAFGAME-25OCT22MOSUNMSU",
+        "series_ticker": "KXNCAAFGAME",
+        "title": "Missouri St. at New Mexico St.",
+        "sub_title": "MOSU at NMSU (Oct 22)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAFGAME-25OCT22MTUDEL",
+        "series_ticker": "KXNCAAFGAME",
+        "title": "Middle Tennessee at Delaware",
+        "sub_title": "MTU at DEL (Oct 22)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAFGAME-25OCT21WKULT",
+        "series_ticker": "KXNCAAFGAME",
+        "title": "Western Kentucky at Louisiana Tech",
+        "sub_title": "WKU at LT (Oct 21)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAFGAME-25OCT21KENNFIU",
+        "series_ticker": "KXNCAAFGAME",
+        "title": "Kennesaw St. at Florida International",
+        "sub_title": "KENN at FIU (Oct 21)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNFLGAME-25OCT20HOUSEA",
+        "series_ticker": "KXNFLGAME",
+        "title": "Houston at Seattle",
+        "sub_title": "HOU at SEA (Oct 20)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNFLGAME-25OCT20TBDET",
+        "series_ticker": "KXNFLGAME",
+        "title": "Tampa Bay at Detroit",
+        "sub_title": "TB at DET (Oct 20)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNFLGAME-25OCT19ATLSF",
+        "series_ticker": "KXNFLGAME",
+        "title": "Atlanta at San Francisco",
+        "sub_title": "ATL at SF (Oct 19)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNFLGAME-25OCT19WASDAL",
+        "series_ticker": "KXNFLGAME",
+        "title": "Washington at Dallas",
+        "sub_title": "WAS at DAL (Oct 19)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNFLGAME-25OCT19GBARI",
+        "series_ticker": "KXNFLGAME",
+        "title": "Green Bay at Arizona",
+        "sub_title": "GB at ARI (Oct 19)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNFLGAME-25OCT19NYGDEN",
+        "series_ticker": "KXNFLGAME",
+        "title": "New York G at Denver",
+        "sub_title": "NYG at DEN (Oct 19)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNFLGAME-25OCT19INDLAC",
+        "series_ticker": "KXNFLGAME",
+        "title": "Indianapolis at Los Angeles C",
+        "sub_title": "IND at LAC (Oct 19)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNFLGAME-25OCT19PHIMIN",
+        "series_ticker": "KXNFLGAME",
+        "title": "Philadelphia at Minnesota",
+        "sub_title": "PHI at MIN (Oct 19)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNFLGAME-25OCT19NOCHI",
+        "series_ticker": "KXNFLGAME",
+        "title": "New Orleans at Chicago",
+        "sub_title": "NO at CHI (Oct 19)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNFLGAME-25OCT19NETEN",
+        "series_ticker": "KXNFLGAME",
+        "title": "New England at Tennessee",
+        "sub_title": "NE at TEN (Oct 19)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNFLGAME-25OCT19MIACLE",
+        "series_ticker": "KXNFLGAME",
+        "title": "Miami at Cleveland",
+        "sub_title": "MIA at CLE (Oct 19)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNFLGAME-25OCT19LVKC",
+        "series_ticker": "KXNFLGAME",
+        "title": "Las Vegas at Kansas City",
+        "sub_title": "LV at KC (Oct 19)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNFLGAME-25OCT19CARNYJ",
+        "series_ticker": "KXNFLGAME",
+        "title": "Carolina at New York J",
+        "sub_title": "CAR at NYJ (Oct 19)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNFLGAME-25OCT19LAJAC",
+        "series_ticker": "KXNFLGAME",
+        "title": "Los Angeles R at Jacksonville",
+        "sub_title": "LA at JAC (Oct 19)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNFLGAME-25OCT16PITCIN",
+        "series_ticker": "KXNFLGAME",
+        "title": "Pittsburgh at Cincinnati",
+        "sub_title": "PIT at CIN (Oct 16)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXSPOTIFYSONGTAYLORSWIFT-25",
+        "series_ticker": "KXSPOTIFYSONGTAYLORSWIFT",
+        "title": "Will Taylor Swift release another new song before October 11th?",
+        "sub_title": "Before October 11, 2025",
+        "mutually_exclusive": false,
+        "category": "Entertainment"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXPICKLEBALLGAMES-LOOFUEMMLOY25OCT08",
         "series_ticker": "KXPICKLEBALLGAMES",
-        "title": "PPA Tour Mixed Doubles: Jones/Bellamy vs. DiMuzio/Sock",
-        "sub_title": "On Oct 7, 2025",
+        "title": "PPA Tour Men's Doubles: Loong/Fu vs. Emmrich/Loyd Winner",
+        "sub_title": "On Oct 8, 2025",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXRAINNYC-25OCT09",
+        "series_ticker": "KXRAINNYC",
+        "title": "Will it rain in NYC on Oct 9, 2025?",
+        "sub_title": "On Oct 9, 2025",
+        "mutually_exclusive": false,
+        "category": "Climate and Weather"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXAPPRANKFREE-25OCT10",
+        "series_ticker": "KXAPPRANKFREE",
+        "title": "Top US iPhone app on Oct 10, 2025?",
+        "sub_title": "On Oct 10, 2025 at 10 AM ET",
+        "mutually_exclusive": true,
+        "category": "Entertainment"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXAPPRANKFREE2-25OCT10",
+        "series_ticker": "KXAPPRANKFREE2",
+        "title": "Runner-up US iPhone app on Oct 10, 2025?",
+        "sub_title": "On Oct 10, 2025 at 10 AM ET",
+        "mutually_exclusive": true,
+        "category": "Entertainment"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXMLBGAME-25OCT09MILCHC",
+        "series_ticker": "KXMLBGAME",
+        "title": "Milwaukee vs Chicago C (Game 4)",
+        "sub_title": "MIL at CHC (Oct 9)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXWTAMATCH-25OCT09BENSWI",
+        "series_ticker": "KXWTAMATCH",
+        "title": "Bencic vs Swiatek",
+        "sub_title": "Bencic vs Swiatek",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXWTAMATCH-25OCT09NOSRYB",
+        "series_ticker": "KXWTAMATCH",
+        "title": "Noskova vs Rybakina",
+        "sub_title": "Noskova vs Rybakina",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXATPMATCH-25OCT09RUNVAC",
+        "series_ticker": "KXATPMATCH",
+        "title": "Rune vs Vacherot",
+        "sub_title": "Rune vs Vacherot",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXWTAMATCH-25OCT09PAOTAU",
+        "series_ticker": "KXWTAMATCH",
+        "title": "Paolini vs Tauson",
+        "sub_title": "Paolini vs Tauson",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXWTAMATCH-25OCT09SABSAM",
+        "series_ticker": "KXWTAMATCH",
+        "title": "Sabalenka vs Samsonova",
+        "sub_title": "Sabalenka vs Samsonova",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXWTAMATCH-25OCT09SIEFRE",
+        "series_ticker": "KXWTAMATCH",
+        "title": "Siegemund vs Frech",
+        "sub_title": "Siegemund vs Frech",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXWTAMATCH-25OCT08JOVSIN",
+        "series_ticker": "KXWTAMATCH",
+        "title": "Jovic vs Siniakova",
+        "sub_title": "Jovic vs Siniakova",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXWTAMATCH-25OCT08ALEPEG",
+        "series_ticker": "KXWTAMATCH",
+        "title": "Alexandrova vs Pegula",
+        "sub_title": "Alexandrova vs Pegula",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXMLBGAME-25OCT08TORNYY",
+        "series_ticker": "KXMLBGAME",
+        "title": "Toronto vs New York Y (Game 4)",
+        "sub_title": "TOR at NYY (Oct 8)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXPICKLEBALLGAMES-JOHGESOCROD25OCT08",
+        "series_ticker": "KXPICKLEBALLGAMES",
+        "title": "PPA Tour Men's Doubles: Johnson/Ge vs. Sock/Roddy",
+        "sub_title": "On Oct 8, 2025",
         "mutually_exclusive": true,
         "category": "Sports"
     }
