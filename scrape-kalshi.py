@@ -136,10 +136,10 @@ def scrape_kalshi_events():
 
     # File names we read from and write back to.
     files = [
-        "active_events.json", 
-        "resolved_events.json",
-        "active_markets.json", 
-        "resolved_markets.json",
+        "data/active_events.json", 
+        "data/resolved_events.json",
+        "data/active_markets.json", 
+        "data/resolved_markets.json",
     ]
 
     # Load previous snapshots; these files are expected to exist beforehand.

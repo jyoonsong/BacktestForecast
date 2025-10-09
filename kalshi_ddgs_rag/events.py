@@ -6,7 +6,7 @@ from .config import TARGET_EVENTS
 
 def fetch_current_events() -> List[Dict[str, any]]:
     """Fetch active events from GitHub."""
-    url = "https://raw.githubusercontent.com/jyoonsong/FutureBench/refs/heads/main/active_events.json"
+    url = "https://raw.githubusercontent.com/jyoonsong/FutureBench/refs/heads/main/data/active_events.json"
     for _ in range(5):
         try:
             return requests.get(url, timeout=10).json()

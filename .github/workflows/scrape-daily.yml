@@ -31,4 +31,4 @@ jobs:
                   GITHUB_REPOSITORY: ${{ github.repository }}
                   # Mongo URI
                   MONGO_URI: ${{ secrets.MONGO_URI }}
-              run: python scrape-kalshi.py
+              run: python -u scrape-kalshi.py
