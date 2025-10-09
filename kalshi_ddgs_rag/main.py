@@ -5,17 +5,17 @@ from .events import fetch_current_events, stratified_sample_events
 from .summarization import get_ddgs_report
 
 def main():
-    log("Starting daily report generation...")
+    print("Starting daily report generation...")
     timestamp = utc_stamp()
     events = fetch_current_events()
-    log(f"Fetched {len(events)} events from GitHub.")
-    
+    print(f"Fetched {len(events)} events from GitHub.")
+
     sampled = stratified_sample_events(events)
 
     for e in sampled:
         ticker = e["event_ticker"]
         if read_from_db(timestamp, ticker):
-            log(f"Already exists: {ticker}, skipping.")
+            print(f"Already exists: {ticker}, skipping.")
             continue
 
         try:
@@ -29,9 +29,9 @@ def main():
             report, contents = get_ddgs_report(event)
             write_to_db(report, contents, timestamp, ticker)
         except Exception as err:
-            log(f"Failed processing {ticker}: {err}")
+            print(f"Failed processing {ticker}: {err}")
 
-    log("Report generation completed.")
+    print("Report generation completed.")
 
 if __name__ == "__main__":
     main()

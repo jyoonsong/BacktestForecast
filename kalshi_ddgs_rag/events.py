@@ -11,7 +11,7 @@ def fetch_current_events() -> List[Dict[str, any]]:
         try:
             return requests.get(url, timeout=10).json()
         except Exception as e:
-            log(f"Retrying fetch_current_events: {e}")
+            print(f"Retrying fetch_current_events: {e}")
             time.sleep(2)
     raise RuntimeError("Failed to fetch events after retries.")
 
@@ -41,5 +41,5 @@ def stratified_sample_events(events: List[Dict[str, any]], target: int = TARGET_
     orig_counts = Counter(e["category"] for e in events)
     sampled_counts = Counter(e["category"] for e in sampled)
     for cat in orig_counts:
-        log(f"{cat}: original={orig_counts[cat]}, sampled={sampled_counts.get(cat, 0)}")
+        print(f"{cat}: original={orig_counts[cat]}, sampled={sampled_counts.get(cat, 0)}")
     return sampled

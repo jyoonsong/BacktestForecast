@@ -7,7 +7,7 @@ def write_to_db(report: str, contents: List[Dict[str, Any]], timestamp: str, eve
     collection = db["reports"]
     data = {"timestamp": timestamp, "event_ticker": event_ticker, "ddgs_report": report}
     result = collection.insert_one(data)
-    log(f"Inserted document with _id: {result.inserted_id}")
+    print(f"Inserted document with _id: {result.inserted_id}")
 
 def read_from_db(timestamp: str, event_ticker: str) -> str | None:
     """Retrieve a stored report from MongoDB if exists."""

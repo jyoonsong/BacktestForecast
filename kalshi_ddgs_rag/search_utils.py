@@ -41,5 +41,5 @@ def scrape_urls(search_results: List[Dict[str, Any]], num_urls: int = NUM_URLS) 
                     "article": text,
                 })
         except Exception as e:
-            log(f"Scrape failed for {url}: {e}")
+            print(f"Scrape failed for {url}: {e}")
     return contents
