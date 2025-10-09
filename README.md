@@ -1,25 +1,8 @@
-# FutureBench
+# BacktestForecast
 
-### TODOS
 
--   Archive urls using `savepagenow`
--   Use jsonl instead of json
--   Import bing reports
--   Move datasets to HuggingFace
+### Abstract
 
-```
-jobs:
-  build-and-push:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
-        with: { python-version: "3.11" }
-      - run: pip install huggingface_hub datasets pyarrow fastparquet
-      - name: Run scraper & build tables
-        run: python scripts/build_tables.py --out data_out/
-      - name: Push to HF Hub
-        env: { HF_TOKEN: ${{ secrets.HF_TOKEN }} }
-        run: |
-          python scripts/push_to_hub.py --repo-id your-org/futurebench --path data_out/ --tag snapshot-$(date -u +%Y%m%d)
-```
+The rise of large language models (LLMs) has made scalable forecasting increasingly feasible, as these models have access to massive amounts of context. Yet evaluating their forecasting ability presents three methodological challenges. Standard benchmarks are vulnerable to **temporal contamination**, where outcomes are already known before the model’s training cutoff, and to **staleness confounds**, where newer models gain unfair advantage from fresher data. Dynamic benchmarks address temporal leakage by tracking unresolved questions, but this results in **long evaluation delays**, since evaluators must wait for outcomes to resolve before judging the accuracy. We address these issues with a forward-only, backtestable evaluation framework built on frozen context snapshots: contemporaneous, structured summaries of web search results paired with forecasting questions. Our pipeline continuously scrapes unresolved questions from prediction markets and captures their supporting context at the time of scraping, eliminating temporal contamination and mitigating staleness effects. Once questions resolve, these snapshots enable rapid backtesting of diverse forecasting strategies, substantially accelerating research cycles. This framework provides a rigorous, reproducible, and open-source foundation for studying the forecasting capabilities of LLMs. Through two experiments, we demonstrate that our approach enables the rapid identification of effective forecasting strategies.
+
+
