@@ -1,240 +1,293 @@
 # -----------------------------------------------------------------------------
-# Kalshi Event DDGS Search RAG Pipeline (Synchronous Version)
+# Kalshi Event DDGS Search RAG Pipeline
 # -----------------------------------------------------------------------------
 
-import requests
-from ddgs import DDGS
-from bs4 import BeautifulSoup
-from dotenv import load_dotenv
 import os
-from pymongo import MongoClient
-import datetime as dt
-from typing import List, Dict, Any
 import json
 import time
 import random
+import datetime as dt
+from typing import List, Dict, Any, Tuple
 from collections import Counter
+
+import requests
+from bs4 import BeautifulSoup
+from ddgs import DDGS
+from pymongo import MongoClient
 from openai import OpenAI
 
-# Load env vars
-# load_dotenv()
+# -----------------------------------------------------------------------------
+# Configuration
+# -----------------------------------------------------------------------------
 
-# Sync OpenAI client
-client = OpenAI(
-    organization=os.getenv("OPENAI_ORG_ID"),
-    api_key=os.getenv("OPENAI_API_KEY")
-)
+MODEL_NAME = "gpt-4o-mini-2024-07-18"
+TARGET_EVENTS = 200
+NUM_QUERIES = 6
+NUM_URLS = 5
+MAX_QUERY_WORDS = 7
 
-# Mongo
 MONGO_URI = os.getenv("MONGO_URI")
+OPENAI_ORG_ID = os.getenv("OPENAI_ORG_ID")
+OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
+
+client = OpenAI(organization=OPENAI_ORG_ID, api_key=OPENAI_API_KEY)
 mongo_client = MongoClient(MONGO_URI)
 db = mongo_client["forecasting"]
 
 # -----------------------------------------------------------------------------
+# Utility Functions
+# -----------------------------------------------------------------------------
 
-def utc_stamp():
+def utc_stamp() -> str:
+    """Return current UTC date as YYYYMMDD string."""
     return dt.datetime.utcnow().strftime("%Y%m%d")
 
-def write_to_db(report, contents, timestamp, event_ticker):
-    collection = db["reports"]
-    data = {
-        "timestamp": timestamp,
-        "event_ticker": event_ticker,
-        "ddgs_report": report,
-    }
-    result = collection.insert_one(data)
-    print(f"Inserted document with _id: {result.inserted_id}")
+def log(msg: str):
+    """Simple timestamped logger."""
+    print(f"[{dt.datetime.utcnow().strftime('%H:%M:%S')}] {msg}")
 
-def read_from_db(timestamp, event_ticker):
+# -----------------------------------------------------------------------------
+# MongoDB I/O
+# -----------------------------------------------------------------------------
+
+def write_to_db(report: str, contents: List[Dict[str, Any]], timestamp: str, event_ticker: str):
+    """Insert the report and contents into MongoDB."""
+    collection = db["reports"]
+    data = {"timestamp": timestamp, "event_ticker": event_ticker, "ddgs_report": report}
+    result = collection.insert_one(data)
+    log(f"Inserted document with _id: {result.inserted_id}")
+
+def read_from_db(timestamp: str, event_ticker: str) -> str | None:
+    """Retrieve stored report from MongoDB."""
     collection = db["reports"]
     query = {"timestamp": timestamp, "event_ticker": event_ticker}
-    reports = list(collection.find(query))
-    return None if not reports else reports[0]["ddgs_report"]
+    record = collection.find_one(query)
+    return record["ddgs_report"] if record else None
 
-def get_market_descriptions(event, markets):
-    market_descriptions = "" 
-    if len(markets) == 1:
-        m = markets[0]
-        market_descriptions = f"""Event title: {event['title']}
-Title: {m['title']}
-Subtitle: {m['yes_sub_title']}
-Possible Outcomes: Yes (0) or No (1)
-Rules: {m['rules_primary']}"""
-        if isinstance(m['rules_secondary'], str) and len(m['rules_secondary']) > 0:
-            market_descriptions += f"\nSecondary rules: {m['rules_secondary']}"
-        market_descriptions += f"\nScheduled close date: {m['expiration_time']}\n"
-    else:
-        for idx, m in enumerate(markets):
-            market_descriptions += f"""# Market {idx + 1}
-Ticker: {m['ticker']}
-Title: {m['title']}
-Subtitle: {m.get('yes_sub_title', '')}
-Possible Outcomes: Yes (0) or No (1)
-Rules: {m.get('rules_primary', '')}"""
-            if isinstance(m.get('rules_secondary', None), str) and len(m.get('rules_secondary', '')) > 0:
-                market_descriptions += f"\nSecondary rules: {m['rules_secondary']}"
-            market_descriptions += f"\nScheduled close date: {m['expiration_time']}\n\n"
-    return market_descriptions
+# -----------------------------------------------------------------------------
+# OpenAI Helpers
+# -----------------------------------------------------------------------------
 
-def run_openai(prompt, model="gpt-4o-mini-2024-07-18"):
-    response = client.chat.completions.create(
-        model=model,
-        messages=[{"role": "user", "content": prompt}],
-    )
-    return response.choices[0].message.content
+def run_openai(prompt: str, model: str = MODEL_NAME) -> str:
+    """Run an OpenAI chat completion."""
+    try:
+        response = client.chat.completions.create(
+            model=model,
+            messages=[{"role": "user", "content": prompt}],
+        )
+        return response.choices[0].message.content.strip()
+    except Exception as e:
+        log(f"OpenAI API error: {e}")
+        return ""
 
-def step1_generate_queries(event, market_descriptions):
-    num_queries = 6
-    max_words_in_query = 7
-    query_prompt = f"""The following are markets under the event titled "{event['title']}". 
+# -----------------------------------------------------------------------------
+# DDGS Search & Web Scraping
+# -----------------------------------------------------------------------------
 
-{market_descriptions}
-
-# Instructions
-What are {num_queries} short search queries that would meaningfully improve the accuracy and confidence of a forecast regarding the market outcomes described above? Output exactly {num_queries} queries, one query per line, without any other text or number. Each query should be less than {max_words_in_query} words. 
-Important Note: Do not include any numbers or special characters in the queries. Do not include any other text or explanation outside the queries."""
-    output_text = run_openai(query_prompt)
-    queries = [q.strip() for q in output_text.strip().split("\n") if q.strip()]
-    # print(queries)
-    return queries
-
-def step2_search_ddgs(search_query, num_urls=5):
-    results = list(DDGS().text(search_query, max_results=num_urls * 2, timelimit="y") or [])
-    search_results, seen_urls = [], set()
+def search_ddgs(query: str, num_urls: int = NUM_URLS) -> List[Dict[str, Any]]:
+    """Perform DuckDuckGo search for a query."""
+    results = list(DDGS().text(query, max_results=num_urls * 2, timelimit="y") or [])
+    seen, deduped = set(), []
     for r in results:
         href = r.get("href")
-        if href and href not in seen_urls:
-            seen_urls.add(href)
-            search_results.append(r)
-    return search_results
+        if href and href not in seen:
+            seen.add(href)
+            deduped.append(r)
+    return deduped[:num_urls]
 
-def step3_scrape_urls(search_results, num_urls=5):
+def scrape_urls(search_results: List[Dict[str, Any]], num_urls: int = NUM_URLS) -> List[Dict[str, str]]:
+    """Scrape HTML pages and extract paragraph text."""
     contents = []
-    headers = {'User-Agent': 'Mozilla/5.0'}
+    headers = {"User-Agent": "Mozilla/5.0"}
     for result in search_results[:num_urls]:
-        url = result.get('href')
-        if not url: 
+        url = result.get("href")
+        if not url:
             continue
         try:
             resp = requests.get(url, timeout=15, headers=headers)
             if resp.status_code != 200:
                 continue
             soup = BeautifulSoup(resp.text, "html.parser")
-            for tag in soup(['script', 'style']):
+            for tag in soup(["script", "style"]):
                 tag.decompose()
-            paragraphs = soup.find_all('p')
-            article_text = "\n".join(p.get_text(" ", strip=True) for p in paragraphs)
-            if 200 <= len(article_text) <= 100000:
+            paragraphs = soup.find_all("p")
+            text = "\n".join(p.get_text(" ", strip=True) for p in paragraphs)
+            if 200 <= len(text) <= 100000:
                 contents.append({
-                    "title": result.get('title', ''),
-                    "body": result.get('body', ''),
+                    "title": result.get("title", ""),
+                    "body": result.get("body", ""),
                     "href": url,
-                    "article": article_text
+                    "article": text,
                 })
         except Exception as e:
-            continue
+            log(f"Scrape failed for {url}: {e}")
     return contents
 
-def step4_summarization(contents, event, market_descriptions):
-    articles_concatenated = ""
-    for i, c in enumerate(contents):
-        articles_concatenated += f"""# Article {i+1}
-Title: {c['title']}
-Body: {c['body']}
-Source URL: {c['href']}
-Full Content: {c['article']}\n\n"""
-    prompt = f"""The following are markets under the event titled "{event['title']}".
+# -----------------------------------------------------------------------------
+# Query & Summarization Steps
+# -----------------------------------------------------------------------------
+
+def get_market_descriptions(event: Dict[str, Any]) -> str:
+    """Generate readable descriptions for markets."""
+    markets = event["markets"]
+    if len(markets) == 1:
+        m = markets[0]
+        desc = (
+            f"Event title: {event['title']}\n"
+            f"Title: {m['title']}\n"
+            f"Subtitle: {m['yes_sub_title']}\n"
+            "Possible Outcomes: Yes (0) or No (1)\n"
+            f"Rules: {m['rules_primary']}\n"
+        )
+        if m.get("rules_secondary"):
+            desc += f"Secondary rules: {m['rules_secondary']}\n"
+        desc += f"Scheduled close date: {m['expiration_time']}\n"
+        return desc
+    desc = ""
+    for idx, m in enumerate(markets, start=1):
+        desc += (
+            f"# Market {idx}\n"
+            f"Ticker: {m['ticker']}\n"
+            f"Title: {m['title']}\n"
+            f"Subtitle: {m.get('yes_sub_title', '')}\n"
+            "Possible Outcomes: Yes (0) or No (1)\n"
+            f"Rules: {m.get('rules_primary', '')}\n"
+        )
+        if m.get("rules_secondary"):
+            desc += f"Secondary rules: {m['rules_secondary']}\n"
+        desc += f"Scheduled close date: {m['expiration_time']}\n\n"
+    return desc
+
+def generate_search_queries(event: Dict[str, Any], market_descriptions: str) -> List[str]:
+    """Generate search queries via OpenAI."""
+    prompt = f"""
+The following are markets under the event titled "{event['title']}". 
+
 {market_descriptions}
 
-{articles_concatenated}
+# Instructions
+What are {NUM_QUERIES} short search queries that would meaningfully improve the accuracy and confidence of a forecast regarding the market outcomes described above? 
+Output exactly {NUM_QUERIES} queries, one query per line, without any other text or number. 
+Each query should be less than {MAX_QUERY_WORDS} words.
+Do not include numbers, symbols, or explanations.
+"""
+    output = run_openai(prompt)
+    return [line.strip() for line in output.splitlines() if line.strip()]
+
+def summarize_articles(contents: List[Dict[str, str]], event: Dict[str, Any], market_descriptions: str) -> str:
+    """Summarize scraped articles via OpenAI."""
+    all_articles = ""
+    for i, c in enumerate(contents, 1):
+        all_articles += (
+            f"# Article {i}\n"
+            f"Title: {c['title']}\n"
+            f"Body: {c['body']}\n"
+            f"Source URL: {c['href']}\n"
+            f"Full Content: {c['article']}\n\n"
+        )
+
+    prompt = f"""
+The following are markets under the event titled "{event['title']}".
+{market_descriptions}
+
+{all_articles}
 
 # Instructions
-Carefully read the articles provided above. Your task is to generate a multi-paragraph summary (one paragraph per article) that highlights factual insights or relevant context related to the listed markets. Avoid subjective opinions or speculative statements. Use plain text without markdown syntax, heading, or numbering. Do not add any additional text outside the summary.
-Return blank for an article that does not contain relevant information. Not all of the articles are relevant to the markets above. Some are clearly unrelated to the topic and should be excluded. Exclude only the articles that are clearly off-topic, entirely unrelated to the markets. If an article is at least broadly related or offers potentially useful context, it should be considered relevant.
-Important note: Include the date and source URL of the article at the end of each paragraph."""
-
+Generate one paragraph per relevant article summarizing factual insights or context related to these markets. 
+Avoid subjective statements. Include the article date and source URL at the end of each paragraph.
+Exclude articles that are entirely unrelated.
+"""
     return run_openai(prompt)
 
-def process_query(search_query, event, market_descriptions, num_urls=5):
-    results  = step2_search_ddgs(search_query, num_urls)
-    contents = step3_scrape_urls(results, num_urls)
-    summary  = step4_summarization(contents, event, market_descriptions)
+def process_query(query: str, event: Dict[str, Any], market_descriptions: str) -> Tuple[str, List[Dict[str, str]]]:
+    """Run full pipeline for a single query."""
+    results = search_ddgs(query)
+    contents = scrape_urls(results)
+    summary = summarize_articles(contents, event, market_descriptions)
     return summary, contents
 
-def get_ddgs_report(index, event):
-    market_descriptions = get_market_descriptions(event, event['markets'])
-    queries = step1_generate_queries(event, market_descriptions)
+def get_ddgs_report(event: Dict[str, Any]) -> Tuple[str, List[List[Dict[str, str]]]]:
+    """Generate combined DDGS research report for a single event."""
+    market_descriptions = get_market_descriptions(event)
+    queries = generate_search_queries(event, market_descriptions)
     summaries, all_contents = [], []
     for q in queries:
         summary, contents = process_query(q, event, market_descriptions)
         summaries.append(summary)
         all_contents.append(contents)
-    reports = "\n\n".join(f"# Research Report {i+1}:\n{summary}" for i, summary in enumerate(summaries)).strip()
-    return reports, all_contents
+    combined_report = "\n\n".join(f"# Research Report {i+1}\n{summary}" for i, summary in enumerate(summaries))
+    return combined_report.strip(), all_contents
 
-def fetch_current_events():
+# -----------------------------------------------------------------------------
+# Event Fetching & Sampling
+# -----------------------------------------------------------------------------
+
+def fetch_current_events() -> List[Dict[str, Any]]:
+    """Fetch current active Kalshi events."""
     url = "https://raw.githubusercontent.com/jyoonsong/FutureBench/refs/heads/main/active_events.json"
-    events = None
-    while events == None:
+    for _ in range(5):
         try:
-            r = requests.get(url)
-            events = r.json()
-            return events
+            return requests.get(url, timeout=10).json()
         except Exception as e:
-            print("Retrying fetch_current_events:", e)
-            events = None
+            log(f"Retrying fetch_current_events: {e}")
+            time.sleep(2)
+    raise RuntimeError("Failed to fetch events after 5 retries.")
+
+def stratified_sample_events(events: List[Dict[str, Any]], target: int = TARGET_EVENTS) -> List[Dict[str, Any]]:
+    """Sample events across categories."""
+    if len(events) <= target:
+        return events
+    random.seed(37)
+    categories = {}
+    for e in events:
+        categories.setdefault(e["category"], []).append(e)
+    sampled, remaining = [], target
+    cat_lists = sorted(categories.values(), key=len)
+    for i, lst in enumerate(cat_lists):
+        share = max(1, remaining // (len(cat_lists) - i))
+        take = len(lst) if len(lst) <= share else random.sample(lst, share)
+        sampled += take
+        remaining -= min(len(lst), share)
+    orig_counts = Counter(e["category"] for e in events)
+    sampled_counts = Counter(e["category"] for e in sampled)
+    for cat in orig_counts:
+        log(f"{cat}: original={orig_counts[cat]}, sampled={sampled_counts.get(cat, 0)}")
+    return sampled
+
+# -----------------------------------------------------------------------------
+# Main Orchestration
+# -----------------------------------------------------------------------------
 
 def main():
-    print("Starting daily report generation...")
+    log("Starting daily report generation...")
     timestamp = utc_stamp()
-    print(f"Timestamp: {timestamp}")
     events = fetch_current_events()
-    print(f"Fetched {len(events)} events from GitHub.")
+    log(f"Fetched {len(events)} events from GitHub.")
 
-    TARGET = 200
-    sampled, remaining = [], TARGET
-    if len(events) > TARGET:
-        random.seed(37)  # reproducible
+    sampled_events = stratified_sample_events(events)
 
-        # group by category
-        cats = {}
-        for e in events:
-            cats.setdefault(e["category"], []).append(e)
-
-        # smallest categories first; give each category an equal "share" of remaining slots
-        cat_lists = sorted(cats.values(), key=len)
-        for i, lst in enumerate(cat_lists):
-            slots_left = len(cat_lists) - i
-            share = max(1, remaining // slots_left)
-            take = len(lst) if len(lst) <= share else share
-            sampled += lst if take == len(lst) else random.sample(lst, take)
-            remaining -= take
-
-        # original counts
-        orig_counts = Counter(e["category"] for e in events)
-        # sampled counts
-        sampled_counts = Counter(e["category"] for e in sampled)
-
-        # print side by side
-        for cat in orig_counts:
-            print(f"{cat}: original={orig_counts[cat]}, sampled={sampled_counts.get(cat, 0)}")
-
-
-    for index, e in enumerate(sampled):  # limit for demo
-        ticker = e["event_ticker"]
+    for idx, event_meta in enumerate(sampled_events):
+        ticker = event_meta["event_ticker"]
         if read_from_db(timestamp, ticker):
-            print(f"Already exists: {ticker}, skipping.")
+            log(f"Already exists: {ticker}, skipping.")
             continue
-        # fetch full event
-        resp = requests.get(
-            f"https://api.elections.kalshi.com/trade-api/v2/events/{ticker}?with_nested_markets=true",
-            timeout=15
-        )
-        event = resp.json()["event"]
-        if not event.get("markets"):
-            continue
-        report, contents = get_ddgs_report(index, event)
-        write_to_db(report, contents, timestamp, ticker)
 
+        # Fetch full event with nested markets
+        try:
+            resp = requests.get(
+                f"https://api.elections.kalshi.com/trade-api/v2/events/{ticker}?with_nested_markets=true",
+                timeout=15
+            )
+            event = resp.json().get("event", {})
+            if not event.get("markets"):
+                continue
+            report, contents = get_ddgs_report(event)
+            write_to_db(report, contents, timestamp, ticker)
+        except Exception as e:
+            log(f"Failed processing {ticker}: {e}")
+
+    log("Report generation completed.")
+
+# -----------------------------------------------------------------------------
 if __name__ == "__main__":
     main()
