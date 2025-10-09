@@ -336,7 +336,7 @@ def scrape_kalshi_events():
     #         continue
     #     latest_close_time = dt.datetime.strptime(latest_close_time, "%Y-%m-%d")
     #     if latest_close_time >= dt.datetime.utcnow() - dt.timedelta(days=5):
-    #         print(f"Backfilling reports for recently resolved event {event['event_ticker']}")
+    #         log(f"Backfilling reports for recently resolved event {event['event_ticker']}")
     #         if "ddgs_reports" not in event:
     #             resolved_events[index]['ddgs_reports'] = {}
     #         for timestamp in timestamps:

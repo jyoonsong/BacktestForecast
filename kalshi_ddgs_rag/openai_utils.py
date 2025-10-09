@@ -10,5 +10,5 @@ def run_openai(prompt: str, model: str = MODEL_NAME) -> str:
         )
         return response.choices[0].message.content.strip()
     except Exception as e:
-        print(f"OpenAI API error: {e}")
+        log(f"OpenAI API error: {e}")
         return ""

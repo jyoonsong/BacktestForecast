@@ -8,14 +8,14 @@ def main():
     print("Starting daily report generation...")
     timestamp = utc_stamp()
     events = fetch_current_events()
-    print(f"Fetched {len(events)} events from GitHub.")
+    log(f"Fetched {len(events)} events from GitHub.")
 
     sampled = stratified_sample_events(events)
 
     for e in sampled:
         ticker = e["event_ticker"]
         if read_from_db(timestamp, ticker):
-            print(f"Already exists: {ticker}, skipping.")
+            log(f"Already exists: {ticker}, skipping.")
             continue
 
         try:
@@ -29,9 +29,9 @@ def main():
             report, contents = get_ddgs_report(event)
             write_to_db(report, contents, timestamp, ticker)
         except Exception as err:
-            print(f"Failed processing {ticker}: {err}")
+            log(f"Failed processing {ticker}: {err}")
 
-    print("Report generation completed.")
+    log("Report generation completed.")
 
 if __name__ == "__main__":
     main()
