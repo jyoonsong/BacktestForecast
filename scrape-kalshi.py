@@ -373,13 +373,16 @@ def push_to_github_repo(filepath, github_token, repo_full, branch='main'):
         str | None: The GitHub HTML URL of the updated file, if successful.
     """
     owner, repo = repo_full.split("/", 1)
-    filename = os.path.basename(filepath)
+
+    # Preserve subdirectory (e.g., data/active_events.json)
+    rel_path = os.path.relpath(filepath)
 
     with open(filepath, "r") as f:
         content = f.read()
     content_encoded = base64.b64encode(content.encode("utf-8")).decode("utf-8")
 
-    base = f"https://api.github.com/repos/{owner}/{repo}/contents/{filename}"
+    # Use rel_path instead of just filename
+    base = f"https://api.github.com/repos/{owner}/{repo}/contents/{rel_path}"
     headers = {
         "Authorization": f"Bearer {github_token}",
         "Accept": "application/vnd.github+json",
@@ -391,7 +394,7 @@ def push_to_github_repo(filepath, github_token, repo_full, branch='main'):
     timestamps = get_timestamps()
 
     data = {
-        "message": f"Update {filename} - {timestamps[0]}",
+        "message": f"Update {rel_path} - {timestamps[0]}",
         "content": content_encoded,
         "branch": branch,
     }
@@ -401,9 +404,9 @@ def push_to_github_repo(filepath, github_token, repo_full, branch='main'):
     r = requests.put(base, json=data, headers=headers)
     if r.status_code in (200, 201):
         url = r.json()['content']['html_url']
-        logger.info(f"✅ Pushed {filename} to GitHub: {url}")
+        logger.info(f"✅ Pushed {rel_path} to GitHub: {url}")
         return url
-    logger.error(f"❌ Failed to push {filename}: {r.status_code} {r.text}")
+    logger.error(f"❌ Failed to push {rel_path}: {r.status_code} {r.text}")
     return None
 
 
