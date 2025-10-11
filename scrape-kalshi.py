@@ -20,6 +20,8 @@ import json
 import logging
 import os
 import requests
+import random
+from collections import Counter
 from pymongo import MongoClient
 
 # Configure logging: INFO for normal run; set to DEBUG for request params, etc.
@@ -112,6 +114,34 @@ def fetch_all_events(status=None, with_markets=True):
     logger.info(f"Total events fetched: {len(events)}")
     return events
 
+def stratified_sample_events(events, target=210):
+    """Stratified sampling of events across categories."""
+    if len(events) <= target:
+        return events
+    
+    random.seed(37)
+
+    # group by category
+    categories = {}
+    for e in events:
+        categories.setdefault(e["category"], []).append(e)
+    sampled, remaining = [], target
+
+    # smallest categories first; give each category an equal "share" of remaining slots
+    cat_lists = sorted(categories.values(), key=len)
+    for i, lst in enumerate(cat_lists):
+        slots_left = len(cat_lists) - i
+        share = max(1, remaining // slots_left)
+        take = len(lst) if len(lst) <= share else share
+        sampled += lst if take == len(lst) else random.sample(lst, take)
+        remaining -= take
+
+    # print counts of original vs sampled
+    orig_counts = Counter(e["category"] for e in events)
+    sampled_counts = Counter(e["category"] for e in sampled)
+    for cat in orig_counts:
+        print(f"{cat}: original={orig_counts[cat]}, sampled={sampled_counts.get(cat, 0)}")
+    return sampled
 
 def scrape_kalshi_events():
     """
@@ -140,6 +170,7 @@ def scrape_kalshi_events():
         "data/resolved_events.json",
         "data/active_markets.json", 
         "data/resolved_markets.json",
+        "data/sampled_events.json",
     ]
 
     # Load previous snapshots; these files are expected to exist beforehand.
@@ -348,6 +379,8 @@ def scrape_kalshi_events():
     #                     # save hash id in events.json
     #                     resolved_events[index]['ddgs_reports'][timestamp] = hash_id
 
+    sampled = stratified_sample_events(final_events, target=210)
+
     # Persist updated snapshots to disk.
     with open(files[0], "w") as f:
         json.dump(final_events, f, indent=4)
@@ -357,6 +390,8 @@ def scrape_kalshi_events():
         json.dump(final_markets, f, indent=4)
     with open(files[3], "w") as f:
         json.dump(resolved_markets, f, indent=4)
+    with open(files[4], "w") as f:
+        json.dump(sampled, f, indent=4)
 
     return files, final_events
 
