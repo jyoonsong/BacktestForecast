@@ -1,0 +1,37 @@
+name: Daily Report Generator - 1
+
+permissions:
+    contents: write
+    actions: read
+
+on:
+    schedule:
+        - cron: "0 3 * * *" # every 3 AM UTC
+    workflow_dispatch:
+
+jobs:
+    scrape:
+        runs-on: ubuntu-latest
+        steps:
+            - uses: actions/checkout@v4
+
+            - name: Set up Python
+              uses: actions/setup-python@v5
+              with:
+                  python-version: "3.11" # or 3.9 if you must
+
+            - name: Install dependencies
+              run: pip install -r requirements.txt
+
+            - name: Run report generator
+              env:
+                  # Authentication and access tokens
+                  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+                  GITHUB_REPOSITORY: ${{ github.repository }}
+                  # MongoDB connection string
+                  MONGO_URI: ${{ secrets.MONGO_URI }}
+                  # OpenAI credentials
+                  OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+                  OPENAI_ORG_ID: ${{ secrets.OPENAI_ORGANIZATION }}
+                  K: 0
+              run: python -u -m kalshi_ddgs_rag.main
