@@ -1593,10 +1593,10 @@
     {
         "bing_reports": {},
         "ddgs_reports": {},
-        "event_ticker": "KXRAINNYC-25OCT10",
+        "event_ticker": "KXRAINNYC-25OCT11",
         "series_ticker": "KXRAINNYC",
-        "title": "Will it rain in NYC on Oct 10, 2025?",
-        "sub_title": "On Oct 10, 2025",
+        "title": "Will it rain in NYC on Oct 11, 2025?",
+        "sub_title": "On Oct 11, 2025",
         "mutually_exclusive": false,
         "category": "Climate and Weather"
     },
@@ -1677,10 +1677,10 @@
     {
         "bing_reports": {},
         "ddgs_reports": {},
-        "event_ticker": "KXRAINNYC-25OCT11",
+        "event_ticker": "KXRAINNYC-25OCT12",
         "series_ticker": "KXRAINNYC",
-        "title": "Will it rain in NYC on Oct 11, 2025?",
-        "sub_title": "On Oct 11, 2025",
+        "title": "Will it rain in NYC on Oct 12, 2025?",
+        "sub_title": "On Oct 12, 2025",
         "mutually_exclusive": false,
         "category": "Climate and Weather"
     },
@@ -7504,37 +7504,7 @@
     {
         "bing_reports": {},
         "ddgs_reports": {},
-        "event_ticker": "KXMVENFLMULTIGAMEEXTENDED-S20253E3154C04C5",
-        "series_ticker": "KXMVENFLMULTIGAMEEXTENDED",
-        "title": "Pro Football Combo",
-        "sub_title": "MVE",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXMVENFLMULTIGAMEEXTENDED-S20259A2C2159865",
-        "series_ticker": "KXMVENFLMULTIGAMEEXTENDED",
-        "title": "Pro Football Combo",
-        "sub_title": "MVE",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXMVENFLMULTIGAMEEXTENDED-20252844BC1ECA5",
-        "series_ticker": "KXMVENFLMULTIGAMEEXTENDED",
-        "title": "Pro Football Combo",
-        "sub_title": "MVE",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXMVENFLMULTIGAMEEXTENDED-2025762067D90C5",
+        "event_ticker": "KXMVENFLMULTIGAMEEXTENDED-S20257568D8EDADA",
         "series_ticker": "KXMVENFLMULTIGAMEEXTENDED",
         "title": "Pro Football Combo",
         "sub_title": "MVE",
@@ -7544,27 +7514,7 @@
     {
         "bing_reports": {},
         "ddgs_reports": {},
-        "event_ticker": "KXMVENFLMULTIGAMEEXTENDED-S2025958FFCE8830",
-        "series_ticker": "KXMVENFLMULTIGAMEEXTENDED",
-        "title": "Pro Football Combo",
-        "sub_title": "MVE",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXMVENFLMULTIGAMEEXTENDED-S20259700F74BF1F",
-        "series_ticker": "KXMVENFLMULTIGAMEEXTENDED",
-        "title": "Pro Football Combo",
-        "sub_title": "MVE",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXMVENFLMULTIGAMEEXTENDED-2025AA72453672C",
+        "event_ticker": "KXMVENFLMULTIGAMEEXTENDED-S2025F40E2193ADE",
         "series_ticker": "KXMVENFLMULTIGAMEEXTENDED",
         "title": "Pro Football Combo",
         "sub_title": "MVE",
@@ -7574,17 +7524,7 @@
     {
         "bing_reports": {},
         "ddgs_reports": {},
-        "event_ticker": "KXNHLGAME-25OCT11STLCGY",
-        "series_ticker": "KXNHLGAME",
-        "title": "St. Louis vs Calgary",
-        "sub_title": "STL at CGY (Oct 11)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXMVENFLMULTIGAMEEXTENDED-S2025B582F7796B1",
+        "event_ticker": "KXMVENFLMULTIGAMEEXTENDED-S20256765C9843D9",
         "series_ticker": "KXMVENFLMULTIGAMEEXTENDED",
         "title": "Pro Football Combo",
         "sub_title": "MVE",
@@ -7594,17 +7534,7 @@
     {
         "bing_reports": {},
         "ddgs_reports": {},
-        "event_ticker": "KXMVENFLMULTIGAMEEXTENDED-S202561E749738D0",
-        "series_ticker": "KXMVENFLMULTIGAMEEXTENDED",
-        "title": "Pro Football Combo",
-        "sub_title": "MVE",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXMVENFLMULTIGAMEEXTENDED-S20250B7AE35AD4C",
+        "event_ticker": "KXMVENFLMULTIGAMEEXTENDED-S2025884745012EE",
         "series_ticker": "KXMVENFLMULTIGAMEEXTENDED",
         "title": "Pro Football Combo",
         "sub_title": "MVE",
@@ -7614,7 +7544,27 @@
     {
         "bing_reports": {},
         "ddgs_reports": {},
-        "event_ticker": "KXMVENFLMULTIGAMEEXTENDED-20255D96CC9F43B",
+        "event_ticker": "KXMVENFLMULTIGAMEEXTENDED-S2025C4148E7C3A8",
+        "series_ticker": "KXMVENFLMULTIGAMEEXTENDED",
+        "title": "Pro Football Combo",
+        "sub_title": "MVE",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXMVENFLMULTIGAMEEXTENDED-S20254C6CDDD1562",
+        "series_ticker": "KXMVENFLMULTIGAMEEXTENDED",
+        "title": "Pro Football Combo",
+        "sub_title": "MVE",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXMVENFLMULTIGAMEEXTENDED-2025973B6F029B4",
         "series_ticker": "KXMVENFLMULTIGAMEEXTENDED",
         "title": "Pro Football Combo",
         "sub_title": "MVE",
@@ -7624,7 +7574,7 @@
     {
         "bing_reports": {},
         "ddgs_reports": {},
-        "event_ticker": "KXMVENFLMULTIGAMEEXTENDED-S2025200C7D4F757",
+        "event_ticker": "KXMVENFLMULTIGAMEEXTENDED-S202554AA72A838A",
         "series_ticker": "KXMVENFLMULTIGAMEEXTENDED",
         "title": "Pro Football Combo",
         "sub_title": "MVE",
@@ -7634,7 +7584,27 @@
     {
         "bing_reports": {},
         "ddgs_reports": {},
-        "event_ticker": "KXMVENFLMULTIGAMEEXTENDED-S2025C42F2E5F2C2",
+        "event_ticker": "KXMVENFLMULTIGAMEEXTENDED-S2025B396B54C8F4",
+        "series_ticker": "KXMVENFLMULTIGAMEEXTENDED",
+        "title": "Pro Football Combo",
+        "sub_title": "MVE",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXMVENFLMULTIGAMEEXTENDED-S20257DCF7BD4A8C",
+        "series_ticker": "KXMVENFLMULTIGAMEEXTENDED",
+        "title": "Pro Football Combo",
+        "sub_title": "MVE",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXMVENFLMULTIGAMEEXTENDED-S20250ED77213880",
         "series_ticker": "KXMVENFLMULTIGAMEEXTENDED",
         "title": "Pro Football Combo",
         "sub_title": "MVE",
@@ -7644,7 +7614,7 @@
     {
         "bing_reports": {},
         "ddgs_reports": {},
-        "event_ticker": "KXMVENFLMULTIGAMEEXTENDED-S20250CB4825EEB3",
+        "event_ticker": "KXMVENFLMULTIGAMEEXTENDED-S20258C497419EB0",
         "series_ticker": "KXMVENFLMULTIGAMEEXTENDED",
         "title": "Pro Football Combo",
         "sub_title": "MVE",
@@ -7654,11 +7624,41 @@
     {
         "bing_reports": {},
         "ddgs_reports": {},
-        "event_ticker": "KXMVENFLMULTIGAMEEXTENDED-20257036E771117",
+        "event_ticker": "KXMVENFLMULTIGAMEEXTENDED-S2025ABDDC074A20",
         "series_ticker": "KXMVENFLMULTIGAMEEXTENDED",
         "title": "Pro Football Combo",
         "sub_title": "MVE",
         "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXMVENFLMULTIGAMEEXTENDED-S2025D6B26EB6492",
+        "series_ticker": "KXMVENFLMULTIGAMEEXTENDED",
+        "title": "Pro Football Combo",
+        "sub_title": "MVE",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXMVENFLMULTIGAMEEXTENDED-S202578F46CAAE54",
+        "series_ticker": "KXMVENFLMULTIGAMEEXTENDED",
+        "title": "Pro Football Combo",
+        "sub_title": "MVE",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXMVENFLMULTIGAMEEXTENDED-202537F8B82ACB8",
+        "series_ticker": "KXMVENFLMULTIGAMEEXTENDED",
+        "title": "Pro Football Combo",
+        "sub_title": "MVE",
+        "mutually_exclusive": true,
         "category": "Sports"
     }
 ]
