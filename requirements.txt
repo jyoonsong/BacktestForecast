@@ -23,6 +23,7 @@ python_dateutil
 readability_lxml
 redis
 requests
+scikit-learn
 simplejson
 thread
 tqdm
