@@ -1,6 +1,6 @@
 from typing import List, Dict, Tuple
 from .openai_utils import run_openai
-from .search_utils import search_ddgs, scrape_urls
+from .search_utils import search_ddgs, scrape_urls, filter_contents
 from .config import NUM_QUERIES, MAX_QUERY_WORDS
 from .utils import log
 
@@ -81,8 +81,9 @@ def process_query(query: str, event: Dict[str, any], market_descriptions: str) -
     """Run full pipeline for a single search query."""
     results = search_ddgs(query)
     contents = scrape_urls(results)
-    summary = summarize_articles(contents, event, market_descriptions)
-    return summary, contents
+    filtered_contents = filter_contents(contents, market_descriptions)
+    summary = summarize_articles(filtered_contents, event, market_descriptions)
+    return summary, filtered_contents
 
 def get_ddgs_report(event: Dict[str, any]) -> Tuple[str, List[List[Dict[str, str]]]]:
     """Generate combined DDGS research report for one event."""

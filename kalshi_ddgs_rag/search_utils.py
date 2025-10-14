@@ -5,6 +5,9 @@ from typing import List, Dict, Any
 from .utils import log
 from .config import NUM_URLS
 
+from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.metrics.pairwise import cosine_similarity
+
 def search_ddgs(query: str, num_urls: int = NUM_URLS) -> List[Dict[str, Any]]:
     """Perform DuckDuckGo search and deduplicate results."""
     results = list(DDGS().text(query, max_results=num_urls * 2, timelimit="y") or [])
@@ -14,13 +17,13 @@ def search_ddgs(query: str, num_urls: int = NUM_URLS) -> List[Dict[str, Any]]:
         if href and href not in seen:
             seen.add(href)
             deduped.append(r)
-    return deduped[:num_urls]
+    return deduped
 
-def scrape_urls(search_results: List[Dict[str, Any]], num_urls: int = NUM_URLS) -> List[Dict[str, str]]:
+def scrape_urls(search_results: List[Dict[str, Any]]) -> List[Dict[str, str]]:
     """Scrape HTML pages and extract paragraphs."""
     contents = []
     headers = {"User-Agent": "Mozilla/5.0"}
-    for result in search_results[:num_urls]:
+    for result in search_results:
         url = result.get("href")
         if not url:
             continue
@@ -43,3 +46,16 @@ def scrape_urls(search_results: List[Dict[str, Any]], num_urls: int = NUM_URLS) 
         except Exception as e:
             log(f"Scrape failed for {url}: {e}")
     return contents
+
+def filter_contents(contents: List[Dict[str, str]], market_descriptions: str, num_urls: int = NUM_URLS) -> List[Dict[str, str]]:
+    """Filter articles based on relevance to market descriptions."""
+    
+    # calculate semantic similarity between market descriptions and article content
+    for content in contents:
+        vectorizer = TfidfVectorizer().fit_transform([market_descriptions, content["article"]])
+        vectors = vectorizer.toarray()
+        content["similarity"] = cosine_similarity([vectors[0]], [vectors[1]])[0][0]
+
+    # sort by similarity and return top num_urls
+    contents.sort(key=lambda x: x.get("similarity", 0), reverse=True)
+    return contents[:num_urls]
