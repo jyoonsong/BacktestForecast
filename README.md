@@ -6,7 +6,9 @@ The rise of large language models (LLMs) has made scalable forecasting increasin
 
 ## Architecture
 
-This repository leverages [GitHub Actions](https://github.com/features/actions) to automate daily cron jobs. Each day, two main tasks are executed: the Daily Kalshi Scraper and the Daily Report Generator. The scraper runs within a single workflow, while the report generation is split across multiple workflows to prevent timeouts, as each GitHub Actions job is capped at 6 hours. To efficiently stay within this limit, we generate approximately 70 reports per workflow, which takes up to 2 hours each. By running three separate workflows for report generation, we produce a total of 210 reports daily while safely avoiding timeout constraints.
+This repository leverages [GitHub Actions](https://github.com/features/actions) to automate daily cron jobs. Each day, two main tasks are executed: the Daily Kalshi Scraper and the Daily Report Generator. 
+
+The scraper runs within a single workflow, while the report generation is split across multiple workflows to prevent timeouts, as each GitHub Actions job is capped at 6 hours. To efficiently stay within this limit, we generate approximately 70 reports per workflow, which takes up to 2 hours each. By running three separate workflows for report generation, we produce a total of 210 reports daily while safely avoiding timeout constraints.
 
 ### Task 1: Daily Kalshi Scraper
 
