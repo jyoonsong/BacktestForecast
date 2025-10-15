@@ -2,7 +2,6 @@ import requests, random, time
 from collections import Counter
 from typing import List, Dict
 from .utils import log
-from .config import TARGET_EVENTS
 
 def fetch_sampled_events() -> List[Dict[str, any]]:
     """Fetch sampled active events from GitHub."""
