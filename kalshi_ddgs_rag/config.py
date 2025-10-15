@@ -6,7 +6,7 @@ from pymongo import MongoClient
 # Global Configuration
 # -----------------------------------------------------------------------------
 
-MODEL_NAME = "gpt-4o-mini-2024-07-18"
+MODEL_NAME = "gpt-5-mini-2025-08-07"
 NUM_QUERIES = 6
 NUM_URLS = 5
 MAX_QUERY_WORDS = 7
