@@ -77,7 +77,7 @@ The codebase for the **Daily Report Generator** is located in the `kalshi_ddgs_r
 - Select **top 5 URLs** (customizable via `NUM_URLS` in `kalshi_ddgs_rag/config.py`.)
 - Implemented in: `kalshi_ddgs_rag/search_utils.py`.
 
-**6. Summarize Filtered URLs & Build the Report**
+**6. Summarize Filtered URLs via OpenAI API**
 
 - For each of the final five URLs, we send the scraped text content to the OpenAI API and request a structured summary.
 - Specifically, we instruct the model to: "Generate one paragraph per relevant article summarizing factual insights or context related to these markets. Avoid subjective statements. Include the article date and source URL at the end of each paragraph. Exclude articles that are entirely unrelated."
