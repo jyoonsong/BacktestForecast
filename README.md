@@ -46,7 +46,7 @@ The code for the **Daily Kalshi Scraper** task is in `scrape-kalshi.py`.
 
 The codebase for the **Daily Report Generator** is located in the `kalshi_ddgs_rag` directory. The primary entry point is `kalshi_ddgs_rag/main.py`.
 
-**1. Fetch a Sample of Events & Select 70 for Processing**
+**1. Fetch the Sample of Events**
 
 - Load a sample of **210 events** from `data/sampled_events.json`.
 - Based on the workflow index, process **70 events** per run. For example, the 3rd workflow handles the last 70 events.
