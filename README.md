@@ -26,11 +26,6 @@ The code for the **Daily Kalshi Scraper** task is in `scrape-kalshi.py`.
 - **Active events file** – tracking events currently monitored.
 - **Resolved events file** – tracking events no longer active.
 
-**3. Reconcile events in the current data**
-
--   Keep ones that are still active. Check if context snapshots exist for these events.
--   Move disappeared ones to the list of resolved events.
-
 **3. Reconcile current API results with existing data**
 
 - **Retain events** that are still active. Check if context snapshots exist for each event.
