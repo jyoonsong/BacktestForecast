@@ -23,13 +23,13 @@ The code for the **Daily Kalshi Scraper** task is in `scrape-kalshi.py`.
 **2. Load existing active and resolved event records**
 
 - Load the current datasets from the `data` directory:
-- **Active events file** – tracking events currently monitored.
-- **Resolved events file** – tracking events no longer active.
+- `data/active_events.json` – tracking events currently monitored.
+- `data/resolved_events.json` – tracking events no longer active.
 
 **3. Reconcile current API results with existing data**
 
-- **Retain events** that are still active. Check if context snapshots exist for each event.
-- **Identify dropped events** (present previously, but absent in API results). Move these to the resolved events list. Update timestamps or resolution status if necessary.
+- Retain events that are still active. Check if context snapshots exist for each event.
+- Identify dropped events (present previously, but absent in API results). Move these to the resolved events list. Update timestamps or resolution status if necessary.
 
 **4. Append newly discovered active events**
 
