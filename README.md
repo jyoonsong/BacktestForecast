@@ -39,19 +39,54 @@ The code for the **Daily Kalshi Scraper** task is in `scrape-kalshi.py`.
 **5. Generate a stratified random sample of active events**
 
 - From the final active event set, draw a sample of 210 events.
-- Use **stratified sampling** to ensure balanced representation across event domains.
+- Use stratified sampling to ensure balanced representation across event domains.
 
 
 ### Task 2: Daily Report Generator
 
-The codes for the Daily Report Generator task is in `kalshi_ddgs_rag` directory.
+The codebase for the **Daily Report Generator** is located in the `kalshi_ddgs_rag` directory. The primary entry point is `kalshi_ddgs_rag/main.py`.
 
-**1. Calculate**
+**1. Fetch a Sample of Events & Select 70 for Processing**
 
--   hi
--   hello
+- Load a sample of **210 events** from `data/sampled_events.json`.
+- Based on the workflow index, process **70 events** per run. For example, the 3rd workflow handles the last 70 events.
+- Implemented in: `kalshi_ddgs_rag/events.py`.
 
-**2. Calculate**
+**2. Generate Search Queries via OpenAI API**
 
--   hi
--   hello
+- For each event, generate **6 search queries** using OpenAI (customizable via `NUM_QUERIES` in `kalshi_ddgs_rag/config.py`.)
+- Each query must be **< 7 words** (customizable via `MAX_QUERY_WORDS` in `kalshi_ddgs_rag/config.py`.)
+- Prompt includes the market descriptions (title, subtitle, resolution rules) and instructions to generate queries that would meaningfully improve the accuracy and confidence of a forecast regarding the market outcomes.
+- Implemented in: `kalshi_ddgs_rag/summarization.py` and `kalshi_ddgs_rag/openai_utils.py`
+
+**3. Retrieve URLs with DDGS Search**
+
+- Perform a DuckDuckGo search for each query using the [DDGS library](https://github.com/deedy5/ddgs).
+- Deduplicate all fetched URLs.
+- Implemented in: `kalshi_ddgs_rag/search_utils.py`.
+
+**4. Scrape URL Content with BeautifulSoup**
+
+- Parse each URL’s HTML.
+- Extract textual content from `<p>` tags using **BeautifulSoup**.
+- Implemented in: `kalshi_ddgs_rag/search_utils.py`.
+
+**5. Filter URLs via Cosine Similarity**
+
+- Compute semantic similarity between scraped content and **market metadata**.
+- Select **top 5 URLs** (customizable via `NUM_URLS` in `kalshi_ddgs_rag/config.py`.)
+- Implemented in: `kalshi_ddgs_rag/search_utils.py`.
+
+**6. Summarize Filtered URLs & Build the Report**
+
+- For each of the final five URLs, we send the scraped text content to the OpenAI API and request a structured summary.
+- Specifically, we instruct the model to: "Generate one paragraph per relevant article summarizing factual insights or context related to these markets. Avoid subjective statements. Include the article date and source URL at the end of each paragraph. Exclude articles that are entirely unrelated."
+- This process is repeated for each of the six search queries, producing one summarized section per query.
+- We then concatenate the six sections, resulting in a consolidated report covering 30 URLs in total (5 URLs × 6 queries). This aggregated report is referred to as a *context snapshot*.
+- Implemented in:  `kalshi_ddgs_rag/summarization.py` and `kalshi_ddgs_rag/openai_utils.py`
+
+**7. Persist the Report to MongoDB**
+
+- We store the current timestamp, final report, and the corresponding event ticker in the MongoDB database.
+- Implemented in: `kalshi_ddgs_rag/db.py`
+
