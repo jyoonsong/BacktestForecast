@@ -62,7 +62,7 @@ The codebase for the **Daily Report Generator** is located in the `kalshi_ddgs_r
 **3. Retrieve URLs with DDGS Search**
 
 - Perform a DuckDuckGo search for each query using the [DDGS library](https://github.com/deedy5/ddgs).
-- We retrieve a total of 10 URLs, which corresponds to twice the value of `NUM_URLS` (customizable via `NUM_URLS` in kalshi_ddgs_rag/config.py).
+- We retrieve a total of 10 URLs, which corresponds to twice the value of `NUM_URLS` (customizable via `NUM_URLS` in `kalshi_ddgs_rag/config.py`).
 - Deduplicate all fetched URLs.
 - Implemented in: `kalshi_ddgs_rag/search_utils.py`.
 
