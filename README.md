@@ -86,7 +86,7 @@ The codebase for the **Daily Report Generator** is located in the `kalshi_ddgs_r
 - We then concatenate the six sections, resulting in a consolidated report covering 30 URLs in total (5 URLs × 6 queries). This aggregated report is referred to as a *context snapshot*.
 - Implemented in:  `kalshi_ddgs_rag/summarization.py` and `kalshi_ddgs_rag/openai_utils.py`
 
-**7. Persist the Report to MongoDB**
+**7. Save the Report to MongoDB**
 
 - We store the current timestamp, final report, and the corresponding event ticker in the MongoDB database.
 - Implemented in: `kalshi_ddgs_rag/db.py`
