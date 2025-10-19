@@ -39,6 +39,10 @@ def main():
                 trials += 1
                 time.sleep(3)
         
+        if event is None:
+            log(f"Failed to fetch event {ticker} after retries, skipping.")
+            continue
+        
         report, contents = get_ddgs_report(event)
         write_to_db(report, contents, timestamp, ticker)
         
