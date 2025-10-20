@@ -47,7 +47,7 @@ The following are markets under the event titled "{event['title']}".
 What are {NUM_QUERIES} short search queries that would meaningfully improve the accuracy and confidence of a forecast regarding the market outcomes described above? 
 Output exactly {NUM_QUERIES} queries, one query per line, without any other text or number. 
 Each query should be less than {MAX_QUERY_WORDS} words.
-Do not include numbers, symbols, or explanations.
+Important Note: Do not include any numbers or special characters in the queries. Do not include any other text or explanation outside the queries.
 """
     output = run_openai(prompt)
     return [line.strip() for line in output.splitlines() if line.strip()]
@@ -71,9 +71,9 @@ The following are markets under the event titled "{event['title']}".
 {all_articles}
 
 # Instructions
-Generate one paragraph per relevant article summarizing factual insights or context related to these markets. 
-Avoid subjective statements. Include the article date and source URL at the end of each paragraph.
-Exclude articles that are entirely unrelated.
+Carefully read the articles provided above. Your task is to generate a multi-paragraph summary (one paragraph per article) that highlights factual insights or relevant context related to the listed markets. Avoid subjective opinions or speculative statements. Use plain text without markdown syntax, heading, or numbering. Do not add any additional text outside the summary.
+Return blank for an article that does not contain relevant information. Not all of the articles are relevant to the markets above. Some are clearly unrelated to the topic and should be excluded. Exclude only the articles that are clearly off-topic, entirely unrelated to the markets. If an article is at least broadly related or offers potentially useful context, it should be considered relevant.
+Important note: Include the date and source URL of the article at the end of each paragraph.
 """
     return run_openai(prompt)
 
