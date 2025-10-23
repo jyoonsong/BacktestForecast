@@ -250,6 +250,11 @@ def scrape_kalshi_events():
                 if market["status"] != "active" and market["status"] != "initialized" and market["result"] in ["yes", "no"]:
                     has_resolved = True
 
+            if latest_close_time == None:
+                continue
+            if earliest_open_time == None:
+                continue
+
             event['resolution_date'] = latest_close_time.strftime("%Y-%m-%d")
             event['latest_close_time'] = latest_close_time.strftime("%Y-%m-%d")
             event['earliest_open_time'] = earliest_open_time.strftime("%Y-%m-%d")
