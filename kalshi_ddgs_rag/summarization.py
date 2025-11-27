@@ -82,6 +82,9 @@ def process_query(query: str, event: Dict[str, any], market_descriptions: str) -
     results = search_ddgs(query)
     contents = scrape_urls(results)
     filtered_contents = filter_contents(contents, market_descriptions)
+    if filtered_contents[0]["similarity"] < 0.2:
+        log(f"No relevant articles found for query: {query}")
+        return None, None
     summary = summarize_articles(filtered_contents, event, market_descriptions)
     return summary, filtered_contents
 
@@ -92,7 +95,12 @@ def get_ddgs_report(event: Dict[str, any]) -> Tuple[str, List[List[Dict[str, str
     summaries, all_contents = [], []
     for q in queries:
         summary, contents = process_query(q, event, market_descriptions)
+        if summary is None:
+            continue
         summaries.append(summary)
         all_contents.append(contents)
+    if len(summaries) == 0:
+        log("No relevant summaries generated for event.")
+        return None, None
     report = "\n\n".join(f"# Research Report {i+1}\n{summary}" for i, summary in enumerate(summaries))
     return report.strip(), all_contents

@@ -44,7 +44,8 @@ def main():
             continue
         
         report, contents = get_ddgs_report(event)
-        write_to_db(report, contents, timestamp, ticker)
+        if report is not None:
+            write_to_db(report, contents, timestamp, ticker)
         
     log("Report generation completed.")
 
