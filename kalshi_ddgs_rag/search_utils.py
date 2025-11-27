@@ -5,8 +5,11 @@ from typing import List, Dict, Any
 from .utils import log
 from .config import NUM_URLS
 
+from sentence_transformers import SentenceTransformer, util
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
+
+model = SentenceTransformer("sentence-transformers/all-mpnet-base-v2")
 
 def search_ddgs(query: str, num_urls: int = NUM_URLS) -> List[Dict[str, Any]]:
     """Perform DuckDuckGo search and deduplicate results."""
@@ -52,9 +55,14 @@ def filter_contents(contents: List[Dict[str, str]], market_descriptions: str, nu
     
     # calculate semantic similarity between market descriptions and article content
     for content in contents:
-        vectorizer = TfidfVectorizer().fit_transform([market_descriptions, content["article"]])
-        vectors = vectorizer.toarray()
-        content["similarity"] = cosine_similarity([vectors[0]], [vectors[1]])[0][0]
+        # Generate embeddings
+        embeddings = model.encode(
+            [market_descriptions, content["article"]],
+            convert_to_tensor=True
+        )
+        
+        # Compute cosine similarity (state-of-the-art semantic similarity)
+        content["similarity"] = util.cos_sim(embeddings[0], embeddings[1]).item()
 
     # sort by similarity and return top num_urls
     contents.sort(key=lambda x: x.get("similarity", 0), reverse=True)
