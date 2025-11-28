@@ -82,7 +82,7 @@ def process_query(query: str, event: Dict[str, any], market_descriptions: str) -
     results = search_ddgs(query)
     contents = scrape_urls(results)
     filtered_contents = filter_contents(contents, market_descriptions)
-    if filtered_contents[0]["similarity"] < 0.2:
+    if len(filtered_contents) == 0 or filtered_contents[0]["similarity"] < 0.2:
         log(f"No relevant articles found for query: {query}")
         return None, None
     summary = summarize_articles(filtered_contents, event, market_descriptions)
