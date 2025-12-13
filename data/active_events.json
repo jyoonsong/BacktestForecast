@@ -48337,29 +48337,6 @@
     {
         "bing_reports": {},
         "ddgs_reports": {
-            "20250917": "ddgs_kxmamdaniredstrict-25nov04_20250917",
-            "20250918": "ddgs_kxmamdaniredstrict-25nov04_20250918",
-            "20250920": "ddgs_kxmamdaniredstrict-25nov04_20250920",
-            "20250919": "ddgs_kxmamdaniredstrict-25nov04_20250919",
-            "20250921": "ddgs_kxmamdaniredstrict-25nov04_20250921",
-            "20250922": "ddgs_kxmamdaniredstrict-25nov04_20250922",
-            "20250924": "ddgs_kxmamdaniredstrict-25nov04_20250924",
-            "20250926": "ddgs_kxmamdaniredstrict-25nov04_20250926",
-            "20250928": "ddgs_kxmamdaniredstrict-25nov04_20250928",
-            "20250929": "ddgs_kxmamdaniredstrict-25nov04_20250929",
-            "20251005": "ddgs_kxmamdaniredstrict-25nov04_20251005",
-            "20251006": "ddgs_kxmamdaniredstrict-25nov04_20251006"
-        },
-        "event_ticker": "KXMAMDANIREDSTRICT-25NOV04",
-        "series_ticker": "KXMAMDANIREDSTRICT",
-        "title": "Larger margin of victory: New York City Mayor or California Redistricting?",
-        "sub_title": "On Nov 4, 2025",
-        "mutually_exclusive": true,
-        "category": "Elections"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {
             "20250918": "ddgs_kxeurovisionisraelban-26may12_20250918",
             "20250920": "ddgs_kxeurovisionisraelban-26may12_20250920",
             "20250919": "ddgs_kxeurovisionisraelban-26may12_20250919",
@@ -49092,16 +49069,6 @@
     {
         "bing_reports": {},
         "ddgs_reports": {},
-        "event_ticker": "KXTRIFOLD-25",
-        "series_ticker": "KXTRIFOLD",
-        "title": "Will Samsung release a trifold phone this year?",
-        "sub_title": "In 2025",
-        "mutually_exclusive": false,
-        "category": "Science and Technology"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
         "event_ticker": "KXBTCHALF",
         "series_ticker": "KXBTCHALF",
         "title": "When will Bitcoin have its next halving?",
@@ -49170,16 +49137,6 @@
         "sub_title": "Before 2026",
         "mutually_exclusive": false,
         "category": "Politics"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXMAYORMIA-25",
-        "series_ticker": "KXMAYORMIA",
-        "title": "Who will win the Mayor election in Miami?",
-        "sub_title": "In 2025",
-        "mutually_exclusive": true,
-        "category": "Elections"
     },
     {
         "bing_reports": {},
@@ -49914,16 +49871,6 @@
         "sub_title": "2028 President of the United States race",
         "mutually_exclusive": false,
         "category": "Politics"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXCAPROP50OUTPERFORMVOTEHUB-25NOV04",
-        "series_ticker": "KXCAPROP50OUTPERFORMVOTEHUB",
-        "title": "Will Yes on California Prop 50 outperform the polls?",
-        "sub_title": "California",
-        "mutually_exclusive": false,
-        "category": "Elections"
     },
     {
         "bing_reports": {},
@@ -52198,236 +52145,6 @@
     {
         "bing_reports": {},
         "ddgs_reports": {},
-        "event_ticker": "KXLALIGATOTAL-25DEC12RSOGIR",
-        "series_ticker": "KXLALIGATOTAL",
-        "title": "Girona at Real Sociedad: Totals",
-        "sub_title": "GIR at RSO (Dec 12)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXLALIGASPREAD-25DEC12RSOGIR",
-        "series_ticker": "KXLALIGASPREAD",
-        "title": "Girona at Real Sociedad: Spreads",
-        "sub_title": "GIR at RSO (Dec 12)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXLALIGAGAME-25DEC12RSOGIR",
-        "series_ticker": "KXLALIGAGAME",
-        "title": "Real Sociedad vs Girona",
-        "sub_title": "RSO vs GIR (Dec 12)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXLALIGABTTS-25DEC12RSOGIR",
-        "series_ticker": "KXLALIGABTTS",
-        "title": "Girona at Real Sociedad: Both Teams to Score",
-        "sub_title": "GIR at RSO (Dec 12)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXEFLCHAMPIONSHIPGAME-25DEC12WBASHU",
-        "series_ticker": "KXEFLCHAMPIONSHIPGAME",
-        "title": "West Bromwich vs Sheffield United",
-        "sub_title": "WBA vs SHU (Dec 12)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXSERIEATOTAL-25DEC12LECPIS",
-        "series_ticker": "KXSERIEATOTAL",
-        "title": "Pisa at Lecce: Totals",
-        "sub_title": "PIS at LEC (Dec 12)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXSERIEASPREAD-25DEC12LECPIS",
-        "series_ticker": "KXSERIEASPREAD",
-        "title": "Pisa at Lecce: Spreads",
-        "sub_title": "PIS at LEC (Dec 12)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXSERIEAGAME-25DEC12LECPIS",
-        "series_ticker": "KXSERIEAGAME",
-        "title": "Lecce vs Pisa",
-        "sub_title": "LEC vs PIS (Dec 12)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXSERIEABTTS-25DEC12LECPIS",
-        "series_ticker": "KXSERIEABTTS",
-        "title": "Pisa at Lecce: Both Teams to Score",
-        "sub_title": "PIS at LEC (Dec 12)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXLIGUE1TOTAL-25DEC12ANGFCN",
-        "series_ticker": "KXLIGUE1TOTAL",
-        "title": "Nantes at Angers: Totals",
-        "sub_title": "FCN at ANG (Dec 12)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXLIGUE1SPREAD-25DEC12ANGFCN",
-        "series_ticker": "KXLIGUE1SPREAD",
-        "title": "Nantes at Angers: Spreads",
-        "sub_title": "FCN at ANG (Dec 12)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXLIGUE1GAME-25DEC12ANGFCN",
-        "series_ticker": "KXLIGUE1GAME",
-        "title": "Angers vs Nantes",
-        "sub_title": "ANG vs FCN (Dec 12)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXLIGUE1BTTS-25DEC12ANGFCN",
-        "series_ticker": "KXLIGUE1BTTS",
-        "title": "Nantes at Angers: Both Teams to Score",
-        "sub_title": "FCN at ANG (Dec 12)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXBELGIANPLGAME-25DEC12STAOHL",
-        "series_ticker": "KXBELGIANPLGAME",
-        "title": "Standard vs Leuven",
-        "sub_title": "STA vs OHL (Dec 12)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXBUNDESLIGATOTAL-25DEC12UNIRBL",
-        "series_ticker": "KXBUNDESLIGATOTAL",
-        "title": "Leipzig at Union Berlin: Totals",
-        "sub_title": "RBL at UNI (Dec 12)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXBUNDESLIGASPREAD-25DEC12UNIRBL",
-        "series_ticker": "KXBUNDESLIGASPREAD",
-        "title": "Leipzig at Union Berlin: Spreads",
-        "sub_title": "RBL at UNI (Dec 12)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXBUNDESLIGAGAME-25DEC12UNIRBL",
-        "series_ticker": "KXBUNDESLIGAGAME",
-        "title": "Union Berlin vs Leipzig",
-        "sub_title": "UNI vs RBL (Dec 12)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXBUNDESLIGABTTS-25DEC12UNIRBL",
-        "series_ticker": "KXBUNDESLIGABTTS",
-        "title": "Leipzig at Union Berlin: Both Teams to Score",
-        "sub_title": "RBL at UNI (Dec 12)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXSUPERLIGGAME-25DEC12KASGEN",
-        "series_ticker": "KXSUPERLIGGAME",
-        "title": "Kasimpasa vs Genclerbirligi",
-        "sub_title": "KAS vs GEN (Dec 12)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXHNLGAME-25DEC12VUKVAR",
-        "series_ticker": "KXHNLGAME",
-        "title": "Vukovar 1991 vs Varazdin",
-        "sub_title": "VUK vs VAR (Dec 12)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXVOTEHUBTRUMPUPDOWN-25DEC11",
-        "series_ticker": "KXVOTEHUBTRUMPUPDOWN",
-        "title": "Will Trump's approval rating increase this week?",
-        "sub_title": "For Dec 11, 2025",
-        "mutually_exclusive": false,
-        "category": "Politics"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXALEAGUEGAME-25DEC12CCMAUC",
-        "series_ticker": "KXALEAGUEGAME",
-        "title": "Central Coast vs Auckland",
-        "sub_title": "CCM vs AUC (Dec 12)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNFLGAME-25DEC11ATLTB",
-        "series_ticker": "KXNFLGAME",
-        "title": "Atlanta at Tampa Bay",
-        "sub_title": "ATL at TB (Dec 11)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
         "event_ticker": "KXEFLCHAMPIONSHIPGAME-25DEC06BLASHW",
         "series_ticker": "KXEFLCHAMPIONSHIPGAME",
         "title": "Blackburn vs Sheffield Wednesday",
@@ -54108,46 +53825,6 @@
     {
         "bing_reports": {},
         "ddgs_reports": {},
-        "event_ticker": "KXCSGOGAME-25DEC12NAVIFURIA",
-        "series_ticker": "KXCSGOGAME",
-        "title": "StarLadder Major Budapest 2025: Natus Vincere vs. FURIA",
-        "sub_title": "Natus Vincere vs. FURIA",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXCSGOGAME-25DEC12FAZEMOUZ",
-        "series_ticker": "KXCSGOGAME",
-        "title": "StarLadder Major Budapest 2025: FaZe vs. MOUZ",
-        "sub_title": "FaZe vs. MOUZ",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXLIGAMXGAME-25DEC11TIGTOL",
-        "series_ticker": "KXLIGAMXGAME",
-        "title": "Tigres vs Toluca",
-        "sub_title": "TIG vs TOL (Dec 11)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXCRICKETTESTMATCH-25DEC09WINZ",
-        "series_ticker": "KXCRICKETTESTMATCH",
-        "title": "New Zealand vs West Indies",
-        "sub_title": "NZ vs WI (Dec 9)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
         "event_ticker": "KXHOWMANYSPEAKERHOUSE-27JAN",
         "series_ticker": "KXHOWMANYSPEAKERHOUSE",
         "title": "How many people will serve as Speaker of the House in 2026?",
@@ -54642,756 +54319,6 @@
         "series_ticker": "KXNCAAFCSGAME",
         "title": "Stephen F. Austin at Montana St.",
         "sub_title": "SFA at MTST (Dec 12)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXEUROLEAGUEGAME-25DEC12OPIFCB",
-        "series_ticker": "KXEUROLEAGUEGAME",
-        "title": "FC Barcelona vs BC Olympiakos Piraeus",
-        "sub_title": "OPI at FCB (Dec 12)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXEUROLEAGUEGAME-25DEC12HTAVIB",
-        "series_ticker": "KXEUROLEAGUEGAME",
-        "title": "Virtus Bologna vs Hapoel Tel-Aviv",
-        "sub_title": "HTA at VIB (Dec 12)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXEUROLEAGUEGAME-25DEC12CZVKPB",
-        "series_ticker": "KXEUROLEAGUEGAME",
-        "title": "KK Partizan Belgrade vs KK Crvena zvezda Belgrade",
-        "sub_title": "CZV at KPB (Dec 12)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXEUROLEAGUEGAME-25DEC12FENMON",
-        "series_ticker": "KXEUROLEAGUEGAME",
-        "title": "AS Monaco vs Fenerbahce Istanbul",
-        "sub_title": "FEN at MON (Dec 12)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNCAAWBGAME-25DEC12UTARICE",
-        "series_ticker": "KXNCAAWBGAME",
-        "title": "UT Arlington at Rice",
-        "sub_title": "UTA at RICE (Dec 12)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNCAAWBGAME-25DEC12FGCUFAU",
-        "series_ticker": "KXNCAAWBGAME",
-        "title": "Florida Gulf Coast at Florida Atlantic",
-        "sub_title": "FGCU at FAU (Dec 12)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXEUROLEAGUEGAME-25DEC12BAYDUB",
-        "series_ticker": "KXEUROLEAGUEGAME",
-        "title": "Dubai Basketball vs Bayern Munich",
-        "sub_title": "BAY at DUB (Dec 12)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXCBAGAME-25DEC12SHAXZHE",
-        "series_ticker": "KXCBAGAME",
-        "title": "Zhejiang Lions vs Shanxi Loongs",
-        "sub_title": "SHAX at ZHE (Dec 12)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNFLPREPACKSGP-25DEC11ATLTB",
-        "series_ticker": "KXNFLPREPACKSGP",
-        "title": "Pro Football Combo: Atlanta at Tampa Bay",
-        "sub_title": "Atlanta at Tampa Bay",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNHLTOTAL-25DEC11BUFVAN",
-        "series_ticker": "KXNHLTOTAL",
-        "title": "Buffalo vs Vancouver: Total Points",
-        "sub_title": "BUF at VAN (Dec 11)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNHLSPREAD-25DEC11BUFVAN",
-        "series_ticker": "KXNHLSPREAD",
-        "title": "Buffalo vs Vancouver: Spread",
-        "sub_title": "BUF at VAN (Dec 11)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNHLGAME-25DEC11BUFVAN",
-        "series_ticker": "KXNHLGAME",
-        "title": "Buffalo vs Vancouver",
-        "sub_title": "BUF at VAN (Dec 11)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNBAGAME-25DEC11DENSAC",
-        "series_ticker": "KXNBAGAME",
-        "title": "Denver vs Sacramento",
-        "sub_title": "DEN at SAC (Dec 11)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNHLTOTAL-25DEC11FLACOL",
-        "series_ticker": "KXNHLTOTAL",
-        "title": "Florida vs Colorado: Total Points",
-        "sub_title": "FLA at COL (Dec 11)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNHLSPREAD-25DEC11FLACOL",
-        "series_ticker": "KXNHLSPREAD",
-        "title": "Florida vs Colorado: Spread",
-        "sub_title": "FLA at COL (Dec 11)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNHLGAME-25DEC11FLACOL",
-        "series_ticker": "KXNHLGAME",
-        "title": "Florida vs Colorado",
-        "sub_title": "FLA at COL (Dec 11)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNCAAMBGAME-25DEC11NDSUCSB",
-        "series_ticker": "KXNCAAMBGAME",
-        "title": "North Dakota St. at Cal State Bakersfield",
-        "sub_title": "NDSU at CSB (Dec 11)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNHLTOTAL-25DEC11DETEDM",
-        "series_ticker": "KXNHLTOTAL",
-        "title": "Detroit vs Edmonton: Total Points",
-        "sub_title": "DET at EDM (Dec 11)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNHLSPREAD-25DEC11DETEDM",
-        "series_ticker": "KXNHLSPREAD",
-        "title": "Detroit vs Edmonton: Spread",
-        "sub_title": "DET at EDM (Dec 11)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNHLGAME-25DEC11DETEDM",
-        "series_ticker": "KXNHLGAME",
-        "title": "Detroit vs Edmonton",
-        "sub_title": "DET at EDM (Dec 11)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNCAAWBGAME-25DEC11PORTLBSU",
-        "series_ticker": "KXNCAAWBGAME",
-        "title": "Portland at Long Beach St.",
-        "sub_title": "PORT at LBSU (Dec 11)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNCAAWBGAME-25DEC11IDSTBYU",
-        "series_ticker": "KXNCAAWBGAME",
-        "title": "Idaho St. at BYU",
-        "sub_title": "IDST at BYU (Dec 11)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNCAAMBGAME-25DEC11UAADEN",
-        "series_ticker": "KXNCAAMBGAME",
-        "title": "Alaska Anchorage at Denver",
-        "sub_title": "UAA at DEN (Dec 11)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNCAAMBGAME-25DEC11JOESSYR",
-        "series_ticker": "KXNCAAMBGAME",
-        "title": "Saint Joseph's at Syracuse",
-        "sub_title": "JOES at SYR (Dec 11)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNHLTOTAL-25DEC11STLNSH",
-        "series_ticker": "KXNHLTOTAL",
-        "title": "St. Louis vs Nashville: Total Points",
-        "sub_title": "STL at NSH (Dec 11)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNHLTOTAL-25DEC11DALMIN",
-        "series_ticker": "KXNHLTOTAL",
-        "title": "Dallas vs Minnesota: Total Points",
-        "sub_title": "DAL at MIN (Dec 11)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNHLTOTAL-25DEC11BOSWPG",
-        "series_ticker": "KXNHLTOTAL",
-        "title": "Boston vs Winnipeg: Total Points",
-        "sub_title": "BOS at WPG (Dec 11)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNHLSPREAD-25DEC11STLNSH",
-        "series_ticker": "KXNHLSPREAD",
-        "title": "St. Louis vs Nashville: Spread",
-        "sub_title": "STL at NSH (Dec 11)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNHLSPREAD-25DEC11DALMIN",
-        "series_ticker": "KXNHLSPREAD",
-        "title": "Dallas vs Minnesota: Spread",
-        "sub_title": "DAL at MIN (Dec 11)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNHLSPREAD-25DEC11BOSWPG",
-        "series_ticker": "KXNHLSPREAD",
-        "title": "Boston vs Winnipeg: Spread",
-        "sub_title": "BOS at WPG (Dec 11)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNHLGAME-25DEC11STLNSH",
-        "series_ticker": "KXNHLGAME",
-        "title": "St. Louis vs Nashville",
-        "sub_title": "STL at NSH (Dec 11)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNHLGAME-25DEC11DALMIN",
-        "series_ticker": "KXNHLGAME",
-        "title": "Dallas vs Minnesota",
-        "sub_title": "DAL at MIN (Dec 11)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNHLGAME-25DEC11BOSWPG",
-        "series_ticker": "KXNHLGAME",
-        "title": "Boston vs Winnipeg",
-        "sub_title": "BOS at WPG (Dec 11)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNCAAMBGAME-25DEC11SJUUST",
-        "series_ticker": "KXNCAAMBGAME",
-        "title": "Saint John's (MN) at St. Thomas",
-        "sub_title": "SJU at UST (Dec 11)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNCAAMBGAME-25DEC11IOWAISU",
-        "series_ticker": "KXNCAAMBGAME",
-        "title": "Iowa at Iowa St.",
-        "sub_title": "IOWA at ISU (Dec 11)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNCAAMBGAME-25DEC11ALSTMIZZ",
-        "series_ticker": "KXNCAAMBGAME",
-        "title": "Alabama St. at Missouri",
-        "sub_title": "ALST at MIZZ (Dec 11)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNBAGAME-25DEC11PORNOP",
-        "series_ticker": "KXNBAGAME",
-        "title": "Portland vs New Orleans",
-        "sub_title": "POR at NOP (Dec 11)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNBAGAME-25DEC11LACHOU",
-        "series_ticker": "KXNBAGAME",
-        "title": "Los Angeles C vs Houston",
-        "sub_title": "LAC at HOU (Dec 11)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNBAGAME-25DEC11BOSMIL",
-        "series_ticker": "KXNBAGAME",
-        "title": "Boston vs Milwaukee",
-        "sub_title": "BOS at MIL (Dec 11)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNBA3D-25DEC11PORNOP",
-        "series_ticker": "KXNBA3D",
-        "title": "Portland at New Orleans: Triple Doubles",
-        "sub_title": "POR at NOP (Dec 11)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNBA2D-25DEC11PORNOP",
-        "series_ticker": "KXNBA2D",
-        "title": "Portland at New Orleans: Double Doubles",
-        "sub_title": "POR at NOP (Dec 11)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNBA2D-25DEC11BOSMIL",
-        "series_ticker": "KXNBA2D",
-        "title": "Boston at Milwaukee: Double Doubles",
-        "sub_title": "BOS at MIL (Dec 11)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNCAAMBGAME-25DEC11UTAUTRGV",
-        "series_ticker": "KXNCAAMBGAME",
-        "title": "UT Arlington at UT Rio Grande Valley",
-        "sub_title": "UTA at UTRGV (Dec 11)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNHLTOTAL-25DEC11VGKPHI",
-        "series_ticker": "KXNHLTOTAL",
-        "title": "Vegas vs Philadelphia: Total Points",
-        "sub_title": "VGK at PHI (Dec 11)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNHLTOTAL-25DEC11TBNJ",
-        "series_ticker": "KXNHLTOTAL",
-        "title": "Tampa Bay vs New Jersey: Total Points",
-        "sub_title": "TB at NJ (Dec 11)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNHLTOTAL-25DEC11SJTOR",
-        "series_ticker": "KXNHLTOTAL",
-        "title": "San Jose vs Toronto: Total Points",
-        "sub_title": "SJ at TOR (Dec 11)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNHLTOTAL-25DEC11OTTCBJ",
-        "series_ticker": "KXNHLTOTAL",
-        "title": "Ottawa vs Columbus: Total Points",
-        "sub_title": "OTT at CBJ (Dec 11)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNHLTOTAL-25DEC11MTLPIT",
-        "series_ticker": "KXNHLTOTAL",
-        "title": "Montreal vs Pittsburgh: Total Points",
-        "sub_title": "MTL at PIT (Dec 11)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNHLTOTAL-25DEC11CARWSH",
-        "series_ticker": "KXNHLTOTAL",
-        "title": "Carolina vs Washington: Total Points",
-        "sub_title": "CAR at WSH (Dec 11)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNHLTOTAL-25DEC11ANANYI",
-        "series_ticker": "KXNHLTOTAL",
-        "title": "Anaheim vs New York I: Total Points",
-        "sub_title": "ANA at NYI (Dec 11)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNHLSPREAD-25DEC11VGKPHI",
-        "series_ticker": "KXNHLSPREAD",
-        "title": "Vegas vs Philadelphia: Spread",
-        "sub_title": "VGK at PHI (Dec 11)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNHLSPREAD-25DEC11TBNJ",
-        "series_ticker": "KXNHLSPREAD",
-        "title": "Tampa Bay vs New Jersey: Spread",
-        "sub_title": "TB at NJ (Dec 11)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNHLSPREAD-25DEC11SJTOR",
-        "series_ticker": "KXNHLSPREAD",
-        "title": "San Jose vs Toronto: Spread",
-        "sub_title": "SJ at TOR (Dec 11)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNHLSPREAD-25DEC11OTTCBJ",
-        "series_ticker": "KXNHLSPREAD",
-        "title": "Ottawa vs Columbus: Spread",
-        "sub_title": "OTT at CBJ (Dec 11)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNHLSPREAD-25DEC11MTLPIT",
-        "series_ticker": "KXNHLSPREAD",
-        "title": "Montreal vs Pittsburgh: Spread",
-        "sub_title": "MTL at PIT (Dec 11)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNHLSPREAD-25DEC11CARWSH",
-        "series_ticker": "KXNHLSPREAD",
-        "title": "Carolina vs Washington: Spread",
-        "sub_title": "CAR at WSH (Dec 11)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNHLSPREAD-25DEC11ANANYI",
-        "series_ticker": "KXNHLSPREAD",
-        "title": "Anaheim vs New York I: Spread",
-        "sub_title": "ANA at NYI (Dec 11)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNHLGAME-25DEC11VGKPHI",
-        "series_ticker": "KXNHLGAME",
-        "title": "Vegas vs Philadelphia",
-        "sub_title": "VGK at PHI (Dec 11)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNHLGAME-25DEC11TBNJ",
-        "series_ticker": "KXNHLGAME",
-        "title": "Tampa Bay vs New Jersey",
-        "sub_title": "TB at NJ (Dec 11)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNHLGAME-25DEC11SJTOR",
-        "series_ticker": "KXNHLGAME",
-        "title": "San Jose vs Toronto",
-        "sub_title": "SJ at TOR (Dec 11)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNHLGAME-25DEC11OTTCBJ",
-        "series_ticker": "KXNHLGAME",
-        "title": "Ottawa vs Columbus",
-        "sub_title": "OTT at CBJ (Dec 11)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNHLGAME-25DEC11MTLPIT",
-        "series_ticker": "KXNHLGAME",
-        "title": "Montreal vs Pittsburgh",
-        "sub_title": "MTL at PIT (Dec 11)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNHLGAME-25DEC11CARWSH",
-        "series_ticker": "KXNHLGAME",
-        "title": "Carolina vs Washington",
-        "sub_title": "CAR at WSH (Dec 11)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNHLGAME-25DEC11ANANYI",
-        "series_ticker": "KXNHLGAME",
-        "title": "Anaheim vs New York I",
-        "sub_title": "ANA at NYI (Dec 11)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNCAAWBGAME-25DEC11ULMIND",
-        "series_ticker": "KXNCAAWBGAME",
-        "title": "Louisiana-Monroe at Indiana",
-        "sub_title": "ULM at IND (Dec 11)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNCAAWBGAME-25DEC11UALROKLA",
-        "series_ticker": "KXNCAAWBGAME",
-        "title": "Little Rock at Oklahoma",
-        "sub_title": "UALR at OKLA (Dec 11)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNCAAWBGAME-25DEC11MOREND",
-        "series_ticker": "KXNCAAWBGAME",
-        "title": "Morehead St. at Notre Dame",
-        "sub_title": "MORE at ND (Dec 11)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNCAAWBGAME-25DEC11MASSLDEP",
-        "series_ticker": "KXNCAAWBGAME",
-        "title": "UMass Lowell at DePaul",
-        "sub_title": "MASSL at DEP (Dec 11)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNCAAWBGAME-25DEC11INSTBUT",
-        "series_ticker": "KXNCAAWBGAME",
-        "title": "Indiana St. at Butler",
-        "sub_title": "INST at BUT (Dec 11)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNCAAWBGAME-25DEC11GTWVU",
-        "series_ticker": "KXNCAAWBGAME",
-        "title": "Georgia Tech at West Virginia",
-        "sub_title": "GT at WVU (Dec 11)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNCAAMBGAME-25DEC11WCUVT",
-        "series_ticker": "KXNCAAMBGAME",
-        "title": "Western Carolina at Virginia Tech",
-        "sub_title": "WCU at VT (Dec 11)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNCAAMBGAME-25DEC11TBCJAC",
-        "series_ticker": "KXNCAAMBGAME",
-        "title": "Trinity College of Jacksonville at Jacksonville",
-        "sub_title": "TBC at JAC (Dec 11)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNCAAMBGAME-25DEC11CGGASO",
-        "series_ticker": "KXNCAAMBGAME",
-        "title": "Coastal Georgia at Georgia Southern",
-        "sub_title": "CG at GASO (Dec 11)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNCAAMBGAME-25DEC11BLOOMWAG",
-        "series_ticker": "KXNCAAMBGAME",
-        "title": "Bloomfield at Wagner",
-        "sub_title": "BLOOM at WAG (Dec 11)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNCAAMBGAME-25DEC11APPECU",
-        "series_ticker": "KXNCAAMBGAME",
-        "title": "Appalachian St. at East Carolina",
-        "sub_title": "APP at ECU (Dec 11)",
         "mutually_exclusive": true,
         "category": "Sports"
     },
@@ -56422,216 +55349,6 @@
         "series_ticker": "KXNBAGAME",
         "title": "Atlanta vs Detroit",
         "sub_title": "ATL at DET (Dec 12)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNCAAWBGAME-25DEC12SBONMHU",
-        "series_ticker": "KXNCAAWBGAME",
-        "title": "St. Bonaventure at Mercyhurst",
-        "sub_title": "SBON at MHU (Dec 12)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNCAAMBGAME-25DEC12ARMYUMBC",
-        "series_ticker": "KXNCAAMBGAME",
-        "title": "Army at UMBC",
-        "sub_title": "ARMY at UMBC (Dec 12)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXDARTSMATCH-25DEC12DHETSLEN",
-        "series_ticker": "KXDARTSMATCH",
-        "title": "Damon Heta vs Steve Lennon",
-        "sub_title": "Damon Heta vs Steve Lennon (Dec 12)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXDARTSMATCH-25DEC12GVANCREY",
-        "series_ticker": "KXDARTSMATCH",
-        "title": "Gian van Veen vs Cristo Reyes",
-        "sub_title": "Gian van Veen vs Cristo Reyes (Dec 12)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXDARTSMATCH-25DEC12REVAMLEU",
-        "series_ticker": "KXDARTSMATCH",
-        "title": "Ricky Evans vs Man Lok Leung",
-        "sub_title": "Ricky Evans vs Man Lok Leung (Dec 12)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXDARTSMATCH-25DEC12RSMIAHAR",
-        "series_ticker": "KXDARTSMATCH",
-        "title": "Ross Smith vs Andreas Harrysson",
-        "sub_title": "Ross Smith vs Andreas Harrysson (Dec 12)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXDARTSMATCH-25DEC12RCROCDEK",
-        "series_ticker": "KXDARTSMATCH",
-        "title": "Rob Cross vs Cor Dekker",
-        "sub_title": "Rob Cross vs Cor Dekker (Dec 12)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXDARTSMATCH-25DEC12RSEACLAN",
-        "series_ticker": "KXDARTSMATCH",
-        "title": "Ryan Searle vs Chris Landman",
-        "sub_title": "Ryan Searle vs Chris Landman (Dec 12)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXDARTSMATCH-25DEC12IWHIMKIN",
-        "series_ticker": "KXDARTSMATCH",
-        "title": "Ian White vs Mervyn King",
-        "sub_title": "Ian White vs Mervyn King (Dec 12)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXCRICKETT20IMATCH-25DEC12SIERWA",
-        "series_ticker": "KXCRICKETT20IMATCH",
-        "title": "Rwanda vs Sierra Leone",
-        "sub_title": "RWA vs SIE (Dec 12)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXDARTSMATCH-25DEC12NZONHPUH",
-        "series_ticker": "KXDARTSMATCH",
-        "title": "Niels Zonneveld vs Haupai Puha",
-        "sub_title": "Niels Zonneveld vs Haupai Puha (Dec 12)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXRAINNYC-25DEC11",
-        "series_ticker": "KXRAINNYC",
-        "title": "Will it rain in NYC on Dec 11, 2025?",
-        "sub_title": "On Dec 11, 2025",
-        "mutually_exclusive": false,
-        "category": "Climate and Weather"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNBLGAME-25DEC12SYDPER",
-        "series_ticker": "KXNBLGAME",
-        "title": "Perth Wildcats vs Sydney Kings",
-        "sub_title": "SYD at PER (Dec 12)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXCRICKETT20IMATCH-25DEC12NIGZAM",
-        "series_ticker": "KXCRICKETT20IMATCH",
-        "title": "Zambia vs Nigeria",
-        "sub_title": "ZAM vs NIG (Dec 12)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNBLGAME-25DEC12MELA36",
-        "series_ticker": "KXNBLGAME",
-        "title": "Adelaide 36ers vs Melbourne United",
-        "sub_title": "MEL at A36 (Dec 12)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXCRICKETT20IMATCH-25DEC12MALTHA",
-        "series_ticker": "KXCRICKETT20IMATCH",
-        "title": "Thailand vs Malaysia",
-        "sub_title": "THA vs MAL (Dec 12)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXCRICKETT20IMATCH-25DEC11BAHBHU",
-        "series_ticker": "KXCRICKETT20IMATCH",
-        "title": "Bhutan vs Bahrain",
-        "sub_title": "BHU vs BAH (Dec 11)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNCAAWBGAME-25DEC11CSMBSJSU",
-        "series_ticker": "KXNCAAWBGAME",
-        "title": "Cal State Monterey Bay at San Jose St.",
-        "sub_title": "CSMB at SJSU (Dec 11)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNBA3D-25DEC11DENSAC",
-        "series_ticker": "KXNBA3D",
-        "title": "Denver at Sacramento: Triple Doubles",
-        "sub_title": "DEN at SAC (Dec 11)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNBA2D-25DEC11DENSAC",
-        "series_ticker": "KXNBA2D",
-        "title": "Denver at Sacramento: Double Doubles",
-        "sub_title": "DEN at SAC (Dec 11)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXCRICKETT20IMATCH-25DEC11SINIDN",
-        "series_ticker": "KXCRICKETT20IMATCH",
-        "title": "Indonesia vs Singapore",
-        "sub_title": "IDN vs SIN (Dec 11)",
         "mutually_exclusive": true,
         "category": "Sports"
     },
@@ -59388,16 +58105,6 @@
     {
         "bing_reports": {},
         "ddgs_reports": {},
-        "event_ticker": "KXNBAAST-25DEC12INDPHI",
-        "series_ticker": "KXNBAAST",
-        "title": "Indiana at Philadelphia: Assists",
-        "sub_title": "IND at PHI (Dec 12)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
         "event_ticker": "KXNBA3D-25DEC12CHICHA",
         "series_ticker": "KXNBA3D",
         "title": "Chicago at Charlotte: Triple Doubles",
@@ -59458,231 +58165,1741 @@
     {
         "bing_reports": {},
         "ddgs_reports": {},
-        "event_ticker": "KXCODGAME-25DEC12TORVAN",
-        "series_ticker": "KXCODGAME",
-        "title": "Call of Duty League Stage 1 Major Qualifiers 2026: Toronto KOI vs. Vancouver Surge",
-        "sub_title": "Toronto KOI vs. Vancouver Surge",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXCODGAME-25DEC12BOSG2M",
-        "series_ticker": "KXCODGAME",
-        "title": "Call of Duty League Stage 1 Major Qualifiers 2026: Boston Breach vs. G2 Minnesota",
-        "sub_title": "Boston Breach vs. G2 Minnesota",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXCODGAME-25DEC12CRRRIYF",
-        "series_ticker": "KXCODGAME",
-        "title": "Call of Duty League Stage 1 Major Qualifiers 2026: Carolina Royal Ravens vs. Riyadh Falcons",
-        "sub_title": "Carolina Royal Ravens vs. Riyadh Falcons",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXDOTA2GAME-25DEC12PARIFLC",
-        "series_ticker": "KXDOTA2GAME",
-        "title": "DreamLeague 2025: PARIVISION vs. Team Falcons",
-        "sub_title": "PARIVISION vs. Team Falcons",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXDOTA2GAME-25DEC12NGXTEA",
-        "series_ticker": "KXDOTA2GAME",
-        "title": "DreamLeague 2025: Nigma Galaxy vs. Team Nemesis",
-        "sub_title": "Nigma Galaxy vs. Team Nemesis",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXDOTA2GAME-25DEC12AURTUNDRA",
-        "series_ticker": "KXDOTA2GAME",
-        "title": "DreamLeague 2025: Aurora vs. Tundra Esports",
-        "sub_title": "Aurora vs. Tundra Esports",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXCS2MAP-FURIANAVI125",
-        "series_ticker": "KXCS2MAP",
-        "title": "FURIA vs. Natus Vincere Map 1 Winner?",
-        "sub_title": "2025 FURIA vs. Natus Vincere Map 1",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXCS2MAP-FAZEMOUZ225",
-        "series_ticker": "KXCS2MAP",
-        "title": "FaZe vs. MOUZ Map 2 Winner?",
-        "sub_title": "2025 FaZe vs. MOUZ Map 2",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXCS2MAP-FAZEMOUZ125",
-        "series_ticker": "KXCS2MAP",
-        "title": "FaZe vs. MOUZ Map 1 Winner?",
-        "sub_title": "2025 FaZe vs. MOUZ Map 1",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXDOTA2GAME-25DEC12RUNXTREME",
-        "series_ticker": "KXDOTA2GAME",
-        "title": "DreamLeague 2025: Runa Team vs. Xtreme Gaming",
-        "sub_title": "Runa Team vs. Xtreme Gaming",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXDOTA2GAME-25DEC12LIQUIDTS",
-        "series_ticker": "KXDOTA2GAME",
-        "title": "DreamLeague 2025: Team Liquid vs. Team Spirit",
-        "sub_title": "Team Liquid vs. Team Spirit",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXDOTA2GAME-25DEC12AMATY",
-        "series_ticker": "KXDOTA2GAME",
-        "title": "DreamLeague 2025: Amaru Gaming vs. Team Yandex",
-        "sub_title": "Amaru Gaming vs. Team Yandex",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXDOTA2GAME-25DEC121WINGL",
-        "series_ticker": "KXDOTA2GAME",
-        "title": "DreamLeague 2025: 1win vs. GamerLegion",
-        "sub_title": "1win vs. GamerLegion",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXDOTA2GAME-25DEC12TTPSNUA",
-        "series_ticker": "KXDOTA2GAME",
-        "title": "DreamLeague 2025: Team Tidebound vs. Passion UA",
-        "sub_title": "Team Tidebound vs. Passion UA",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXDOTA2GAME-25DEC12OGBB",
-        "series_ticker": "KXDOTA2GAME",
-        "title": "DreamLeague 2025: OG vs. BetBoom Team",
-        "sub_title": "OG vs. BetBoom Team",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNBAREB-25DEC11DENSAC",
-        "series_ticker": "KXNBAREB",
-        "title": "Denver at Sacramento: Rebounds",
-        "sub_title": "DEN at SAC (Dec 11)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNBAREB-25DEC11PORNOP",
-        "series_ticker": "KXNBAREB",
-        "title": "Portland at New Orleans: Rebounds",
-        "sub_title": "POR at NOP (Dec 11)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNBAAST-25DEC11PORNOP",
-        "series_ticker": "KXNBAAST",
-        "title": "Portland at New Orleans: Assists",
-        "sub_title": "POR at NOP (Dec 11)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNBAAST-25DEC11BOSMIL",
-        "series_ticker": "KXNBAAST",
-        "title": "Boston at Milwaukee: Assists",
-        "sub_title": "BOS at MIL (Dec 11)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNBA3D-25DEC11LACHOU",
-        "series_ticker": "KXNBA3D",
-        "title": "Los Angeles C at Houston: Triple Doubles",
-        "sub_title": "LAC at HOU (Dec 11)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXETH15M-25DEC112045",
-        "series_ticker": "KXETH15M",
-        "title": "ETH Up or Down - 15 minutes",
-        "sub_title": "Dec 11 - 8:30PM EST to 8:45PM EST",
-        "mutually_exclusive": false,
-        "category": "Crypto"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXBTC15M-25DEC112045",
-        "series_ticker": "KXBTC15M",
-        "title": "BTC Up or Down - 15 minutes",
-        "sub_title": "Dec 11 - 8:30PM EST to 8:45PM EST",
-        "mutually_exclusive": false,
-        "category": "Crypto"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
         "event_ticker": "KXTARIFFSNEW-25NOV30",
         "series_ticker": "KXTARIFFSNEW",
         "title": "Will Trump impose new tariffs?",
         "sub_title": "Nov 2025",
         "mutually_exclusive": false,
         "category": "Politics"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXIMPEACHCABINET",
+        "series_ticker": "KXIMPEACHCABINET",
+        "title": "Will a cabinet member be impeached?",
+        "sub_title": "Before 2029",
+        "mutually_exclusive": false,
+        "category": "Politics"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXBLUEWAVECOMBO-27FEB",
+        "series_ticker": "KXBLUEWAVECOMBO",
+        "title": "Blue wave in 2026?",
+        "sub_title": "For Feb 2027",
+        "mutually_exclusive": false,
+        "category": "Politics"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXHOUSEIN7-26",
+        "series_ticker": "KXHOUSEIN7",
+        "title": "Which party will win the House race for IN-07?",
+        "sub_title": "In 2026",
+        "mutually_exclusive": true,
+        "category": "Politics"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXWCGROUPQUAL-26L",
+        "series_ticker": "KXWCGROUPQUAL",
+        "title": "World Cup Group L Qualifiers",
+        "sub_title": "Group L",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXWCGROUPQUAL-26J",
+        "series_ticker": "KXWCGROUPQUAL",
+        "title": "World Cup Group J Qualifiers",
+        "sub_title": "Group J",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXWCGROUPQUAL-26H",
+        "series_ticker": "KXWCGROUPQUAL",
+        "title": "World Cup Group H Qualifiers",
+        "sub_title": "Group H",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXWCGROUPQUAL-26G",
+        "series_ticker": "KXWCGROUPQUAL",
+        "title": "World Cup Group G Qualifiers",
+        "sub_title": "Group G",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXWCGROUPQUAL-26E",
+        "series_ticker": "KXWCGROUPQUAL",
+        "title": "World Cup Group E Qualifiers",
+        "sub_title": "Group E",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXWCGROUPQUAL-26C",
+        "series_ticker": "KXWCGROUPQUAL",
+        "title": "World Cup Group C Qualifiers",
+        "sub_title": "Group C",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXWCGROUPWIN-26L",
+        "series_ticker": "KXWCGROUPWIN",
+        "title": "World Cup Group L Winner",
+        "sub_title": "Group L",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXWCGROUPWIN-26J",
+        "series_ticker": "KXWCGROUPWIN",
+        "title": "World Cup Group J Winner",
+        "sub_title": "Group J",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXWCGROUPWIN-26H",
+        "series_ticker": "KXWCGROUPWIN",
+        "title": "World Cup Group H Winner",
+        "sub_title": "Group H",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXWCGROUPWIN-26G",
+        "series_ticker": "KXWCGROUPWIN",
+        "title": "World Cup Group G Winner",
+        "sub_title": "Group G",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXWCGROUPWIN-26E",
+        "series_ticker": "KXWCGROUPWIN",
+        "title": "World Cup Group E Winner",
+        "sub_title": "Group E",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXWCGROUPWIN-26C",
+        "series_ticker": "KXWCGROUPWIN",
+        "title": "World Cup Group C Winner",
+        "sub_title": "Group C",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXMD06D-26",
+        "series_ticker": "KXMD06D",
+        "title": "Who will be the Democratic nominee for MD-06?",
+        "sub_title": "In 2026",
+        "mutually_exclusive": true,
+        "category": "Elections"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXEDVACONF-26MAR01",
+        "series_ticker": "KXEDVACONF",
+        "title": "Will Lindsey Halligan be confirmed before March?",
+        "sub_title": "Before Mar 1, 2026",
+        "mutually_exclusive": false,
+        "category": "Politics"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXRANKLIST1SONG-26JAN",
+        "series_ticker": "KXRANKLIST1SONG",
+        "title": "Which songs will be #1 on the Billboard Hot 100 in January?",
+        "sub_title": "Before Jan 31, 2026",
+        "mutually_exclusive": false,
+        "category": "Entertainment"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXEPLGAME-25DEC28CRYTOT",
+        "series_ticker": "KXEPLGAME",
+        "title": "Crystal Palace vs Tottenham",
+        "sub_title": "CRY vs TOT (Dec 28)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXEPLGAME-25DEC28SUNLEE",
+        "series_ticker": "KXEPLGAME",
+        "title": "Sunderland vs Leeds United",
+        "sub_title": "SUN vs LEE (Dec 28)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXEPLTOTAL-25DEC27CFCAVL",
+        "series_ticker": "KXEPLTOTAL",
+        "title": "Aston Villa at Chelsea: Totals",
+        "sub_title": "AVL at CFC (Dec 27)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXEPLSPREAD-25DEC27CFCAVL",
+        "series_ticker": "KXEPLSPREAD",
+        "title": "Aston Villa at Chelsea: Spreads",
+        "sub_title": "AVL at CFC (Dec 27)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXEPLBTTS-25DEC27CFCAVL",
+        "series_ticker": "KXEPLBTTS",
+        "title": "Aston Villa at Chelsea: Both Teams to Score",
+        "sub_title": "AVL at CFC (Dec 27)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXEPLTOTAL-25DEC27WHUFUL",
+        "series_ticker": "KXEPLTOTAL",
+        "title": "Fulham at West Ham: Totals",
+        "sub_title": "FUL at WHU (Dec 27)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXEPLTOTAL-25DEC27LFCWOL",
+        "series_ticker": "KXEPLTOTAL",
+        "title": "Wolverhampton at Liverpool: Totals",
+        "sub_title": "WOL at LFC (Dec 27)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXEPLTOTAL-25DEC27BUREVE",
+        "series_ticker": "KXEPLTOTAL",
+        "title": "Everton at Burnley: Totals",
+        "sub_title": "EVE at BUR (Dec 27)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXEPLTOTAL-25DEC27BREBOU",
+        "series_ticker": "KXEPLTOTAL",
+        "title": "Bournemouth at Brentford: Totals",
+        "sub_title": "BOU at BRE (Dec 27)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXEPLTOTAL-25DEC27ARSBRI",
+        "series_ticker": "KXEPLTOTAL",
+        "title": "Brighton at Arsenal: Totals",
+        "sub_title": "BRI at ARS (Dec 27)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXEPLSPREAD-25DEC27WHUFUL",
+        "series_ticker": "KXEPLSPREAD",
+        "title": "Fulham at West Ham: Spreads",
+        "sub_title": "FUL at WHU (Dec 27)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXEPLSPREAD-25DEC27LFCWOL",
+        "series_ticker": "KXEPLSPREAD",
+        "title": "Wolverhampton at Liverpool: Spreads",
+        "sub_title": "WOL at LFC (Dec 27)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXEPLSPREAD-25DEC27BUREVE",
+        "series_ticker": "KXEPLSPREAD",
+        "title": "Everton at Burnley: Spreads",
+        "sub_title": "EVE at BUR (Dec 27)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXEPLSPREAD-25DEC27BREBOU",
+        "series_ticker": "KXEPLSPREAD",
+        "title": "Bournemouth at Brentford: Spreads",
+        "sub_title": "BOU at BRE (Dec 27)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXEPLSPREAD-25DEC27ARSBRI",
+        "series_ticker": "KXEPLSPREAD",
+        "title": "Brighton at Arsenal: Spreads",
+        "sub_title": "BRI at ARS (Dec 27)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXEPLBTTS-25DEC27WHUFUL",
+        "series_ticker": "KXEPLBTTS",
+        "title": "Fulham at West Ham: Both Teams to Score",
+        "sub_title": "FUL at WHU (Dec 27)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXEPLBTTS-25DEC27LFCWOL",
+        "series_ticker": "KXEPLBTTS",
+        "title": "Wolverhampton at Liverpool: Both Teams to Score",
+        "sub_title": "WOL at LFC (Dec 27)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXEPLBTTS-25DEC27BUREVE",
+        "series_ticker": "KXEPLBTTS",
+        "title": "Everton at Burnley: Both Teams to Score",
+        "sub_title": "EVE at BUR (Dec 27)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXEPLBTTS-25DEC27BREBOU",
+        "series_ticker": "KXEPLBTTS",
+        "title": "Bournemouth at Brentford: Both Teams to Score",
+        "sub_title": "BOU at BRE (Dec 27)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXEPLBTTS-25DEC27ARSBRI",
+        "series_ticker": "KXEPLBTTS",
+        "title": "Brighton at Arsenal: Both Teams to Score",
+        "sub_title": "BRI at ARS (Dec 27)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXEPLTOTAL-25DEC27NFOMCI",
+        "series_ticker": "KXEPLTOTAL",
+        "title": "Manchester City at Nottingham: Totals",
+        "sub_title": "MCI at NFO (Dec 27)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXEPLSPREAD-25DEC27NFOMCI",
+        "series_ticker": "KXEPLSPREAD",
+        "title": "Manchester City at Nottingham: Spreads",
+        "sub_title": "MCI at NFO (Dec 27)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXEPLBTTS-25DEC27NFOMCI",
+        "series_ticker": "KXEPLBTTS",
+        "title": "Manchester City at Nottingham: Both Teams to Score",
+        "sub_title": "MCI at NFO (Dec 27)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNYCSNOWXMAS-25DEC",
+        "series_ticker": "KXNYCSNOWXMAS",
+        "title": "White Christmas in New York City?",
+        "sub_title": "Christmas 2025",
+        "mutually_exclusive": false,
+        "category": "Climate and Weather"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXCHISNOWXMAS-25DEC",
+        "series_ticker": "KXCHISNOWXMAS",
+        "title": "White Christmas in Chicago?",
+        "sub_title": "In Dec 2025",
+        "mutually_exclusive": false,
+        "category": "Climate and Weather"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXBOSSNOWXMAS-25DEC",
+        "series_ticker": "KXBOSSNOWXMAS",
+        "title": "White Christmas in Boston?",
+        "sub_title": "In Dec 2025",
+        "mutually_exclusive": false,
+        "category": "Climate and Weather"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXLALIGAGAME-25DEC19VCFMAL",
+        "series_ticker": "KXLALIGAGAME",
+        "title": "Valencia vs Mallorca",
+        "sub_title": "VCF vs MAL (Dec 19)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXBUNDESLIGAGAME-25DEC19BVBBMG",
+        "series_ticker": "KXBUNDESLIGAGAME",
+        "title": "Dortmund vs M\u00b4gladbach",
+        "sub_title": "BVB vs BMG (Dec 19)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXFIFAGAME-25DEC16RSAGHA",
+        "series_ticker": "KXFIFAGAME",
+        "title": "South Africa vs Ghana",
+        "sub_title": "RSA vs GHA (Dec 16)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXLIGAPORTUGALGAME-25DEC15FCPESA",
+        "series_ticker": "KXLIGAPORTUGALGAME",
+        "title": "Porto vs Estrela Amadora",
+        "sub_title": "FCP vs ESA (Dec 15)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXEFLCHAMPIONSHIPGAME-25DEC15SHWDER",
+        "series_ticker": "KXEFLCHAMPIONSHIPGAME",
+        "title": "Sheffield Wednesday vs Derby",
+        "sub_title": "SHW vs DER (Dec 15)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXSCOTTISHPREMGAME-25DEC15RFCHIB",
+        "series_ticker": "KXSCOTTISHPREMGAME",
+        "title": "Rangers vs Hibernian",
+        "sub_title": "RFC vs HIB (Dec 15)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXLIGAPORTUGALGAME-25DEC15BRASCL",
+        "series_ticker": "KXLIGAPORTUGALGAME",
+        "title": "Braga vs Santa Clara Azores",
+        "sub_title": "BRA vs SCL (Dec 15)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXSUPERLIGGAME-25DEC15FENKON",
+        "series_ticker": "KXSUPERLIGGAME",
+        "title": "Fenerbahce vs Konyaspor",
+        "sub_title": "FEN vs KON (Dec 15)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAWBGAME-25DEC15TAMKUTSA",
+        "series_ticker": "KXNCAAWBGAME",
+        "title": "Texas A&M-Kingsville at UTSA",
+        "sub_title": "TAMK at UTSA (Dec 15)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAWBGAME-25DEC15OAKLCHI",
+        "series_ticker": "KXNCAAWBGAME",
+        "title": "Oakland at Loyola Chicago",
+        "sub_title": "OAK at LCHI (Dec 15)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAWBGAME-25DEC15MEMMURR",
+        "series_ticker": "KXNCAAWBGAME",
+        "title": "Memphis at Murray St.",
+        "sub_title": "MEM at MURR (Dec 15)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAWBGAME-25DEC15NCATUGA",
+        "series_ticker": "KXNCAAWBGAME",
+        "title": "North Carolina A&T at Georgia",
+        "sub_title": "NCAT at UGA (Dec 15)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXCBAGAME-25DEC15ZHELIA",
+        "series_ticker": "KXCBAGAME",
+        "title": "Liaoning Flying Leopards vs Zhejiang Lions",
+        "sub_title": "ZHE at LIA (Dec 15)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXCBAGAME-25DEC15XINBED",
+        "series_ticker": "KXCBAGAME",
+        "title": "Beijing Ducks vs Xinjiang Flying Tigers",
+        "sub_title": "XIN at BED (Dec 15)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXCBAGAME-25DEC15SHAGLL",
+        "series_ticker": "KXCBAGAME",
+        "title": "Guangzhou Loong Lions vs Shandong Kirin",
+        "sub_title": "SHA at GLL (Dec 15)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXCBAGAME-25DEC15SBWQIN",
+        "series_ticker": "KXCBAGAME",
+        "title": "Qingdao Eagles vs Sichuan Blue Whales",
+        "sub_title": "SBW at QIN (Dec 15)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNBAGAME-25DEC14GSWPOR",
+        "series_ticker": "KXNBAGAME",
+        "title": "Golden State vs Portland",
+        "sub_title": "GSW at POR (Dec 14)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNHLTOTAL-25DEC14BUFSEA",
+        "series_ticker": "KXNHLTOTAL",
+        "title": "Buffalo vs Seattle: Total Points",
+        "sub_title": "BUF at SEA (Dec 14)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNHLSPREAD-25DEC14BUFSEA",
+        "series_ticker": "KXNHLSPREAD",
+        "title": "Buffalo vs Seattle: Spread",
+        "sub_title": "BUF at SEA (Dec 14)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNHLGAME-25DEC14BUFSEA",
+        "series_ticker": "KXNHLGAME",
+        "title": "Buffalo vs Seattle",
+        "sub_title": "BUF at SEA (Dec 14)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNBAGAME-25DEC14LALPHX",
+        "series_ticker": "KXNBAGAME",
+        "title": "Los Angeles L vs Phoenix",
+        "sub_title": "LAL at PHX (Dec 14)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNBA3D-25DEC14LALPHX",
+        "series_ticker": "KXNBA3D",
+        "title": "Los Angeles L at Phoenix: Triple Doubles",
+        "sub_title": "LAL at PHX (Dec 14)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNBA2D-25DEC14LALPHX",
+        "series_ticker": "KXNBA2D",
+        "title": "Los Angeles L at Phoenix: Double Doubles",
+        "sub_title": "LAL at PHX (Dec 14)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXLIGAMXGAME-25DEC14TOLTIG",
+        "series_ticker": "KXLIGAMXGAME",
+        "title": "Toluca vs Tigres",
+        "sub_title": "TOL vs TIG (Dec 14)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBGAME-25DEC14WSUUSC",
+        "series_ticker": "KXNCAAMBGAME",
+        "title": "Washington St. at USC",
+        "sub_title": "WSU at USC (Dec 14)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNHLTOTAL-25DEC14EDMMTL",
+        "series_ticker": "KXNHLTOTAL",
+        "title": "Edmonton vs Montreal: Total Points",
+        "sub_title": "EDM at MTL (Dec 14)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNHLSPREAD-25DEC14EDMMTL",
+        "series_ticker": "KXNHLSPREAD",
+        "title": "Edmonton vs Montreal: Spread",
+        "sub_title": "EDM at MTL (Dec 14)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNHLGAME-25DEC14EDMMTL",
+        "series_ticker": "KXNHLGAME",
+        "title": "Edmonton vs Montreal",
+        "sub_title": "EDM at MTL (Dec 14)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAWBGAME-25DEC14DAVCHAR",
+        "series_ticker": "KXNCAAWBGAME",
+        "title": "Davidson at Charlotte",
+        "sub_title": "DAV at CHAR (Dec 14)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBGAME-25DEC14JACTXAM",
+        "series_ticker": "KXNCAAMBGAME",
+        "title": "Jacksonville at Texas A&M",
+        "sub_title": "JAC at TXAM (Dec 14)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNBAGAME-25DEC14SACMIN",
+        "series_ticker": "KXNBAGAME",
+        "title": "Sacramento vs Minnesota",
+        "sub_title": "SAC at MIN (Dec 14)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNBAGAME-25DEC14NOPCHI",
+        "series_ticker": "KXNBAGAME",
+        "title": "New Orleans vs Chicago",
+        "sub_title": "NOP at CHI (Dec 14)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNBA3D-25DEC14NOPCHI",
+        "series_ticker": "KXNBA3D",
+        "title": "New Orleans at Chicago: Triple Doubles",
+        "sub_title": "NOP at CHI (Dec 14)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNBA2D-25DEC14SACMIN",
+        "series_ticker": "KXNBA2D",
+        "title": "Sacramento at Minnesota: Double Doubles",
+        "sub_title": "SAC at MIN (Dec 14)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNBA2D-25DEC14NOPCHI",
+        "series_ticker": "KXNBA2D",
+        "title": "New Orleans at Chicago: Double Doubles",
+        "sub_title": "NOP at CHI (Dec 14)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNHLTOTAL-25DEC14BOSMIN",
+        "series_ticker": "KXNHLTOTAL",
+        "title": "Boston vs Minnesota: Total Points",
+        "sub_title": "BOS at MIN (Dec 14)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNHLSPREAD-25DEC14BOSMIN",
+        "series_ticker": "KXNHLSPREAD",
+        "title": "Boston vs Minnesota: Spread",
+        "sub_title": "BOS at MIN (Dec 14)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNHLGAME-25DEC14BOSMIN",
+        "series_ticker": "KXNHLGAME",
+        "title": "Boston vs Minnesota",
+        "sub_title": "BOS at MIN (Dec 14)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAWBGAME-25DEC14WYOMINN",
+        "series_ticker": "KXNCAAWBGAME",
+        "title": "Wyoming at Minnesota",
+        "sub_title": "WYO at MINN (Dec 14)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAWBGAME-25DEC14UNIISU",
+        "series_ticker": "KXNCAAWBGAME",
+        "title": "Northern Iowa at Iowa St.",
+        "sub_title": "UNI at ISU (Dec 14)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBGAME-25DEC14SMCBSU",
+        "series_ticker": "KXNCAAMBGAME",
+        "title": "Saint Mary's at Boise St.",
+        "sub_title": "SMC at BSU (Dec 14)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNBAGAME-25DEC14PHIATL",
+        "series_ticker": "KXNBAGAME",
+        "title": "Philadelphia vs Atlanta",
+        "sub_title": "PHI at ATL (Dec 14)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNBAGAME-25DEC14MILBKN",
+        "series_ticker": "KXNBAGAME",
+        "title": "Milwaukee vs Brooklyn",
+        "sub_title": "MIL at BKN (Dec 14)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNBA2D-25DEC14PHIATL",
+        "series_ticker": "KXNBA2D",
+        "title": "Philadelphia at Atlanta: Double Doubles",
+        "sub_title": "PHI at ATL (Dec 14)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNBA2D-25DEC14MILBKN",
+        "series_ticker": "KXNBA2D",
+        "title": "Milwaukee at Brooklyn: Double Doubles",
+        "sub_title": "MIL at BKN (Dec 14)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAWBGAME-25DEC14MSUDEP",
+        "series_ticker": "KXNCAAWBGAME",
+        "title": "Michigan St. at DePaul",
+        "sub_title": "MSU at DEP (Dec 14)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBGAME-25DEC14UNTUSA",
+        "series_ticker": "KXNCAAMBGAME",
+        "title": "North Texas at South Alabama",
+        "sub_title": "UNT at USA (Dec 14)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBGAME-25DEC14CBAPUTM",
+        "series_ticker": "KXNCAAMBGAME",
+        "title": "Champion Christian College at Tennessee-Martin",
+        "sub_title": "CBAP at UTM (Dec 14)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNHLTOTAL-25DEC14PHICAR",
+        "series_ticker": "KXNHLTOTAL",
+        "title": "Philadelphia vs Carolina: Total Points",
+        "sub_title": "PHI at CAR (Dec 14)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNHLSPREAD-25DEC14PHICAR",
+        "series_ticker": "KXNHLSPREAD",
+        "title": "Philadelphia vs Carolina: Spread",
+        "sub_title": "PHI at CAR (Dec 14)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNHLGAME-25DEC14PHICAR",
+        "series_ticker": "KXNHLGAME",
+        "title": "Philadelphia vs Carolina",
+        "sub_title": "PHI at CAR (Dec 14)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAWBGAME-25DEC14UCRVUSD",
+        "series_ticker": "KXNCAAWBGAME",
+        "title": "UC Riverside at San Diego",
+        "sub_title": "UCRV at USD (Dec 14)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAWBGAME-25DEC14JACTCU",
+        "series_ticker": "KXNCAAWBGAME",
+        "title": "Jacksonville at TCU",
+        "sub_title": "JAC at TCU (Dec 14)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBGAME-25DEC14QUCWAKE",
+        "series_ticker": "KXNCAAMBGAME",
+        "title": "Queens University at Wake Forest",
+        "sub_title": "QUC at WAKE (Dec 14)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBGAME-25DEC14KENTPORT",
+        "series_ticker": "KXNCAAMBGAME",
+        "title": "Kent St. at Portland",
+        "sub_title": "KENT at PORT (Dec 14)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBGAME-25DEC14ESCIDHO",
+        "series_ticker": "KXNCAAMBGAME",
+        "title": "Evergreen St. at Idaho",
+        "sub_title": "ESC at IDHO (Dec 14)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBGAME-25DEC14DETPFW",
+        "series_ticker": "KXNCAAMBGAME",
+        "title": "Detroit Mercy at Purdue Fort Wayne",
+        "sub_title": "DET at PFW (Dec 14)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBGAME-25DEC14CHSLCHI",
+        "series_ticker": "KXNCAAMBGAME",
+        "title": "Chicago St. at Loyola Chicago",
+        "sub_title": "CHS at LCHI (Dec 14)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNFLPASSTDS-25DEC14INDSEA",
+        "series_ticker": "KXNFLPASSTDS",
+        "title": "Indianapolis at Seattle: Passing Touchdowns Scorer",
+        "sub_title": "IND at SEA (Dec 14)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNFL2TD-25DEC14CARNO",
+        "series_ticker": "KXNFL2TD",
+        "title": "Carolina at New Orleans: Two or More Touchdowns Scorer",
+        "sub_title": "CAR at NO (Dec 14)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAWBGAME-25DEC14UNCAECU",
+        "series_ticker": "KXNCAAWBGAME",
+        "title": "UNC Asheville at East Carolina",
+        "sub_title": "UNCA at ECU (Dec 14)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAWBGAME-25DEC14NWUTAH",
+        "series_ticker": "KXNCAAWBGAME",
+        "title": "Northwestern at Utah",
+        "sub_title": "NW at UTAH (Dec 14)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAWBGAME-25DEC14NDJMU",
+        "series_ticker": "KXNCAAWBGAME",
+        "title": "Notre Dame at James Madison",
+        "sub_title": "ND at JMU (Dec 14)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAWBGAME-25DEC14LOUUNC",
+        "series_ticker": "KXNCAAWBGAME",
+        "title": "Louisville at North Carolina",
+        "sub_title": "LOU at UNC (Dec 14)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAWBGAME-25DEC14JKSTALA",
+        "series_ticker": "KXNCAAWBGAME",
+        "title": "Jackson St. at Alabama",
+        "sub_title": "JKST at ALA (Dec 14)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAWBGAME-25DEC14ETSUVT",
+        "series_ticker": "KXNCAAWBGAME",
+        "title": "East Tennessee St. at Virginia Tech",
+        "sub_title": "ETSU at VT (Dec 14)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAWBGAME-25DEC14CALSTAN",
+        "series_ticker": "KXNCAAWBGAME",
+        "title": "California at Stanford",
+        "sub_title": "CAL at STAN (Dec 14)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAWBGAME-25DEC14ASUORST",
+        "series_ticker": "KXNCAAWBGAME",
+        "title": "Arizona St. at Oregon St.",
+        "sub_title": "ASU at ORST (Dec 14)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBGAME-25DEC14FGCUUNM",
+        "series_ticker": "KXNCAAMBGAME",
+        "title": "Florida Gulf Coast at New Mexico",
+        "sub_title": "FGCU at UNM (Dec 14)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBGAME-25DEC14CHARCOFC",
+        "series_ticker": "KXNCAAMBGAME",
+        "title": "Charlotte at Charleston",
+        "sub_title": "CHAR at COFC (Dec 14)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAWBGAME-25DEC14PSUSCAR",
+        "series_ticker": "KXNCAAWBGAME",
+        "title": "Penn St. at South Carolina",
+        "sub_title": "PSU at SCAR (Dec 14)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAWBGAME-25DEC14KSUCREI",
+        "series_ticker": "KXNCAAWBGAME",
+        "title": "Kansas St. at Creighton",
+        "sub_title": "KSU at CREI (Dec 14)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNBAGAME-25DEC14CHACLE",
+        "series_ticker": "KXNBAGAME",
+        "title": "Charlotte vs Cleveland",
+        "sub_title": "CHA at CLE (Dec 14)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNBA2D-25DEC14CHACLE",
+        "series_ticker": "KXNBA2D",
+        "title": "Charlotte at Cleveland: Double Doubles",
+        "sub_title": "CHA at CLE (Dec 14)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBGAME-25DEC14WMUIOWA",
+        "series_ticker": "KXNCAAMBGAME",
+        "title": "Western Michigan at Iowa",
+        "sub_title": "WMU at IOWA (Dec 14)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBGAME-25DEC14TROYUAB",
+        "series_ticker": "KXNCAAMBGAME",
+        "title": "Troy at UAB",
+        "sub_title": "TROY at UAB (Dec 14)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBGAME-25DEC14SXUSEMO",
+        "series_ticker": "KXNCAAMBGAME",
+        "title": "Saint Xavier at Southeast Missouri St.",
+        "sub_title": "SXU at SEMO (Dec 14)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBGAME-25DEC14NNMXCSU",
+        "series_ticker": "KXNCAAMBGAME",
+        "title": "Northern New Mexico at Colorado St.",
+        "sub_title": "NNMX at CSU (Dec 14)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNBAGAME-25DEC14WASIND",
+        "series_ticker": "KXNBAGAME",
+        "title": "Washington vs Indiana",
+        "sub_title": "WAS at IND (Dec 14)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNBA2D-25DEC14WASIND",
+        "series_ticker": "KXNBA2D",
+        "title": "Washington at Indiana: Double Doubles",
+        "sub_title": "WAS at IND (Dec 14)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBGAME-25DEC14COPPRAD",
+        "series_ticker": "KXNCAAMBGAME",
+        "title": "Coppin St. at Radford",
+        "sub_title": "COPP at RAD (Dec 14)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBGAME-25DEC14THIEYSU",
+        "series_ticker": "KXNCAAMBGAME",
+        "title": "Thiel at Youngstown St.",
+        "sub_title": "THIE at YSU (Dec 14)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBGAME-25DEC14OAKCCLEV",
+        "series_ticker": "KXNCAAMBGAME",
+        "title": "Oakland City at Cleveland St.",
+        "sub_title": "OAKC at CLEV (Dec 14)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBGAME-25DEC14NCCBRAD",
+        "series_ticker": "KXNCAAMBGAME",
+        "title": "North Central (IL) at Bradley",
+        "sub_title": "NCC at BRAD (Dec 14)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBGAME-25DEC14MRMKUVM",
+        "series_ticker": "KXNCAAMBGAME",
+        "title": "Merrimack at Vermont",
+        "sub_title": "MRMK at UVM (Dec 14)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBGAME-25DEC14MONMFAIR",
+        "series_ticker": "KXNCAAMBGAME",
+        "title": "Monmouth at Fairfield",
+        "sub_title": "MONM at FAIR (Dec 14)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBGAME-25DEC14INSTMILW",
+        "series_ticker": "KXNCAAMBGAME",
+        "title": "Indiana St. at Milwaukee",
+        "sub_title": "INST at MILW (Dec 14)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBGAME-25DEC14HPAPP",
+        "series_ticker": "KXNCAAMBGAME",
+        "title": "High Point at Appalachian St.",
+        "sub_title": "HP at APP (Dec 14)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBGAME-25DEC14ECSIUE",
+        "series_ticker": "KXNCAAMBGAME",
+        "title": "Eureka at SIU Edwardsville",
+        "sub_title": "EC at SIUE (Dec 14)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBGAME-25DEC14COOKMIZZ",
+        "series_ticker": "KXNCAAMBGAME",
+        "title": "Bethune-Cookman at Missouri",
+        "sub_title": "COOK at MIZZ (Dec 14)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBGAME-25DEC14BALLCAMP",
+        "series_ticker": "KXNCAAMBGAME",
+        "title": "Ball St. at Campbell",
+        "sub_title": "BALL at CAMP (Dec 14)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNFLPASSTDS-25DEC14NYJJAC",
+        "series_ticker": "KXNFLPASSTDS",
+        "title": "New York J at Jacksonville: Passing Touchdowns Scorer",
+        "sub_title": "NYJ at JAC (Dec 14)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNFLPASSTDS-25DEC14LVPHI",
+        "series_ticker": "KXNFLPASSTDS",
+        "title": "Las Vegas at Philadelphia: Passing Touchdowns Scorer",
+        "sub_title": "LV at PHI (Dec 14)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNFLPASSTDS-25DEC14LACKC",
+        "series_ticker": "KXNFLPASSTDS",
+        "title": "Los Angeles C at Kansas City: Passing Touchdowns Scorer",
+        "sub_title": "LAC at KC (Dec 14)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNFL2TD-25DEC14NYJJAC",
+        "series_ticker": "KXNFL2TD",
+        "title": "New York J at Jacksonville: Two or More Touchdowns Scorer",
+        "sub_title": "NYJ at JAC (Dec 14)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNFL2TD-25DEC14ARIHOU",
+        "series_ticker": "KXNFL2TD",
+        "title": "Arizona at Houston: Two or More Touchdowns Scorer",
+        "sub_title": "ARI at HOU (Dec 14)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBGAME-25DEC14TXSOMINN",
+        "series_ticker": "KXNCAAMBGAME",
+        "title": "Texas Southern at Minnesota",
+        "sub_title": "TXSO at MINN (Dec 14)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBGAME-25DEC14EIUISU",
+        "series_ticker": "KXNCAAMBGAME",
+        "title": "Eastern Illinois at Iowa St.",
+        "sub_title": "EIU at ISU (Dec 14)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBGAME-25DEC14BUFFECU",
+        "series_ticker": "KXNCAAMBGAME",
+        "title": "Buffalo at East Carolina",
+        "sub_title": "BUFF at ECU (Dec 14)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBGAME-25DEC14UMESVT",
+        "series_ticker": "KXNCAAMBGAME",
+        "title": "Maryland-Eastern Shore at Virginia Tech",
+        "sub_title": "UMES at VT (Dec 14)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBGAME-25DEC14SFPATEM",
+        "series_ticker": "KXNCAAMBGAME",
+        "title": "St. Francis (PA) at Temple",
+        "sub_title": "SFPA at TEM (Dec 14)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXSWISSLEAGUEGAME-25DEC14LUGSER",
+        "series_ticker": "KXSWISSLEAGUEGAME",
+        "title": "Lugano vs Servette Geneva",
+        "sub_title": "LUG vs SER (Dec 14)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXSWISSLEAGUEGAME-25DEC14FCBLAU",
+        "series_ticker": "KXSWISSLEAGUEGAME",
+        "title": "Basel vs Lausanne-Sport",
+        "sub_title": "FCB vs LAU (Dec 14)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXCRICKETT20IMATCH-25DEC14SAIND",
+        "series_ticker": "KXCRICKETT20IMATCH",
+        "title": "India vs South Africa",
+        "sub_title": "IND vs SA (Dec 14)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXSWISSLEAGUEGAME-25DEC14YBLUZ",
+        "series_ticker": "KXSWISSLEAGUEGAME",
+        "title": "Young Boys vs Luzern",
+        "sub_title": "YB vs LUZ (Dec 14)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXRAINNYC-25DEC13",
+        "series_ticker": "KXRAINNYC",
+        "title": "Will it rain in NYC on Dec 13, 2025?",
+        "sub_title": "On Dec 13, 2025",
+        "mutually_exclusive": false,
+        "category": "Climate and Weather"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXCRICKETT20IMATCH-25DEC13BAHBHU",
+        "series_ticker": "KXCRICKETT20IMATCH",
+        "title": "Bhutan vs Bahrain",
+        "sub_title": "BHU vs BAH (Dec 13)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBGAME-25DEC13TNSTUNLV",
+        "series_ticker": "KXNCAAMBGAME",
+        "title": "Tennessee St. at UNLV",
+        "sub_title": "TNST at UNLV (Dec 13)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNBA3D-25DEC13SASOKC",
+        "series_ticker": "KXNBA3D",
+        "title": "San Antonio at Oklahoma City: Triple Doubles",
+        "sub_title": "SAS at OKC (Dec 13)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNBA2D-25DEC13SASOKC",
+        "series_ticker": "KXNBA2D",
+        "title": "San Antonio at Oklahoma City: Double Doubles",
+        "sub_title": "SAS at OKC (Dec 13)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBGAME-25DEC13WPCSEA",
+        "series_ticker": "KXNCAAMBGAME",
+        "title": "Warner Pacific at Seattle",
+        "sub_title": "WPC at SEA (Dec 13)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBGAME-25DEC13SIMPPAC",
+        "series_ticker": "KXNCAAMBGAME",
+        "title": "Simpson University at Pacific",
+        "sub_title": "SIMP at PAC (Dec 13)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXCSGOGAME-25DEC13FAZENAVI",
+        "series_ticker": "KXCSGOGAME",
+        "title": "StarLadder Major Budapest 2025: FaZe vs. Natus Vincere",
+        "sub_title": "FaZe vs. Natus Vincere",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXDOTA2GAME-25DEC13NAVIPARI",
+        "series_ticker": "KXDOTA2GAME",
+        "title": "DreamLeague 2025: Natus Vincere vs. PARIVISION",
+        "sub_title": "Natus Vincere vs. PARIVISION",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXDOTA2GAME-25DEC13AURHEROIC",
+        "series_ticker": "KXDOTA2GAME",
+        "title": "DreamLeague 2025: Aurora vs. Heroic",
+        "sub_title": "Aurora vs. Heroic",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXDOTA2GAME-25DEC131WINNGX",
+        "series_ticker": "KXDOTA2GAME",
+        "title": "DreamLeague 2025: 1win vs. Nigma Galaxy",
+        "sub_title": "1win vs. Nigma Galaxy",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXDOTA2GAME-25DEC13TUNDRABB",
+        "series_ticker": "KXDOTA2GAME",
+        "title": "DreamLeague 2025: Tundra Esports vs. BetBoom Team",
+        "sub_title": "Tundra Esports vs. BetBoom Team",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXDOTA2GAME-25DEC13TEAPSNUA",
+        "series_ticker": "KXDOTA2GAME",
+        "title": "DreamLeague 2025: Team Nemesis vs. Passion UA",
+        "sub_title": "Team Nemesis vs. Passion UA",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXDOTA2GAME-25DEC13GLMOUZ",
+        "series_ticker": "KXDOTA2GAME",
+        "title": "DreamLeague 2025: GamerLegion vs. MOUZ",
+        "sub_title": "GamerLegion vs. MOUZ",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXDOTA2GAME-25DEC13XTREMETY",
+        "series_ticker": "KXDOTA2GAME",
+        "title": "DreamLeague 2025: Xtreme Gaming vs. Team Yandex",
+        "sub_title": "Xtreme Gaming vs. Team Yandex",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXDOTA2GAME-25DEC13TSOG",
+        "series_ticker": "KXDOTA2GAME",
+        "title": "DreamLeague 2025: Team Spirit vs. OG",
+        "sub_title": "Team Spirit vs. OG",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXDOTA2GAME-25DEC13AMARUN",
+        "series_ticker": "KXDOTA2GAME",
+        "title": "DreamLeague 2025: Amaru Gaming vs. Runa Team",
+        "sub_title": "Amaru Gaming vs. Runa Team",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNBAAST-25DEC12BKNDAL",
+        "series_ticker": "KXNBAAST",
+        "title": "Brooklyn at Dallas: Assists",
+        "sub_title": "BKN at DAL (Dec 12)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNBAAST-25DEC12UTAMEM",
+        "series_ticker": "KXNBAAST",
+        "title": "Utah at Memphis: Assists",
+        "sub_title": "UTA at MEM (Dec 12)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNBAREB-25DEC12CHICHA",
+        "series_ticker": "KXNBAREB",
+        "title": "Chicago at Charlotte: Rebounds",
+        "sub_title": "CHI at CHA (Dec 12)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNBAPTS-25DEC12CHICHA",
+        "series_ticker": "KXNBAPTS",
+        "title": "Chicago at Charlotte: Points",
+        "sub_title": "CHI at CHA (Dec 12)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNBAAST-25DEC12CHICHA",
+        "series_ticker": "KXNBAAST",
+        "title": "Chicago at Charlotte: Assists",
+        "sub_title": "CHI at CHA (Dec 12)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXETH15M-25DEC122045",
+        "series_ticker": "KXETH15M",
+        "title": "ETH Up or Down - 15 minutes",
+        "sub_title": "Dec 12 - 8:30PM EST to 8:45PM EST",
+        "mutually_exclusive": false,
+        "category": "Crypto"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXBTC15M-25DEC122045",
+        "series_ticker": "KXBTC15M",
+        "title": "BTC Up or Down - 15 minutes",
+        "sub_title": "Dec 12 - 8:30PM EST to 8:45PM EST",
+        "mutually_exclusive": false,
+        "category": "Crypto"
     }
 ]
