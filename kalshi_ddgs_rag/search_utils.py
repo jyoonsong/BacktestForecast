@@ -6,10 +6,9 @@ from .utils import log
 from .config import NUM_URLS
 
 from sentence_transformers import SentenceTransformer, util
-from sklearn.feature_extraction.text import TfidfVectorizer
-from sklearn.metrics.pairwise import cosine_similarity
 
-model = SentenceTransformer("sentence-transformers/all-mpnet-base-v2")
+# Embedding Leaderboard: https://huggingface.co/spaces/mteb/leaderboard
+model = SentenceTransformer("Qwen/Qwen3-Embedding-8B")
 
 def search_ddgs(query: str, num_urls: int = NUM_URLS) -> List[Dict[str, Any]]:
     """Perform DuckDuckGo search and deduplicate results."""
