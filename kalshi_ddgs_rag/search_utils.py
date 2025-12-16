@@ -8,7 +8,8 @@ from .config import NUM_URLS
 from sentence_transformers import SentenceTransformer, util
 
 # Embedding Leaderboard: https://huggingface.co/spaces/mteb/leaderboard
-model = SentenceTransformer("Qwen/Qwen3-Embedding-8B")
+# model = SentenceTransformer("Qwen/Qwen3-Embedding-8B")
+model = SentenceTransformer("all-MiniLM-L6-v2")
 
 def search_ddgs(query: str, num_urls: int = NUM_URLS) -> List[Dict[str, Any]]:
     """Perform DuckDuckGo search and deduplicate results."""
