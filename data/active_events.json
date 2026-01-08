@@ -25010,16 +25010,6 @@
     {
         "bing_reports": {},
         "ddgs_reports": {},
-        "event_ticker": "KXRANKLISTSONGOPHELIA-26DEC",
-        "series_ticker": "KXRANKLISTSONGOPHELIA",
-        "title": "Will \u201cThe Fate of Ophelia\u201d return to #1 on the Billboard Hot 100 in 2026?",
-        "sub_title": "Before Dec 26, 2026",
-        "mutually_exclusive": false,
-        "category": "Entertainment"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
         "event_ticker": "KXRANKLISTSONGGOL-26DEC",
         "series_ticker": "KXRANKLISTSONGGOL",
         "title": "Will \u201cGolden\u201d return to #1 on the Billboard Hot 100 in 2026?",
@@ -25750,86 +25740,6 @@
     {
         "bing_reports": {},
         "ddgs_reports": {},
-        "event_ticker": "KXEPLGAME-26JAN07NEWLEE",
-        "series_ticker": "KXEPLGAME",
-        "title": "Newcastle vs Leeds United",
-        "sub_title": "NEW vs LEE (Jan 7)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXEPLGAME-26JAN07BURMUN",
-        "series_ticker": "KXEPLGAME",
-        "title": "Burnley vs Manchester United",
-        "sub_title": "BUR vs MUN (Jan 7)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXEPLGAME-26JAN07MCIBRI",
-        "series_ticker": "KXEPLGAME",
-        "title": "Manchester City vs Brighton",
-        "sub_title": "MCI vs BRI (Jan 7)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXEPLGAME-26JAN07FULCFC",
-        "series_ticker": "KXEPLGAME",
-        "title": "Fulham vs Chelsea",
-        "sub_title": "FUL vs CFC (Jan 7)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXEPLGAME-26JAN07EVEWOL",
-        "series_ticker": "KXEPLGAME",
-        "title": "Everton vs Wolverhampton",
-        "sub_title": "EVE vs WOL (Jan 7)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXEPLGAME-26JAN07CRYAVL",
-        "series_ticker": "KXEPLGAME",
-        "title": "Crystal Palace vs Aston Villa",
-        "sub_title": "CRY vs AVL (Jan 7)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXEPLGAME-26JAN07BRESUN",
-        "series_ticker": "KXEPLGAME",
-        "title": "Brentford vs Sunderland",
-        "sub_title": "BRE vs SUN (Jan 7)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXEPLGAME-26JAN07BOUTOT",
-        "series_ticker": "KXEPLGAME",
-        "title": "Bournemouth vs Tottenham",
-        "sub_title": "BOU vs TOT (Jan 7)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
         "event_ticker": "KXDST-27JAN01",
         "series_ticker": "KXDST",
         "title": "Will Daylight Saving Time become permanent before 2027?",
@@ -25886,256 +25796,6 @@
         "sub_title": "ARS vs LFC (Jan 8)",
         "mutually_exclusive": true,
         "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXEPLTOTAL-26JAN07NEWLEE",
-        "series_ticker": "KXEPLTOTAL",
-        "title": "Leeds United at Newcastle: Totals",
-        "sub_title": "LEE at NEW (Jan 7)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXEPLTOTAL-26JAN07BURMUN",
-        "series_ticker": "KXEPLTOTAL",
-        "title": "Manchester United at Burnley: Totals",
-        "sub_title": "MUN at BUR (Jan 7)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXEPLSPREAD-26JAN07NEWLEE",
-        "series_ticker": "KXEPLSPREAD",
-        "title": "Leeds United at Newcastle: Spreads",
-        "sub_title": "LEE at NEW (Jan 7)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXEPLSPREAD-26JAN07BURMUN",
-        "series_ticker": "KXEPLSPREAD",
-        "title": "Manchester United at Burnley: Spreads",
-        "sub_title": "MUN at BUR (Jan 7)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXEPLBTTS-26JAN07NEWLEE",
-        "series_ticker": "KXEPLBTTS",
-        "title": "Leeds United at Newcastle: Both Teams to Score",
-        "sub_title": "LEE at NEW (Jan 7)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXEPLBTTS-26JAN07BURMUN",
-        "series_ticker": "KXEPLBTTS",
-        "title": "Manchester United at Burnley: Both Teams to Score",
-        "sub_title": "MUN at BUR (Jan 7)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXEPLTOTAL-26JAN07MCIBRI",
-        "series_ticker": "KXEPLTOTAL",
-        "title": "Brighton at Manchester City: Totals",
-        "sub_title": "BRI at MCI (Jan 7)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXEPLTOTAL-26JAN07FULCFC",
-        "series_ticker": "KXEPLTOTAL",
-        "title": "Chelsea at Fulham: Totals",
-        "sub_title": "CFC at FUL (Jan 7)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXEPLTOTAL-26JAN07EVEWOL",
-        "series_ticker": "KXEPLTOTAL",
-        "title": "Wolverhampton at Everton: Totals",
-        "sub_title": "WOL at EVE (Jan 7)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXEPLTOTAL-26JAN07CRYAVL",
-        "series_ticker": "KXEPLTOTAL",
-        "title": "Aston Villa at Crystal Palace: Totals",
-        "sub_title": "AVL at CRY (Jan 7)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXEPLTOTAL-26JAN07BRESUN",
-        "series_ticker": "KXEPLTOTAL",
-        "title": "Sunderland at Brentford: Totals",
-        "sub_title": "SUN at BRE (Jan 7)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXEPLTOTAL-26JAN07BOUTOT",
-        "series_ticker": "KXEPLTOTAL",
-        "title": "Tottenham at Bournemouth: Totals",
-        "sub_title": "TOT at BOU (Jan 7)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXEPLSPREAD-26JAN07MCIBRI",
-        "series_ticker": "KXEPLSPREAD",
-        "title": "Brighton at Manchester City: Spreads",
-        "sub_title": "BRI at MCI (Jan 7)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXEPLSPREAD-26JAN07FULCFC",
-        "series_ticker": "KXEPLSPREAD",
-        "title": "Chelsea at Fulham: Spreads",
-        "sub_title": "CFC at FUL (Jan 7)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXEPLSPREAD-26JAN07EVEWOL",
-        "series_ticker": "KXEPLSPREAD",
-        "title": "Wolverhampton at Everton: Spreads",
-        "sub_title": "WOL at EVE (Jan 7)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXEPLSPREAD-26JAN07CRYAVL",
-        "series_ticker": "KXEPLSPREAD",
-        "title": "Aston Villa at Crystal Palace: Spreads",
-        "sub_title": "AVL at CRY (Jan 7)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXEPLSPREAD-26JAN07BRESUN",
-        "series_ticker": "KXEPLSPREAD",
-        "title": "Sunderland at Brentford: Spreads",
-        "sub_title": "SUN at BRE (Jan 7)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXEPLSPREAD-26JAN07BOUTOT",
-        "series_ticker": "KXEPLSPREAD",
-        "title": "Tottenham at Bournemouth: Spreads",
-        "sub_title": "TOT at BOU (Jan 7)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXEPLBTTS-26JAN07MCIBRI",
-        "series_ticker": "KXEPLBTTS",
-        "title": "Brighton at Manchester City: Both Teams to Score",
-        "sub_title": "BRI at MCI (Jan 7)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXEPLBTTS-26JAN07FULCFC",
-        "series_ticker": "KXEPLBTTS",
-        "title": "Chelsea at Fulham: Both Teams to Score",
-        "sub_title": "CFC at FUL (Jan 7)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXEPLBTTS-26JAN07EVEWOL",
-        "series_ticker": "KXEPLBTTS",
-        "title": "Wolverhampton at Everton: Both Teams to Score",
-        "sub_title": "WOL at EVE (Jan 7)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXEPLBTTS-26JAN07CRYAVL",
-        "series_ticker": "KXEPLBTTS",
-        "title": "Aston Villa at Crystal Palace: Both Teams to Score",
-        "sub_title": "AVL at CRY (Jan 7)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXEPLBTTS-26JAN07BRESUN",
-        "series_ticker": "KXEPLBTTS",
-        "title": "Sunderland at Brentford: Both Teams to Score",
-        "sub_title": "SUN at BRE (Jan 7)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXEPLBTTS-26JAN07BOUTOT",
-        "series_ticker": "KXEPLBTTS",
-        "title": "Tottenham at Bournemouth: Both Teams to Score",
-        "sub_title": "TOT at BOU (Jan 7)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXTECHLAYOFF-25NOV",
-        "series_ticker": "KXTECHLAYOFF",
-        "title": "Tech layoffs up in November 2025?",
-        "sub_title": "In Nov 2025",
-        "mutually_exclusive": false,
-        "category": "Science and Technology"
     },
     {
         "bing_reports": {},
@@ -26286,16 +25946,6 @@
         "sub_title": "In Dec 2025",
         "mutually_exclusive": false,
         "category": "Economics"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXACQUIRELADSKENES-25",
-        "series_ticker": "KXACQUIRELADSKENES",
-        "title": "Will Los Angeles D acquire Paul Skenes in 2025?",
-        "sub_title": "Before Dec 31, 2025",
-        "mutually_exclusive": false,
-        "category": "Sports"
     },
     {
         "bing_reports": {},
@@ -26800,56 +26450,6 @@
     {
         "bing_reports": {},
         "ddgs_reports": {},
-        "event_ticker": "KXSERIEAGAME-26JAN07TORUDI",
-        "series_ticker": "KXSERIEAGAME",
-        "title": "Torino vs Udinese",
-        "sub_title": "TOR vs UDI (Jan 7)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXSERIEAGAME-26JAN07PARINT",
-        "series_ticker": "KXSERIEAGAME",
-        "title": "Parma Calcio vs Inter",
-        "sub_title": "PAR vs INT (Jan 7)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXSERIEAGAME-26JAN07LAZFIO",
-        "series_ticker": "KXSERIEAGAME",
-        "title": "Lazio vs Fiorentina",
-        "sub_title": "LAZ vs FIO (Jan 7)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXSERIEAGAME-26JAN07NAPVER",
-        "series_ticker": "KXSERIEAGAME",
-        "title": "Napoli vs Hellas Verona",
-        "sub_title": "NAP vs VER (Jan 7)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXSERIEAGAME-26JAN07BFCATA",
-        "series_ticker": "KXSERIEAGAME",
-        "title": "Bologna vs Atalanta",
-        "sub_title": "BFC vs ATA (Jan 7)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
         "event_ticker": "KXFEDMEET-27",
         "series_ticker": "KXFEDMEET",
         "title": "Will the Fed have an emergency meeting in 2026?",
@@ -27075,156 +26675,6 @@
         "title": "Milan vs Genoa",
         "sub_title": "ACM vs GEN (Jan 8)",
         "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXSERIEATOTAL-26JAN07TORUDI",
-        "series_ticker": "KXSERIEATOTAL",
-        "title": "Udinese at Torino: Totals",
-        "sub_title": "UDI at TOR (Jan 7)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXSERIEATOTAL-26JAN07PARINT",
-        "series_ticker": "KXSERIEATOTAL",
-        "title": "Inter at Parma Calcio: Totals",
-        "sub_title": "INT at PAR (Jan 7)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXSERIEATOTAL-26JAN07LAZFIO",
-        "series_ticker": "KXSERIEATOTAL",
-        "title": "Fiorentina at Lazio: Totals",
-        "sub_title": "FIO at LAZ (Jan 7)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXSERIEASPREAD-26JAN07TORUDI",
-        "series_ticker": "KXSERIEASPREAD",
-        "title": "Udinese at Torino: Spreads",
-        "sub_title": "UDI at TOR (Jan 7)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXSERIEASPREAD-26JAN07PARINT",
-        "series_ticker": "KXSERIEASPREAD",
-        "title": "Inter at Parma Calcio: Spreads",
-        "sub_title": "INT at PAR (Jan 7)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXSERIEASPREAD-26JAN07LAZFIO",
-        "series_ticker": "KXSERIEASPREAD",
-        "title": "Fiorentina at Lazio: Spreads",
-        "sub_title": "FIO at LAZ (Jan 7)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXSERIEABTTS-26JAN07TORUDI",
-        "series_ticker": "KXSERIEABTTS",
-        "title": "Udinese at Torino: Both Teams to Score",
-        "sub_title": "UDI at TOR (Jan 7)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXSERIEABTTS-26JAN07PARINT",
-        "series_ticker": "KXSERIEABTTS",
-        "title": "Inter at Parma Calcio: Both Teams to Score",
-        "sub_title": "INT at PAR (Jan 7)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXSERIEABTTS-26JAN07LAZFIO",
-        "series_ticker": "KXSERIEABTTS",
-        "title": "Fiorentina at Lazio: Both Teams to Score",
-        "sub_title": "FIO at LAZ (Jan 7)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXSERIEATOTAL-26JAN07NAPVER",
-        "series_ticker": "KXSERIEATOTAL",
-        "title": "Hellas Verona at Napoli: Totals",
-        "sub_title": "VER at NAP (Jan 7)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXSERIEATOTAL-26JAN07BFCATA",
-        "series_ticker": "KXSERIEATOTAL",
-        "title": "Atalanta at Bologna: Totals",
-        "sub_title": "ATA at BFC (Jan 7)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXSERIEASPREAD-26JAN07NAPVER",
-        "series_ticker": "KXSERIEASPREAD",
-        "title": "Hellas Verona at Napoli: Spreads",
-        "sub_title": "VER at NAP (Jan 7)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXSERIEASPREAD-26JAN07BFCATA",
-        "series_ticker": "KXSERIEASPREAD",
-        "title": "Atalanta at Bologna: Spreads",
-        "sub_title": "ATA at BFC (Jan 7)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXSERIEABTTS-26JAN07NAPVER",
-        "series_ticker": "KXSERIEABTTS",
-        "title": "Hellas Verona at Napoli: Both Teams to Score",
-        "sub_title": "VER at NAP (Jan 7)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXSERIEABTTS-26JAN07BFCATA",
-        "series_ticker": "KXSERIEABTTS",
-        "title": "Atalanta at Bologna: Both Teams to Score",
-        "sub_title": "ATA at BFC (Jan 7)",
-        "mutually_exclusive": false,
         "category": "Sports"
     },
     {
@@ -28040,16 +27490,6 @@
     {
         "bing_reports": {},
         "ddgs_reports": {},
-        "event_ticker": "KXVENEZUELADEPLOY-SENATE-26JAN04",
-        "series_ticker": "KXVENEZUELADEPLOY",
-        "title": "Senate votes to block Venezuela deployment?",
-        "sub_title": "Before Jan 4, 2026",
-        "mutually_exclusive": false,
-        "category": "Politics"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
         "event_ticker": "KXELECTVENEZUELA",
         "series_ticker": "KXELECTVENEZUELA",
         "title": "When will Venezuela hold a presidential election?",
@@ -28476,846 +27916,6 @@
         "sub_title": "MLI vs SEN (Jan 9)",
         "mutually_exclusive": true,
         "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXEUROCUPGAME-26JAN07CHELIO",
-        "series_ticker": "KXEUROCUPGAME",
-        "title": "Niners Chemnitz at London Lions",
-        "sub_title": "CHE at LIO (Jan 7)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXEUROCUPGAME-26JAN07UNCREV",
-        "series_ticker": "KXEUROCUPGAME",
-        "title": "FC Universitatea Cluj at Reyer Venezia",
-        "sub_title": "UNC at REV (Jan 7)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXEUROCUPGAME-26JAN07NEPTOW",
-        "series_ticker": "KXEUROCUPGAME",
-        "title": "BC Neptunas Klaipeda at Hamburg Towers",
-        "sub_title": "NEP at TOW (Jan 7)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXEUROCUPGAME-26JAN07HAPWRO",
-        "series_ticker": "KXEUROCUPGAME",
-        "title": "Hapoel Jerusalem at Slask Wroclaw",
-        "sub_title": "HAP at WRO (Jan 7)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXEUROLEAGUEGAME-26JAN07PAREFS",
-        "series_ticker": "KXEUROLEAGUEGAME",
-        "title": "Paris Basketball at Anadolu Efes SK",
-        "sub_title": "PAR at EFS (Jan 7)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXEUROCUPGAME-26JAN07BUDPBC",
-        "series_ticker": "KXEUROCUPGAME",
-        "title": "KK Buducnost Voli at Panionios BC Athens",
-        "sub_title": "BUD at PBC (Jan 7)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXEUROCUPGAME-26JAN07BOULIP",
-        "series_ticker": "KXEUROCUPGAME",
-        "title": "JL Bourg Basket at BC Lietkabelis Panevezys",
-        "sub_title": "BOU at LIP (Jan 7)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNCAAWBGAME-26JAN07URIGW",
-        "series_ticker": "KXNCAAWBGAME",
-        "title": "Rhode Island at George Washington",
-        "sub_title": "URI at GW (Jan 7)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXEUROCUPGAME-26JAN07ATRTTS",
-        "series_ticker": "KXEUROCUPGAME",
-        "title": "Aquila Basket Trento at Turk Telekom",
-        "sub_title": "ATR at TTS (Jan 7)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXCBAGAME-26JAN07SHADQIN",
-        "series_ticker": "KXCBAGAME",
-        "title": "Shanghai Sharks at Qingdao Eagles",
-        "sub_title": "SHAD at QIN (Jan 7)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXCBAGAME-26JAN07LEOGST",
-        "series_ticker": "KXCBAGAME",
-        "title": "Shenzhen Leopards at Guangdong Southern Tigers",
-        "sub_title": "LEO at GST (Jan 7)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNBLGAME-26JAN07CARMEL",
-        "series_ticker": "KXNBLGAME",
-        "title": "Cairns Taipans at Melbourne United",
-        "sub_title": "CAR at MEL (Jan 7)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNCAAMBGAME-26JAN06SDSUNEV",
-        "series_ticker": "KXNCAAMBGAME",
-        "title": "San Diego St. at Nevada",
-        "sub_title": "SDSU at NEV (Jan 6)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNBAGAME-26JAN06DALSAC",
-        "series_ticker": "KXNBAGAME",
-        "title": "Dallas at Sacramento",
-        "sub_title": "DAL at SAC (Jan 6)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNHLTOTAL-26JAN06CBJSJ",
-        "series_ticker": "KXNHLTOTAL",
-        "title": "Columbus at San Jose: Total Points",
-        "sub_title": "CBJ at SJ (Jan 6)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNHLTOTAL-26JAN06BOSSEA",
-        "series_ticker": "KXNHLTOTAL",
-        "title": "Boston at Seattle: Total Points",
-        "sub_title": "BOS at SEA (Jan 6)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNHLSPREAD-26JAN06CBJSJ",
-        "series_ticker": "KXNHLSPREAD",
-        "title": "Columbus at San Jose: Spread",
-        "sub_title": "CBJ at SJ (Jan 6)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNHLSPREAD-26JAN06BOSSEA",
-        "series_ticker": "KXNHLSPREAD",
-        "title": "Boston at Seattle: Spread",
-        "sub_title": "BOS at SEA (Jan 6)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNHLGAME-26JAN06CBJSJ",
-        "series_ticker": "KXNHLGAME",
-        "title": "Columbus at San Jose",
-        "sub_title": "CBJ at SJ (Jan 6)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNHLGAME-26JAN06BOSSEA",
-        "series_ticker": "KXNHLGAME",
-        "title": "Boston at Seattle",
-        "sub_title": "BOS at SEA (Jan 6)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNCAAWBGAME-26JAN06OREUSC",
-        "series_ticker": "KXNCAAWBGAME",
-        "title": "Oregon at USC",
-        "sub_title": "ORE at USC (Jan 6)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNCAAMBGAME-26JAN06UNLVWYO",
-        "series_ticker": "KXNCAAMBGAME",
-        "title": "UNLV at Wyoming",
-        "sub_title": "UNLV at WYO (Jan 6)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNCAAMBGAME-26JAN06FRESSJSU",
-        "series_ticker": "KXNCAAMBGAME",
-        "title": "Fresno St. at San Jose St.",
-        "sub_title": "FRES at SJSU (Jan 6)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNHLTOTAL-26JAN06NSHEDM",
-        "series_ticker": "KXNHLTOTAL",
-        "title": "Nashville at Edmonton: Total Points",
-        "sub_title": "NSH at EDM (Jan 6)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNHLSPREAD-26JAN06NSHEDM",
-        "series_ticker": "KXNHLSPREAD",
-        "title": "Nashville at Edmonton: Spread",
-        "sub_title": "NSH at EDM (Jan 6)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNHLGAME-26JAN06NSHEDM",
-        "series_ticker": "KXNHLGAME",
-        "title": "Nashville at Edmonton",
-        "sub_title": "NSH at EDM (Jan 6)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNCAAMBGAME-26JAN06USUAFA",
-        "series_ticker": "KXNCAAMBGAME",
-        "title": "Utah St. at Air Force",
-        "sub_title": "USU at AFA (Jan 6)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNCAAMBGAME-26JAN06UNMCSU",
-        "series_ticker": "KXNCAAMBGAME",
-        "title": "New Mexico at Colorado St.",
-        "sub_title": "UNM at CSU (Jan 6)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNCAAMBGAME-26JAN06UCLAWIS",
-        "series_ticker": "KXNCAAMBGAME",
-        "title": "UCLA at Wisconsin",
-        "sub_title": "UCLA at WIS (Jan 6)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNCAAMBGAME-26JAN06TXAMAUB",
-        "series_ticker": "KXNCAAMBGAME",
-        "title": "Texas A&M at Auburn",
-        "sub_title": "TXAM at AUB (Jan 6)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNCAAMBGAME-26JAN06TTUHOU",
-        "series_ticker": "KXNCAAMBGAME",
-        "title": "Texas Tech at Houston",
-        "sub_title": "TTU at HOU (Jan 6)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNCAAMBGAME-26JAN06TEXTENN",
-        "series_ticker": "KXNCAAMBGAME",
-        "title": "Texas at Tennessee",
-        "sub_title": "TEX at TENN (Jan 6)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNCAAMBGAME-26JAN06TCUKU",
-        "series_ticker": "KXNCAAMBGAME",
-        "title": "TCU at Kansas",
-        "sub_title": "TCU at KU (Jan 6)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNCAAMBGAME-26JAN06NCSTBC",
-        "series_ticker": "KXNCAAMBGAME",
-        "title": "North Carolina St. at Boston College",
-        "sub_title": "NCST at BC (Jan 6)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNCAAMBGAME-26JAN06LINWSIUE",
-        "series_ticker": "KXNCAAMBGAME",
-        "title": "Lindenwood at SIU Edwardsville",
-        "sub_title": "LINW at SIUE (Jan 6)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNHLTOTAL-26JAN06VGKWPG",
-        "series_ticker": "KXNHLTOTAL",
-        "title": "Vegas at Winnipeg: Total Points",
-        "sub_title": "VGK at WPG (Jan 6)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNHLSPREAD-26JAN06VGKWPG",
-        "series_ticker": "KXNHLSPREAD",
-        "title": "Vegas at Winnipeg: Spread",
-        "sub_title": "VGK at WPG (Jan 6)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNHLGAME-26JAN06VGKWPG",
-        "series_ticker": "KXNHLGAME",
-        "title": "Vegas at Winnipeg",
-        "sub_title": "VGK at WPG (Jan 6)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNCAAWBGAME-26JAN06BYUARIZ",
-        "series_ticker": "KXNCAAWBGAME",
-        "title": "BYU at Arizona",
-        "sub_title": "BYU at ARIZ (Jan 6)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNCAAMBGAME-26JAN06UCFOKST",
-        "series_ticker": "KXNCAAMBGAME",
-        "title": "UCF at Oklahoma St.",
-        "sub_title": "UCF at OKST (Jan 6)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNCAAMBGAME-26JAN06TOLNIU",
-        "series_ticker": "KXNCAAMBGAME",
-        "title": "Toledo at Northern Illinois",
-        "sub_title": "TOL at NIU (Jan 6)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNCAAMBGAME-26JAN06IOWAMINN",
-        "series_ticker": "KXNCAAMBGAME",
-        "title": "Iowa at Minnesota",
-        "sub_title": "IOWA at MINN (Jan 6)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNCAAMBGAME-26JAN06GWDAY",
-        "series_ticker": "KXNCAAMBGAME",
-        "title": "George Washington at Dayton",
-        "sub_title": "GW at DAY (Jan 6)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNCAAMBGAME-26JAN06GTWNDEP",
-        "series_ticker": "KXNCAAMBGAME",
-        "title": "Georgetown at DePaul",
-        "sub_title": "GTWN at DEP (Jan 6)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNBAGAME-26JAN06SASMEM",
-        "series_ticker": "KXNBAGAME",
-        "title": "San Antonio at Memphis",
-        "sub_title": "SAS at MEM (Jan 6)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNBAGAME-26JAN06MIAMIN",
-        "series_ticker": "KXNBAGAME",
-        "title": "Miami at Minnesota",
-        "sub_title": "MIA at MIN (Jan 6)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNBAGAME-26JAN06LALNOP",
-        "series_ticker": "KXNBAGAME",
-        "title": "Los Angeles L at New Orleans",
-        "sub_title": "LAL at NOP (Jan 6)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNHLTOTAL-26JAN06NJNYI",
-        "series_ticker": "KXNHLTOTAL",
-        "title": "New Jersey at New York I: Total Points",
-        "sub_title": "NJ at NYI (Jan 6)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNHLTOTAL-26JAN06FLATOR",
-        "series_ticker": "KXNHLTOTAL",
-        "title": "Florida at Toronto: Total Points",
-        "sub_title": "FLA at TOR (Jan 6)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNHLSPREAD-26JAN06NJNYI",
-        "series_ticker": "KXNHLSPREAD",
-        "title": "New Jersey at New York I: Spread",
-        "sub_title": "NJ at NYI (Jan 6)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNHLSPREAD-26JAN06FLATOR",
-        "series_ticker": "KXNHLSPREAD",
-        "title": "Florida at Toronto: Spread",
-        "sub_title": "FLA at TOR (Jan 6)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNHLGAME-26JAN06NJNYI",
-        "series_ticker": "KXNHLGAME",
-        "title": "New Jersey at New York I",
-        "sub_title": "NJ at NYI (Jan 6)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNHLGAME-26JAN06FLATOR",
-        "series_ticker": "KXNHLGAME",
-        "title": "Florida at Toronto",
-        "sub_title": "FLA at TOR (Jan 6)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNCAAWBGAME-26JAN06TLSATULN",
-        "series_ticker": "KXNCAAWBGAME",
-        "title": "Tulsa at Tulane",
-        "sub_title": "TLSA at TULN (Jan 6)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNCAAWBGAME-26JAN06ECUUNT",
-        "series_ticker": "KXNCAAWBGAME",
-        "title": "East Carolina at North Texas",
-        "sub_title": "ECU at UNT (Jan 6)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNHLTOTAL-26JAN06VANBUF",
-        "series_ticker": "KXNHLTOTAL",
-        "title": "Vancouver at Buffalo: Total Points",
-        "sub_title": "VAN at BUF (Jan 6)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNHLTOTAL-26JAN06DALCAR",
-        "series_ticker": "KXNHLTOTAL",
-        "title": "Dallas at Carolina: Total Points",
-        "sub_title": "DAL at CAR (Jan 6)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNHLTOTAL-26JAN06COLTB",
-        "series_ticker": "KXNHLTOTAL",
-        "title": "Colorado at Tampa Bay: Total Points",
-        "sub_title": "COL at TB (Jan 6)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNHLTOTAL-26JAN06ANAPHI",
-        "series_ticker": "KXNHLTOTAL",
-        "title": "Anaheim at Philadelphia: Total Points",
-        "sub_title": "ANA at PHI (Jan 6)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNHLSPREAD-26JAN06VANBUF",
-        "series_ticker": "KXNHLSPREAD",
-        "title": "Vancouver at Buffalo: Spread",
-        "sub_title": "VAN at BUF (Jan 6)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNHLSPREAD-26JAN06DALCAR",
-        "series_ticker": "KXNHLSPREAD",
-        "title": "Dallas at Carolina: Spread",
-        "sub_title": "DAL at CAR (Jan 6)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNHLSPREAD-26JAN06COLTB",
-        "series_ticker": "KXNHLSPREAD",
-        "title": "Colorado at Tampa Bay: Spread",
-        "sub_title": "COL at TB (Jan 6)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNHLSPREAD-26JAN06ANAPHI",
-        "series_ticker": "KXNHLSPREAD",
-        "title": "Anaheim at Philadelphia: Spread",
-        "sub_title": "ANA at PHI (Jan 6)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNHLGAME-26JAN06VANBUF",
-        "series_ticker": "KXNHLGAME",
-        "title": "Vancouver at Buffalo",
-        "sub_title": "VAN at BUF (Jan 6)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNHLGAME-26JAN06DALCAR",
-        "series_ticker": "KXNHLGAME",
-        "title": "Dallas at Carolina",
-        "sub_title": "DAL at CAR (Jan 6)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNHLGAME-26JAN06COLTB",
-        "series_ticker": "KXNHLGAME",
-        "title": "Colorado at Tampa Bay",
-        "sub_title": "COL at TB (Jan 6)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNHLGAME-26JAN06ANAPHI",
-        "series_ticker": "KXNHLGAME",
-        "title": "Anaheim at Philadelphia",
-        "sub_title": "ANA at PHI (Jan 6)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNCAAWBGAME-26JAN06USFUAB",
-        "series_ticker": "KXNCAAWBGAME",
-        "title": "South Florida at UAB",
-        "sub_title": "USF at UAB (Jan 6)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNCAAWBGAME-26JAN06TEMWICH",
-        "series_ticker": "KXNCAAWBGAME",
-        "title": "Temple at Wichita St.",
-        "sub_title": "TEM at WICH (Jan 6)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNCAAMBGAME-26JAN06WMUMOH",
-        "series_ticker": "KXNCAAMBGAME",
-        "title": "Western Michigan at Miami (OH)",
-        "sub_title": "WMU at MOH (Jan 6)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNCAAMBGAME-26JAN06UGAFLA",
-        "series_ticker": "KXNCAAMBGAME",
-        "title": "Georgia at Florida",
-        "sub_title": "UGA at FLA (Jan 6)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNCAAMBGAME-26JAN06SYRGT",
-        "series_ticker": "KXNCAAMBGAME",
-        "title": "Syracuse at Georgia Tech",
-        "sub_title": "SYR at GT (Jan 6)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNCAAMBGAME-26JAN06SJUBUT",
-        "series_ticker": "KXNCAAMBGAME",
-        "title": "St. John's at Butler",
-        "sub_title": "SJU at BUT (Jan 6)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNCAAMBGAME-26JAN06SCARLSU",
-        "series_ticker": "KXNCAAMBGAME",
-        "title": "South Carolina at LSU",
-        "sub_title": "SCAR at LSU (Jan 6)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNCAAMBGAME-26JAN06MICHPSU",
-        "series_ticker": "KXNCAAMBGAME",
-        "title": "Michigan at Penn St.",
-        "sub_title": "MICH at PSU (Jan 6)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNCAAMBGAME-26JAN06EMUBALL",
-        "series_ticker": "KXNCAAMBGAME",
-        "title": "Eastern Michigan at Ball St.",
-        "sub_title": "EMU at BALL (Jan 6)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNCAAMBGAME-26JAN06DUKELOU",
-        "series_ticker": "KXNCAAMBGAME",
-        "title": "Duke at Louisville",
-        "sub_title": "DUKE at LOU (Jan 6)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNCAAMBGAME-26JAN06CMUAKR",
-        "series_ticker": "KXNCAAMBGAME",
-        "title": "Central Michigan at Akron",
-        "sub_title": "CMU at AKR (Jan 6)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNCAAMBGAME-26JAN06CINWVU",
-        "series_ticker": "KXNCAAMBGAME",
-        "title": "Cincinnati at West Virginia",
-        "sub_title": "CIN at WVU (Jan 6)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNCAAMBGAME-26JAN06BGSUKENT",
-        "series_ticker": "KXNCAAMBGAME",
-        "title": "Bowling Green at Kent St.",
-        "sub_title": "BGSU at KENT (Jan 6)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNBAGAME-26JAN06ORLWAS",
-        "series_ticker": "KXNBAGAME",
-        "title": "Orlando at Washington",
-        "sub_title": "ORL at WAS (Jan 6)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNBAGAME-26JAN06CLEIND",
-        "series_ticker": "KXNBAGAME",
-        "title": "Cleveland at Indiana",
-        "sub_title": "CLE at IND (Jan 6)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXVENEZUELADEPLOY-26JAN04",
-        "series_ticker": "KXVENEZUELADEPLOY",
-        "title": "House votes to block Venezuela deployment?",
-        "sub_title": "Before 2027",
-        "mutually_exclusive": false,
-        "category": "Politics"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXAUMFVENEZUELA-26JAN04",
-        "series_ticker": "KXAUMFVENEZUELA",
-        "title": "Venezuela AUMF passes the House?",
-        "sub_title": "Before 2027",
-        "mutually_exclusive": false,
-        "category": "Politics"
     },
     {
         "bing_reports": {},
@@ -30970,26 +29570,6 @@
     {
         "bing_reports": {},
         "ddgs_reports": {},
-        "event_ticker": "KXNCAAWBGAME-26JAN07ISUCIN",
-        "series_ticker": "KXNCAAWBGAME",
-        "title": "Iowa St. at Cincinnati",
-        "sub_title": "ISU at CIN (Jan 7)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNCAAMBGAME-26JAN07LONGUNCA",
-        "series_ticker": "KXNCAAMBGAME",
-        "title": "Longwood at UNC Asheville",
-        "sub_title": "LONG at UNCA (Jan 7)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
         "event_ticker": "KXNCAAMBGAME-26JAN07INDMD",
         "series_ticker": "KXNCAAMBGAME",
         "title": "Indiana at Maryland",
@@ -31004,366 +29584,6 @@
         "series_ticker": "KXNCAAMBGAME",
         "title": "Charleston Southern at Winthrop",
         "sub_title": "CHSO at WIN (Jan 7)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNCAAWBGAME-26JAN07SBONDUQ",
-        "series_ticker": "KXNCAAWBGAME",
-        "title": "St. Bonaventure at Duquesne",
-        "sub_title": "SBON at DUQ (Jan 7)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNCAAWBGAME-26JAN07JOESDAV",
-        "series_ticker": "KXNCAAWBGAME",
-        "title": "Saint Joseph's at Davidson",
-        "sub_title": "JOES at DAV (Jan 7)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNCAAWBGAME-26JAN07FORRICH",
-        "series_ticker": "KXNCAAWBGAME",
-        "title": "Fordham at Richmond",
-        "sub_title": "FOR at RICH (Jan 7)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNCAAMBGAME-26JAN07UNCGWOF",
-        "series_ticker": "KXNCAAMBGAME",
-        "title": "UNC Greensboro at Wofford",
-        "sub_title": "UNCG at WOF (Jan 7)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNCAAMBGAME-26JAN07LMDARMY",
-        "series_ticker": "KXNCAAMBGAME",
-        "title": "Loyola Maryland at Army",
-        "sub_title": "LMD at ARMY (Jan 7)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNCAAMBGAME-26JAN07HCLEH",
-        "series_ticker": "KXNCAAMBGAME",
-        "title": "Holy Cross at Lehigh",
-        "sub_title": "HC at LEH (Jan 7)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNCAAMBGAME-26JAN07FURCHAT",
-        "series_ticker": "KXNCAAMBGAME",
-        "title": "Furman at Chattanooga",
-        "sub_title": "FUR at CHAT (Jan 7)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXRAINNYC-26JAN06",
-        "series_ticker": "KXRAINNYC",
-        "title": "Will it rain in NYC on Jan 6, 2026?",
-        "sub_title": "On Jan 6, 2026",
-        "mutually_exclusive": false,
-        "category": "Climate and Weather"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNCAAMBTOTAL-26JAN06LINWSIUE",
-        "series_ticker": "KXNCAAMBTOTAL",
-        "title": "Lindenwood at SIU Edwardsville: Total Points",
-        "sub_title": "LINW at SIUE (Jan 6)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNCAAMBSPREAD-26JAN06LINWSIUE",
-        "series_ticker": "KXNCAAMBSPREAD",
-        "title": "Lindenwood at SIU Edwardsville: Spread",
-        "sub_title": "LINW at SIUE (Jan 6)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXWTAMATCH-26JAN06TAUSAS",
-        "series_ticker": "KXWTAMATCH",
-        "title": "Tauson vs Sasnovich",
-        "sub_title": "Tauson vs Sasnovich",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXWTAMATCH-26JAN06KOSPUT",
-        "series_ticker": "KXWTAMATCH",
-        "title": "Kostyuk vs Putintseva",
-        "sub_title": "Kostyuk vs Putintseva",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXWTAMATCH-26JAN06KALPEG",
-        "series_ticker": "KXWTAMATCH",
-        "title": "Kalinskaya vs Pegula",
-        "sub_title": "Kalinskaya vs Pegula",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXWTAMATCH-26JAN06JONSAM",
-        "series_ticker": "KXWTAMATCH",
-        "title": "Jones vs Samsonova",
-        "sub_title": "Jones vs Samsonova",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXWTAMATCH-26JAN06FRENOS",
-        "series_ticker": "KXWTAMATCH",
-        "title": "Frech vs Noskova",
-        "sub_title": "Frech vs Noskova",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXWTAMATCH-26JAN06FERYAS",
-        "series_ticker": "KXWTAMATCH",
-        "title": "Fernandez vs Yastremska",
-        "sub_title": "Fernandez vs Yastremska",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNCAAMBTOTAL-26JAN06TOLNIU",
-        "series_ticker": "KXNCAAMBTOTAL",
-        "title": "Toledo at Northern Illinois: Total Points",
-        "sub_title": "TOL at NIU (Jan 6)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNCAAMBSPREAD-26JAN06TOLNIU",
-        "series_ticker": "KXNCAAMBSPREAD",
-        "title": "Toledo at Northern Illinois: Spread",
-        "sub_title": "TOL at NIU (Jan 6)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXATPMATCH-26JAN06MICTIE",
-        "series_ticker": "KXATPMATCH",
-        "title": "Michelsen vs Tien",
-        "sub_title": "Michelsen vs Tien",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXATPMATCH-26JAN06MEDTIA",
-        "series_ticker": "KXATPMATCH",
-        "title": "Medvedev vs Tiafoe",
-        "sub_title": "Medvedev vs Tiafoe",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXATPMATCH-26JAN06MAJOPE",
-        "series_ticker": "KXATPMATCH",
-        "title": "Majchrzak vs Opelka",
-        "sub_title": "Majchrzak vs Opelka",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXATPMATCH-26JAN06LEHKOR",
-        "series_ticker": "KXATPMATCH",
-        "title": "Lehecka vs Korda",
-        "sub_title": "Lehecka vs Korda",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXUNITEDCUPMATCH-26JAN06SWILAM",
-        "series_ticker": "KXUNITEDCUPMATCH",
-        "title": "Swiatek vs Lamens: Group F",
-        "sub_title": "Swiatek vs Lamens",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNCAAMBTOTAL-26JAN06WMUMOH",
-        "series_ticker": "KXNCAAMBTOTAL",
-        "title": "Western Michigan at Miami (OH): Total Points",
-        "sub_title": "WMU at MOH (Jan 6)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNCAAMBTOTAL-26JAN06EMUBALL",
-        "series_ticker": "KXNCAAMBTOTAL",
-        "title": "Eastern Michigan at Ball St.: Total Points",
-        "sub_title": "EMU at BALL (Jan 6)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNCAAMBTOTAL-26JAN06CMUAKR",
-        "series_ticker": "KXNCAAMBTOTAL",
-        "title": "Central Michigan at Akron: Total Points",
-        "sub_title": "CMU at AKR (Jan 6)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNCAAMBTOTAL-26JAN06BGSUKENT",
-        "series_ticker": "KXNCAAMBTOTAL",
-        "title": "Bowling Green at Kent St.: Total Points",
-        "sub_title": "BGSU at KENT (Jan 6)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNCAAMBSPREAD-26JAN06WMUMOH",
-        "series_ticker": "KXNCAAMBSPREAD",
-        "title": "Western Michigan at Miami (OH): Spread",
-        "sub_title": "WMU at MOH (Jan 6)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNCAAMBSPREAD-26JAN06EMUBALL",
-        "series_ticker": "KXNCAAMBSPREAD",
-        "title": "Eastern Michigan at Ball St.: Spread",
-        "sub_title": "EMU at BALL (Jan 6)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNCAAMBSPREAD-26JAN06CMUAKR",
-        "series_ticker": "KXNCAAMBSPREAD",
-        "title": "Central Michigan at Akron: Spread",
-        "sub_title": "CMU at AKR (Jan 6)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNCAAMBSPREAD-26JAN06BGSUKENT",
-        "series_ticker": "KXNCAAMBSPREAD",
-        "title": "Bowling Green at Kent St.: Spread",
-        "sub_title": "BGSU at KENT (Jan 6)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXWTAMATCH-26JAN06WANZAR",
-        "series_ticker": "KXWTAMATCH",
-        "title": "Wang vs Zarazua",
-        "sub_title": "Wang vs Zarazua",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXWTAMATCH-26JAN06KRAJON",
-        "series_ticker": "KXWTAMATCH",
-        "title": "Kraus vs Jones",
-        "sub_title": "Kraus vs Jones",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXWTAMATCH-26JAN06COSQUE",
-        "series_ticker": "KXWTAMATCH",
-        "title": "Costoulas vs Quevedo",
-        "sub_title": "Costoulas vs Quevedo",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXWTAMATCH-26JAN05BIRANI",
-        "series_ticker": "KXWTAMATCH",
-        "title": "Birrell vs Anisimova",
-        "sub_title": "Birrell vs Anisimova",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXWTAMATCH-26JAN05ANDGAD",
-        "series_ticker": "KXWTAMATCH",
-        "title": "Andreeva vs Gadecki",
-        "sub_title": "Andreeva vs Gadecki",
         "mutually_exclusive": true,
         "category": "Sports"
     },
@@ -37380,181 +35600,11 @@
     {
         "bing_reports": {},
         "ddgs_reports": {},
-        "event_ticker": "KXWTAMATCH-26JAN07MAREAL",
-        "series_ticker": "KXWTAMATCH",
-        "title": "Marcinko vs Eala",
-        "sub_title": "Marcinko vs Eala",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
         "event_ticker": "KXWTAMATCH-26JAN07LINCOC",
         "series_ticker": "KXWTAMATCH",
         "title": "Linette vs Cocciaretto",
         "sub_title": "Linette vs Cocciaretto",
         "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNCAAMBTOTAL-26JAN07FURCHAT",
-        "series_ticker": "KXNCAAMBTOTAL",
-        "title": "Furman at Chattanooga: Total Points",
-        "sub_title": "FUR at CHAT (Jan 7)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNCAAMBSPREAD-26JAN07FURCHAT",
-        "series_ticker": "KXNCAAMBSPREAD",
-        "title": "Furman at Chattanooga: Spread",
-        "sub_title": "FUR at CHAT (Jan 7)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXCRICKETT20IMATCH-26JAN07PAKSRI",
-        "series_ticker": "KXCRICKETT20IMATCH",
-        "title": "Sri Lanka vs Pakistan",
-        "sub_title": "SRI vs PAK (Jan 7)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXUNITEDCUPMATCH-26JAN07WAWBAE",
-        "series_ticker": "KXUNITEDCUPMATCH",
-        "title": "Wawrinka vs Baez: Quarterfinal",
-        "sub_title": "Wawrinka vs Baez",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXATPMATCH-26JAN07RUBYIB",
-        "series_ticker": "KXATPMATCH",
-        "title": "Rublev vs Wu",
-        "sub_title": "Rublev vs Wu",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXUNITEDCUPMATCH-26JAN07BENSIE",
-        "series_ticker": "KXUNITEDCUPMATCH",
-        "title": "Bencic vs Sierra: Quarterfinal",
-        "sub_title": "Bencic vs Sierra",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXATPMATCH-26JAN07CILBOR",
-        "series_ticker": "KXATPMATCH",
-        "title": "Cilic vs Borges",
-        "sub_title": "Cilic vs Borges",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXATPMATCH-26JAN07WONDIA",
-        "series_ticker": "KXATPMATCH",
-        "title": "Wong vs Diallo",
-        "sub_title": "Wong vs Diallo",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXATPMATCH-26JAN07MUSETC",
-        "series_ticker": "KXATPMATCH",
-        "title": "Musetti vs Etcheverry",
-        "sub_title": "Musetti vs Etcheverry",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNBA2D-26JAN06DALSAC",
-        "series_ticker": "KXNBA2D",
-        "title": "Dallas at Sacramento: Double Doubles",
-        "sub_title": "DAL at SAC (Jan 6)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXUNITEDCUPMATCH-26JAN06FRITSI",
-        "series_ticker": "KXUNITEDCUPMATCH",
-        "title": "Fritz vs Tsitsipas: Quarterfinal",
-        "sub_title": "Fritz vs Tsitsipas",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXUNITEDCUPMATCH-26JAN06GAUSAK",
-        "series_ticker": "KXUNITEDCUPMATCH",
-        "title": "Gauff vs Sakkari: Quarterfinal",
-        "sub_title": "Gauff vs Sakkari",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNBA3D-26JAN06MIAMIN",
-        "series_ticker": "KXNBA3D",
-        "title": "Miami at Minnesota: Triple Doubles",
-        "sub_title": "MIA at MIN (Jan 6)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNBA3D-26JAN06LALNOP",
-        "series_ticker": "KXNBA3D",
-        "title": "Los Angeles L at New Orleans: Triple Doubles",
-        "sub_title": "LAL at NOP (Jan 6)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNBA2D-26JAN06SASMEM",
-        "series_ticker": "KXNBA2D",
-        "title": "San Antonio at Memphis: Double Doubles",
-        "sub_title": "SAS at MEM (Jan 6)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNBA2D-26JAN06LALNOP",
-        "series_ticker": "KXNBA2D",
-        "title": "Los Angeles L at New Orleans: Double Doubles",
-        "sub_title": "LAL at NOP (Jan 6)",
-        "mutually_exclusive": false,
         "category": "Sports"
     },
     {
@@ -37600,76 +35650,6 @@
     {
         "bing_reports": {},
         "ddgs_reports": {},
-        "event_ticker": "KXNBAREB-26JAN06ORLWAS",
-        "series_ticker": "KXNBAREB",
-        "title": "Orlando at Washington: Rebounds",
-        "sub_title": "ORL at WAS (Jan 6)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNBA3PT-26JAN06CLEIND",
-        "series_ticker": "KXNBA3PT",
-        "title": "Cleveland at Indiana: Three Pointers",
-        "sub_title": "CLE at IND (Jan 6)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNBA3D-26JAN06ORLWAS",
-        "series_ticker": "KXNBA3D",
-        "title": "Orlando at Washington: Triple Doubles",
-        "sub_title": "ORL at WAS (Jan 6)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNBA2D-26JAN06ORLWAS",
-        "series_ticker": "KXNBA2D",
-        "title": "Orlando at Washington: Double Doubles",
-        "sub_title": "ORL at WAS (Jan 6)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNBA2D-26JAN06CLEIND",
-        "series_ticker": "KXNBA2D",
-        "title": "Cleveland at Indiana: Double Doubles",
-        "sub_title": "CLE at IND (Jan 6)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXETH15M-26JAN062045",
-        "series_ticker": "KXETH15M",
-        "title": "ETH Up or Down - 15 minutes",
-        "sub_title": "Jan 6 - 8:30PM EST to 8:45PM EST",
-        "mutually_exclusive": false,
-        "category": "Crypto"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXBTC15M-26JAN062045",
-        "series_ticker": "KXBTC15M",
-        "title": "BTC Up or Down - 15 minutes",
-        "sub_title": "Jan 6 - 8:30PM EST to 8:45PM EST",
-        "mutually_exclusive": false,
-        "category": "Crypto"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
         "event_ticker": "KXWTAMATCH-26JAN06SEIKAR",
         "series_ticker": "KXWTAMATCH",
         "title": "Seidel vs Kartal",
@@ -37686,5 +35666,2915 @@
         "sub_title": "Before 2030",
         "mutually_exclusive": false,
         "category": "Politics"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXTAIWANLVL4",
+        "series_ticker": "KXTAIWANLVL4",
+        "title": "Will the US issue a Level 4 travel advisory for Taiwan?",
+        "sub_title": "Taiwan Travel Advisory",
+        "mutually_exclusive": false,
+        "category": "Politics"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXUSAEXPANDTERRITORY",
+        "series_ticker": "KXUSAEXPANDTERRITORY",
+        "title": "Will the United States acquire new territory?",
+        "sub_title": "By 2029",
+        "mutually_exclusive": false,
+        "category": "Politics"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXMORTGAGERATE-26DEC",
+        "series_ticker": "KXMORTGAGERATE",
+        "title": "How high will 30yr mortgage rate get this year?",
+        "sub_title": "In 2026",
+        "mutually_exclusive": false,
+        "category": "Economics"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXHFHOUSING-27",
+        "series_ticker": "KXHFHOUSING",
+        "title": "Will legislation restricting institutional single-family home investment become law in 2026?",
+        "sub_title": "Before 2027",
+        "mutually_exclusive": false,
+        "category": "Politics"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXALBUMRELEASEDATEBRUNOMARS",
+        "series_ticker": "KXALBUMRELEASEDATEBRUNOMARS",
+        "title": "When will Bruno Mars release a new album?",
+        "sub_title": "Before Jan 2027",
+        "mutually_exclusive": false,
+        "category": "Entertainment"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXMURKOWSKIENDORSE-26NOV03",
+        "series_ticker": "KXMURKOWSKIENDORSE",
+        "title": "Who will Murkowski endorse in the Alaska Senate race?",
+        "sub_title": "Before Nov 3, 2026",
+        "mutually_exclusive": false,
+        "category": "Elections"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXFALLOUTRELEASE-26",
+        "series_ticker": "KXFALLOUTRELEASE",
+        "title": "Will Bethesda release a new Fallout game before July?",
+        "sub_title": "In 2026",
+        "mutually_exclusive": false,
+        "category": "Companies"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXCAFRAUD",
+        "series_ticker": "KXCAFRAUD",
+        "title": "Will any CA state executive be federally charged with fraud?",
+        "sub_title": "Criminal charges",
+        "mutually_exclusive": false,
+        "category": "Politics"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXUCLGAME-26JAN21SLABAR",
+        "series_ticker": "KXUCLGAME",
+        "title": "Slavia Prague vs Barcelona",
+        "sub_title": "SLA vs BAR (Jan 21)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXUCLGAME-26JAN21OMLFC",
+        "series_ticker": "KXUCLGAME",
+        "title": "Marseille vs Liverpool",
+        "sub_title": "OM vs LFC (Jan 21)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXUCLGAME-26JAN21NEWPSV",
+        "series_ticker": "KXUCLGAME",
+        "title": "Newcastle vs Eindhoven",
+        "sub_title": "NEW vs PSV (Jan 21)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXUCLGAME-26JAN21JUVBEN",
+        "series_ticker": "KXUCLGAME",
+        "title": "Juventus vs SL Benfica",
+        "sub_title": "JUV vs BEN (Jan 21)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXUCLGAME-26JAN21CFCPAF",
+        "series_ticker": "KXUCLGAME",
+        "title": "Chelsea vs Pafos",
+        "sub_title": "CFC vs PAF (Jan 21)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXUCLGAME-26JAN21BMUUSG",
+        "series_ticker": "KXUCLGAME",
+        "title": "Bayern Munich vs Union Gilloise",
+        "sub_title": "BMU vs USG (Jan 21)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXUCLGAME-26JAN21ATAATH",
+        "series_ticker": "KXUCLGAME",
+        "title": "Atalanta vs Bilbao",
+        "sub_title": "ATA vs ATH (Jan 21)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXUCLGAME-26JAN21QARSGE",
+        "series_ticker": "KXUCLGAME",
+        "title": "Qarabag vs Frankfurt",
+        "sub_title": "QAR vs SGE (Jan 21)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXUCLGAME-26JAN21GALATM",
+        "series_ticker": "KXUCLGAME",
+        "title": "Galatasaray vs Atletico",
+        "sub_title": "GAL vs ATM (Jan 21)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXUCLTOTAL-26JAN20VILAJA",
+        "series_ticker": "KXUCLTOTAL",
+        "title": "Ajax at Villarreal: Totals",
+        "sub_title": "AJA at VIL (Jan 20)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXUCLTOTAL-26JAN20TOTBVB",
+        "series_ticker": "KXUCLTOTAL",
+        "title": "Dortmund at Tottenham: Totals",
+        "sub_title": "BVB at TOT (Jan 20)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXUCLTOTAL-26JAN20SPOPSG",
+        "series_ticker": "KXUCLTOTAL",
+        "title": "PSG at Sporting CP: Totals",
+        "sub_title": "PSG at SPO (Jan 20)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXUCLTOTAL-26JAN20RMAASM",
+        "series_ticker": "KXUCLTOTAL",
+        "title": "Monaco at Real Madrid: Totals",
+        "sub_title": "ASM at RMA (Jan 20)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXUCLTOTAL-26JAN20OLYLEV",
+        "series_ticker": "KXUCLTOTAL",
+        "title": "Leverkusen at Olympiacos: Totals",
+        "sub_title": "LEV at OLY (Jan 20)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXUCLTOTAL-26JAN20INTARS",
+        "series_ticker": "KXUCLTOTAL",
+        "title": "Arsenal at Inter: Totals",
+        "sub_title": "ARS at INT (Jan 20)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXUCLTOTAL-26JAN20FCCNAP",
+        "series_ticker": "KXUCLTOTAL",
+        "title": "Napoli at Copenhagen: Totals",
+        "sub_title": "NAP at FCC (Jan 20)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXUCLSPREAD-26JAN20VILAJA",
+        "series_ticker": "KXUCLSPREAD",
+        "title": "Ajax at Villarreal: Spreads",
+        "sub_title": "AJA at VIL (Jan 20)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXUCLSPREAD-26JAN20TOTBVB",
+        "series_ticker": "KXUCLSPREAD",
+        "title": "Dortmund at Tottenham: Spreads",
+        "sub_title": "BVB at TOT (Jan 20)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXUCLSPREAD-26JAN20SPOPSG",
+        "series_ticker": "KXUCLSPREAD",
+        "title": "PSG at Sporting CP: Spreads",
+        "sub_title": "PSG at SPO (Jan 20)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXUCLSPREAD-26JAN20RMAASM",
+        "series_ticker": "KXUCLSPREAD",
+        "title": "Monaco at Real Madrid: Spreads",
+        "sub_title": "ASM at RMA (Jan 20)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXUCLSPREAD-26JAN20OLYLEV",
+        "series_ticker": "KXUCLSPREAD",
+        "title": "Leverkusen at Olympiacos: Spreads",
+        "sub_title": "LEV at OLY (Jan 20)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXUCLSPREAD-26JAN20INTARS",
+        "series_ticker": "KXUCLSPREAD",
+        "title": "Arsenal at Inter: Spreads",
+        "sub_title": "ARS at INT (Jan 20)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXUCLSPREAD-26JAN20FCCNAP",
+        "series_ticker": "KXUCLSPREAD",
+        "title": "Napoli at Copenhagen: Spreads",
+        "sub_title": "NAP at FCC (Jan 20)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXUCLBTTS-26JAN20VILAJA",
+        "series_ticker": "KXUCLBTTS",
+        "title": "Ajax at Villarreal: Both Teams to Score",
+        "sub_title": "AJA at VIL (Jan 20)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXUCLBTTS-26JAN20TOTBVB",
+        "series_ticker": "KXUCLBTTS",
+        "title": "Dortmund at Tottenham: Both Teams to Score",
+        "sub_title": "BVB at TOT (Jan 20)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXUCLBTTS-26JAN20SPOPSG",
+        "series_ticker": "KXUCLBTTS",
+        "title": "PSG at Sporting CP: Both Teams to Score",
+        "sub_title": "PSG at SPO (Jan 20)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXUCLBTTS-26JAN20RMAASM",
+        "series_ticker": "KXUCLBTTS",
+        "title": "Monaco at Real Madrid: Both Teams to Score",
+        "sub_title": "ASM at RMA (Jan 20)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXUCLBTTS-26JAN20OLYLEV",
+        "series_ticker": "KXUCLBTTS",
+        "title": "Leverkusen at Olympiacos: Both Teams to Score",
+        "sub_title": "LEV at OLY (Jan 20)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXUCLBTTS-26JAN20INTARS",
+        "series_ticker": "KXUCLBTTS",
+        "title": "Arsenal at Inter: Both Teams to Score",
+        "sub_title": "ARS at INT (Jan 20)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXUCLBTTS-26JAN20FCCNAP",
+        "series_ticker": "KXUCLBTTS",
+        "title": "Napoli at Copenhagen: Both Teams to Score",
+        "sub_title": "NAP at FCC (Jan 20)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXUCLTOTAL-26JAN20BOGMCI",
+        "series_ticker": "KXUCLTOTAL",
+        "title": "Manchester City at Bodoe/Glimt: Totals",
+        "sub_title": "MCI at BOG (Jan 20)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXUCLSPREAD-26JAN20BOGMCI",
+        "series_ticker": "KXUCLSPREAD",
+        "title": "Manchester City at Bodoe/Glimt: Spreads",
+        "sub_title": "MCI at BOG (Jan 20)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXUCLBTTS-26JAN20BOGMCI",
+        "series_ticker": "KXUCLBTTS",
+        "title": "Manchester City at Bodoe/Glimt: Both Teams to Score",
+        "sub_title": "MCI at BOG (Jan 20)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXUCLTOTAL-26JAN20ALMBRU",
+        "series_ticker": "KXUCLTOTAL",
+        "title": "Club Brugge at Kairat: Totals",
+        "sub_title": "BRU at ALM (Jan 20)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXUCLSPREAD-26JAN20ALMBRU",
+        "series_ticker": "KXUCLSPREAD",
+        "title": "Club Brugge at Kairat: Spreads",
+        "sub_title": "BRU at ALM (Jan 20)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXUCLBTTS-26JAN20ALMBRU",
+        "series_ticker": "KXUCLBTTS",
+        "title": "Club Brugge at Kairat: Both Teams to Score",
+        "sub_title": "BRU at ALM (Jan 20)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXSERIEAGAME-26JAN14INTLEC",
+        "series_ticker": "KXSERIEAGAME",
+        "title": "Inter vs Lecce",
+        "sub_title": "INT vs LEC (Jan 14)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXBUNDESLIGAGAME-26JAN14TSGBMG",
+        "series_ticker": "KXBUNDESLIGAGAME",
+        "title": "Hoffenheim vs M\u00b4gladbach",
+        "sub_title": "TSG vs BMG (Jan 14)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXBUNDESLIGAGAME-26JAN14RBLSCF",
+        "series_ticker": "KXBUNDESLIGAGAME",
+        "title": "Leipzig vs Freiburg",
+        "sub_title": "RBL vs SCF (Jan 14)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXBUNDESLIGAGAME-26JAN14KOEBMU",
+        "series_ticker": "KXBUNDESLIGAGAME",
+        "title": "1. FC Cologne vs Bayern Munich",
+        "sub_title": "KOE vs BMU (Jan 14)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXSERIEAGAME-26JAN14NAPPAR",
+        "series_ticker": "KXSERIEAGAME",
+        "title": "Napoli vs Parma Calcio",
+        "sub_title": "NAP vs PAR (Jan 14)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXBUNDESLIGAGAME-26JAN14WOBSTP",
+        "series_ticker": "KXBUNDESLIGAGAME",
+        "title": "Wolfsburg vs St. Pauli",
+        "sub_title": "WOB vs STP (Jan 14)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXBUNDESLIGATOTAL-26JAN13M05FCH",
+        "series_ticker": "KXBUNDESLIGATOTAL",
+        "title": "Heidenheim at Mainz: Totals",
+        "sub_title": "FCH at M05 (Jan 13)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXBUNDESLIGATOTAL-26JAN13HSVLEV",
+        "series_ticker": "KXBUNDESLIGATOTAL",
+        "title": "Leverkusen at Hamburg: Totals",
+        "sub_title": "LEV at HSV (Jan 13)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXBUNDESLIGATOTAL-26JAN13BVBSVW",
+        "series_ticker": "KXBUNDESLIGATOTAL",
+        "title": "Bremen at Dortmund: Totals",
+        "sub_title": "SVW at BVB (Jan 13)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXBUNDESLIGASPREAD-26JAN13M05FCH",
+        "series_ticker": "KXBUNDESLIGASPREAD",
+        "title": "Heidenheim at Mainz: Spreads",
+        "sub_title": "FCH at M05 (Jan 13)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXBUNDESLIGASPREAD-26JAN13HSVLEV",
+        "series_ticker": "KXBUNDESLIGASPREAD",
+        "title": "Leverkusen at Hamburg: Spreads",
+        "sub_title": "LEV at HSV (Jan 13)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXBUNDESLIGASPREAD-26JAN13BVBSVW",
+        "series_ticker": "KXBUNDESLIGASPREAD",
+        "title": "Bremen at Dortmund: Spreads",
+        "sub_title": "SVW at BVB (Jan 13)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXBUNDESLIGABTTS-26JAN13M05FCH",
+        "series_ticker": "KXBUNDESLIGABTTS",
+        "title": "Heidenheim at Mainz: Both Teams to Score",
+        "sub_title": "FCH at M05 (Jan 13)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXBUNDESLIGABTTS-26JAN13HSVLEV",
+        "series_ticker": "KXBUNDESLIGABTTS",
+        "title": "Leverkusen at Hamburg: Both Teams to Score",
+        "sub_title": "LEV at HSV (Jan 13)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXBUNDESLIGABTTS-26JAN13BVBSVW",
+        "series_ticker": "KXBUNDESLIGABTTS",
+        "title": "Bremen at Dortmund: Both Teams to Score",
+        "sub_title": "SVW at BVB (Jan 13)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXBUNDESLIGATOTAL-26JAN13VFBSGE",
+        "series_ticker": "KXBUNDESLIGATOTAL",
+        "title": "Frankfurt at Stuttgart: Totals",
+        "sub_title": "SGE at VFB (Jan 13)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXBUNDESLIGASPREAD-26JAN13VFBSGE",
+        "series_ticker": "KXBUNDESLIGASPREAD",
+        "title": "Frankfurt at Stuttgart: Spreads",
+        "sub_title": "SGE at VFB (Jan 13)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXBUNDESLIGABTTS-26JAN13VFBSGE",
+        "series_ticker": "KXBUNDESLIGABTTS",
+        "title": "Frankfurt at Stuttgart: Both Teams to Score",
+        "sub_title": "SGE at VFB (Jan 13)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXCODGAME-26JAN11LATTOR",
+        "series_ticker": "KXCODGAME",
+        "title": "Call of Duty League Stage 1 Major Qualifiers 2026: Los Angeles Thieves vs. Toronto KOI",
+        "sub_title": "Los Angeles Thieves vs. Toronto KOI (Jan 11)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXCODGAME-26JAN11TEXVAN",
+        "series_ticker": "KXCODGAME",
+        "title": "Call of Duty League Stage 1 Major Qualifiers 2026: OpTic Texas vs. Vancouver Surge",
+        "sub_title": "OpTic Texas vs. Vancouver Surge (Jan 11)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXCODGAME-26JAN11CRRG2M",
+        "series_ticker": "KXCODGAME",
+        "title": "Call of Duty League Stage 1 Major Qualifiers 2026: Carolina Royal Ravens vs. G2 Minnesota",
+        "sub_title": "Carolina Royal Ravens vs. G2 Minnesota (Jan 11)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXUNRIVALEDGAME-26JAN10LCSMST",
+        "series_ticker": "KXUNRIVALEDGAME",
+        "title": "Laces at Mist",
+        "sub_title": "LCS at MST (Jan 10)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXUNRIVALEDGAME-26JAN10LNRPHA",
+        "series_ticker": "KXUNRIVALEDGAME",
+        "title": "Lunar Owls at Phantom",
+        "sub_title": "LNR at PHA (Jan 10)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAWBGAME-26JAN10USFMEM",
+        "series_ticker": "KXNCAAWBGAME",
+        "title": "South Florida at Memphis",
+        "sub_title": "USF at MEM (Jan 10)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAWBGAME-26JAN10UNTTULN",
+        "series_ticker": "KXNCAAWBGAME",
+        "title": "North Texas at Tulane",
+        "sub_title": "UNT at TULN (Jan 10)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAWBGAME-26JAN10SDSUUSU",
+        "series_ticker": "KXNCAAWBGAME",
+        "title": "San Diego St. at Utah St.",
+        "sub_title": "SDSU at USU (Jan 10)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAWBGAME-26JAN10SCUWSU",
+        "series_ticker": "KXNCAAWBGAME",
+        "title": "Santa Clara at Washington St.",
+        "sub_title": "SCU at WSU (Jan 10)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAWBGAME-26JAN10NEVUNM",
+        "series_ticker": "KXNCAAWBGAME",
+        "title": "Nevada at New Mexico",
+        "sub_title": "NEV at UNM (Jan 10)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAWBGAME-26JAN10GTWNDEP",
+        "series_ticker": "KXNCAAWBGAME",
+        "title": "Georgetown at DePaul",
+        "sub_title": "GTWN at DEP (Jan 10)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAWBGAME-26JAN10FRESGC",
+        "series_ticker": "KXNCAAWBGAME",
+        "title": "Fresno St. at Grand Canyon",
+        "sub_title": "FRES at GC (Jan 10)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAWBGAME-26JAN10FAUUAB",
+        "series_ticker": "KXNCAAWBGAME",
+        "title": "Florida Atlantic at UAB",
+        "sub_title": "FAU at UAB (Jan 10)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAWBGAME-26JAN10ECUWICH",
+        "series_ticker": "KXNCAAWBGAME",
+        "title": "East Carolina at Wichita St.",
+        "sub_title": "ECU at WICH (Jan 10)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAWBGAME-26JAN10CSUBSU",
+        "series_ticker": "KXNCAAWBGAME",
+        "title": "Colorado St. at Boise St.",
+        "sub_title": "CSU at BSU (Jan 10)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXEREDIVISIEGAME-26JAN10GROBRE",
+        "series_ticker": "KXEREDIVISIEGAME",
+        "title": "Groningen vs Breda",
+        "sub_title": "GRO vs BRE (Jan 10)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXLNBELITEGAME-26JAN10MONSNB",
+        "series_ticker": "KXLNBELITEGAME",
+        "title": "AS Monaco at Sluc Nancy Basket",
+        "sub_title": "MON at SNB (Jan 10)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAWBGAME-26JAN10TTUCIN",
+        "series_ticker": "KXNCAAWBGAME",
+        "title": "Texas Tech at Cincinnati",
+        "sub_title": "TTU at CIN (Jan 10)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAWBGAME-26JAN10LASJOES",
+        "series_ticker": "KXNCAAWBGAME",
+        "title": "La Salle at Saint Joseph's",
+        "sub_title": "LAS at JOES (Jan 10)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAWBGAME-26JAN10DAYFOR",
+        "series_ticker": "KXNCAAWBGAME",
+        "title": "Dayton at Fordham",
+        "sub_title": "DAY at FOR (Jan 10)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAWBGAME-26JAN10BYUHOU",
+        "series_ticker": "KXNCAAWBGAME",
+        "title": "BYU at Houston",
+        "sub_title": "BYU at HOU (Jan 10)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAWBGAME-26JAN10BUTSJU",
+        "series_ticker": "KXNCAAWBGAME",
+        "title": "Butler at St. John's",
+        "sub_title": "BUT at SJU (Jan 10)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXEREDIVISIEGAME-26JAN10PSVEXC",
+        "series_ticker": "KXEREDIVISIEGAME",
+        "title": "Eindhoven vs Excelsior",
+        "sub_title": "PSV vs EXC (Jan 10)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXAFCONGAME-26JAN10EGYCIV",
+        "series_ticker": "KXAFCONGAME",
+        "title": "Egypt vs Ivory Coast",
+        "sub_title": "EGY vs CIV (Jan 10)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNHLTOTAL-26JAN10NYRBOS",
+        "series_ticker": "KXNHLTOTAL",
+        "title": "New York R at Boston: Total Points",
+        "sub_title": "NYR at BOS (Jan 10)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNHLSPREAD-26JAN10NYRBOS",
+        "series_ticker": "KXNHLSPREAD",
+        "title": "New York R at Boston: Spread",
+        "sub_title": "NYR at BOS (Jan 10)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNHLGAME-26JAN10NYRBOS",
+        "series_ticker": "KXNHLGAME",
+        "title": "New York R at Boston",
+        "sub_title": "NYR at BOS (Jan 10)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAWBGAME-26JAN10SBONURI",
+        "series_ticker": "KXNCAAWBGAME",
+        "title": "St. Bonaventure at Rhode Island",
+        "sub_title": "SBON at URI (Jan 10)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAWBGAME-26JAN10CHARUTSA",
+        "series_ticker": "KXNCAAWBGAME",
+        "title": "Charlotte at UTSA",
+        "sub_title": "CHAR at UTSA (Jan 10)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXEREDIVISIEGAME-26JAN10TWEZWO",
+        "series_ticker": "KXEREDIVISIEGAME",
+        "title": "Enschede vs Zwolle",
+        "sub_title": "TWE vs ZWO (Jan 10)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXLNBELITEGAME-26JAN10SIGJLB",
+        "series_ticker": "KXLNBELITEGAME",
+        "title": "SIG Strasbourg at JL Bourg Basket",
+        "sub_title": "SIG at JLB (Jan 10)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXSAUDIPLGAME-26JAN10AKHCAAS",
+        "series_ticker": "KXSAUDIPLGAME",
+        "title": "Al-Akhdoud vs Al Ahli Saudi",
+        "sub_title": "AKHC vs AAS (Jan 10)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXLNBELITEGAME-26JAN10LEPSQB",
+        "series_ticker": "KXLNBELITEGAME",
+        "title": "Le Portel at Saint Quentin",
+        "sub_title": "LEP at SQB (Jan 10)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXLNBELITEGAME-26JAN10CHALIM",
+        "series_ticker": "KXLNBELITEGAME",
+        "title": "Elan Chalon at Limoges CSP",
+        "sub_title": "CHA at LIM (Jan 10)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXLNBELITEGAME-26JAN10LMSBOU",
+        "series_ticker": "KXLNBELITEGAME",
+        "title": "Le Mans Sarthe Basket at Boulazac Basket Dordogne",
+        "sub_title": "LMS at BOU (Jan 10)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXLNBELITEGAME-26JAN10NANDIJ",
+        "series_ticker": "KXLNBELITEGAME",
+        "title": "Nanterre 92 at JDA Dijon Basket",
+        "sub_title": "NAN at DIJ (Jan 10)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXAFCONGAME-26JAN10DZANGR",
+        "series_ticker": "KXAFCONGAME",
+        "title": "Algeria vs Nigeria",
+        "sub_title": "DZA vs NGR (Jan 10)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXEREDIVISIEGAME-26JAN10AZAVOL",
+        "series_ticker": "KXEREDIVISIEGAME",
+        "title": "Alkmaar vs Volendam",
+        "sub_title": "AZA vs VOL (Jan 10)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXSCOTTISHPREMGAME-26JAN10MIRFAL",
+        "series_ticker": "KXSCOTTISHPREMGAME",
+        "title": "St. Mirren vs Falkirk",
+        "sub_title": "MIR vs FAL (Jan 10)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXSCOTTISHPREMGAME-26JAN10LIVKIL",
+        "series_ticker": "KXSCOTTISHPREMGAME",
+        "title": "Livingston vs Kilmarnock",
+        "sub_title": "LIV vs KIL (Jan 10)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXSCOTTISHPREMGAME-26JAN10HIBMOT",
+        "series_ticker": "KXSCOTTISHPREMGAME",
+        "title": "Hibernian vs Motherwell",
+        "sub_title": "HIB vs MOT (Jan 10)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXSCOTTISHPREMGAME-26JAN10CELDUU",
+        "series_ticker": "KXSCOTTISHPREMGAME",
+        "title": "Celtic vs Dundee United",
+        "sub_title": "CEL vs DUU (Jan 10)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXSAUDIPLGAME-26JAN10RIYFAY",
+        "series_ticker": "KXSAUDIPLGAME",
+        "title": "Al-Riyadh vs Al-Fayha",
+        "sub_title": "RIY vs FAY (Jan 10)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXSAUDIPLGAME-26JAN10NEOFAT",
+        "series_ticker": "KXSAUDIPLGAME",
+        "title": "AL Suqoor vs Al-Fateh",
+        "sub_title": "NEO vs FAT (Jan 10)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXCBAGAME-26JAN10TIAFST",
+        "series_ticker": "KXCBAGAME",
+        "title": "Tianjin Pioneers at Fujian Sturgeons",
+        "sub_title": "TIA at FST (Jan 10)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXCBAGAME-26JAN10SBWGLL",
+        "series_ticker": "KXCBAGAME",
+        "title": "Sichuan Blue Whales at Guangzhou Loong Lions",
+        "sub_title": "SBW at GLL (Jan 10)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXCBAGAME-26JAN10BRFZGB",
+        "series_ticker": "KXCBAGAME",
+        "title": "Beijing Royal Fighters at Zhejiang Golden Bulls",
+        "sub_title": "BRF at ZGB (Jan 10)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXALEAGUEGAME-26JAN10PERCCM",
+        "series_ticker": "KXALEAGUEGAME",
+        "title": "Perth vs Central Coast",
+        "sub_title": "PER vs CCM (Jan 10)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNBLGAME-26JAN10PERSEM",
+        "series_ticker": "KXNBLGAME",
+        "title": "Perth Wildcats at SE Melbourne Phoenix",
+        "sub_title": "PER at SEM (Jan 10)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXALEAGUEGAME-26JAN10MACSYD",
+        "series_ticker": "KXALEAGUEGAME",
+        "title": "Macarthur vs Sydney FC",
+        "sub_title": "MAC vs SYD (Jan 10)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNBLGAME-26JAN10BRICAR",
+        "series_ticker": "KXNBLGAME",
+        "title": "Brisbane Bullets at Cairns Taipans",
+        "sub_title": "BRI at CAR (Jan 10)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXALEAGUEGAME-26JAN10VICWES",
+        "series_ticker": "KXALEAGUEGAME",
+        "title": "Melbourne Victory vs Western Sydney Wanderers",
+        "sub_title": "VIC vs WES (Jan 10)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNBAGAME-26JAN09MILLAL",
+        "series_ticker": "KXNBAGAME",
+        "title": "Milwaukee at Los Angeles L",
+        "sub_title": "MIL at LAL (Jan 9)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBGAME-26JAN09UNLVCSU",
+        "series_ticker": "KXNCAAMBGAME",
+        "title": "UNLV at Colorado St.",
+        "sub_title": "UNLV at CSU (Jan 9)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNBAGAME-26JAN09SACGSW",
+        "series_ticker": "KXNBAGAME",
+        "title": "Sacramento at Golden State",
+        "sub_title": "SAC at GSW (Jan 9)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNBAGAME-26JAN09HOUPOR",
+        "series_ticker": "KXNBAGAME",
+        "title": "Houston at Portland",
+        "sub_title": "HOU at POR (Jan 9)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNHLTOTAL-26JAN09STLUTA",
+        "series_ticker": "KXNHLTOTAL",
+        "title": "St. Louis at Utah: Total Points",
+        "sub_title": "STL at UTA (Jan 9)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNHLSPREAD-26JAN09STLUTA",
+        "series_ticker": "KXNHLSPREAD",
+        "title": "St. Louis at Utah: Spread",
+        "sub_title": "STL at UTA (Jan 9)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNHLGAME-26JAN09STLUTA",
+        "series_ticker": "KXNHLGAME",
+        "title": "St. Louis at Utah",
+        "sub_title": "STL at UTA (Jan 9)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNBAGAME-26JAN09NYKPHX",
+        "series_ticker": "KXNBAGAME",
+        "title": "New York at Phoenix",
+        "sub_title": "NYK at PHX (Jan 9)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNBAGAME-26JAN09ATLDEN",
+        "series_ticker": "KXNBAGAME",
+        "title": "Atlanta at Denver",
+        "sub_title": "ATL at DEN (Jan 9)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXUNRIVALEDGAME-26JAN09BRZHVE",
+        "series_ticker": "KXUNRIVALEDGAME",
+        "title": "Breeze at Hive",
+        "sub_title": "BRZ at HVE (Jan 9)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBGAME-26JAN09USCMINN",
+        "series_ticker": "KXNCAAMBGAME",
+        "title": "USC at Minnesota",
+        "sub_title": "USC at MINN (Jan 9)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNHLTOTAL-26JAN09WSHCHI",
+        "series_ticker": "KXNHLTOTAL",
+        "title": "Washington at Chicago: Total Points",
+        "sub_title": "WSH at CHI (Jan 9)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNHLTOTAL-26JAN09LAWPG",
+        "series_ticker": "KXNHLTOTAL",
+        "title": "Los Angeles at Winnipeg: Total Points",
+        "sub_title": "LA at WPG (Jan 9)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNHLSPREAD-26JAN09WSHCHI",
+        "series_ticker": "KXNHLSPREAD",
+        "title": "Washington at Chicago: Spread",
+        "sub_title": "WSH at CHI (Jan 9)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNHLSPREAD-26JAN09LAWPG",
+        "series_ticker": "KXNHLSPREAD",
+        "title": "Los Angeles at Winnipeg: Spread",
+        "sub_title": "LA at WPG (Jan 9)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNHLGAME-26JAN09WSHCHI",
+        "series_ticker": "KXNHLGAME",
+        "title": "Washington at Chicago",
+        "sub_title": "WSH at CHI (Jan 9)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNHLGAME-26JAN09LAWPG",
+        "series_ticker": "KXNHLGAME",
+        "title": "Los Angeles at Winnipeg",
+        "sub_title": "LA at WPG (Jan 9)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBGAME-26JAN09NKUMILW",
+        "series_ticker": "KXNCAAMBGAME",
+        "title": "Northern Kentucky at Milwaukee",
+        "sub_title": "NKU at MILW (Jan 9)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBGAME-26JAN09AKRBGSU",
+        "series_ticker": "KXNCAAMBGAME",
+        "title": "Akron at Bowling Green",
+        "sub_title": "AKR at BGSU (Jan 9)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNBAGAME-26JAN09OKCMEM",
+        "series_ticker": "KXNBAGAME",
+        "title": "Oklahoma City at Memphis",
+        "sub_title": "OKC at MEM (Jan 9)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXUNRIVALEDGAME-26JAN09VNLROS",
+        "series_ticker": "KXUNRIVALEDGAME",
+        "title": "Vinyl at Rose",
+        "sub_title": "VNL at ROS (Jan 9)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAWBGAME-26JAN09TEMTLSA",
+        "series_ticker": "KXNCAAWBGAME",
+        "title": "Temple at Tulsa",
+        "sub_title": "TEM at TLSA (Jan 9)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNBAGAME-26JAN09LACBKN",
+        "series_ticker": "KXNBAGAME",
+        "title": "Los Angeles C at Brooklyn",
+        "sub_title": "LAC at BKN (Jan 9)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBGAME-26JAN09WRSTDET",
+        "series_ticker": "KXNCAAMBGAME",
+        "title": "Wright St. at Detroit Mercy",
+        "sub_title": "WRST at DET (Jan 9)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBGAME-26JAN09SPCMSM",
+        "series_ticker": "KXNCAAMBGAME",
+        "title": "Saint Peter's at Mount St. Mary's",
+        "sub_title": "SPC at MSM (Jan 9)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBGAME-26JAN09RIDFAIR",
+        "series_ticker": "KXNCAAMBGAME",
+        "title": "Rider at Fairfield",
+        "sub_title": "RID at FAIR (Jan 9)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBGAME-26JAN09NIAGIONA",
+        "series_ticker": "KXNCAAMBGAME",
+        "title": "Niagara at Iona",
+        "sub_title": "NIAG at IONA (Jan 9)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBGAME-26JAN09MRSTSHU",
+        "series_ticker": "KXNCAAMBGAME",
+        "title": "Marist at Sacred Heart",
+        "sub_title": "MRST at SHU (Jan 9)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBGAME-26JAN09MRMKSIE",
+        "series_ticker": "KXNCAAMBGAME",
+        "title": "Merrimack at Siena",
+        "sub_title": "MRMK at SIE (Jan 9)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBGAME-26JAN09IUINGB",
+        "series_ticker": "KXNCAAMBGAME",
+        "title": "IU Indy at Green Bay",
+        "sub_title": "IUIN at GB (Jan 9)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBGAME-26JAN09CLEVOAK",
+        "series_ticker": "KXNCAAMBGAME",
+        "title": "Cleveland St. at Oakland",
+        "sub_title": "CLEV at OAK (Jan 9)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBGAME-26JAN09CANMAN",
+        "series_ticker": "KXNCAAMBGAME",
+        "title": "Canisius at Manhattan",
+        "sub_title": "CAN at MAN (Jan 9)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNBAGAME-26JAN09TORBOS",
+        "series_ticker": "KXNBAGAME",
+        "title": "Toronto at Boston",
+        "sub_title": "TOR at BOS (Jan 9)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNBAGAME-26JAN09PHIORL",
+        "series_ticker": "KXNBAGAME",
+        "title": "Philadelphia at Orlando",
+        "sub_title": "PHI at ORL (Jan 9)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNBAGAME-26JAN09NOPWAS",
+        "series_ticker": "KXNBAGAME",
+        "title": "New Orleans at Washington",
+        "sub_title": "NOP at WAS (Jan 9)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBGAME-26JAN09MOHTOL",
+        "series_ticker": "KXNCAAMBGAME",
+        "title": "Miami (OH) at Toledo",
+        "sub_title": "MOH at TOL (Jan 9)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXFACUPADVANCE-26JAN09WRENFO",
+        "series_ticker": "KXFACUPADVANCE",
+        "title": "Wrexham vs Nottingham: To Advance",
+        "sub_title": "WRE vs NFO (Jan 9)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXFACUPADVANCE-26JAN09PVAFLE",
+        "series_ticker": "KXFACUPADVANCE",
+        "title": "Port Vale vs Fleetwood: To Advance",
+        "sub_title": "PVA vs FLE (Jan 9)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXFACUPADVANCE-26JAN09PNEWIG",
+        "series_ticker": "KXFACUPADVANCE",
+        "title": "Preston vs Wigan: To Advance",
+        "sub_title": "PNE vs WIG (Jan 9)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXFACUPADVANCE-26JAN09MKDOXU",
+        "series_ticker": "KXFACUPADVANCE",
+        "title": "Milton Keynes vs Oxford United: To Advance",
+        "sub_title": "MKD vs OXU (Jan 9)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBGAME-26JAN09BRSTYSU",
+        "series_ticker": "KXNCAAMBGAME",
+        "title": "Bryant & Stratton at Youngstown St.",
+        "sub_title": "BRST at YSU (Jan 9)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXCRICKETT20IMATCH-26JAN09PAKSRI",
+        "series_ticker": "KXCRICKETT20IMATCH",
+        "title": "Sri Lanka vs Pakistan",
+        "sub_title": "SRI vs PAK (Jan 9)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXRAINNYC-26JAN08",
+        "series_ticker": "KXRAINNYC",
+        "title": "Will it rain in NYC on Jan 8, 2026?",
+        "sub_title": "On Jan 8, 2026",
+        "mutually_exclusive": false,
+        "category": "Climate and Weather"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXKBLGAME-26JAN09PHOANY",
+        "series_ticker": "KXKBLGAME",
+        "title": "Mobis Phoebus at Anyang Jungkwanjang Red Boosters",
+        "sub_title": "PHO at ANY (Jan 9)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXUNITEDCUPMATCH-26JAN09DEHUR",
+        "series_ticker": "KXUNITEDCUPMATCH",
+        "title": "de Minaur vs Hurkacz: Quarterfinal",
+        "sub_title": "de Minaur vs Hurkacz",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXUNITEDCUPMATCH-26JAN09JOISWI",
+        "series_ticker": "KXUNITEDCUPMATCH",
+        "title": "Joint vs Swiatek: Quarterfinal",
+        "sub_title": "Joint vs Swiatek",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBTOTAL-26JAN08UTUCBU",
+        "series_ticker": "KXNCAAMBTOTAL",
+        "title": "Utah Tech at California Baptist: Total Points",
+        "sub_title": "UTU at CBU (Jan 8)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBTOTAL-26JAN08LBSUUCI",
+        "series_ticker": "KXNCAAMBTOTAL",
+        "title": "Long Beach St. at UC Irvine: Total Points",
+        "sub_title": "LBSU at UCI (Jan 8)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBTOTAL-26JAN08CSFUCSD",
+        "series_ticker": "KXNCAAMBTOTAL",
+        "title": "Cal State Fullerton at UC San Diego: Total Points",
+        "sub_title": "CSF at UCSD (Jan 8)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBTOTAL-26JAN08CPCSN",
+        "series_ticker": "KXNCAAMBTOTAL",
+        "title": "Cal Poly at Cal State Northridge: Total Points",
+        "sub_title": "CP at CSN (Jan 8)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBSPREAD-26JAN08UTUCBU",
+        "series_ticker": "KXNCAAMBSPREAD",
+        "title": "Utah Tech at California Baptist: Spread",
+        "sub_title": "UTU at CBU (Jan 8)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBSPREAD-26JAN08LBSUUCI",
+        "series_ticker": "KXNCAAMBSPREAD",
+        "title": "Long Beach St. at UC Irvine: Spread",
+        "sub_title": "LBSU at UCI (Jan 8)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBSPREAD-26JAN08CSFUCSD",
+        "series_ticker": "KXNCAAMBSPREAD",
+        "title": "Cal State Fullerton at UC San Diego: Spread",
+        "sub_title": "CSF at UCSD (Jan 8)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBSPREAD-26JAN08CPCSN",
+        "series_ticker": "KXNCAAMBSPREAD",
+        "title": "Cal Poly at Cal State Northridge: Spread",
+        "sub_title": "CP at CSN (Jan 8)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBTOTAL-26JAN08UCRVCSB",
+        "series_ticker": "KXNCAAMBTOTAL",
+        "title": "UC Riverside at Cal State Bakersfield: Total Points",
+        "sub_title": "UCRV at CSB (Jan 8)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBSPREAD-26JAN08UCRVCSB",
+        "series_ticker": "KXNCAAMBSPREAD",
+        "title": "UC Riverside at Cal State Bakersfield: Spread",
+        "sub_title": "UCRV at CSB (Jan 8)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBTOTAL-26JAN08WKUNMSU",
+        "series_ticker": "KXNCAAMBTOTAL",
+        "title": "Western Kentucky at New Mexico St.: Total Points",
+        "sub_title": "WKU at NMSU (Jan 8)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBTOTAL-26JAN08UCDUCSB",
+        "series_ticker": "KXNCAAMBTOTAL",
+        "title": "UC Davis at UC Santa Barbara: Total Points",
+        "sub_title": "UCD at UCSB (Jan 8)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBTOTAL-26JAN08MTUUTEP",
+        "series_ticker": "KXNCAAMBTOTAL",
+        "title": "Middle Tennessee at UTEP: Total Points",
+        "sub_title": "MTU at UTEP (Jan 8)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBTOTAL-26JAN08MTSTEWU",
+        "series_ticker": "KXNCAAMBTOTAL",
+        "title": "Montana St. at Eastern Washington: Total Points",
+        "sub_title": "MTST at EWU (Jan 8)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBTOTAL-26JAN08MONTIDHO",
+        "series_ticker": "KXNCAAMBTOTAL",
+        "title": "Montana at Idaho: Total Points",
+        "sub_title": "MONT at IDHO (Jan 8)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBSPREAD-26JAN08WKUNMSU",
+        "series_ticker": "KXNCAAMBSPREAD",
+        "title": "Western Kentucky at New Mexico St.: Spread",
+        "sub_title": "WKU at NMSU (Jan 8)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBSPREAD-26JAN08UCDUCSB",
+        "series_ticker": "KXNCAAMBSPREAD",
+        "title": "UC Davis at UC Santa Barbara: Spread",
+        "sub_title": "UCD at UCSB (Jan 8)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBSPREAD-26JAN08MTUUTEP",
+        "series_ticker": "KXNCAAMBSPREAD",
+        "title": "Middle Tennessee at UTEP: Spread",
+        "sub_title": "MTU at UTEP (Jan 8)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBSPREAD-26JAN08MTSTEWU",
+        "series_ticker": "KXNCAAMBSPREAD",
+        "title": "Montana St. at Eastern Washington: Spread",
+        "sub_title": "MTST at EWU (Jan 8)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBSPREAD-26JAN08MONTIDHO",
+        "series_ticker": "KXNCAAMBSPREAD",
+        "title": "Montana at Idaho: Spread",
+        "sub_title": "MONT at IDHO (Jan 8)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBTOTAL-26JAN08ULMULL",
+        "series_ticker": "KXNCAAMBTOTAL",
+        "title": "Louisiana-Monroe at Louisiana: Total Points",
+        "sub_title": "ULM at ULL (Jan 8)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBTOTAL-26JAN08UALRSIUE",
+        "series_ticker": "KXNCAAMBTOTAL",
+        "title": "Little Rock at SIU Edwardsville: Total Points",
+        "sub_title": "UALR at SIUE (Jan 8)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBTOTAL-26JAN08TNTCEIU",
+        "series_ticker": "KXNCAAMBTOTAL",
+        "title": "Tennessee Tech at Eastern Illinois: Total Points",
+        "sub_title": "TNTC at EIU (Jan 8)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBTOTAL-26JAN08TNSTWIU",
+        "series_ticker": "KXNCAAMBTOTAL",
+        "title": "Tennessee St. at Western Illinois: Total Points",
+        "sub_title": "TNST at WIU (Jan 8)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBTOTAL-26JAN08SEMOUSI",
+        "series_ticker": "KXNCAAMBTOTAL",
+        "title": "Southeast Missouri St. at Southern Indiana: Total Points",
+        "sub_title": "SEMO at USI (Jan 8)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBSPREAD-26JAN08ULMULL",
+        "series_ticker": "KXNCAAMBSPREAD",
+        "title": "Louisiana-Monroe at Louisiana: Spread",
+        "sub_title": "ULM at ULL (Jan 8)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBSPREAD-26JAN08UALRSIUE",
+        "series_ticker": "KXNCAAMBSPREAD",
+        "title": "Little Rock at SIU Edwardsville: Spread",
+        "sub_title": "UALR at SIUE (Jan 8)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBSPREAD-26JAN08TNTCEIU",
+        "series_ticker": "KXNCAAMBSPREAD",
+        "title": "Tennessee Tech at Eastern Illinois: Spread",
+        "sub_title": "TNTC at EIU (Jan 8)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBSPREAD-26JAN08TNSTWIU",
+        "series_ticker": "KXNCAAMBSPREAD",
+        "title": "Tennessee St. at Western Illinois: Spread",
+        "sub_title": "TNST at WIU (Jan 8)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBSPREAD-26JAN08SEMOUSI",
+        "series_ticker": "KXNCAAMBSPREAD",
+        "title": "Southeast Missouri St. at Southern Indiana: Spread",
+        "sub_title": "SEMO at USI (Jan 8)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBTOTAL-26JAN08WEBNAU",
+        "series_ticker": "KXNCAAMBTOTAL",
+        "title": "Weber St. at Northern Arizona: Total Points",
+        "sub_title": "WEB at NAU (Jan 8)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBTOTAL-26JAN08UNDNEOM",
+        "series_ticker": "KXNCAAMBTOTAL",
+        "title": "North Dakota at Omaha: Total Points",
+        "sub_title": "UND at NEOM (Jan 8)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBTOTAL-26JAN08TXSTUSM",
+        "series_ticker": "KXNCAAMBTOTAL",
+        "title": "Texas St. at Southern Miss: Total Points",
+        "sub_title": "TXST at USM (Jan 8)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBTOTAL-26JAN08SUUUVU",
+        "series_ticker": "KXNCAAMBTOTAL",
+        "title": "Southern Utah at Utah Valley: Total Points",
+        "sub_title": "SUU at UVU (Jan 8)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBTOTAL-26JAN08NDSUUMKC",
+        "series_ticker": "KXNCAAMBTOTAL",
+        "title": "North Dakota St. at Kansas City: Total Points",
+        "sub_title": "NDSU at UMKC (Jan 8)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBTOTAL-26JAN08IDSTUNCO",
+        "series_ticker": "KXNCAAMBTOTAL",
+        "title": "Idaho St. at Northern Colorado: Total Points",
+        "sub_title": "IDST at UNCO (Jan 8)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBTOTAL-26JAN08DENSDST",
+        "series_ticker": "KXNCAAMBTOTAL",
+        "title": "Denver at South Dakota St.: Total Points",
+        "sub_title": "DEN at SDST (Jan 8)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBTOTAL-26JAN08ACTARL",
+        "series_ticker": "KXNCAAMBTOTAL",
+        "title": "Abilene Christian at Tarleton St.: Total Points",
+        "sub_title": "AC at TARL (Jan 8)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBSPREAD-26JAN08WEBNAU",
+        "series_ticker": "KXNCAAMBSPREAD",
+        "title": "Weber St. at Northern Arizona: Spread",
+        "sub_title": "WEB at NAU (Jan 8)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBSPREAD-26JAN08UNDNEOM",
+        "series_ticker": "KXNCAAMBSPREAD",
+        "title": "North Dakota at Omaha: Spread",
+        "sub_title": "UND at NEOM (Jan 8)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBSPREAD-26JAN08TXSTUSM",
+        "series_ticker": "KXNCAAMBSPREAD",
+        "title": "Texas St. at Southern Miss: Spread",
+        "sub_title": "TXST at USM (Jan 8)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBSPREAD-26JAN08SUUUVU",
+        "series_ticker": "KXNCAAMBSPREAD",
+        "title": "Southern Utah at Utah Valley: Spread",
+        "sub_title": "SUU at UVU (Jan 8)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBSPREAD-26JAN08NDSUUMKC",
+        "series_ticker": "KXNCAAMBSPREAD",
+        "title": "North Dakota St. at Kansas City: Spread",
+        "sub_title": "NDSU at UMKC (Jan 8)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBSPREAD-26JAN08IDSTUNCO",
+        "series_ticker": "KXNCAAMBSPREAD",
+        "title": "Idaho St. at Northern Colorado: Spread",
+        "sub_title": "IDST at UNCO (Jan 8)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBSPREAD-26JAN08DENSDST",
+        "series_ticker": "KXNCAAMBSPREAD",
+        "title": "Denver at South Dakota St.: Spread",
+        "sub_title": "DEN at SDST (Jan 8)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBSPREAD-26JAN08ACTARL",
+        "series_ticker": "KXNCAAMBSPREAD",
+        "title": "Abilene Christian at Tarleton St.: Spread",
+        "sub_title": "AC at TARL (Jan 8)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXATPMATCH-26JAN08MEDMAJ",
+        "series_ticker": "KXATPMATCH",
+        "title": "Medvedev vs Majchrzak",
+        "sub_title": "Medvedev vs Majchrzak",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBTOTAL-26JAN08UTMMORE",
+        "series_ticker": "KXNCAAMBTOTAL",
+        "title": "Tennessee-Martin at Morehead St.: Total Points",
+        "sub_title": "UTM at MORE (Jan 8)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBTOTAL-26JAN08DELSHSU",
+        "series_ticker": "KXNCAAMBTOTAL",
+        "title": "Delaware at Sam Houston: Total Points",
+        "sub_title": "DEL at SHSU (Jan 8)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBSPREAD-26JAN08UTMMORE",
+        "series_ticker": "KXNCAAMBSPREAD",
+        "title": "Tennessee-Martin at Morehead St.: Spread",
+        "sub_title": "UTM at MORE (Jan 8)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBSPREAD-26JAN08DELSHSU",
+        "series_ticker": "KXNCAAMBSPREAD",
+        "title": "Delaware at Sam Houston: Spread",
+        "sub_title": "DEL at SHSU (Jan 8)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBTOTAL-26JAN08WMMONM",
+        "series_ticker": "KXNCAAMBTOTAL",
+        "title": "William & Mary at Monmouth: Total Points",
+        "sub_title": "WM at MONM (Jan 8)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBTOTAL-26JAN08UNCWNE",
+        "series_ticker": "KXNCAAMBTOTAL",
+        "title": "UNC Wilmington at Northeastern: Total Points",
+        "sub_title": "UNCW at NE (Jan 8)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBTOTAL-26JAN08ODUCCAR",
+        "series_ticker": "KXNCAAMBTOTAL",
+        "title": "Old Dominion at Coastal Carolina: Total Points",
+        "sub_title": "ODU at CCAR (Jan 8)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBTOTAL-26JAN08LIBLT",
+        "series_ticker": "KXNCAAMBTOTAL",
+        "title": "Liberty at Louisiana Tech: Total Points",
+        "sub_title": "LIB at LT (Jan 8)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBTOTAL-26JAN08HAMPCAMP",
+        "series_ticker": "KXNCAAMBTOTAL",
+        "title": "Hampton at Campbell: Total Points",
+        "sub_title": "HAMP at CAMP (Jan 8)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBTOTAL-26JAN08ELONNCAT",
+        "series_ticker": "KXNCAAMBTOTAL",
+        "title": "Elon at North Carolina A&T: Total Points",
+        "sub_title": "ELON at NCAT (Jan 8)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBTOTAL-26JAN08APPGAST",
+        "series_ticker": "KXNCAAMBTOTAL",
+        "title": "Appalachian St. at Georgia St.: Total Points",
+        "sub_title": "APP at GAST (Jan 8)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBSPREAD-26JAN08WMMONM",
+        "series_ticker": "KXNCAAMBSPREAD",
+        "title": "William & Mary at Monmouth: Spread",
+        "sub_title": "WM at MONM (Jan 8)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBSPREAD-26JAN08UNCWNE",
+        "series_ticker": "KXNCAAMBSPREAD",
+        "title": "UNC Wilmington at Northeastern: Spread",
+        "sub_title": "UNCW at NE (Jan 8)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBSPREAD-26JAN08ODUCCAR",
+        "series_ticker": "KXNCAAMBSPREAD",
+        "title": "Old Dominion at Coastal Carolina: Spread",
+        "sub_title": "ODU at CCAR (Jan 8)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBSPREAD-26JAN08LIBLT",
+        "series_ticker": "KXNCAAMBSPREAD",
+        "title": "Liberty at Louisiana Tech: Spread",
+        "sub_title": "LIB at LT (Jan 8)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBSPREAD-26JAN08HAMPCAMP",
+        "series_ticker": "KXNCAAMBSPREAD",
+        "title": "Hampton at Campbell: Spread",
+        "sub_title": "HAMP at CAMP (Jan 8)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBSPREAD-26JAN08ELONNCAT",
+        "series_ticker": "KXNCAAMBSPREAD",
+        "title": "Elon at North Carolina A&T: Spread",
+        "sub_title": "ELON at NCAT (Jan 8)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBSPREAD-26JAN08APPGAST",
+        "series_ticker": "KXNCAAMBSPREAD",
+        "title": "Appalachian St. at Georgia St.: Spread",
+        "sub_title": "APP at GAST (Jan 8)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXEUROLEAGUEGAME-26JAN08MTARMA",
+        "series_ticker": "KXEUROLEAGUEGAME",
+        "title": "Maccabi Tel-Aviv at Real Madrid",
+        "sub_title": "MTA at RMA (Jan 8)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXEUROLEAGUEGAME-26JAN08MONVAL",
+        "series_ticker": "KXEUROLEAGUEGAME",
+        "title": "AS Monaco at Valencia Basket",
+        "sub_title": "MON at VAL (Jan 8)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXEUROLEAGUEGAME-26JAN08VIBPAN",
+        "series_ticker": "KXEUROLEAGUEGAME",
+        "title": "Virtus Bologna at Panathinaikos BC",
+        "sub_title": "VIB at PAN (Jan 8)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXFIBACHAMPLEAGUEGAME-26JAN08SZOTRI",
+        "series_ticker": "KXFIBACHAMPLEAGUEGAME",
+        "title": "Szolnoki Olaj Kk at Pallacanestro Trieste 2004",
+        "sub_title": "SZO at TRI (Jan 8)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXFIBACHAMPLEAGUEGAME-26JAN08MBBLMS",
+        "series_ticker": "KXFIBACHAMPLEAGUEGAME",
+        "title": "Mersin Buyuksehir Belediyesi at Le Mans Sarthe Basket",
+        "sub_title": "MBB at LMS (Jan 8)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXESPSUPERCUPGAME-26JAN08ATMRMA",
+        "series_ticker": "KXESPSUPERCUPGAME",
+        "title": "Atletico vs Real Madrid",
+        "sub_title": "ATM vs RMA (Jan 8)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXESPSUPERCUPADVANCE-26JAN08ATMRMA",
+        "series_ticker": "KXESPSUPERCUPADVANCE",
+        "title": "Atletico vs Real Madrid: To Advance",
+        "sub_title": "ATM vs RMA (Jan 8)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXFIBACHAMPLEAGUEGAME-26JAN08CHAPRO",
+        "series_ticker": "KXFIBACHAMPLEAGUEGAME",
+        "title": "Elan Chalon at Promitheas Patras BC",
+        "sub_title": "CHA at PRO (Jan 8)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBTOTAL-26JAN08HOFTOWS",
+        "series_ticker": "KXNCAAMBTOTAL",
+        "title": "Hofstra at Towson: Total Points",
+        "sub_title": "HOF at TOWS (Jan 8)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBSPREAD-26JAN08HOFTOWS",
+        "series_ticker": "KXNCAAMBSPREAD",
+        "title": "Hofstra at Towson: Spread",
+        "sub_title": "HOF at TOWS (Jan 8)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXFIBACHAMPLEAGUEGAME-26JAN08HEIBAS",
+        "series_ticker": "KXFIBACHAMPLEAGUEGAME",
+        "title": "MLP Academics Heidelberg at Basketball Nymburk",
+        "sub_title": "HEI at BAS (Jan 8)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXFIBACHAMPLEAGUEGAME-26JAN08WURLEV",
+        "series_ticker": "KXFIBACHAMPLEAGUEGAME",
+        "title": "Wurzburg Baskets at BK Levicki Patrioti",
+        "sub_title": "WUR at LEV (Jan 8)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXFIBACHAMPLEAGUEGAME-26JAN08SPSKAR",
+        "series_ticker": "KXFIBACHAMPLEAGUEGAME",
+        "title": "Spartak Subotica at AS Karditsas",
+        "sub_title": "SPS at KAR (Jan 8)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXEUROLEAGUEGAME-26JAN08FENDUB",
+        "series_ticker": "KXEUROLEAGUEGAME",
+        "title": "Fenerbahce Istanbul at Dubai Basketball",
+        "sub_title": "FEN at DUB (Jan 8)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXWTAMATCH-26JAN08KOSANI",
+        "series_ticker": "KXWTAMATCH",
+        "title": "Kostyuk vs Anisimova",
+        "sub_title": "Kostyuk vs Anisimova",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXKBLGAME-26JAN08SONWON",
+        "series_ticker": "KXKBLGAME",
+        "title": "KT Sonicboom at Wonju DB Promy",
+        "sub_title": "SON at WON (Jan 8)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXATPMATCH-26JAN08VANBUB",
+        "series_ticker": "KXATPMATCH",
+        "title": "Van de Zandschulp vs Bublik",
+        "sub_title": "Van de Zandschulp vs Bublik",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXUNITEDCUPMATCH-26JAN08MERKRE",
+        "series_ticker": "KXUNITEDCUPMATCH",
+        "title": "Mertens vs Krejcikova: Quarterfinal",
+        "sub_title": "Mertens vs Krejcikova",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXWTAMATCH-26JAN08ANDNOS",
+        "series_ticker": "KXWTAMATCH",
+        "title": "Andreeva vs Noskova",
+        "sub_title": "Andreeva vs Noskova",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXATPMATCH-26JAN08MMOKHA",
+        "series_ticker": "KXATPMATCH",
+        "title": "Mmoh vs Khachanov",
+        "sub_title": "Mmoh vs Khachanov",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXUNITEDCUPMATCH-26JAN08BERMEN",
+        "series_ticker": "KXUNITEDCUPMATCH",
+        "title": "Bergs vs Mensik: Quarterfinal",
+        "sub_title": "Bergs vs Mensik",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXATPMATCH-26JAN08SONSHA",
+        "series_ticker": "KXATPMATCH",
+        "title": "Sonego vs Shang",
+        "sub_title": "Sonego vs Shang",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXATPMATCH-26JAN08MULGIR",
+        "series_ticker": "KXATPMATCH",
+        "title": "Muller vs Giron",
+        "sub_title": "Muller vs Giron",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNBA3D-26JAN07MILGSW",
+        "series_ticker": "KXNBA3D",
+        "title": "Milwaukee at Golden State: Triple Doubles",
+        "sub_title": "MIL at GSW (Jan 7)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNBA3D-26JAN07HOUPOR",
+        "series_ticker": "KXNBA3D",
+        "title": "Houston at Portland: Triple Doubles",
+        "sub_title": "HOU at POR (Jan 7)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNBA2D-26JAN07MILGSW",
+        "series_ticker": "KXNBA2D",
+        "title": "Milwaukee at Golden State: Double Doubles",
+        "sub_title": "MIL at GSW (Jan 7)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNBA2D-26JAN07HOUPOR",
+        "series_ticker": "KXNBA2D",
+        "title": "Houston at Portland: Double Doubles",
+        "sub_title": "HOU at POR (Jan 7)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNBA3D-26JAN07LALSAS",
+        "series_ticker": "KXNBA3D",
+        "title": "Los Angeles L at San Antonio: Triple Doubles",
+        "sub_title": "LAL at SAS (Jan 7)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNBA2D-26JAN07LALSAS",
+        "series_ticker": "KXNBA2D",
+        "title": "Los Angeles L at San Antonio: Double Doubles",
+        "sub_title": "LAL at SAS (Jan 7)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXWTAMATCH-26JAN07YASPEG",
+        "series_ticker": "KXWTAMATCH",
+        "title": "Yastremska vs Pegula",
+        "sub_title": "Yastremska vs Pegula",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXWTAMATCH-26JAN07SASSAM",
+        "series_ticker": "KXWTAMATCH",
+        "title": "Sasnovich vs Samsonova",
+        "sub_title": "Sasnovich vs Samsonova",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNBAREB-26JAN07PHXMEM",
+        "series_ticker": "KXNBAREB",
+        "title": "Phoenix at Memphis: Rebounds",
+        "sub_title": "PHX at MEM (Jan 7)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNBAAST-26JAN07PHXMEM",
+        "series_ticker": "KXNBAAST",
+        "title": "Phoenix at Memphis: Assists",
+        "sub_title": "PHX at MEM (Jan 7)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNBA3D-26JAN07UTAOKC",
+        "series_ticker": "KXNBA3D",
+        "title": "Utah at Oklahoma City: Triple Doubles",
+        "sub_title": "UTA at OKC (Jan 7)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNBA2D-26JAN07UTAOKC",
+        "series_ticker": "KXNBA2D",
+        "title": "Utah at Oklahoma City: Double Doubles",
+        "sub_title": "UTA at OKC (Jan 7)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNBA2D-26JAN07PHXMEM",
+        "series_ticker": "KXNBA2D",
+        "title": "Phoenix at Memphis: Double Doubles",
+        "sub_title": "PHX at MEM (Jan 7)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXATPMATCH-26JAN07KORMIC",
+        "series_ticker": "KXATPMATCH",
+        "title": "Korda vs Michelsen",
+        "sub_title": "Korda vs Michelsen",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNBAAST-26JAN07LACNYK",
+        "series_ticker": "KXNBAAST",
+        "title": "Los Angeles C at New York: Assists",
+        "sub_title": "LAC at NYK (Jan 7)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNBA3D-26JAN07ORLBKN",
+        "series_ticker": "KXNBA3D",
+        "title": "Orlando at Brooklyn: Triple Doubles",
+        "sub_title": "ORL at BKN (Jan 7)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNBA3D-26JAN07NOPATL",
+        "series_ticker": "KXNBA3D",
+        "title": "New Orleans at Atlanta: Triple Doubles",
+        "sub_title": "NOP at ATL (Jan 7)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNBA3D-26JAN07LACNYK",
+        "series_ticker": "KXNBA3D",
+        "title": "Los Angeles C at New York: Triple Doubles",
+        "sub_title": "LAC at NYK (Jan 7)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNBA2D-26JAN07ORLBKN",
+        "series_ticker": "KXNBA2D",
+        "title": "Orlando at Brooklyn: Double Doubles",
+        "sub_title": "ORL at BKN (Jan 7)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXARGLNBGAME-26JAN07COMPLA",
+        "series_ticker": "KXARGLNBGAME",
+        "title": "Gimnasia de Comodoro at CA Platense",
+        "sub_title": "COM at PLA (Jan 7)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBTOTAL-26JAN07WEBBHP",
+        "series_ticker": "KXNCAAMBTOTAL",
+        "title": "Gardner-Webb at High Point: Total Points",
+        "sub_title": "WEBB at HP (Jan 7)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBTOTAL-26JAN07PRERAD",
+        "series_ticker": "KXNCAAMBTOTAL",
+        "title": "Presbyterian at Radford: Total Points",
+        "sub_title": "PRE at RAD (Jan 7)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBTOTAL-26JAN07BULAF",
+        "series_ticker": "KXNCAAMBTOTAL",
+        "title": "Boston University at Lafayette: Total Points",
+        "sub_title": "BU at LAF (Jan 7)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBTOTAL-26JAN07BUCKNAVY",
+        "series_ticker": "KXNCAAMBTOTAL",
+        "title": "Bucknell at Navy: Total Points",
+        "sub_title": "BUCK at NAVY (Jan 7)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBTOTAL-26JAN07AMERCOLG",
+        "series_ticker": "KXNCAAMBTOTAL",
+        "title": "American at Colgate: Total Points",
+        "sub_title": "AMER at COLG (Jan 7)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBSPREAD-26JAN07WEBBHP",
+        "series_ticker": "KXNCAAMBSPREAD",
+        "title": "Gardner-Webb at High Point: Spread",
+        "sub_title": "WEBB at HP (Jan 7)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBSPREAD-26JAN07PRERAD",
+        "series_ticker": "KXNCAAMBSPREAD",
+        "title": "Presbyterian at Radford: Spread",
+        "sub_title": "PRE at RAD (Jan 7)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBSPREAD-26JAN07BULAF",
+        "series_ticker": "KXNCAAMBSPREAD",
+        "title": "Boston University at Lafayette: Spread",
+        "sub_title": "BU at LAF (Jan 7)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBSPREAD-26JAN07BUCKNAVY",
+        "series_ticker": "KXNCAAMBSPREAD",
+        "title": "Bucknell at Navy: Spread",
+        "sub_title": "BUCK at NAVY (Jan 7)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBSPREAD-26JAN07AMERCOLG",
+        "series_ticker": "KXNCAAMBSPREAD",
+        "title": "American at Colgate: Spread",
+        "sub_title": "AMER at COLG (Jan 7)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNBAREB-26JAN07CHIDET",
+        "series_ticker": "KXNBAREB",
+        "title": "Chicago at Detroit: Rebounds",
+        "sub_title": "CHI at DET (Jan 7)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNBAPTS-26JAN07CHIDET",
+        "series_ticker": "KXNBAPTS",
+        "title": "Chicago at Detroit: Points",
+        "sub_title": "CHI at DET (Jan 7)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNBAAST-26JAN07CHIDET",
+        "series_ticker": "KXNBAAST",
+        "title": "Chicago at Detroit: Assists",
+        "sub_title": "CHI at DET (Jan 7)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNBA3PT-26JAN07CHIDET",
+        "series_ticker": "KXNBA3PT",
+        "title": "Chicago at Detroit: Three Pointers",
+        "sub_title": "CHI at DET (Jan 7)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNBA3D-26JAN07TORCHA",
+        "series_ticker": "KXNBA3D",
+        "title": "Toronto at Charlotte: Triple Doubles",
+        "sub_title": "TOR at CHA (Jan 7)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNBA2D-26JAN07WASPHI",
+        "series_ticker": "KXNBA2D",
+        "title": "Washington at Philadelphia: Double Doubles",
+        "sub_title": "WAS at PHI (Jan 7)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNBA2D-26JAN07TORCHA",
+        "series_ticker": "KXNBA2D",
+        "title": "Toronto at Charlotte: Double Doubles",
+        "sub_title": "TOR at CHA (Jan 7)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNBA2D-26JAN07DENBOS",
+        "series_ticker": "KXNBA2D",
+        "title": "Denver at Boston: Double Doubles",
+        "sub_title": "DEN at BOS (Jan 7)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNBA2D-26JAN07CHIDET",
+        "series_ticker": "KXNBA2D",
+        "title": "Chicago at Detroit: Double Doubles",
+        "sub_title": "CHI at DET (Jan 7)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBTOTAL-26JAN07CHSOWIN",
+        "series_ticker": "KXNCAAMBTOTAL",
+        "title": "Charleston Southern at Winthrop: Total Points",
+        "sub_title": "CHSO at WIN (Jan 7)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBSPREAD-26JAN07CHSOWIN",
+        "series_ticker": "KXNCAAMBSPREAD",
+        "title": "Charleston Southern at Winthrop: Spread",
+        "sub_title": "CHSO at WIN (Jan 7)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXETH15M-26JAN072045",
+        "series_ticker": "KXETH15M",
+        "title": "ETH Up or Down - 15 minutes",
+        "sub_title": "Jan 7 - 8:30PM EST to 8:45PM EST",
+        "mutually_exclusive": false,
+        "category": "Crypto"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXBTC15M-26JAN072045",
+        "series_ticker": "KXBTC15M",
+        "title": "BTC Up or Down - 15 minutes",
+        "sub_title": "Jan 7 - 8:30PM EST to 8:45PM EST",
+        "mutually_exclusive": false,
+        "category": "Crypto"
     }
 ]
