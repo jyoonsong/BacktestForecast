@@ -4257,48 +4257,6 @@
         }
     },
     {
-        "event_ticker": "KXDEPORTCOUNT-25",
-        "series_ticker": "KXDEPORTCOUNT",
-        "title": "Deportations in Trump's first year?",
-        "sub_title": "In 2025",
-        "mutually_exclusive": false,
-        "category": "Politics",
-        "bing_reports": {
-            "2025-07-14": "bing_kxdeportcount-25_2025-07-14",
-            "2025-08-01": "bing_kxdeportcount-25_2025-08-01"
-        },
-        "is_resolved": false,
-        "ddgs_reports": {
-            "20250830": "ddgs_kxdeportcount-25_20250830",
-            "20250831": "ddgs_kxdeportcount-25_20250831",
-            "20250902": "ddgs_kxdeportcount-25_20250902",
-            "20250903": "ddgs_kxdeportcount-25_20250903",
-            "20250904": "ddgs_kxdeportcount-25_20250904",
-            "20250905": "ddgs_kxdeportcount-25_20250905",
-            "20250906": "ddgs_kxdeportcount-25_20250906",
-            "20250907": "ddgs_kxdeportcount-25_20250907",
-            "20250908": "ddgs_kxdeportcount-25_20250908",
-            "20250909": "ddgs_kxdeportcount-25_20250909",
-            "20250910": "ddgs_kxdeportcount-25_20250910",
-            "20250911": "ddgs_kxdeportcount-25_20250911",
-            "20250912": "ddgs_kxdeportcount-25_20250912",
-            "20250914": "ddgs_kxdeportcount-25_20250914",
-            "20250913": "ddgs_kxdeportcount-25_20250913",
-            "20250915": "ddgs_kxdeportcount-25_20250915",
-            "20250916": "ddgs_kxdeportcount-25_20250916",
-            "20250917": "ddgs_kxdeportcount-25_20250917",
-            "20250918": "ddgs_kxdeportcount-25_20250918",
-            "20250919": "ddgs_kxdeportcount-25_20250919",
-            "20250920": "ddgs_kxdeportcount-25_20250920",
-            "20250921": "ddgs_kxdeportcount-25_20250921",
-            "20250922": "ddgs_kxdeportcount-25_20250922",
-            "20250925": "ddgs_kxdeportcount-25_20250925",
-            "20250924": "ddgs_kxdeportcount-25_20250924",
-            "20250926": "ddgs_kxdeportcount-25_20250926",
-            "20250929": "ddgs_kxdeportcount-25_20250929"
-        }
-    },
-    {
         "event_ticker": "KXGOVWYNOMR-26",
         "series_ticker": "KXGOVWYNOMR",
         "title": "Who will be the Republican nominee for Governor in Wyoming?",
@@ -29625,16 +29583,6 @@
     {
         "bing_reports": {},
         "ddgs_reports": {},
-        "event_ticker": "KXRT-SHE",
-        "series_ticker": "KXRT",
-        "title": "\"Shelter\" Rotten Tomatoes score?",
-        "sub_title": "Shelter",
-        "mutually_exclusive": false,
-        "category": "Entertainment"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
         "event_ticker": "KXPROFILECHANGEMUSK-26FEB",
         "series_ticker": "KXPROFILECHANGEMUSK",
         "title": "Will @elonmusk change their profile picture to anything new this month?",
@@ -30199,16 +30147,6 @@
         "series_ticker": "KXLOLMAP",
         "title": "LPL 2026: Ultra Prime vs. LNG Esports Map 1",
         "sub_title": "Map 1: UP vs. LNG (Jan 16)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXLOLGAME-26JAN16UPLNG",
-        "series_ticker": "KXLOLGAME",
-        "title": "LPL 2026: Ultra Prime vs. LNG Esports",
-        "sub_title": "Ultra Prime vs. LNG Esports (Jan 16)",
         "mutually_exclusive": true,
         "category": "Sports"
     },
@@ -31445,16 +31383,6 @@
     {
         "bing_reports": {},
         "ddgs_reports": {},
-        "event_ticker": "KXTNCBASKETBALL-26JAN24TNCBRP",
-        "series_ticker": "KXTNCBASKETBALL",
-        "title": "BRP x TNC | Who Your King 3v3: Team BRP vs. Team TNC Winner?",
-        "sub_title": "Team TNC vs. Team BRP",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
         "event_ticker": "KXTNCBASKETBALL-26JAN24TAIQEL",
         "series_ticker": "KXTNCBASKETBALL",
         "title": "BRP x TNC | Who Your King 1v1: Qel vs. Taishaun Winner?",
@@ -31569,16 +31497,6 @@
         "series_ticker": "KXSCOTTISHPREMGAME",
         "title": "Dundee United vs St. Mirren",
         "sub_title": "DUU vs MIR (Jan 24)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXHNLGAME-26JAN23VARGOR",
-        "series_ticker": "KXHNLGAME",
-        "title": "Varazdin vs Gorica",
-        "sub_title": "VAR vs GOR (Jan 23)",
         "mutually_exclusive": true,
         "category": "Sports"
     },
@@ -32285,16 +32203,6 @@
     {
         "bing_reports": {},
         "ddgs_reports": {},
-        "event_ticker": "KXNCAAWBGAME-26JAN25UNCWCAMP",
-        "series_ticker": "KXNCAAWBGAME",
-        "title": "UNC Wilmington at Campbell",
-        "sub_title": "UNCW at CAMP (Jan 25)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
         "event_ticker": "KXNCAAWBGAME-26JAN25RICHGMU",
         "series_ticker": "KXNCAAWBGAME",
         "title": "Richmond at George Mason",
@@ -32775,266 +32683,6 @@
     {
         "bing_reports": {},
         "ddgs_reports": {},
-        "event_ticker": "KXVALORANTGAME-26JAN27FUTFNC",
-        "series_ticker": "KXVALORANTGAME",
-        "title": "VCT EMEA Kickoff 2026: FUT Esports vs. Fnatic",
-        "sub_title": "FUT Esports vs. Fnatic (Jan 27)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXEUROLEAGUEGAME-26JAN27RMAPAR",
-        "series_ticker": "KXEUROLEAGUEGAME",
-        "title": "Real Madrid at Paris Basketball",
-        "sub_title": "RMA at PAR (Jan 27)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXFIBACHAMPLEAGUEGAME-26JAN27WURCHA",
-        "series_ticker": "KXFIBACHAMPLEAGUEGAME",
-        "title": "Wurzburg Baskets at Elan Chalon",
-        "sub_title": "WUR at CHA (Jan 27)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXEUROCUPGAME-26JAN27BJKATR",
-        "series_ticker": "KXEUROCUPGAME",
-        "title": "Besiktas JK at Aquila Basket Trento",
-        "sub_title": "BJK at ATR (Jan 27)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXFIBACHAMPLEAGUEGAME-26JAN27LMSHAH",
-        "series_ticker": "KXFIBACHAMPLEAGUEGAME",
-        "title": "Le Mans Sarthe Basket at Hapoel Holon BC",
-        "sub_title": "LMS at HAH (Jan 27)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXEUROCUPGAME-26JAN27CHEBUD",
-        "series_ticker": "KXEUROCUPGAME",
-        "title": "Niners Chemnitz at KK Buducnost Voli",
-        "sub_title": "CHE at BUD (Jan 27)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXFIBACHAMPLEAGUEGAME-26JAN27TOFKAR",
-        "series_ticker": "KXFIBACHAMPLEAGUEGAME",
-        "title": "Tofas SK Bursa at AS Karditsas",
-        "sub_title": "TOF at KAR (Jan 27)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXFIBACHAMPLEAGUEGAME-26JAN27GSNRYV",
-        "series_ticker": "KXFIBACHAMPLEAGUEGAME",
-        "title": "Galatasaray SK at BC Rytas Vilnius",
-        "sub_title": "GSN at RYV (Jan 27)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXFIBACHAMPLEAGUEGAME-26JAN27GRCBAS",
-        "series_ticker": "KXFIBACHAMPLEAGUEGAME",
-        "title": "CB Gran Canaria at Basketball Nymburk",
-        "sub_title": "GRC at BAS (Jan 27)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXVALORANTGAME-26JAN27KCTL",
-        "series_ticker": "KXVALORANTGAME",
-        "title": "VCT EMEA Kickoff 2026: Karmine Corp vs. Team Liquid",
-        "sub_title": "Karmine Corp vs. Team Liquid (Jan 27)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXKHLGAME-26JAN27LOKSKA",
-        "series_ticker": "KXKHLGAME",
-        "title": "Lokomotiv Yaroslavl at SKA St. Petersburg",
-        "sub_title": "LOK at SKA (Jan 27)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXEUROCUPGAME-26JAN27LIPTTS",
-        "series_ticker": "KXEUROCUPGAME",
-        "title": "BC Lietkabelis Panevezys at Turk Telekom",
-        "sub_title": "LIP at TTS (Jan 27)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXKHLGAME-26JAN27TRAMET",
-        "series_ticker": "KXKHLGAME",
-        "title": "Traktor Chelyabinsk at Metallurg Magnitogorsk",
-        "sub_title": "TRA at MET (Jan 27)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXLOLGAME-26JAN27IGAL",
-        "series_ticker": "KXLOLGAME",
-        "title": "LPL 2026: Invictus Gaming vs. Anyone's Legend",
-        "sub_title": "Invictus Gaming vs. Anyone's Legend (Jan 27)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXCBAGAME-26JAN27ZHEQIN",
-        "series_ticker": "KXCBAGAME",
-        "title": "Zhejiang Lions at Qingdao Eagles",
-        "sub_title": "ZHE at QIN (Jan 27)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXCBAGAME-26JAN27XINNAN",
-        "series_ticker": "KXCBAGAME",
-        "title": "Xinjiang Flying Tigers at Nanjing Monkey Kings",
-        "sub_title": "XIN at NAN (Jan 27)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXCBAGAME-26JAN27NINSHA",
-        "series_ticker": "KXCBAGAME",
-        "title": "Ningbo Rockets at Shandong Kirin",
-        "sub_title": "NIN at SHA (Jan 27)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXCBAGAME-26JAN27LIASBW",
-        "series_ticker": "KXCBAGAME",
-        "title": "Liaoning Flying Leopards at Sichuan Blue Whales",
-        "sub_title": "LIA at SBW (Jan 27)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXCBAGAME-26JAN27JIAZGB",
-        "series_ticker": "KXCBAGAME",
-        "title": "Jiangsu Dragons at Zhejiang Golden Bulls",
-        "sub_title": "JIA at ZGB (Jan 27)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXCBAGAME-26JAN27GLLSHAD",
-        "series_ticker": "KXCBAGAME",
-        "title": "Guangzhou Loong Lions at Shanghai Sharks",
-        "sub_title": "GLL at SHAD (Jan 27)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXCBAGAME-26JAN27FSTLEO",
-        "series_ticker": "KXCBAGAME",
-        "title": "Fujian Sturgeons at Shenzhen Leopards",
-        "sub_title": "FST at LEO (Jan 27)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXLOLGAME-26JAN27TESWB",
-        "series_ticker": "KXLOLGAME",
-        "title": "LPL 2026: Top Esports vs. Weibo Gaming",
-        "sub_title": "Top Esports vs. Weibo Gaming (Jan 27)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXLOLGAME-26JAN27KTCFOXY",
-        "series_ticker": "KXLOLGAME",
-        "title": "LCK Challengers League Kickoff 2026: KT Rolster Challengers vs. BNK FearX Youth",
-        "sub_title": "KT Rolster Challengers vs. BNK FearX Youth (Jan 27)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXLOLGAME-26JAN27LNGUP",
-        "series_ticker": "KXLOLGAME",
-        "title": "LPL 2026: LNG Esports vs. Ultra Prime",
-        "sub_title": "LNG Esports vs. Ultra Prime (Jan 27)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXLOLGAME-26JAN27DNSCDRXC",
-        "series_ticker": "KXLOLGAME",
-        "title": "LCK Challengers League Kickoff 2026: DN SOOPers Challengers vs. DRX Challengers",
-        "sub_title": "DN SOOPers Challengers vs. DRX Challengers (Jan 27)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXAHLGAME-26JAN26LAVCAL",
-        "series_ticker": "KXAHLGAME",
-        "title": "Laval Rocket at Calgary Wranglers",
-        "sub_title": "LAV at CAL (Jan 26)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
         "event_ticker": "KXNBAGAME-26JAN25DALMIL",
         "series_ticker": "KXNBAGAME",
         "title": "Dallas at Milwaukee",
@@ -33089,16 +32737,6 @@
         "series_ticker": "KXNCAAMBGAME",
         "title": "Purdue Fort Wayne at IU Indy",
         "sub_title": "PFW at IUIN (Jan 25)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNCAAMBGAME-26JAN25CCSUSTNH",
-        "series_ticker": "KXNCAAMBGAME",
-        "title": "Central Connecticut St. at Stonehill",
-        "sub_title": "CCSU at STNH (Jan 25)",
         "mutually_exclusive": true,
         "category": "Sports"
     },
@@ -33885,136 +33523,6 @@
     {
         "bing_reports": {},
         "ddgs_reports": {},
-        "event_ticker": "KXARGPREMDIVGAME-26JAN27HURIRM",
-        "series_ticker": "KXARGPREMDIVGAME",
-        "title": "Huracan vs Rivadavia",
-        "sub_title": "HUR vs IRM (Jan 27)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXARGPREMDIVGAME-26JAN27GEMSLA",
-        "series_ticker": "KXARGPREMDIVGAME",
-        "title": "Mendoza vs San Lorenzo de Almagro",
-        "sub_title": "GEM vs SLA (Jan 27)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXARGPREMDIVGAME-26JAN27VELCAT",
-        "series_ticker": "KXARGPREMDIVGAME",
-        "title": "Velez Sarsfield vs Talleres Cordoba",
-        "sub_title": "VEL vs CAT (Jan 27)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXCOPPAITALIAGAME-26JAN27FIOCOM",
-        "series_ticker": "KXCOPPAITALIAGAME",
-        "title": "Fiorentina vs Como",
-        "sub_title": "FIO vs COM (Jan 27)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXSHLGAME-26JAN27MALTIM",
-        "series_ticker": "KXSHLGAME",
-        "title": "Malmo Redhawks at Timra IK",
-        "sub_title": "MAL at TIM (Jan 27)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXKBLGAME-26JAN27PHOGOY",
-        "series_ticker": "KXKBLGAME",
-        "title": "Mobis Phoebus at Goyang Skygunners",
-        "sub_title": "PHO at GOY (Jan 27)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNBAGAME-26JAN26GSWMIN",
-        "series_ticker": "KXNBAGAME",
-        "title": "Golden State at Minnesota",
-        "sub_title": "GSW at MIN (Jan 26)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNCAAMBGAME-26JAN26ARIZBYU",
-        "series_ticker": "KXNCAAMBGAME",
-        "title": "Arizona at BYU",
-        "sub_title": "ARIZ at BYU (Jan 26)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNHLTOTAL-26JAN26ANAEDM",
-        "series_ticker": "KXNHLTOTAL",
-        "title": "Anaheim at Edmonton: Total Points",
-        "sub_title": "ANA at EDM (Jan 26)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNHLSPREAD-26JAN26ANAEDM",
-        "series_ticker": "KXNHLSPREAD",
-        "title": "Anaheim at Edmonton: Spread",
-        "sub_title": "ANA at EDM (Jan 26)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNHLGAME-26JAN26ANAEDM",
-        "series_ticker": "KXNHLGAME",
-        "title": "Anaheim at Edmonton",
-        "sub_title": "ANA at EDM (Jan 26)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNCAAWBGAME-26JAN26FLALSU",
-        "series_ticker": "KXNCAAWBGAME",
-        "title": "Florida at LSU",
-        "sub_title": "FLA at LSU (Jan 26)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNCAAMBGAME-26JAN26UTRGVAMCC",
-        "series_ticker": "KXNCAAMBGAME",
-        "title": "UT Rio Grande Valley at Texas A&M-Corpus Christi",
-        "sub_title": "UTRGV at AMCC (Jan 26)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
         "event_ticker": "KXNCAAMBGAME-26JAN26IWHCU",
         "series_ticker": "KXNCAAMBGAME",
         "title": "Incarnate Word at Houston Christian",
@@ -34025,120 +33533,10 @@
     {
         "bing_reports": {},
         "ddgs_reports": {},
-        "event_ticker": "KXNCAAMBGAME-26JAN26ALSTTXSO",
-        "series_ticker": "KXNCAAMBGAME",
-        "title": "Alabama St. at Texas Southern",
-        "sub_title": "ALST at TXSO (Jan 26)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNBAGAME-26JAN26PORBOS",
-        "series_ticker": "KXNBAGAME",
-        "title": "Portland at Boston",
-        "sub_title": "POR at BOS (Jan 26)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNBAGAME-26JAN26MEMHOU",
-        "series_ticker": "KXNBAGAME",
-        "title": "Memphis at Houston",
-        "sub_title": "MEM at HOU (Jan 26)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNBAGAME-26JAN26LALCHI",
-        "series_ticker": "KXNBAGAME",
-        "title": "Los Angeles L at Chicago",
-        "sub_title": "LAL at CHI (Jan 26)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNCAAMBGAME-26JAN26UNONICH",
-        "series_ticker": "KXNCAAMBGAME",
-        "title": "New Orleans at Nicholls St.",
-        "sub_title": "UNO at NICH (Jan 26)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXTGLMATCH-26JAN26BCBY",
-        "series_ticker": "KXTGLMATCH",
-        "title": "Boston Common Golf vs The Bay Golf Club",
-        "sub_title": "Boston Common Golf vs The Bay Golf Club (Jan 26)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNHLTOTAL-26JAN26UTATB",
-        "series_ticker": "KXNHLTOTAL",
-        "title": "Utah at Tampa Bay: Total Points",
-        "sub_title": "UTA at TB (Jan 26)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNHLTOTAL-26JAN26NYIPHI",
-        "series_ticker": "KXNHLTOTAL",
-        "title": "New York I at Philadelphia: Total Points",
-        "sub_title": "NYI at PHI (Jan 26)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
         "event_ticker": "KXNHLTOTAL-26JAN26LACBJ",
         "series_ticker": "KXNHLTOTAL",
         "title": "Los Angeles at Columbus: Total Points",
         "sub_title": "LA at CBJ (Jan 26)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNHLTOTAL-26JAN26BOSNYR",
-        "series_ticker": "KXNHLTOTAL",
-        "title": "Boston at New York R: Total Points",
-        "sub_title": "BOS at NYR (Jan 26)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNHLSPREAD-26JAN26UTATB",
-        "series_ticker": "KXNHLSPREAD",
-        "title": "Utah at Tampa Bay: Spread",
-        "sub_title": "UTA at TB (Jan 26)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNHLSPREAD-26JAN26NYIPHI",
-        "series_ticker": "KXNHLSPREAD",
-        "title": "New York I at Philadelphia: Spread",
-        "sub_title": "NYI at PHI (Jan 26)",
         "mutually_exclusive": false,
         "category": "Sports"
     },
@@ -34155,50 +33553,10 @@
     {
         "bing_reports": {},
         "ddgs_reports": {},
-        "event_ticker": "KXNHLSPREAD-26JAN26BOSNYR",
-        "series_ticker": "KXNHLSPREAD",
-        "title": "Boston at New York R: Spread",
-        "sub_title": "BOS at NYR (Jan 26)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNHLGAME-26JAN26UTATB",
-        "series_ticker": "KXNHLGAME",
-        "title": "Utah at Tampa Bay",
-        "sub_title": "UTA at TB (Jan 26)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNHLGAME-26JAN26NYIPHI",
-        "series_ticker": "KXNHLGAME",
-        "title": "New York I at Philadelphia",
-        "sub_title": "NYI at PHI (Jan 26)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
         "event_ticker": "KXNHLGAME-26JAN26LACBJ",
         "series_ticker": "KXNHLGAME",
         "title": "Los Angeles at Columbus",
         "sub_title": "LA at CBJ (Jan 26)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNHLGAME-26JAN26BOSNYR",
-        "series_ticker": "KXNHLGAME",
-        "title": "Boston at New York R",
-        "sub_title": "BOS at NYR (Jan 26)",
         "mutually_exclusive": true,
         "category": "Sports"
     },
@@ -34225,46 +33583,6 @@
     {
         "bing_reports": {},
         "ddgs_reports": {},
-        "event_ticker": "KXNCAAMBGAME-26JAN26PSUOSU",
-        "series_ticker": "KXNCAAMBGAME",
-        "title": "Penn St. at Ohio St.",
-        "sub_title": "PSU at OSU (Jan 26)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNCAAMBGAME-26JAN26MORGNORF",
-        "series_ticker": "KXNCAAMBGAME",
-        "title": "Morgan St. at Norfolk St.",
-        "sub_title": "MORG at NORF (Jan 26)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNCAAMBGAME-26JAN26LOUDUKE",
-        "series_ticker": "KXNCAAMBGAME",
-        "title": "Louisville at Duke",
-        "sub_title": "LOU at DUKE (Jan 26)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNCAAMBGAME-26JAN26JKSTFAMU",
-        "series_ticker": "KXNCAAMBGAME",
-        "title": "Jackson St. at Florida A&M",
-        "sub_title": "JKST at FAMU (Jan 26)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
         "event_ticker": "KXNCAAMBGAME-26JAN26ETAMLAM",
         "series_ticker": "KXNCAAMBGAME",
         "title": "East Texas A&M at Lamar",
@@ -34275,40 +33593,10 @@
     {
         "bing_reports": {},
         "ddgs_reports": {},
-        "event_ticker": "KXNCAAMBGAME-26JAN26ALCNCOOK",
-        "series_ticker": "KXNCAAMBGAME",
-        "title": "Alcorn St. at Bethune-Cookman",
-        "sub_title": "ALCN at COOK (Jan 26)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
         "event_ticker": "KXNCAAMBGAME-26JAN26ACTARL",
         "series_ticker": "KXNCAAMBGAME",
         "title": "Abilene Christian at Tarleton St.",
         "sub_title": "AC at TARL (Jan 26)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNCAAMBGAME-26JAN26AAMUPV",
-        "series_ticker": "KXNCAAMBGAME",
-        "title": "Alabama A&M at Prairie View A&M",
-        "sub_title": "AAMU at PV (Jan 26)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNBAGAME-26JAN26ORLCLE",
-        "series_ticker": "KXNBAGAME",
-        "title": "Orlando at Cleveland",
-        "sub_title": "ORL at CLE (Jan 26)",
         "mutually_exclusive": true,
         "category": "Sports"
     },
@@ -36015,16 +35303,6 @@
     {
         "bing_reports": {},
         "ddgs_reports": {},
-        "event_ticker": "KXNCAAWBGAME-26JAN27FAUTLSA",
-        "series_ticker": "KXNCAAWBGAME",
-        "title": "Florida Atlantic at Tulsa",
-        "sub_title": "FAU at TLSA (Jan 27)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
         "event_ticker": "KXNCAAMBGAME-26JAN27PROVCONN",
         "series_ticker": "KXNCAAMBGAME",
         "title": "Providence at UConn",
@@ -36435,401 +35713,11 @@
     {
         "bing_reports": {},
         "ddgs_reports": {},
-        "event_ticker": "KXNCAAWBGAME-26JAN27WICHECU",
-        "series_ticker": "KXNCAAWBGAME",
-        "title": "Wichita St. at East Carolina",
-        "sub_title": "WICH at ECU (Jan 27)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
         "event_ticker": "KXNCAAWBGAME-26JAN27TNTCTNST",
         "series_ticker": "KXNCAAWBGAME",
         "title": "Tennessee Tech at Tennessee St.",
         "sub_title": "TNTC at TNST (Jan 27)",
         "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNCAAMBGAME-26JAN27WAKEPITT",
-        "series_ticker": "KXNCAAMBGAME",
-        "title": "Wake Forest at Pittsburgh",
-        "sub_title": "WAKE at PITT (Jan 27)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNCAAMBGAME-26JAN27NWSTSFA",
-        "series_ticker": "KXNCAAMBGAME",
-        "title": "Northwestern St. at Stephen F. Austin",
-        "sub_title": "NWST at SFA (Jan 27)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXDOTA2GAME-26JAN271WINAUR",
-        "series_ticker": "KXDOTA2GAME",
-        "title": "FISSURE Universe Episode 8 2026: 1win vs. Aurora",
-        "sub_title": "1win vs. Aurora (Jan 27)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNCAAMBGAME-26JAN27AAMUPV",
-        "series_ticker": "KXNCAAMBGAME",
-        "title": "Alabama A&M at Prairie View A&M",
-        "sub_title": "AAMU at PV (Jan 27)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXDOTA2GAME-26JAN27PIPZ10",
-        "series_ticker": "KXDOTA2GAME",
-        "title": "FISSURE Universe Episode 8 2026: Pipsqueak+4 vs. Zero Tenacity",
-        "sub_title": "Pipsqueak+4 vs. Zero Tenacity (Jan 27)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXCRICKETT20IMATCH-26JAN27WISA",
-        "series_ticker": "KXCRICKETT20IMATCH",
-        "title": "South Africa vs West Indies",
-        "sub_title": "SA vs WI (Jan 27)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXRAINNYC-26JAN26",
-        "series_ticker": "KXRAINNYC",
-        "title": "Will it rain in NYC on Jan 26, 2026?",
-        "sub_title": "On Jan 26, 2026",
-        "mutually_exclusive": false,
-        "category": "Climate and Weather"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXLOLMAP-26JAN27IGAL-2",
-        "series_ticker": "KXLOLMAP",
-        "title": "LPL 2026: Invictus Gaming vs. Anyone's Legend Map 2",
-        "sub_title": "Map 2: IG vs. AL (Jan 27)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXLOLMAP-26JAN27IGAL-1",
-        "series_ticker": "KXLOLMAP",
-        "title": "LPL 2026: Invictus Gaming vs. Anyone's Legend Map 1",
-        "sub_title": "Map 1: IG vs. AL (Jan 27)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXLOLMAP-26JAN27TESWB-2",
-        "series_ticker": "KXLOLMAP",
-        "title": "LPL 2026: Top Esports vs. Weibo Gaming Map 2",
-        "sub_title": "Map 2: TES vs. WB (Jan 27)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXLOLMAP-26JAN27TESWB-1",
-        "series_ticker": "KXLOLMAP",
-        "title": "LPL 2026: Top Esports vs. Weibo Gaming Map 1",
-        "sub_title": "Map 1: TES vs. WB (Jan 27)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXLOLMAP-26JAN27KTCFOXY-3",
-        "series_ticker": "KXLOLMAP",
-        "title": "LCK Challengers League Kickoff 2026: KT Rolster Challengers vs. BNK FearX Youth Map 3",
-        "sub_title": "Map 3: KTC vs. FOXY (Jan 27)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXLOLMAP-26JAN27KTCFOXY-2",
-        "series_ticker": "KXLOLMAP",
-        "title": "LCK Challengers League Kickoff 2026: KT Rolster Challengers vs. BNK FearX Youth Map 2",
-        "sub_title": "Map 2: KTC vs. FOXY (Jan 27)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXLOLMAP-26JAN27KTCFOXY-1",
-        "series_ticker": "KXLOLMAP",
-        "title": "LCK Challengers League Kickoff 2026: KT Rolster Challengers vs. BNK FearX Youth Map 1",
-        "sub_title": "Map 1: KTC vs. FOXY (Jan 27)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXCRICKETODIMATCH-26JAN27ENGSRI",
-        "series_ticker": "KXCRICKETODIMATCH",
-        "title": "Sri Lanka vs England",
-        "sub_title": "SRI vs ENG (Jan 27)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXLOLMAP-26JAN27LNGUP-2",
-        "series_ticker": "KXLOLMAP",
-        "title": "LPL 2026: LNG Esports vs. Ultra Prime Map 2",
-        "sub_title": "Map 2: LNG vs. UP (Jan 27)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXLOLMAP-26JAN27LNGUP-1",
-        "series_ticker": "KXLOLMAP",
-        "title": "LPL 2026: LNG Esports vs. Ultra Prime Map 1",
-        "sub_title": "Map 1: LNG vs. UP (Jan 27)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXLOLMAP-26JAN27DNSCDRXC-3",
-        "series_ticker": "KXLOLMAP",
-        "title": "LCK Challengers League Kickoff 2026: DN SOOPers Challengers vs. DRX Challengers Map 3",
-        "sub_title": "Map 3: DNSC vs. DRXC (Jan 27)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXLOLMAP-26JAN27DNSCDRXC-2",
-        "series_ticker": "KXLOLMAP",
-        "title": "LCK Challengers League Kickoff 2026: DN SOOPers Challengers vs. DRX Challengers Map 2",
-        "sub_title": "Map 2: DNSC vs. DRXC (Jan 27)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXLOLMAP-26JAN27DNSCDRXC-1",
-        "series_ticker": "KXLOLMAP",
-        "title": "LCK Challengers League Kickoff 2026: DN SOOPers Challengers vs. DRX Challengers Map 1",
-        "sub_title": "Map 1: DNSC vs. DRXC (Jan 27)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNBA3D-26JAN26MEMHOU",
-        "series_ticker": "KXNBA3D",
-        "title": "Memphis at Houston: Triple Doubles",
-        "sub_title": "MEM at HOU (Jan 26)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNBA3D-26JAN26LALCHI",
-        "series_ticker": "KXNBA3D",
-        "title": "Los Angeles L at Chicago: Triple Doubles",
-        "sub_title": "LAL at CHI (Jan 26)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNBA2D-26JAN26MEMHOU",
-        "series_ticker": "KXNBA2D",
-        "title": "Memphis at Houston: Double Doubles",
-        "sub_title": "MEM at HOU (Jan 26)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNBA2D-26JAN26LALCHI",
-        "series_ticker": "KXNBA2D",
-        "title": "Los Angeles L at Chicago: Double Doubles",
-        "sub_title": "LAL at CHI (Jan 26)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXWTAMATCH-26JAN26SABJOV",
-        "series_ticker": "KXWTAMATCH",
-        "title": "Sabalenka vs Jovic",
-        "sub_title": "Sabalenka vs Jovic (Jan 26)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXWTAMATCH-26JAN26GAUSVI",
-        "series_ticker": "KXWTAMATCH",
-        "title": "Gauff vs Svitolina",
-        "sub_title": "Gauff vs Svitolina (Jan 26)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXATPTOTALSETS-26JAN26ZVETIE",
-        "series_ticker": "KXATPTOTALSETS",
-        "title": "Alexander Zverev vs Learner Tien: Total Sets",
-        "sub_title": "Alexander Zverev vs Learner Tien (Jan 26)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXATPTOTALSETS-26JAN26ALCDE",
-        "series_ticker": "KXATPTOTALSETS",
-        "title": "Carlos Alcaraz vs Alex de Minaur: Total Sets",
-        "sub_title": "Carlos Alcaraz vs Alex de Minaur (Jan 26)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXATPSETWINNER-26JAN26ZVETIE-3",
-        "series_ticker": "KXATPSETWINNER",
-        "title": "Alexander Zverev vs Learner Tien: Set 3 Winner",
-        "sub_title": "Alexander Zverev vs Learner Tien Set 3 (Jan 26)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXATPSETWINNER-26JAN26ZVETIE-2",
-        "series_ticker": "KXATPSETWINNER",
-        "title": "Alexander Zverev vs Learner Tien: Set 2 Winner",
-        "sub_title": "Alexander Zverev vs Learner Tien Set 2 (Jan 26)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXATPSETWINNER-26JAN26ZVETIE-1",
-        "series_ticker": "KXATPSETWINNER",
-        "title": "Alexander Zverev vs Learner Tien: Set 1 Winner",
-        "sub_title": "Alexander Zverev vs Learner Tien Set 1 (Jan 26)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXATPSETWINNER-26JAN26ALCDE-3",
-        "series_ticker": "KXATPSETWINNER",
-        "title": "Carlos Alcaraz vs Alex de Minaur: Set 3 Winner",
-        "sub_title": "Carlos Alcaraz vs Alex de Minaur Set 3 (Jan 26)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXATPSETWINNER-26JAN26ALCDE-2",
-        "series_ticker": "KXATPSETWINNER",
-        "title": "Carlos Alcaraz vs Alex de Minaur: Set 2 Winner",
-        "sub_title": "Carlos Alcaraz vs Alex de Minaur Set 2 (Jan 26)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXATPSETWINNER-26JAN26ALCDE-1",
-        "series_ticker": "KXATPSETWINNER",
-        "title": "Carlos Alcaraz vs Alex de Minaur: Set 1 Winner",
-        "sub_title": "Carlos Alcaraz vs Alex de Minaur Set 1 (Jan 26)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXATPMATCH-26JAN26ZVETIE",
-        "series_ticker": "KXATPMATCH",
-        "title": "Zverev vs Tien",
-        "sub_title": "Zverev vs Tien (Jan 26)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXATPMATCH-26JAN26ALCDE",
-        "series_ticker": "KXATPMATCH",
-        "title": "Alcaraz vs de Minaur",
-        "sub_title": "Alcaraz vs de Minaur (Jan 26)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNBA3D-26JAN26ORLCLE",
-        "series_ticker": "KXNBA3D",
-        "title": "Orlando at Cleveland: Triple Doubles",
-        "sub_title": "ORL at CLE (Jan 26)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNBA2D-26JAN26ORLCLE",
-        "series_ticker": "KXNBA2D",
-        "title": "Orlando at Cleveland: Double Doubles",
-        "sub_title": "ORL at CLE (Jan 26)",
-        "mutually_exclusive": false,
         "category": "Sports"
     },
     {
@@ -36951,16 +35839,6 @@
         "sub_title": "DEN at MEM (Jan 25)",
         "mutually_exclusive": false,
         "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXGOPNOEMOUT-26",
-        "series_ticker": "KXGOPNOEMOUT",
-        "title": "Will a GOP Member of Congress call for Noem's removal?",
-        "sub_title": "Before Dec 31, 2026",
-        "mutually_exclusive": false,
-        "category": "Entertainment"
     },
     {
         "bing_reports": {},
@@ -39755,466 +38633,6 @@
     {
         "bing_reports": {},
         "ddgs_reports": {},
-        "event_ticker": "KXNCAAMBGAME-26JAN27UNONICH",
-        "series_ticker": "KXNCAAMBGAME",
-        "title": "New Orleans at Nicholls St.",
-        "sub_title": "UNO at NICH (Jan 27)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNCAAMBGAME-26JAN27ALSTTXSO",
-        "series_ticker": "KXNCAAMBGAME",
-        "title": "Alabama St. at Texas Southern",
-        "sub_title": "ALST at TXSO (Jan 27)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXATPCHALLENGERMATCH-26JAN27GALKYM",
-        "series_ticker": "KXATPCHALLENGERMATCH",
-        "title": "Galarneau vs Kym",
-        "sub_title": "Galarneau vs Kym (Jan 27)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXATPCHALLENGERMATCH-26JAN27DEDHEM",
-        "series_ticker": "KXATPCHALLENGERMATCH",
-        "title": "Dedura-Palomero vs Hemery",
-        "sub_title": "Dedura-Palomero vs Hemery (Jan 27)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXATPCHALLENGERMATCH-26JAN27NEUFEA",
-        "series_ticker": "KXATPCHALLENGERMATCH",
-        "title": "Neumayer vs Fearnley",
-        "sub_title": "Neumayer vs Fearnley (Jan 27)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXATPCHALLENGERMATCH-26JAN27ELIGLI",
-        "series_ticker": "KXATPCHALLENGERMATCH",
-        "title": "Elias vs Glinka",
-        "sub_title": "Elias vs Glinka (Jan 27)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXATPCHALLENGERMATCH-26JAN27POUKAS",
-        "series_ticker": "KXATPCHALLENGERMATCH",
-        "title": "Poullain vs Kasnikowski",
-        "sub_title": "Poullain vs Kasnikowski (Jan 27)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXATPCHALLENGERMATCH-26JAN27MARNAG",
-        "series_ticker": "KXATPCHALLENGERMATCH",
-        "title": "Martineau vs Nagel",
-        "sub_title": "Martineau vs Nagel (Jan 27)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXATPCHALLENGERMATCH-26JAN27PRAFER",
-        "series_ticker": "KXATPCHALLENGERMATCH",
-        "title": "Prado Angelo vs Ferreira Silva",
-        "sub_title": "Prado Angelo vs Ferreira Silva (Jan 27)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXATPCHALLENGERMATCH-26JAN27MISGIU",
-        "series_ticker": "KXATPCHALLENGERMATCH",
-        "title": "Misolic vs Giustino",
-        "sub_title": "Misolic vs Giustino (Jan 27)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXATPCHALLENGERMATCH-26JAN27ANDROS",
-        "series_ticker": "KXATPCHALLENGERMATCH",
-        "title": "Andrade vs Rosenkranz",
-        "sub_title": "Andrade vs Rosenkranz (Jan 27)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXLOLTOTALMAPS-26JAN27IGAL",
-        "series_ticker": "KXLOLTOTALMAPS",
-        "title": "LPL 2026: Invictus Gaming vs. Anyone's Legend Total Maps",
-        "sub_title": "Total Maps: IG vs. AL (Jan 27)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXATPCHALLENGERMATCH-26JAN27ZHAVIR",
-        "series_ticker": "KXATPCHALLENGERMATCH",
-        "title": "Zhang vs Virtanen",
-        "sub_title": "Zhang vs Virtanen (Jan 27)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXATPCHALLENGERMATCH-26JAN27WONPEN",
-        "series_ticker": "KXATPCHALLENGERMATCH",
-        "title": "Wong vs Peniston",
-        "sub_title": "Wong vs Peniston (Jan 27)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXATPCHALLENGERMATCH-26JAN27TIRBLA",
-        "series_ticker": "KXATPCHALLENGERMATCH",
-        "title": "Tirante vs Blancaneaux",
-        "sub_title": "Tirante vs Blancaneaux (Jan 27)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXATPCHALLENGERMATCH-26JAN27KUKLAN",
-        "series_ticker": "KXATPCHALLENGERMATCH",
-        "title": "Kukushkin vs Landaluce",
-        "sub_title": "Kukushkin vs Landaluce (Jan 27)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXATPCHALLENGERMATCH-26JAN27DAMGAU",
-        "series_ticker": "KXATPCHALLENGERMATCH",
-        "title": "Damm Jr vs Gaubas",
-        "sub_title": "Damm Jr vs Gaubas (Jan 27)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXATPCHALLENGERMATCH-26JAN27KOTMAR",
-        "series_ticker": "KXATPCHALLENGERMATCH",
-        "title": "Kotov vs Martin",
-        "sub_title": "Kotov vs Martin (Jan 27)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXATPCHALLENGERMATCH-26JAN27GHAGAD",
-        "series_ticker": "KXATPCHALLENGERMATCH",
-        "title": "Ghazouani Durand vs Gadamauri",
-        "sub_title": "Ghazouani Durand vs Gadamauri (Jan 27)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXLOLTOTALMAPS-26JAN27TESWB",
-        "series_ticker": "KXLOLTOTALMAPS",
-        "title": "LPL 2026: Top Esports vs. Weibo Gaming Total Maps",
-        "sub_title": "Total Maps: TES vs. WB (Jan 27)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXATPCHALLENGERMATCH-26JAN27ZHUURS",
-        "series_ticker": "KXATPCHALLENGERMATCH",
-        "title": "Zhukayev vs Ursu",
-        "sub_title": "Zhukayev vs Ursu (Jan 27)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXATPCHALLENGERMATCH-26JAN27BUTALK",
-        "series_ticker": "KXATPCHALLENGERMATCH",
-        "title": "Butvilas vs Alkaya",
-        "sub_title": "Butvilas vs Alkaya (Jan 27)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXATPCHALLENGERMATCH-26JAN27DHADUR",
-        "series_ticker": "KXATPCHALLENGERMATCH",
-        "title": "Dhamne vs Durasovic",
-        "sub_title": "Dhamne vs Durasovic (Jan 27)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXLOLTOTALMAPS-26JAN27KTCFOXY",
-        "series_ticker": "KXLOLTOTALMAPS",
-        "title": "LCK Challengers League Kickoff 2026: KT Rolster Challengers vs. BNK FearX Youth Total Maps",
-        "sub_title": "Total Maps: KTC vs. FOXY (Jan 27)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXATPCHALLENGERMATCH-26JAN27LOKGUL",
-        "series_ticker": "KXATPCHALLENGERMATCH",
-        "title": "Lokoli vs Gulin",
-        "sub_title": "Lokoli vs Gulin (Jan 27)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXATPCHALLENGERMATCH-26JAN27ARNMOE",
-        "series_ticker": "KXATPCHALLENGERMATCH",
-        "title": "Arnaboldi vs Moeller",
-        "sub_title": "Arnaboldi vs Moeller (Jan 27)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXLOLTOTALMAPS-26JAN27LNGUP",
-        "series_ticker": "KXLOLTOTALMAPS",
-        "title": "LPL 2026: LNG Esports vs. Ultra Prime Total Maps",
-        "sub_title": "Total Maps: LNG vs. UP (Jan 27)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXATPCHALLENGERMATCH-26JAN27POKOBE",
-        "series_ticker": "KXATPCHALLENGERMATCH",
-        "title": "Pokorny vs Oberleitner",
-        "sub_title": "Pokorny vs Oberleitner (Jan 27)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXATPCHALLENGERMATCH-26JAN27KUZFOM",
-        "series_ticker": "KXATPCHALLENGERMATCH",
-        "title": "Kuzmanov vs Fomin",
-        "sub_title": "Kuzmanov vs Fomin (Jan 27)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXATPCHALLENGERMATCH-26JAN27BARERE",
-        "series_ticker": "KXATPCHALLENGERMATCH",
-        "title": "Barton vs Erel",
-        "sub_title": "Barton vs Erel (Jan 27)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXLOLTOTALMAPS-26JAN27DNSCDRXC",
-        "series_ticker": "KXLOLTOTALMAPS",
-        "title": "LCK Challengers League Kickoff 2026: DN SOOPers Challengers vs. DRX Challengers Total Maps",
-        "sub_title": "Total Maps: DNSC vs. DRXC (Jan 27)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXATPCHALLENGERMATCH-26JAN27JORSHI",
-        "series_ticker": "KXATPCHALLENGERMATCH",
-        "title": "Jorda Sanchis vs Shin",
-        "sub_title": "Jorda Sanchis vs Shin (Jan 27)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXATPCHALLENGERMATCH-26JAN27GOMBAR",
-        "series_ticker": "KXATPCHALLENGERMATCH",
-        "title": "Gomez vs Barsukov",
-        "sub_title": "Gomez vs Barsukov (Jan 27)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXATPCHALLENGERMATCH-26JAN27GENCRA",
-        "series_ticker": "KXATPCHALLENGERMATCH",
-        "title": "Gengel vs Crawford",
-        "sub_title": "Gengel vs Crawford (Jan 27)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXATPCHALLENGERMATCH-26JAN27BAXSUN",
-        "series_ticker": "KXATPCHALLENGERMATCH",
-        "title": "Bax vs Sun",
-        "sub_title": "Bax vs Sun (Jan 27)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXATPCHALLENGERMATCH-26JAN26SIMCIN",
-        "series_ticker": "KXATPCHALLENGERMATCH",
-        "title": "Simakin vs Cina",
-        "sub_title": "Simakin vs Cina (Jan 26)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXATPCHALLENGERMATCH-26JAN26KWONSAK",
-        "series_ticker": "KXATPCHALLENGERMATCH",
-        "title": "Kwon vs Sakellaridis",
-        "sub_title": "Kwon vs Sakellaridis (Jan 26)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXATPCHALLENGERMATCH-26JAN26BLAFER",
-        "series_ticker": "KXATPCHALLENGERMATCH",
-        "title": "Blanch vs Ferguson",
-        "sub_title": "Blanch vs Ferguson (Jan 26)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXATPCHALLENGERMATCH-26JAN26BERHSU",
-        "series_ticker": "KXATPCHALLENGERMATCH",
-        "title": "Bertrand vs Hsu",
-        "sub_title": "Bertrand vs Hsu (Jan 26)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXATPCHALLENGERMATCH-26JAN26MICHAN",
-        "series_ticker": "KXATPCHALLENGERMATCH",
-        "title": "Michalski vs Handel",
-        "sub_title": "Michalski vs Handel (Jan 26)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXATPCHALLENGERMATCH-26JAN26MARJAS",
-        "series_ticker": "KXATPCHALLENGERMATCH",
-        "title": "Marmousez vs Jasika",
-        "sub_title": "Marmousez vs Jasika (Jan 26)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXATPCHALLENGERMATCH-26JAN26BARRIB",
-        "series_ticker": "KXATPCHALLENGERMATCH",
-        "title": "Bar Biryukov vs Ribecai",
-        "sub_title": "Bar Biryukov vs Ribecai (Jan 26)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXATPCHALLENGERMATCH-26JAN26ARNMAT",
-        "series_ticker": "KXATPCHALLENGERMATCH",
-        "title": "Bailly vs Matsuoka",
-        "sub_title": "Bailly vs Matsuoka (Jan 26)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNBA3D-26JAN26GSWMIN",
-        "series_ticker": "KXNBA3D",
-        "title": "Golden State at Minnesota: Triple Doubles",
-        "sub_title": "GSW at MIN (Jan 26)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNBA2D-26JAN26GSWMIN",
-        "series_ticker": "KXNBA2D",
-        "title": "Golden State at Minnesota: Double Doubles",
-        "sub_title": "GSW at MIN (Jan 26)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNBA2D-26JAN26PORBOS",
-        "series_ticker": "KXNBA2D",
-        "title": "Portland at Boston: Double Doubles",
-        "sub_title": "POR at BOS (Jan 26)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
         "event_ticker": "KXWTAMATCH-26JAN26RYBSWI",
         "series_ticker": "KXWTAMATCH",
         "title": "Rybakina vs Swiatek",
@@ -40285,60 +38703,3720 @@
     {
         "bing_reports": {},
         "ddgs_reports": {},
-        "event_ticker": "KXNBABLK-26JAN26ORLCLE",
-        "series_ticker": "KXNBABLK",
-        "title": "Orlando at Cleveland: Blocks",
-        "sub_title": "ORL at CLE (Jan 26)",
+        "event_ticker": "KXNETWORTHKAICENAT-30",
+        "series_ticker": "KXNETWORTHKAICENAT",
+        "title": "Will Kai Cenat become a billionaire before 2030?",
+        "sub_title": "Before 2030",
+        "mutually_exclusive": false,
+        "category": "Economics"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXBOUGAINVILLEIND",
+        "series_ticker": "KXBOUGAINVILLEIND",
+        "title": "Will Papua New Guinea ratify Bougainville independence?",
+        "sub_title": "Bougainville independence",
+        "mutually_exclusive": false,
+        "category": "Politics"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXVISITGREENLAND",
+        "series_ticker": "KXVISITGREENLAND",
+        "title": "Who will visit Greenland before May?",
+        "sub_title": "Before May 1, 2026",
+        "mutually_exclusive": false,
+        "category": "Politics"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNFLSBMVPPOS-26",
+        "series_ticker": "KXNFLSBMVPPOS",
+        "title": "Pro Football Championship Game MVP Position?",
+        "sub_title": "2025-26 season",
         "mutually_exclusive": false,
         "category": "Sports"
     },
     {
         "bing_reports": {},
         "ddgs_reports": {},
-        "event_ticker": "KXSOL15M-26JAN262045",
-        "series_ticker": "KXSOL15M",
-        "title": "SOL Up or Down - 15 minutes",
-        "sub_title": "Jan 26 - 8:30PM EST to 8:45PM EST",
+        "event_ticker": "KXHMONTH-26FEB",
+        "series_ticker": "KXHMONTH",
+        "title": "This Feb 2026 is the hottest February ever?",
+        "sub_title": "In Feb 2026",
         "mutually_exclusive": false,
-        "category": "Crypto"
+        "category": "Climate and Weather"
     },
     {
         "bing_reports": {},
         "ddgs_reports": {},
-        "event_ticker": "KXETH15M-26JAN262045",
-        "series_ticker": "KXETH15M",
-        "title": "ETH Up or Down - 15 minutes",
-        "sub_title": "Jan 26 - 8:30PM EST to 8:45PM EST",
+        "event_ticker": "KXRAINNYCM-26FEB",
+        "series_ticker": "KXRAINNYCM",
+        "title": "Rain in NYC in Feb 2026?",
+        "sub_title": "In Feb 2026",
         "mutually_exclusive": false,
-        "category": "Crypto"
+        "category": "Climate and Weather"
     },
     {
         "bing_reports": {},
         "ddgs_reports": {},
-        "event_ticker": "KXBTC15M-26JAN262045",
-        "series_ticker": "KXBTC15M",
-        "title": "BTC Up or Down - 15 minutes",
-        "sub_title": "Jan 26 - 8:30PM EST to 8:45PM EST",
+        "event_ticker": "KXEPLTOTAL-26FEB12BREARS",
+        "series_ticker": "KXEPLTOTAL",
+        "title": "Arsenal at Brentford: Totals",
+        "sub_title": "ARS at BRE (Feb 12)",
         "mutually_exclusive": false,
-        "category": "Crypto"
+        "category": "Sports"
     },
     {
         "bing_reports": {},
         "ddgs_reports": {},
-        "event_ticker": "KXATPCHALLENGERMATCH-26JAN26MAGSHE",
-        "series_ticker": "KXATPCHALLENGERMATCH",
-        "title": "Magadan vs Sheehy",
-        "sub_title": "Magadan vs Sheehy (Jan 26)",
+        "event_ticker": "KXEPLSPREAD-26FEB12BREARS",
+        "series_ticker": "KXEPLSPREAD",
+        "title": "Arsenal at Brentford: Spreads",
+        "sub_title": "ARS at BRE (Feb 12)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXEPLGAME-26FEB12BREARS",
+        "series_ticker": "KXEPLGAME",
+        "title": "Brentford vs Arsenal",
+        "sub_title": "BRE vs ARS (Feb 12)",
         "mutually_exclusive": true,
         "category": "Sports"
     },
     {
         "bing_reports": {},
         "ddgs_reports": {},
-        "event_ticker": "KXATPCHALLENGERMATCH-26JAN26ARTJON",
+        "event_ticker": "KXEPLBTTS-26FEB12BREARS",
+        "series_ticker": "KXEPLBTTS",
+        "title": "Arsenal at Brentford: Both Teams to Score",
+        "sub_title": "ARS at BRE (Feb 12)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXEPLTOTAL-26FEB11SUNLFC",
+        "series_ticker": "KXEPLTOTAL",
+        "title": "Liverpool at Sunderland: Totals",
+        "sub_title": "LFC at SUN (Feb 11)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXEPLSPREAD-26FEB11SUNLFC",
+        "series_ticker": "KXEPLSPREAD",
+        "title": "Liverpool at Sunderland: Spreads",
+        "sub_title": "LFC at SUN (Feb 11)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXEPLBTTS-26FEB11SUNLFC",
+        "series_ticker": "KXEPLBTTS",
+        "title": "Liverpool at Sunderland: Both Teams to Score",
+        "sub_title": "LFC at SUN (Feb 11)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXEPLTOTAL-26FEB11NFOWOL",
+        "series_ticker": "KXEPLTOTAL",
+        "title": "Wolverhampton at Nottingham: Totals",
+        "sub_title": "WOL at NFO (Feb 11)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXEPLTOTAL-26FEB11MCIFUL",
+        "series_ticker": "KXEPLTOTAL",
+        "title": "Fulham at Manchester City: Totals",
+        "sub_title": "FUL at MCI (Feb 11)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXEPLTOTAL-26FEB11CRYBUR",
+        "series_ticker": "KXEPLTOTAL",
+        "title": "Burnley at Crystal Palace: Totals",
+        "sub_title": "BUR at CRY (Feb 11)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXEPLTOTAL-26FEB11AVLBRI",
+        "series_ticker": "KXEPLTOTAL",
+        "title": "Brighton at Aston Villa: Totals",
+        "sub_title": "BRI at AVL (Feb 11)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXEPLSPREAD-26FEB11NFOWOL",
+        "series_ticker": "KXEPLSPREAD",
+        "title": "Wolverhampton at Nottingham: Spreads",
+        "sub_title": "WOL at NFO (Feb 11)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXEPLSPREAD-26FEB11MCIFUL",
+        "series_ticker": "KXEPLSPREAD",
+        "title": "Fulham at Manchester City: Spreads",
+        "sub_title": "FUL at MCI (Feb 11)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXEPLSPREAD-26FEB11CRYBUR",
+        "series_ticker": "KXEPLSPREAD",
+        "title": "Burnley at Crystal Palace: Spreads",
+        "sub_title": "BUR at CRY (Feb 11)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXEPLSPREAD-26FEB11AVLBRI",
+        "series_ticker": "KXEPLSPREAD",
+        "title": "Brighton at Aston Villa: Spreads",
+        "sub_title": "BRI at AVL (Feb 11)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXEPLBTTS-26FEB11NFOWOL",
+        "series_ticker": "KXEPLBTTS",
+        "title": "Wolverhampton at Nottingham: Both Teams to Score",
+        "sub_title": "WOL at NFO (Feb 11)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXEPLBTTS-26FEB11MCIFUL",
+        "series_ticker": "KXEPLBTTS",
+        "title": "Fulham at Manchester City: Both Teams to Score",
+        "sub_title": "FUL at MCI (Feb 11)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXEPLBTTS-26FEB11CRYBUR",
+        "series_ticker": "KXEPLBTTS",
+        "title": "Burnley at Crystal Palace: Both Teams to Score",
+        "sub_title": "BUR at CRY (Feb 11)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXEPLBTTS-26FEB11AVLBRI",
+        "series_ticker": "KXEPLBTTS",
+        "title": "Brighton at Aston Villa: Both Teams to Score",
+        "sub_title": "BRI at AVL (Feb 11)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNFLPREPACKSGP-26FEB08SEANESPREAD",
+        "series_ticker": "KXNFLPREPACKSGP",
+        "title": "Spread / Total Points Combo",
+        "sub_title": "Seattle vs New England",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNFLPREPACKSGP-26FEB08SEANE",
+        "series_ticker": "KXNFLPREPACKSGP",
+        "title": "Moneyline / Total Points Combo",
+        "sub_title": "Seattle vs New England",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXSERIEATOTAL-26FEB03BFCACM",
+        "series_ticker": "KXSERIEATOTAL",
+        "title": "Milan at Bologna: Totals",
+        "sub_title": "ACM at BFC (Feb 3)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXSERIEASPREAD-26FEB03BFCACM",
+        "series_ticker": "KXSERIEASPREAD",
+        "title": "Milan at Bologna: Spreads",
+        "sub_title": "ACM at BFC (Feb 3)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXSERIEAGAME-26FEB03BFCACM",
+        "series_ticker": "KXSERIEAGAME",
+        "title": "Bologna vs Milan",
+        "sub_title": "BFC vs ACM (Feb 3)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXSERIEABTTS-26FEB03BFCACM",
+        "series_ticker": "KXSERIEABTTS",
+        "title": "Milan at Bologna: Both Teams to Score",
+        "sub_title": "ACM at BFC (Feb 3)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXLALIGATOTAL-26FEB02MALSEV",
+        "series_ticker": "KXLALIGATOTAL",
+        "title": "Sevilla at Mallorca: Totals",
+        "sub_title": "SEV at MAL (Feb 2)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXLALIGASPREAD-26FEB02MALSEV",
+        "series_ticker": "KXLALIGASPREAD",
+        "title": "Sevilla at Mallorca: Spreads",
+        "sub_title": "SEV at MAL (Feb 2)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXLALIGABTTS-26FEB02MALSEV",
+        "series_ticker": "KXLALIGABTTS",
+        "title": "Sevilla at Mallorca: Both Teams to Score",
+        "sub_title": "SEV at MAL (Feb 2)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXSERIEATOTAL-26FEB02UDIROM",
+        "series_ticker": "KXSERIEATOTAL",
+        "title": "Roma at Udinese: Totals",
+        "sub_title": "ROM at UDI (Feb 2)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXSERIEASPREAD-26FEB02UDIROM",
+        "series_ticker": "KXSERIEASPREAD",
+        "title": "Roma at Udinese: Spreads",
+        "sub_title": "ROM at UDI (Feb 2)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXSERIEABTTS-26FEB02UDIROM",
+        "series_ticker": "KXSERIEABTTS",
+        "title": "Roma at Udinese: Both Teams to Score",
+        "sub_title": "ROM at UDI (Feb 2)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXAHLGAME-26JAN31SYRWIL",
+        "series_ticker": "KXAHLGAME",
+        "title": "Syracuse Crunch at Wilkes Barre-Scranton Penguins",
+        "sub_title": "SYR at WIL (Jan 31)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXAHLGAME-26JAN31HARSPR",
+        "series_ticker": "KXAHLGAME",
+        "title": "Hartford Wolf Pack at Springfield Thunderbirds",
+        "sub_title": "HAR at SPR (Jan 31)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXVALORANTGAME-26JAN31EGLOUD",
+        "series_ticker": "KXVALORANTGAME",
+        "title": "VCT Americas Kickoff 2026: Evil Geniuses vs. LOUD",
+        "sub_title": "Evil Geniuses vs. LOUD (Jan 31)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXAHLGAME-26JAN31HERUTI",
+        "series_ticker": "KXAHLGAME",
+        "title": "Hershey Bears at Utica Comets",
+        "sub_title": "HER at UTI (Jan 31)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXLOLGAME-26JAN31LYC9",
+        "series_ticker": "KXLOLGAME",
+        "title": "LCS Lock In 2026: LYON vs. Cloud9",
+        "sub_title": "LYON vs. Cloud9 (Jan 31)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXAHLGAME-26JAN31LAVTOR",
+        "series_ticker": "KXAHLGAME",
+        "title": "Laval Rocket at Toronto Marlies",
+        "sub_title": "LAV at TOR (Jan 31)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXAHLGAME-26JAN31PROCHA",
+        "series_ticker": "KXAHLGAME",
+        "title": "Providence Bruins at Charlotte Checkers",
+        "sub_title": "PRO at CHA (Jan 31)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXLOLGAME-26JAN31LRMKOI",
+        "series_ticker": "KXLOLGAME",
+        "title": "LEC Versus 2026: Los Ratones vs. Movistar KOI",
+        "sub_title": "Los Ratones vs. Movistar KOI (Jan 31)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXLOLGAME-26JAN31LLLLEV",
+        "series_ticker": "KXLOLGAME",
+        "title": "CBLOL Cup 2026: LOUD vs. Leviatan Esports",
+        "sub_title": "LOUD vs. Leviatan Esports (Jan 31)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXAHLGAME-26JAN31ROCMAN",
+        "series_ticker": "KXAHLGAME",
+        "title": "Rockford Icehogs at Manitoba Moose",
+        "sub_title": "ROC at MAN (Jan 31)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXLOLGAME-26JAN31KCVIT",
+        "series_ticker": "KXLOLGAME",
+        "title": "LEC Versus 2026: Karmine Corp vs. Team Vitality",
+        "sub_title": "Karmine Corp vs. Team Vitality (Jan 31)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXLOLGAME-26JAN31PNGLOS",
+        "series_ticker": "KXLOLGAME",
+        "title": "CBLOL Cup 2026: paiN Gaming vs. LOS",
+        "sub_title": "paiN Gaming vs. LOS (Jan 31)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXLOLGAME-26JAN31G2KCB",
+        "series_ticker": "KXLOLGAME",
+        "title": "LEC Versus 2026: G2 Esports vs. Karmine Corp Blue",
+        "sub_title": "G2 Esports vs. Karmine Corp Blue (Jan 31)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXLOLGAME-26JAN31FNCSHFT",
+        "series_ticker": "KXLOLGAME",
+        "title": "LEC Versus 2026: Fnatic vs. Shifters",
+        "sub_title": "Fnatic vs. Shifters (Jan 31)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXLOLGAME-26JAN31FX7MFUR",
+        "series_ticker": "KXLOLGAME",
+        "title": "CBLOL Cup 2026: Fluxo W7M vs. FURIA Esports",
+        "sub_title": "Fluxo W7M vs. FURIA Esports (Jan 31)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXLOLGAME-26JAN31GXNAVI",
+        "series_ticker": "KXLOLGAME",
+        "title": "LEC Versus 2026: GIANTX vs. Natus Vincere",
+        "sub_title": "GIANTX vs. Natus Vincere (Jan 31)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXLOLGAME-26JAN31REDVKS",
+        "series_ticker": "KXLOLGAME",
+        "title": "CBLOL Cup 2026: RED Canids vs. Vivo Keyd Stars",
+        "sub_title": "RED Canids vs. Vivo Keyd Stars (Jan 31)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXLOLGAME-26JAN31SKTH",
+        "series_ticker": "KXLOLGAME",
+        "title": "LEC Versus 2026: SK Gaming vs. Team Heretics",
+        "sub_title": "SK Gaming vs. Team Heretics (Jan 31)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXKHLGAME-26JAN31NEFAKB",
+        "series_ticker": "KXKHLGAME",
+        "title": "Neftekhimik Nizhnekamsk at Ak Bars Kazan",
+        "sub_title": "NEF at AKB (Jan 31)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXVALORANTGAME-26JAN31RRQPR",
+        "series_ticker": "KXVALORANTGAME",
+        "title": "VCT Pacific Kickoff 2026: Rex Regum Qeon vs. Paper Rex",
+        "sub_title": "Rex Regum Qeon vs. Paper Rex (Jan 31)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXVALORANTGAME-26JAN31DRGAG",
+        "series_ticker": "KXVALORANTGAME",
+        "title": "VCT China Kickoff 2026: Dragon Ranger Gaming vs. All Gamers",
+        "sub_title": "Dragon Ranger Gaming vs. All Gamers (Jan 31)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXLOLGAME-26JAN31IGBLG",
+        "series_ticker": "KXLOLGAME",
+        "title": "LPL 2026: Invictus Gaming vs. Bilibili Gaming",
+        "sub_title": "Invictus Gaming vs. Bilibili Gaming (Jan 31)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXKHLGAME-26JAN31TORSAL",
+        "series_ticker": "KXKHLGAME",
+        "title": "Torpedo Nizhny Novgorod at Salavat Yulaev UFA",
+        "sub_title": "TOR at SAL (Jan 31)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXKHLGAME-26JAN31DINMET",
+        "series_ticker": "KXKHLGAME",
+        "title": "Dinamo Minsk at Metallurg Magnitogorsk",
+        "sub_title": "DIN at MET (Jan 31)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXKHLGAME-26JAN31TRASIB",
+        "series_ticker": "KXKHLGAME",
+        "title": "Traktor Chelyabinsk at Sibir Novosibirsk",
+        "sub_title": "TRA at SIB (Jan 31)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXLOLGAME-26JAN31ALJDG",
+        "series_ticker": "KXLOLGAME",
+        "title": "LPL 2026: Anyone's Legend vs. JD Gaming",
+        "sub_title": "Anyone's Legend vs. JD Gaming (Jan 31)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXLOLGAME-26JAN31SHGMVK",
+        "series_ticker": "KXLOLGAME",
+        "title": "LCP 2026: Fukuoka SoftBank Hawks Gaming vs. MVK Esports",
+        "sub_title": "Fukuoka SoftBank Hawks Gaming vs. MVK Esports (Jan 31)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXVALORANTGAME-26JAN31FSNS",
+        "series_ticker": "KXVALORANTGAME",
+        "title": "VCT Pacific Kickoff 2026: FULL SENSE vs. Nongshim RedForce",
+        "sub_title": "FULL SENSE vs. Nongshim RedForce (Jan 31)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXLOLGAME-26JAN31DKT1",
+        "series_ticker": "KXLOLGAME",
+        "title": "LCK Cup 2026: Dplus KIA vs. T1",
+        "sub_title": "Dplus KIA vs. T1 (Jan 31)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXLOLGAME-26JAN31CFODCG",
+        "series_ticker": "KXLOLGAME",
+        "title": "LCP 2026: CTBC Flying Oyster vs. Deep Cross Gaming",
+        "sub_title": "CTBC Flying Oyster vs. Deep Cross Gaming (Jan 31)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXKHLGAME-26JAN31HCBAMU",
+        "series_ticker": "KXKHLGAME",
+        "title": "HC Barys at Amur Khabarovsk",
+        "sub_title": "HCB at AMU (Jan 31)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXKHLGAME-26JAN31AVTADM",
+        "series_ticker": "KXKHLGAME",
+        "title": "Avtomobilist Yekaterinburg at Admiral Vladivostok",
+        "sub_title": "AVT at ADM (Jan 31)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXAHLGAME-26JAN30SANCOA",
+        "series_ticker": "KXAHLGAME",
+        "title": "San Diego Gulls at Coachella Valley Firebirds",
+        "sub_title": "SAN at COA (Jan 30)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXAHLGAME-26JAN30CALSAN",
+        "series_ticker": "KXAHLGAME",
+        "title": "Calgary Wranglers at San Jose Barracuda",
+        "sub_title": "CAL at SAN (Jan 30)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXAHLGAME-26JAN30ABBBAK",
+        "series_ticker": "KXAHLGAME",
+        "title": "Abbotsford Canucks at Bakersfield Condors",
+        "sub_title": "ABB at BAK (Jan 30)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXVALORANTGAME-26JAN30G2FUR",
+        "series_ticker": "KXVALORANTGAME",
+        "title": "VCT Americas Kickoff 2026: G2 Esports vs. FURIA Esports",
+        "sub_title": "G2 Esports vs. FURIA Esports (Jan 30)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXAHLGAME-26JAN30COLTUC",
+        "series_ticker": "KXAHLGAME",
+        "title": "Colorado Eagles at Tucson Roadrunners",
+        "sub_title": "COL at TUC (Jan 30)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXAHLGAME-26JAN30MILIOW",
+        "series_ticker": "KXAHLGAME",
+        "title": "Milwaukee Admirals at Iowa Wild",
+        "sub_title": "MIL at IOW (Jan 30)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXAHLGAME-26JAN30HENTEX",
+        "series_ticker": "KXAHLGAME",
+        "title": "Henderson Silver Knights at Texas Stars",
+        "sub_title": "HEN at TEX (Jan 30)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXAHLGAME-26JAN30LEHSPR",
+        "series_ticker": "KXAHLGAME",
+        "title": "Lehigh Valley Phantoms at Springfield Thunderbirds",
+        "sub_title": "LEH at SPR (Jan 30)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXAHLGAME-26JAN30HERROC",
+        "series_ticker": "KXAHLGAME",
+        "title": "Hershey Bears at Rochester Americans",
+        "sub_title": "HER at ROC (Jan 30)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXAHLGAME-26JAN30LAVSYR",
+        "series_ticker": "KXAHLGAME",
+        "title": "Laval Rocket at Syracuse Crunch",
+        "sub_title": "LAV at SYR (Jan 30)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXAHLGAME-26JAN30CHIGRA",
+        "series_ticker": "KXAHLGAME",
+        "title": "Chicago Wolves at Grand Rapids Griffins",
+        "sub_title": "CHI at GRA (Jan 30)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXAHLGAME-26JAN30BRIHAR",
+        "series_ticker": "KXAHLGAME",
+        "title": "Bridgeport Islanders at Hartford Wolf Pack",
+        "sub_title": "BRI at HAR (Jan 30)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXAHLGAME-26JAN30BELCLE",
+        "series_ticker": "KXAHLGAME",
+        "title": "Belleville Senators at Cleveland Monsters",
+        "sub_title": "BEL at CLE (Jan 30)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXVALORANTGAME-26JAN30FNCTL",
+        "series_ticker": "KXVALORANTGAME",
+        "title": "VCT EMEA Kickoff 2026: Fnatic vs. Team Liquid",
+        "sub_title": "Fnatic vs. Team Liquid (Jan 30)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAWBGAME-26JAN30UCIHAW",
+        "series_ticker": "KXNCAAWBGAME",
+        "title": "UC Irvine at Hawai'i",
+        "sub_title": "UCI at HAW (Jan 30)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBGAME-26JAN29HAWUCI",
+        "series_ticker": "KXNCAAMBGAME",
+        "title": "Hawai'i at UC Irvine",
+        "sub_title": "HAW at UCI (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXATPTOTALSETS-26JAN29ALCZVE",
+        "series_ticker": "KXATPTOTALSETS",
+        "title": "Carlos Alcaraz vs Alexander Zverev: Total Sets",
+        "sub_title": "Carlos Alcaraz vs Alexander Zverev (Jan 29)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXATPSETWINNER-26JAN29ALCZVE-3",
+        "series_ticker": "KXATPSETWINNER",
+        "title": "Carlos Alcaraz vs Alexander Zverev: Set 3 Winner",
+        "sub_title": "Carlos Alcaraz vs Alexander Zverev Set 3 (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXATPSETWINNER-26JAN29ALCZVE-2",
+        "series_ticker": "KXATPSETWINNER",
+        "title": "Carlos Alcaraz vs Alexander Zverev: Set 2 Winner",
+        "sub_title": "Carlos Alcaraz vs Alexander Zverev Set 2 (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXATPSETWINNER-26JAN29ALCZVE-1",
+        "series_ticker": "KXATPSETWINNER",
+        "title": "Carlos Alcaraz vs Alexander Zverev: Set 1 Winner",
+        "sub_title": "Carlos Alcaraz vs Alexander Zverev Set 1 (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXATPMATCH-26JAN29ALCZVE",
+        "series_ticker": "KXATPMATCH",
+        "title": "Alcaraz vs Zverev",
+        "sub_title": "Alcaraz vs Zverev (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNHLTOTAL-26JAN29TORSEA",
+        "series_ticker": "KXNHLTOTAL",
+        "title": "Toronto at Seattle: Total Points",
+        "sub_title": "TOR at SEA (Jan 29)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNHLTOTAL-26JAN29DALVGK",
+        "series_ticker": "KXNHLTOTAL",
+        "title": "Dallas at Vegas: Total Points",
+        "sub_title": "DAL at VGK (Jan 29)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNHLTOTAL-26JAN29ANAVAN",
+        "series_ticker": "KXNHLTOTAL",
+        "title": "Anaheim at Vancouver: Total Points",
+        "sub_title": "ANA at VAN (Jan 29)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNHLSPREAD-26JAN29TORSEA",
+        "series_ticker": "KXNHLSPREAD",
+        "title": "Toronto at Seattle: Spread",
+        "sub_title": "TOR at SEA (Jan 29)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNHLSPREAD-26JAN29DALVGK",
+        "series_ticker": "KXNHLSPREAD",
+        "title": "Dallas at Vegas: Spread",
+        "sub_title": "DAL at VGK (Jan 29)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNHLSPREAD-26JAN29ANAVAN",
+        "series_ticker": "KXNHLSPREAD",
+        "title": "Anaheim at Vancouver: Spread",
+        "sub_title": "ANA at VAN (Jan 29)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNHLGAME-26JAN29TORSEA",
+        "series_ticker": "KXNHLGAME",
+        "title": "Toronto at Seattle",
+        "sub_title": "TOR at SEA (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNHLGAME-26JAN29DALVGK",
+        "series_ticker": "KXNHLGAME",
+        "title": "Dallas at Vegas",
+        "sub_title": "DAL at VGK (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNHLGAME-26JAN29ANAVAN",
+        "series_ticker": "KXNHLGAME",
+        "title": "Anaheim at Vancouver",
+        "sub_title": "ANA at VAN (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAWBGAME-26JAN29NDCAL",
+        "series_ticker": "KXNCAAWBGAME",
+        "title": "Notre Dame at California",
+        "sub_title": "ND at CAL (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBGAME-26JAN29UCSBUCSD",
+        "series_ticker": "KXNCAAMBGAME",
+        "title": "UC Santa Barbara at UC San Diego",
+        "sub_title": "UCSB at UCSD (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBGAME-26JAN29UCDCSN",
+        "series_ticker": "KXNCAAMBGAME",
+        "title": "UC Davis at Cal State Northridge",
+        "sub_title": "UCD at CSN (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBGAME-26JAN29MTSTSAC",
+        "series_ticker": "KXNCAAMBGAME",
+        "title": "Montana St. at Sacramento St.",
+        "sub_title": "MTST at SAC (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBGAME-26JAN29MONTPRST",
+        "series_ticker": "KXNCAAMBGAME",
+        "title": "Montana at Portland St.",
+        "sub_title": "MONT at PRST (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBGAME-26JAN29LBSUUCRV",
+        "series_ticker": "KXNCAAMBGAME",
+        "title": "Long Beach St. at UC Riverside",
+        "sub_title": "LBSU at UCRV (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBGAME-26JAN29CPCSB",
+        "series_ticker": "KXNCAAMBGAME",
+        "title": "Cal Poly at Cal State Bakersfield",
+        "sub_title": "CP at CSB (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNBAGAME-26JAN29OKCMIN",
+        "series_ticker": "KXNBAGAME",
+        "title": "Oklahoma City at Minnesota",
+        "sub_title": "OKC at MIN (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNHLTOTAL-26JAN29SJEDM",
+        "series_ticker": "KXNHLTOTAL",
+        "title": "San Jose at Edmonton: Total Points",
+        "sub_title": "SJ at EDM (Jan 29)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNHLSPREAD-26JAN29SJEDM",
+        "series_ticker": "KXNHLSPREAD",
+        "title": "San Jose at Edmonton: Spread",
+        "sub_title": "SJ at EDM (Jan 29)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNHLGAME-26JAN29SJEDM",
+        "series_ticker": "KXNHLGAME",
+        "title": "San Jose at Edmonton",
+        "sub_title": "SJ at EDM (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAWBGAME-26JAN29WSUSCU",
+        "series_ticker": "KXNCAAWBGAME",
+        "title": "Washington St. at Santa Clara",
+        "sub_title": "WSU at SCU (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAWBGAME-26JAN29USDORST",
+        "series_ticker": "KXNCAAWBGAME",
+        "title": "San Diego at Oregon St.",
+        "sub_title": "USD at ORST (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAWBGAME-26JAN29UCSDUCSB",
+        "series_ticker": "KXNCAAWBGAME",
+        "title": "UC San Diego at UC Santa Barbara",
+        "sub_title": "UCSD at UCSB (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAWBGAME-26JAN29UCRVLBSU",
+        "series_ticker": "KXNCAAWBGAME",
+        "title": "UC Riverside at Long Beach St.",
+        "sub_title": "UCRV at LBSU (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAWBGAME-26JAN29SMCPORT",
+        "series_ticker": "KXNCAAWBGAME",
+        "title": "Saint Mary's at Portland",
+        "sub_title": "SMC at PORT (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAWBGAME-26JAN29SEAPEPP",
+        "series_ticker": "KXNCAAWBGAME",
+        "title": "Seattle at Pepperdine",
+        "sub_title": "SEA at PEPP (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAWBGAME-26JAN29SCARAUB",
+        "series_ticker": "KXNCAAWBGAME",
+        "title": "South Carolina at Auburn",
+        "sub_title": "SCAR at AUB (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAWBGAME-26JAN29SACMTST",
+        "series_ticker": "KXNCAAWBGAME",
+        "title": "Sacramento St. at Montana St.",
+        "sub_title": "SAC at MTST (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAWBGAME-26JAN29PRSTMONT",
+        "series_ticker": "KXNCAAWBGAME",
+        "title": "Portland St. at Montana",
+        "sub_title": "PRST at MONT (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAWBGAME-26JAN29PACLMU",
+        "series_ticker": "KXNCAAWBGAME",
+        "title": "Pacific at Loyola Marymount",
+        "sub_title": "PAC at LMU (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAWBGAME-26JAN29IOWAUSC",
+        "series_ticker": "KXNCAAWBGAME",
+        "title": "Iowa at USC",
+        "sub_title": "IOWA at USC (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAWBGAME-26JAN29GONZSF",
+        "series_ticker": "KXNCAAWBGAME",
+        "title": "Gonzaga at San Francisco",
+        "sub_title": "GONZ at SF (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAWBGAME-26JAN29CSNUCD",
+        "series_ticker": "KXNCAAWBGAME",
+        "title": "Cal State Northridge at UC Davis",
+        "sub_title": "CSN at UCD (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAWBGAME-26JAN29CSBCP",
+        "series_ticker": "KXNCAAWBGAME",
+        "title": "Cal State Bakersfield at Cal Poly",
+        "sub_title": "CSB at CP (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAWBGAME-26JAN29ACUTU",
+        "series_ticker": "KXNCAAWBGAME",
+        "title": "Abilene Christian at Utah Tech",
+        "sub_title": "AC at UTU (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBGAME-26JAN29WASHILL",
+        "series_ticker": "KXNCAAMBGAME",
+        "title": "Washington at Illinois",
+        "sub_title": "WASH at ILL (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBGAME-26JAN29UNCWTOWS",
+        "series_ticker": "KXNCAAMBGAME",
+        "title": "UNC Wilmington at Towson",
+        "sub_title": "UNCW at TOWS (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBGAME-26JAN29PREHP",
+        "series_ticker": "KXNCAAMBGAME",
+        "title": "Presbyterian at High Point",
+        "sub_title": "PRE at HP (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBGAME-26JAN29IDHOUNCO",
+        "series_ticker": "KXNCAAMBGAME",
+        "title": "Idaho at Northern Colorado",
+        "sub_title": "IDHO at UNCO (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNBAGAME-26JAN29DETPHX",
+        "series_ticker": "KXNBAGAME",
+        "title": "Detroit at Phoenix",
+        "sub_title": "DET at PHX (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNBAGAME-26JAN29BKNDEN",
+        "series_ticker": "KXNBAGAME",
+        "title": "Brooklyn at Denver",
+        "sub_title": "BKN at DEN (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAWBGAME-26JAN29UTASUU",
+        "series_ticker": "KXNCAAWBGAME",
+        "title": "UT Arlington at Southern Utah",
+        "sub_title": "UTA at SUU (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBGAME-26JAN29UTMEIU",
+        "series_ticker": "KXNCAAMBGAME",
+        "title": "Tennessee-Martin at Eastern Illinois",
+        "sub_title": "UTM at EIU (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBGAME-26JAN29UALRTNST",
+        "series_ticker": "KXNCAAMBGAME",
+        "title": "Little Rock at Tennessee St.",
+        "sub_title": "UALR at TNST (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBGAME-26JAN29SEMOWIU",
+        "series_ticker": "KXNCAAMBGAME",
+        "title": "Southeast Missouri St. at Western Illinois",
+        "sub_title": "SEMO at WIU (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBGAME-26JAN29LINWUSI",
+        "series_ticker": "KXNCAAMBGAME",
+        "title": "Lindenwood at Southern Indiana",
+        "sub_title": "LINW at USI (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNBAGAME-26JAN29CHADAL",
+        "series_ticker": "KXNBAGAME",
+        "title": "Charlotte at Dallas",
+        "sub_title": "CHA at DAL (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNHLTOTAL-26JAN29FLASTL",
+        "series_ticker": "KXNHLTOTAL",
+        "title": "Florida at St. Louis: Total Points",
+        "sub_title": "FLA at STL (Jan 29)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNHLTOTAL-26JAN29CGYMIN",
+        "series_ticker": "KXNHLTOTAL",
+        "title": "Calgary at Minnesota: Total Points",
+        "sub_title": "CGY at MIN (Jan 29)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNHLSPREAD-26JAN29FLASTL",
+        "series_ticker": "KXNHLSPREAD",
+        "title": "Florida at St. Louis: Spread",
+        "sub_title": "FLA at STL (Jan 29)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNHLSPREAD-26JAN29CGYMIN",
+        "series_ticker": "KXNHLSPREAD",
+        "title": "Calgary at Minnesota: Spread",
+        "sub_title": "CGY at MIN (Jan 29)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNHLGAME-26JAN29FLASTL",
+        "series_ticker": "KXNHLGAME",
+        "title": "Florida at St. Louis",
+        "sub_title": "FLA at STL (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNHLGAME-26JAN29CGYMIN",
+        "series_ticker": "KXNHLGAME",
+        "title": "Calgary at Minnesota",
+        "sub_title": "CGY at MIN (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAWBGAME-26JAN29WISOSU",
+        "series_ticker": "KXNCAAWBGAME",
+        "title": "Wisconsin at Ohio St.",
+        "sub_title": "WIS at OSU (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAWBGAME-26JAN29TARLUVU",
+        "series_ticker": "KXNCAAWBGAME",
+        "title": "Tarleton St. at Utah Valley",
+        "sub_title": "TARL at UVU (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAWBGAME-26JAN29ORUUND",
+        "series_ticker": "KXNCAAWBGAME",
+        "title": "Oral Roberts at North Dakota",
+        "sub_title": "ORU at UND (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAWBGAME-26JAN29LOUSTAN",
+        "series_ticker": "KXNCAAWBGAME",
+        "title": "Louisville at Stanford",
+        "sub_title": "LOU at STAN (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAWBGAME-26JAN29IWAMCC",
+        "series_ticker": "KXNCAAWBGAME",
+        "title": "Incarnate Word at Texas A&M-Corpus Christi",
+        "sub_title": "IW at AMCC (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAWBGAME-26JAN29DUKEMIA",
+        "series_ticker": "KXNCAAWBGAME",
+        "title": "Duke at Miami (FL)",
+        "sub_title": "DUKE at MIA (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAWBGAME-26JAN29DENNDSU",
+        "series_ticker": "KXNCAAWBGAME",
+        "title": "Denver at North Dakota St.",
+        "sub_title": "DEN at NDSU (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAWBGAME-26JAN29ARKLSU",
+        "series_ticker": "KXNCAAWBGAME",
+        "title": "Arkansas at LSU",
+        "sub_title": "ARK at LSU (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBGAME-26JAN29UVUTARL",
+        "series_ticker": "KXNCAAMBGAME",
+        "title": "Utah Valley at Tarleton St.",
+        "sub_title": "UVU at TARL (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBGAME-26JAN29UTUAC",
+        "series_ticker": "KXNCAAMBGAME",
+        "title": "Utah Tech at Abilene Christian",
+        "sub_title": "UTU at AC (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBGAME-26JAN29UNDUST",
+        "series_ticker": "KXNCAAMBGAME",
+        "title": "North Dakota at St. Thomas",
+        "sub_title": "UND at UST (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBGAME-26JAN29SUUUTA",
+        "series_ticker": "KXNCAAMBGAME",
+        "title": "Southern Utah at UT Arlington",
+        "sub_title": "SUU at UTA (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBGAME-26JAN29PSUNW",
+        "series_ticker": "KXNCAAMBGAME",
+        "title": "Penn St. at Northwestern",
+        "sub_title": "PSU at NW (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBGAME-26JAN29ORUSDAK",
+        "series_ticker": "KXNCAAMBGAME",
+        "title": "Oral Roberts at South Dakota",
+        "sub_title": "ORU at SDAK (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBGAME-26JAN29GASTULL",
+        "series_ticker": "KXNCAAMBGAME",
+        "title": "Georgia St. at Louisiana",
+        "sub_title": "GAST at ULL (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBGAME-26JAN29FAUMEM",
+        "series_ticker": "KXNCAAMBGAME",
+        "title": "Florida Atlantic at Memphis",
+        "sub_title": "FAU at MEM (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBGAME-26JAN29EWUNAU",
+        "series_ticker": "KXNCAAMBGAME",
+        "title": "Eastern Washington at Northern Arizona",
+        "sub_title": "EWU at NAU (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBGAME-26JAN29CCARUSA",
+        "series_ticker": "KXNCAAMBGAME",
+        "title": "Coastal Carolina at South Alabama",
+        "sub_title": "CCAR at USA (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBGAME-26JAN29APPUSM",
+        "series_ticker": "KXNCAAMBGAME",
+        "title": "Appalachian St. at Southern Miss",
+        "sub_title": "APP at USM (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNBAGAME-26JAN29MIACHI",
+        "series_ticker": "KXNBAGAME",
+        "title": "Miami at Chicago",
+        "sub_title": "MIA at CHI (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNBAGAME-26JAN29HOUATL",
+        "series_ticker": "KXNBAGAME",
+        "title": "Houston at Atlanta",
+        "sub_title": "HOU at ATL (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNHLTOTAL-26JAN29WSHDET",
+        "series_ticker": "KXNHLTOTAL",
+        "title": "Washington at Detroit: Total Points",
+        "sub_title": "WSH at DET (Jan 29)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNHLSPREAD-26JAN29WSHDET",
+        "series_ticker": "KXNHLSPREAD",
+        "title": "Washington at Detroit: Spread",
+        "sub_title": "WSH at DET (Jan 29)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNHLGAME-26JAN29WSHDET",
+        "series_ticker": "KXNHLGAME",
+        "title": "Washington at Detroit",
+        "sub_title": "WSH at DET (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAWBGAME-26JAN29VANMISS",
+        "series_ticker": "KXNCAAWBGAME",
+        "title": "Vanderbilt at Ole Miss",
+        "sub_title": "VAN at MISS (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAWBGAME-26JAN29UNOETAM",
+        "series_ticker": "KXNCAAWBGAME",
+        "title": "New Orleans at East Texas A&M",
+        "sub_title": "UNO at ETAM (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAWBGAME-26JAN29NICHNWST",
+        "series_ticker": "KXNCAAWBGAME",
+        "title": "Nicholls St. at Northwestern St.",
+        "sub_title": "NICH at NWST (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAWBGAME-26JAN29MCNSSFA",
+        "series_ticker": "KXNCAAWBGAME",
+        "title": "McNeese at Stephen F. Austin",
+        "sub_title": "MCNS at SFA (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAWBGAME-26JAN29KENNLT",
+        "series_ticker": "KXNCAAWBGAME",
+        "title": "Kennesaw St. at Louisiana Tech",
+        "sub_title": "KENN at LT (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAWBGAME-26JAN29JVSTSHSU",
+        "series_ticker": "KXNCAAWBGAME",
+        "title": "Jacksonville St. at Sam Houston",
+        "sub_title": "JVST at SHSU (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAWBGAME-26JAN29HCUUTRGV",
+        "series_ticker": "KXNCAAWBGAME",
+        "title": "Houston Christian at UT Rio Grande Valley",
+        "sub_title": "HCU at UTRGV (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAWBGAME-26JAN29FGCUCARK",
+        "series_ticker": "KXNCAAWBGAME",
+        "title": "Florida Gulf Coast at Central Arkansas",
+        "sub_title": "FGCU at CARK (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAWBGAME-26JAN29COLOKSU",
+        "series_ticker": "KXNCAAWBGAME",
+        "title": "Colorado at Kansas St.",
+        "sub_title": "COLO at KSU (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBGAME-26JAN29SIUEMORE",
+        "series_ticker": "KXNCAAMBGAME",
+        "title": "SIU Edwardsville at Morehead St.",
+        "sub_title": "SIUE at MORE (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBGAME-26JAN29GASOULM",
+        "series_ticker": "KXNCAAMBGAME",
+        "title": "Georgia Southern at Louisiana-Monroe",
+        "sub_title": "GASO at ULM (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBGAME-26JAN29CCSUWAG",
+        "series_ticker": "KXNCAAMBGAME",
+        "title": "Central Connecticut St. at Wagner",
+        "sub_title": "CCSU at WAG (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNHLTOTAL-26JAN29WPGTB",
+        "series_ticker": "KXNHLTOTAL",
+        "title": "Winnipeg at Tampa Bay: Total Points",
+        "sub_title": "WPG at TB (Jan 29)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNHLTOTAL-26JAN29UTACAR",
+        "series_ticker": "KXNHLTOTAL",
+        "title": "Utah at Carolina: Total Points",
+        "sub_title": "UTA at CAR (Jan 29)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNHLTOTAL-26JAN29PHIBOS",
+        "series_ticker": "KXNHLTOTAL",
+        "title": "Philadelphia at Boston: Total Points",
+        "sub_title": "PHI at BOS (Jan 29)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNHLTOTAL-26JAN29NYINYR",
+        "series_ticker": "KXNHLTOTAL",
+        "title": "New York I at New York R: Total Points",
+        "sub_title": "NYI at NYR (Jan 29)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNHLTOTAL-26JAN29NSHNJ",
+        "series_ticker": "KXNHLTOTAL",
+        "title": "Nashville at New Jersey: Total Points",
+        "sub_title": "NSH at NJ (Jan 29)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNHLTOTAL-26JAN29LABUF",
+        "series_ticker": "KXNHLTOTAL",
+        "title": "Los Angeles at Buffalo: Total Points",
+        "sub_title": "LA at BUF (Jan 29)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNHLTOTAL-26JAN29COLMTL",
+        "series_ticker": "KXNHLTOTAL",
+        "title": "Colorado at Montreal: Total Points",
+        "sub_title": "COL at MTL (Jan 29)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNHLTOTAL-26JAN29CHIPIT",
+        "series_ticker": "KXNHLTOTAL",
+        "title": "Chicago at Pittsburgh: Total Points",
+        "sub_title": "CHI at PIT (Jan 29)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNHLSPREAD-26JAN29WPGTB",
+        "series_ticker": "KXNHLSPREAD",
+        "title": "Winnipeg at Tampa Bay: Spread",
+        "sub_title": "WPG at TB (Jan 29)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNHLSPREAD-26JAN29UTACAR",
+        "series_ticker": "KXNHLSPREAD",
+        "title": "Utah at Carolina: Spread",
+        "sub_title": "UTA at CAR (Jan 29)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNHLSPREAD-26JAN29PHIBOS",
+        "series_ticker": "KXNHLSPREAD",
+        "title": "Philadelphia at Boston: Spread",
+        "sub_title": "PHI at BOS (Jan 29)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNHLSPREAD-26JAN29NYINYR",
+        "series_ticker": "KXNHLSPREAD",
+        "title": "New York I at New York R: Spread",
+        "sub_title": "NYI at NYR (Jan 29)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNHLSPREAD-26JAN29NSHNJ",
+        "series_ticker": "KXNHLSPREAD",
+        "title": "Nashville at New Jersey: Spread",
+        "sub_title": "NSH at NJ (Jan 29)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNHLSPREAD-26JAN29LABUF",
+        "series_ticker": "KXNHLSPREAD",
+        "title": "Los Angeles at Buffalo: Spread",
+        "sub_title": "LA at BUF (Jan 29)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNHLSPREAD-26JAN29COLMTL",
+        "series_ticker": "KXNHLSPREAD",
+        "title": "Colorado at Montreal: Spread",
+        "sub_title": "COL at MTL (Jan 29)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNHLSPREAD-26JAN29CHIPIT",
+        "series_ticker": "KXNHLSPREAD",
+        "title": "Chicago at Pittsburgh: Spread",
+        "sub_title": "CHI at PIT (Jan 29)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNHLGAME-26JAN29WPGTB",
+        "series_ticker": "KXNHLGAME",
+        "title": "Winnipeg at Tampa Bay",
+        "sub_title": "WPG at TB (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNHLGAME-26JAN29UTACAR",
+        "series_ticker": "KXNHLGAME",
+        "title": "Utah at Carolina",
+        "sub_title": "UTA at CAR (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNHLGAME-26JAN29PHIBOS",
+        "series_ticker": "KXNHLGAME",
+        "title": "Philadelphia at Boston",
+        "sub_title": "PHI at BOS (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNHLGAME-26JAN29NYINYR",
+        "series_ticker": "KXNHLGAME",
+        "title": "New York I at New York R",
+        "sub_title": "NYI at NYR (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNHLGAME-26JAN29NSHNJ",
+        "series_ticker": "KXNHLGAME",
+        "title": "Nashville at New Jersey",
+        "sub_title": "NSH at NJ (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNHLGAME-26JAN29LABUF",
+        "series_ticker": "KXNHLGAME",
+        "title": "Los Angeles at Buffalo",
+        "sub_title": "LA at BUF (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNHLGAME-26JAN29COLMTL",
+        "series_ticker": "KXNHLGAME",
+        "title": "Colorado at Montreal",
+        "sub_title": "COL at MTL (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNHLGAME-26JAN29CHIPIT",
+        "series_ticker": "KXNHLGAME",
+        "title": "Chicago at Pittsburgh",
+        "sub_title": "CHI at PIT (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAWBGAME-26JAN29YSUDET",
+        "series_ticker": "KXNCAAWBGAME",
+        "title": "Youngstown St. at Detroit Mercy",
+        "sub_title": "YSU at DET (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAWBGAME-26JAN29WRSTGB",
+        "series_ticker": "KXNCAAWBGAME",
+        "title": "Wright St. at Green Bay",
+        "sub_title": "WRST at GB (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAWBGAME-26JAN29UNIILST",
+        "series_ticker": "KXNCAAWBGAME",
+        "title": "Northern Iowa at Illinois St.",
+        "sub_title": "UNI at ILST (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAWBGAME-26JAN29UNFPEAY",
+        "series_ticker": "KXNCAAWBGAME",
+        "title": "North Florida at Austin Peay",
+        "sub_title": "UNF at PEAY (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAWBGAME-26JAN29TXAMOKLA",
+        "series_ticker": "KXNCAAWBGAME",
+        "title": "Texas A&M at Oklahoma",
+        "sub_title": "TXAM at OKLA (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAWBGAME-26JAN29TEXFLA",
+        "series_ticker": "KXNCAAWBGAME",
+        "title": "Texas at Florida",
+        "sub_title": "TEX at FLA (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAWBGAME-26JAN29STETUNA",
+        "series_ticker": "KXNCAAWBGAME",
+        "title": "Stetson at North Alabama",
+        "sub_title": "STET at UNA (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAWBGAME-26JAN29SOUJKST",
+        "series_ticker": "KXNCAAWBGAME",
+        "title": "Southern University at Jackson St.",
+        "sub_title": "SOU at JKST (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAWBGAME-26JAN29SMUCLEM",
+        "series_ticker": "KXNCAAWBGAME",
+        "title": "SMU at Clemson",
+        "sub_title": "SMU at CLEM (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAWBGAME-26JAN29SIUMURR",
+        "series_ticker": "KXNCAAWBGAME",
+        "title": "Southern Illinois at Murray St.",
+        "sub_title": "SIU at MURR (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAWBGAME-26JAN29QUINFAIR",
+        "series_ticker": "KXNCAAWBGAME",
+        "title": "Quinnipiac at Fairfield",
+        "sub_title": "QUIN at FAIR (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAWBGAME-26JAN29MOSUDEL",
+        "series_ticker": "KXNCAAWBGAME",
+        "title": "Missouri St. at Delaware",
+        "sub_title": "MOSU at DEL (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAWBGAME-26JAN29MICHIND",
+        "series_ticker": "KXNCAAWBGAME",
+        "title": "Michigan at Indiana",
+        "sub_title": "MICH at IND (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAWBGAME-26JAN29MANSHU",
+        "series_ticker": "KXNCAAWBGAME",
+        "title": "Manhattan at Sacred Heart",
+        "sub_title": "MAN at SHU (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAWBGAME-26JAN29LAMSELA",
+        "series_ticker": "KXNCAAWBGAME",
+        "title": "Lamar at Southeastern Louisiana",
+        "sub_title": "LAM at SELA (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAWBGAME-26JAN29JACLIP",
+        "series_ticker": "KXNCAAWBGAME",
+        "title": "Jacksonville at Lipscomb",
+        "sub_title": "JAC at LIP (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAWBGAME-26JAN29GRAMALCN",
+        "series_ticker": "KXNCAAWBGAME",
+        "title": "Grambling St. at Alcorn St.",
+        "sub_title": "GRAM at ALCN (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAWBGAME-26JAN29FIULIB",
+        "series_ticker": "KXNCAAWBGAME",
+        "title": "Florida International at Liberty",
+        "sub_title": "FIU at LIB (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAWBGAME-26JAN29FAMUALST",
+        "series_ticker": "KXNCAAWBGAME",
+        "title": "Florida A&M at Alabama St.",
+        "sub_title": "FAMU at ALST (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAWBGAME-26JAN29EKYUWGA",
+        "series_ticker": "KXNCAAWBGAME",
+        "title": "Eastern Kentucky at West Georgia",
+        "sub_title": "EKY at UWGA (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAWBGAME-26JAN29DRKEBRAD",
+        "series_ticker": "KXNCAAWBGAME",
+        "title": "Drake at Bradley",
+        "sub_title": "DRKE at BRAD (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAWBGAME-26JAN29COOKAAMU",
+        "series_ticker": "KXNCAAWBGAME",
+        "title": "Bethune-Cookman at Alabama A&M",
+        "sub_title": "COOK at AAMU (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAWBGAME-26JAN29CHSSFPA",
+        "series_ticker": "KXNCAAWBGAME",
+        "title": "Chicago St. at St. Francis (PA)",
+        "sub_title": "CHS at SFPA (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAWBGAME-26JAN29BELLQUC",
+        "series_ticker": "KXNCAAWBGAME",
+        "title": "Bellarmine at Queens University",
+        "sub_title": "BELL at QUC (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAWBGAME-26JAN29BELEVAN",
+        "series_ticker": "KXNCAAWBGAME",
+        "title": "Belmont at Evansville",
+        "sub_title": "BEL at EVAN (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBGAME-26JAN29WMELON",
+        "series_ticker": "KXNCAAMBGAME",
+        "title": "William & Mary at Elon",
+        "sub_title": "WM at ELON (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBGAME-26JAN29WCUETSU",
+        "series_ticker": "KXNCAAMBGAME",
+        "title": "Western Carolina at East Tennessee St.",
+        "sub_title": "WCU at ETSU (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBGAME-26JAN29VMICIT",
+        "series_ticker": "KXNCAAMBGAME",
+        "title": "VMI at The Citadel",
+        "sub_title": "VMI at CIT (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBGAME-26JAN29UNCGMER",
+        "series_ticker": "KXNCAAMBGAME",
+        "title": "UNC Greensboro at Mercer",
+        "sub_title": "UNCG at MER (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBGAME-26JAN29UNAFGCU",
+        "series_ticker": "KXNCAAMBGAME",
+        "title": "North Alabama at Florida Gulf Coast",
+        "sub_title": "UNA at FGCU (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBGAME-26JAN29UMBCUVM",
+        "series_ticker": "KXNCAAMBGAME",
+        "title": "UMBC at Vermont",
+        "sub_title": "UMBC at UVM (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBGAME-26JAN29STONCAMP",
+        "series_ticker": "KXNCAAMBGAME",
+        "title": "Stony Brook at Campbell",
+        "sub_title": "STON at CAMP (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBGAME-26JAN29STETUNF",
+        "series_ticker": "KXNCAAMBGAME",
+        "title": "Stetson at North Florida",
+        "sub_title": "STET at UNF (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBGAME-26JAN29SFPACHS",
+        "series_ticker": "KXNCAAMBGAME",
+        "title": "St. Francis (PA) at Chicago St.",
+        "sub_title": "SFPA at CHS (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBGAME-26JAN29RADCHSO",
+        "series_ticker": "KXNCAAMBGAME",
+        "title": "Radford at Charleston Southern",
+        "sub_title": "RAD at CHSO (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBGAME-26JAN29NHCMHU",
+        "series_ticker": "KXNCAAMBGAME",
+        "title": "New Haven at Mercyhurst",
+        "sub_title": "NHC at MHU (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBGAME-26JAN29NCATMONM",
+        "series_ticker": "KXNCAAMBGAME",
+        "title": "North Carolina A&T at Monmouth",
+        "sub_title": "NCAT at MONM (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBGAME-26JAN29LONGSCUS",
+        "series_ticker": "KXNCAAMBGAME",
+        "title": "Longwood at USC Upstate",
+        "sub_title": "LONG at SCUS (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBGAME-26JAN29LMCLIU",
+        "series_ticker": "KXNCAAMBGAME",
+        "title": "Le Moyne at LIU",
+        "sub_title": "LMC at LIU (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBGAME-26JAN29LIPJAC",
+        "series_ticker": "KXNCAAMBGAME",
+        "title": "Lipscomb at Jacksonville",
+        "sub_title": "LIP at JAC (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBGAME-26JAN29LIBMTU",
+        "series_ticker": "KXNCAAMBGAME",
+        "title": "Liberty at Middle Tennessee",
+        "sub_title": "LIB at MTU (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBGAME-26JAN29JMUTROY",
+        "series_ticker": "KXNCAAMBGAME",
+        "title": "James Madison at Troy",
+        "sub_title": "JMU at TROY (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBGAME-26JAN29HAMPDREX",
+        "series_ticker": "KXNCAAMBGAME",
+        "title": "Hampton at Drexel",
+        "sub_title": "HAMP at DREX (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBGAME-26JAN29FDUSTNH",
+        "series_ticker": "KXNCAAMBGAME",
+        "title": "FDU at Stonehill",
+        "sub_title": "FDU at STNH (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBGAME-26JAN29COLOISU",
+        "series_ticker": "KXNCAAMBGAME",
+        "title": "Colorado at Iowa St.",
+        "sub_title": "COLO at ISU (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBGAME-26JAN29COFCHOF",
+        "series_ticker": "KXNCAAMBGAME",
+        "title": "Charleston at Hofstra",
+        "sub_title": "COFC at HOF (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNBAGAME-26JAN29SACPHI",
+        "series_ticker": "KXNBAGAME",
+        "title": "Sacramento at Philadelphia",
+        "sub_title": "SAC at PHI (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNBAGAME-26JAN29MILWAS",
+        "series_ticker": "KXNBAGAME",
+        "title": "Milwaukee at Washington",
+        "sub_title": "MIL at WAS (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAWBGAME-26JAN29UVMUMBC",
+        "series_ticker": "KXNCAAWBGAME",
+        "title": "Vermont at UMBC",
+        "sub_title": "UVM at UMBC (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAWBGAME-26JAN29USAAPP",
+        "series_ticker": "KXNCAAWBGAME",
+        "title": "South Alabama at Appalachian St.",
+        "sub_title": "USA at APP (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAWBGAME-26JAN29MSSTTENN",
+        "series_ticker": "KXNCAAWBGAME",
+        "title": "Mississippi St. at Tennessee",
+        "sub_title": "MSST at TENN (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAWBGAME-26JAN29ALAUGA",
+        "series_ticker": "KXNCAAWBGAME",
+        "title": "Alabama at Georgia",
+        "sub_title": "ALA at UGA (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBGAME-26JAN29WEBBUNCA",
+        "series_ticker": "KXNCAAMBGAME",
+        "title": "Gardner-Webb at UNC Asheville",
+        "sub_title": "WEBB at UNCA (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBGAME-26JAN29NJITALBY",
+        "series_ticker": "KXNCAAMBGAME",
+        "title": "NJIT at University at Albany",
+        "sub_title": "NJIT at ALBY (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBGAME-26JAN29BRYBING",
+        "series_ticker": "KXNCAAMBGAME",
+        "title": "Bryant at Binghamton",
+        "sub_title": "BRY at BING (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAWBGAME-26JAN29UVAWAKE",
+        "series_ticker": "KXNCAAWBGAME",
+        "title": "Virginia at Wake Forest",
+        "sub_title": "UVA at WAKE (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAWBGAME-26JAN29UTMEIU",
+        "series_ticker": "KXNCAAWBGAME",
+        "title": "Tennessee-Martin at Eastern Illinois",
+        "sub_title": "UTM at EIU (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAWBGAME-26JAN29UNHMASSL",
+        "series_ticker": "KXNCAAWBGAME",
+        "title": "New Hampshire at UMass Lowell",
+        "sub_title": "UNH at MASSL (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAWBGAME-26JAN29ULLJMU",
+        "series_ticker": "KXNCAAWBGAME",
+        "title": "Louisiana at James Madison",
+        "sub_title": "ULL at JMU (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAWBGAME-26JAN29UALRTNST",
+        "series_ticker": "KXNCAAWBGAME",
+        "title": "Little Rock at Tennessee St.",
+        "sub_title": "UALR at TNST (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAWBGAME-26JAN29SEMOWIU",
+        "series_ticker": "KXNCAAWBGAME",
+        "title": "Southeast Missouri St. at Western Illinois",
+        "sub_title": "SEMO at WIU (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAWBGAME-26JAN29PITTVT",
+        "series_ticker": "KXNCAAWBGAME",
+        "title": "Pittsburgh at Virginia Tech",
+        "sub_title": "PITT at VT (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAWBGAME-26JAN29NIAGSIE",
+        "series_ticker": "KXNCAAWBGAME",
+        "title": "Niagara at Siena",
+        "sub_title": "NIAG at SIE (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAWBGAME-26JAN29NCSTBC",
+        "series_ticker": "KXNCAAWBGAME",
+        "title": "North Carolina St. at Boston College",
+        "sub_title": "NCST at BC (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAWBGAME-26JAN29MSUPUR",
+        "series_ticker": "KXNCAAWBGAME",
+        "title": "Michigan St. at Purdue",
+        "sub_title": "MSU at PUR (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAWBGAME-26JAN29MSMRID",
+        "series_ticker": "KXNCAAWBGAME",
+        "title": "Mount St. Mary's at Rider",
+        "sub_title": "MSM at RID (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAWBGAME-26JAN29MHUNHC",
+        "series_ticker": "KXNCAAWBGAME",
+        "title": "Mercyhurst at New Haven",
+        "sub_title": "MHU at NHC (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAWBGAME-26JAN29LIULMC",
+        "series_ticker": "KXNCAAWBGAME",
+        "title": "LIU at Le Moyne",
+        "sub_title": "LIU at LMC (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAWBGAME-26JAN29LINWSIND",
+        "series_ticker": "KXNCAAWBGAME",
+        "title": "Lindenwood at Southern Indiana",
+        "sub_title": "LINW at SIND (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAWBGAME-26JAN29KUTCU",
+        "series_ticker": "KXNCAAWBGAME",
+        "title": "Kansas at TCU",
+        "sub_title": "KU at TCU (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAWBGAME-26JAN29GTSYR",
+        "series_ticker": "KXNCAAWBGAME",
+        "title": "Georgia Tech at Syracuse",
+        "sub_title": "GT at SYR (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAWBGAME-26JAN29BINGBRY",
+        "series_ticker": "KXNCAAWBGAME",
+        "title": "Binghamton at Bryant",
+        "sub_title": "BING at BRY (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAWBGAME-26JAN29ALBYNJIT",
+        "series_ticker": "KXNCAAWBGAME",
+        "title": "University at Albany at NJIT",
+        "sub_title": "ALBY at NJIT (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBGAME-26JAN29WOFCHAT",
+        "series_ticker": "KXNCAAMBGAME",
+        "title": "Wofford at Chattanooga",
+        "sub_title": "WOF at CHAT (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBGAME-26JAN29MASSLUNH",
+        "series_ticker": "KXNCAAMBGAME",
+        "title": "UMass Lowell at New Hampshire",
+        "sub_title": "MASSL at UNH (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAWBGAME-26JAN29STNHFDU",
+        "series_ticker": "KXNCAAWBGAME",
+        "title": "Stonehill at FDU",
+        "sub_title": "STNH at FDU (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAWBGAME-26JAN29SIUEMORE",
+        "series_ticker": "KXNCAAWBGAME",
+        "title": "SIU Edwardsville at Morehead St.",
+        "sub_title": "SIUE at MORE (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAWBGAME-26JAN29EWUNAU",
+        "series_ticker": "KXNCAAWBGAME",
+        "title": "Eastern Washington at Northern Arizona",
+        "sub_title": "EWU at NAU (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAWBGAME-26JAN29CCSUWAG",
+        "series_ticker": "KXNCAAWBGAME",
+        "title": "Central Connecticut St. at Wagner",
+        "sub_title": "CCSU at WAG (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAWBGAME-26JAN29CANMRST",
+        "series_ticker": "KXNCAAWBGAME",
+        "title": "Canisius at Marist",
+        "sub_title": "CAN at MRST (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMBGAME-26JAN29SAMFUR",
+        "series_ticker": "KXNCAAMBGAME",
+        "title": "Samford at Furman",
+        "sub_title": "SAM at FUR (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXCRICKETT20IMATCH-26JAN29WISA",
+        "series_ticker": "KXCRICKETT20IMATCH",
+        "title": "South Africa vs West Indies",
+        "sub_title": "SA vs WI (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXRAINNYC-26JAN28",
+        "series_ticker": "KXRAINNYC",
+        "title": "Will it rain in NYC on Jan 28, 2026?",
+        "sub_title": "On Jan 28, 2026",
+        "mutually_exclusive": false,
+        "category": "Climate and Weather"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXLOLMAP-26JAN29WBJDG-2",
+        "series_ticker": "KXLOLMAP",
+        "title": "LPL 2026: Weibo Gaming vs. JD Gaming Map 2",
+        "sub_title": "Map 2: WB vs. JDG (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXLOLMAP-26JAN29WBJDG-1",
+        "series_ticker": "KXLOLMAP",
+        "title": "LPL 2026: Weibo Gaming vs. JD Gaming Map 1",
+        "sub_title": "Map 1: WB vs. JDG (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXLOLMAP-26JAN29NIPTT-2",
+        "series_ticker": "KXLOLMAP",
+        "title": "LPL 2026: Ninjas in Pyjamas vs. ThunderTalk Gaming Map 2",
+        "sub_title": "Map 2: NIP vs. TT (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXLOLMAP-26JAN29NIPTT-1",
+        "series_ticker": "KXLOLMAP",
+        "title": "LPL 2026: Ninjas in Pyjamas vs. ThunderTalk Gaming Map 1",
+        "sub_title": "Map 1: NIP vs. TT (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXLOLMAP-26JAN29SHGCFO-2",
+        "series_ticker": "KXLOLMAP",
+        "title": "LCP 2026: Fukuoka SoftBank Hawks Gaming vs. CTBC Flying Oyster Map 2",
+        "sub_title": "Map 2: SHG vs. CFO (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXLOLMAP-26JAN29SHGCFO-1",
+        "series_ticker": "KXLOLMAP",
+        "title": "LCP 2026: Fukuoka SoftBank Hawks Gaming vs. CTBC Flying Oyster Map 1",
+        "sub_title": "Map 1: SHG vs. CFO (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXLOLMAP-26JAN29FOXDNF-3",
+        "series_ticker": "KXLOLMAP",
+        "title": "LCK Cup 2026: BNK FEARX vs. DN SOOPers Map 3",
+        "sub_title": "Map 3: FOX vs. DNF (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXLOLMAP-26JAN29FOXDNF-2",
+        "series_ticker": "KXLOLMAP",
+        "title": "LCK Cup 2026: BNK FEARX vs. DN SOOPers Map 2",
+        "sub_title": "Map 2: FOX vs. DNF (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXLOLMAP-26JAN29FOXDNF-1",
+        "series_ticker": "KXLOLMAP",
+        "title": "LCK Cup 2026: BNK FEARX vs. DN SOOPers Map 1",
+        "sub_title": "Map 1: FOX vs. DNF (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXWTAMATCH-26JAN29SABSVI",
+        "series_ticker": "KXWTAMATCH",
+        "title": "Sabalenka vs Svitolina",
+        "sub_title": "Sabalenka vs Svitolina (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXLOLMAP-26JAN29DCGMVK-2",
+        "series_ticker": "KXLOLMAP",
+        "title": "LCP 2026: Deep Cross Gaming vs. MVK Esports Map 2",
+        "sub_title": "Map 2: DCG vs. MVK (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXLOLMAP-26JAN29DCGMVK-1",
+        "series_ticker": "KXLOLMAP",
+        "title": "LCP 2026: Deep Cross Gaming vs. MVK Esports Map 1",
+        "sub_title": "Map 1: DCG vs. MVK (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXLOLMAP-26JAN29BROCGENGA-3",
+        "series_ticker": "KXLOLMAP",
+        "title": "LCK Challengers League Kickoff 2026: HANJIN BRION Challengers vs. Gen.G Global Academy Map 3",
+        "sub_title": "Map 3: BROC vs. GENGA (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXLOLMAP-26JAN29BROCGENGA-2",
+        "series_ticker": "KXLOLMAP",
+        "title": "LCK Challengers League Kickoff 2026: HANJIN BRION Challengers vs. Gen.G Global Academy Map 2",
+        "sub_title": "Map 2: BROC vs. GENGA (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXLOLMAP-26JAN29BROCGENGA-1",
+        "series_ticker": "KXLOLMAP",
+        "title": "LCK Challengers League Kickoff 2026: HANJIN BRION Challengers vs. Gen.G Global Academy Map 1",
+        "sub_title": "Map 1: BROC vs. GENGA (Jan 29)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNBAAST-26JAN28SASHOU",
+        "series_ticker": "KXNBAAST",
+        "title": "San Antonio at Houston: Assists",
+        "sub_title": "SAS at HOU (Jan 28)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNBA3D-26JAN28SASHOU",
+        "series_ticker": "KXNBA3D",
+        "title": "San Antonio at Houston: Triple Doubles",
+        "sub_title": "SAS at HOU (Jan 28)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNBA2D-26JAN28SASHOU",
+        "series_ticker": "KXNBA2D",
+        "title": "San Antonio at Houston: Double Doubles",
+        "sub_title": "SAS at HOU (Jan 28)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXCS2TOTALMAPS-26JAN28NIPTL",
+        "series_ticker": "KXCS2TOTALMAPS",
+        "title": "IEM Krakow 2026: NIP vs. Liquid Total Maps",
+        "sub_title": "Total Maps: NIP vs. TL (Jan 28)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXCS2TOTALMAPS-26JAN28G2PSSNUA",
+        "series_ticker": "KXCS2TOTALMAPS",
+        "title": "IEM Krakow 2026: G2 vs. Passion UA Total Maps",
+        "sub_title": "Total Maps: G2 vs. PSSNUA (Jan 28)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXCS2MAP-26JAN28NIPTL-2",
+        "series_ticker": "KXCS2MAP",
+        "title": "IEM Krakow 2026: NIP vs. Liquid Map 2",
+        "sub_title": "Map 2: NIP vs. TL (Jan 28)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXCS2MAP-26JAN28NIPTL-1",
+        "series_ticker": "KXCS2MAP",
+        "title": "IEM Krakow 2026: NIP vs. Liquid Map 1",
+        "sub_title": "Map 1: NIP vs. TL (Jan 28)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXCS2MAP-26JAN28G2PSSNUA-2",
+        "series_ticker": "KXCS2MAP",
+        "title": "IEM Krakow 2026: G2 vs. Passion UA Map 2",
+        "sub_title": "Map 2: G2 vs. PSSNUA (Jan 28)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXCS2MAP-26JAN28G2PSSNUA-1",
+        "series_ticker": "KXCS2MAP",
+        "title": "IEM Krakow 2026: G2 vs. Passion UA Map 1",
+        "sub_title": "Map 1: G2 vs. PSSNUA (Jan 28)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXDOTA2GAME-26JAN28AURPIP",
+        "series_ticker": "KXDOTA2GAME",
+        "title": "FISSURE Universe Episode 8 2026: Aurora vs. Pipsqueak+4",
+        "sub_title": "Aurora vs. Pipsqueak+4 (Jan 28)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXCS2TOTALMAPS-26JAN28BCGLGC",
+        "series_ticker": "KXCS2TOTALMAPS",
+        "title": "IEM Krakow 2026: BC.Game Esports vs. Legacy Total Maps",
+        "sub_title": "Total Maps: BCG vs. LGC (Jan 28)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXCS2TOTALMAPS-26JAN283DMAXFUT",
+        "series_ticker": "KXCS2TOTALMAPS",
+        "title": "IEM Krakow 2026: 3DMAX vs. FUT Esports Total Maps",
+        "sub_title": "Total Maps: 3DMAX vs. FUT (Jan 28)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXCS2MAP-26JAN28BCGLGC-2",
+        "series_ticker": "KXCS2MAP",
+        "title": "IEM Krakow 2026: BC.Game Esports vs. Legacy Map 2",
+        "sub_title": "Map 2: BCG vs. LGC (Jan 28)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXCS2MAP-26JAN28BCGLGC-1",
+        "series_ticker": "KXCS2MAP",
+        "title": "IEM Krakow 2026: BC.Game Esports vs. Legacy Map 1",
+        "sub_title": "Map 1: BCG vs. LGC (Jan 28)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXCS2MAP-26JAN283DMAXFUT-2",
+        "series_ticker": "KXCS2MAP",
+        "title": "IEM Krakow 2026: 3DMAX vs. FUT Esports Map 2",
+        "sub_title": "Map 2: 3DMAX vs. FUT (Jan 28)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXCS2MAP-26JAN283DMAXFUT-1",
+        "series_ticker": "KXCS2MAP",
+        "title": "IEM Krakow 2026: 3DMAX vs. FUT Esports Map 1",
+        "sub_title": "Map 1: 3DMAX vs. FUT (Jan 28)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXDOTA2GAME-26JAN28PRSTR",
+        "series_ticker": "KXDOTA2GAME",
+        "title": "FISSURE Universe Episode 8 2026: Power Rangers vs. strongboys",
+        "sub_title": "Power Rangers vs. strongboys (Jan 28)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXCS2TOTALMAPS-26JAN28PAINAST",
+        "series_ticker": "KXCS2TOTALMAPS",
+        "title": "IEM Krakow 2026: paiN vs. Astralis Total Maps",
+        "sub_title": "Total Maps: PAIN vs. AST (Jan 28)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXCS2TOTALMAPS-26JAN28B8NRG",
+        "series_ticker": "KXCS2TOTALMAPS",
+        "title": "IEM Krakow 2026: B8 vs. NRG Total Maps",
+        "sub_title": "Total Maps: B8 vs. NRG (Jan 28)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXCS2MAP-26JAN28PAINAST-2",
+        "series_ticker": "KXCS2MAP",
+        "title": "IEM Krakow 2026: paiN vs. Astralis Map 2",
+        "sub_title": "Map 2: PAIN vs. AST (Jan 28)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXCS2MAP-26JAN28PAINAST-1",
+        "series_ticker": "KXCS2MAP",
+        "title": "IEM Krakow 2026: paiN vs. Astralis Map 1",
+        "sub_title": "Map 1: PAIN vs. AST (Jan 28)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXCS2MAP-26JAN28B8NRG-2",
+        "series_ticker": "KXCS2MAP",
+        "title": "IEM Krakow 2026: B8 vs. NRG Map 2",
+        "sub_title": "Map 2: B8 vs. NRG (Jan 28)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXCS2MAP-26JAN28B8NRG-1",
+        "series_ticker": "KXCS2MAP",
+        "title": "IEM Krakow 2026: B8 vs. NRG Map 1",
+        "sub_title": "Map 1: B8 vs. NRG (Jan 28)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXATPCHALLENGERMATCH-26JAN28GAKROS",
         "series_ticker": "KXATPCHALLENGERMATCH",
-        "title": "Artnak vs Jones",
-        "sub_title": "Artnak vs Jones (Jan 26)",
+        "title": "Gakhov vs Rosenkranz",
+        "sub_title": "Gakhov vs Rosenkranz (Jan 28)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXATPCHALLENGERMATCH-26JAN28GLIKUK",
+        "series_ticker": "KXATPCHALLENGERMATCH",
+        "title": "Glinka vs Kukushkin",
+        "sub_title": "Glinka vs Kukushkin (Jan 28)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXATPCHALLENGERMATCH-26JAN28BUDKUZ",
+        "series_ticker": "KXATPCHALLENGERMATCH",
+        "title": "Budkov Kjaer vs Kuzmanov",
+        "sub_title": "Budkov Kjaer vs Kuzmanov (Jan 28)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXATPCHALLENGERMATCH-26JAN28GUELOK",
+        "series_ticker": "KXATPCHALLENGERMATCH",
+        "title": "Gueymard Wayenburg vs Lokoli",
+        "sub_title": "Gueymard Wayenburg vs Lokoli (Jan 28)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXATPCHALLENGERMATCH-26JAN28MORLLA",
+        "series_ticker": "KXATPCHALLENGERMATCH",
+        "title": "Moro Canas vs Llamas Ruiz",
+        "sub_title": "Moro Canas vs Llamas Ruiz (Jan 28)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXLOLTOTALMAPS-26JAN28EDGNIP",
+        "series_ticker": "KXLOLTOTALMAPS",
+        "title": "LPL 2026: EDward Gaming vs. Ninjas in Pyjamas Total Maps",
+        "sub_title": "Total Maps: EDG vs. NIP (Jan 28)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXATPCHALLENGERMATCH-26JAN28MARBOU",
+        "series_ticker": "KXATPCHALLENGERMATCH",
+        "title": "Martinez vs Bouquier",
+        "sub_title": "Martinez vs Bouquier (Jan 28)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXATPCHALLENGERMATCH-26JAN28MARFAU",
+        "series_ticker": "KXATPCHALLENGERMATCH",
+        "title": "Martineau vs Faurel",
+        "sub_title": "Martineau vs Faurel (Jan 28)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXATPCHALLENGERMATCH-26JAN28PACNAR",
+        "series_ticker": "KXATPCHALLENGERMATCH",
+        "title": "Pacheco Mendez vs Nardi",
+        "sub_title": "Pacheco Mendez vs Nardi (Jan 28)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXCS2TOTALMAPS-26JAN28PRVHERO",
+        "series_ticker": "KXCS2TOTALMAPS",
+        "title": "IEM Krakow 2026: PARIVISION vs. Heroic Total Maps",
+        "sub_title": "Total Maps: PRV vs. HERO (Jan 28)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXCS2TOTALMAPS-26JAN28GLAUR",
+        "series_ticker": "KXCS2TOTALMAPS",
+        "title": "IEM Krakow 2026: GamerLegion vs. Aurora Gaming Total Maps",
+        "sub_title": "Total Maps: GL vs. AUR (Jan 28)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXCS2MAP-26JAN28PRVHERO-2",
+        "series_ticker": "KXCS2MAP",
+        "title": "IEM Krakow 2026: PARIVISION vs. Heroic Map 2",
+        "sub_title": "Map 2: PRV vs. HERO (Jan 28)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXCS2MAP-26JAN28PRVHERO-1",
+        "series_ticker": "KXCS2MAP",
+        "title": "IEM Krakow 2026: PARIVISION vs. Heroic Map 1",
+        "sub_title": "Map 1: PRV vs. HERO (Jan 28)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXCS2MAP-26JAN28GLAUR-2",
+        "series_ticker": "KXCS2MAP",
+        "title": "IEM Krakow 2026: GamerLegion vs. Aurora Gaming Map 2",
+        "sub_title": "Map 2: GL vs. AUR (Jan 28)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXCS2MAP-26JAN28GLAUR-1",
+        "series_ticker": "KXCS2MAP",
+        "title": "IEM Krakow 2026: GamerLegion vs. Aurora Gaming Map 1",
+        "sub_title": "Map 1: GL vs. AUR (Jan 28)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXATPCHALLENGERMATCH-26JAN28POKDEN",
+        "series_ticker": "KXATPCHALLENGERMATCH",
+        "title": "Pokorny vs Den Ouden",
+        "sub_title": "Pokorny vs Den Ouden (Jan 28)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXATPCHALLENGERMATCH-26JAN28GREHAR",
+        "series_ticker": "KXATPCHALLENGERMATCH",
+        "title": "Grenier vs Harris",
+        "sub_title": "Grenier vs Harris (Jan 28)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXATPCHALLENGERMATCH-26JAN28BASGHA",
+        "series_ticker": "KXATPCHALLENGERMATCH",
+        "title": "Basilashvili vs Ghazouani Durand",
+        "sub_title": "Basilashvili vs Ghazouani Durand (Jan 28)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXLOLTOTALMAPS-26JAN28LNGOMG",
+        "series_ticker": "KXLOLTOTALMAPS",
+        "title": "LPL 2026: LNG Esports vs. Oh My God Total Maps",
+        "sub_title": "Total Maps: LNG vs. OMG (Jan 28)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXATPCHALLENGERMATCH-26JAN28POPBLA",
+        "series_ticker": "KXATPCHALLENGERMATCH",
+        "title": "Popyrin vs Blanchet",
+        "sub_title": "Popyrin vs Blanchet (Jan 28)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXATPCHALLENGERMATCH-26JAN28MRVBUT",
+        "series_ticker": "KXATPCHALLENGERMATCH",
+        "title": "Mrva vs Butvilas",
+        "sub_title": "Mrva vs Butvilas (Jan 28)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXATPCHALLENGERMATCH-26JAN28HANDHA",
+        "series_ticker": "KXATPCHALLENGERMATCH",
+        "title": "Hanfmann vs Dhamne",
+        "sub_title": "Hanfmann vs Dhamne (Jan 28)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXLOLTOTALMAPS-26JAN28DRXBRO",
+        "series_ticker": "KXLOLTOTALMAPS",
+        "title": "LCK Cup 2026: DRX vs. OKSavingsBank BRION Total Maps",
+        "sub_title": "Total Maps: DRX vs. BRO (Jan 28)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXATPCHALLENGERMATCH-26JAN28MARHAR",
+        "series_ticker": "KXATPCHALLENGERMATCH",
+        "title": "Martin vs Harris",
+        "sub_title": "Martin vs Harris (Jan 28)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXATPCHALLENGERMATCH-26JAN28ARNDRO",
+        "series_ticker": "KXATPCHALLENGERMATCH",
+        "title": "Arnaboldi vs Droguet",
+        "sub_title": "Arnaboldi vs Droguet (Jan 28)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXLOLTOTALMAPS-26JAN28LGDUP",
+        "series_ticker": "KXLOLTOTALMAPS",
+        "title": "LPL 2026: LGD Gaming vs. Ultra Prime Total Maps",
+        "sub_title": "Total Maps: LGD vs. UP (Jan 28)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXATPCHALLENGERMATCH-26JAN28URSSCH",
+        "series_ticker": "KXATPCHALLENGERMATCH",
+        "title": "Ursu vs Schwaerzler",
+        "sub_title": "Ursu vs Schwaerzler (Jan 28)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXATPCHALLENGERMATCH-26JAN28TRAMOC",
+        "series_ticker": "KXATPCHALLENGERMATCH",
+        "title": "Travaglia vs Mochizuki",
+        "sub_title": "Travaglia vs Mochizuki (Jan 28)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXATPCHALLENGERMATCH-26JAN28EREBEL",
+        "series_ticker": "KXATPCHALLENGERMATCH",
+        "title": "Erel vs Bellucci",
+        "sub_title": "Erel vs Bellucci (Jan 28)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXATPCHALLENGERMATCH-26JAN27BLAHSU",
+        "series_ticker": "KXATPCHALLENGERMATCH",
+        "title": "Blanch vs Hsu",
+        "sub_title": "Blanch vs Hsu (Jan 27)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNBA2D-26JAN27LACUTA",
+        "series_ticker": "KXNBA2D",
+        "title": "Los Angeles C at Utah: Double Doubles",
+        "sub_title": "LAC at UTA (Jan 27)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXATPCHALLENGERMATCH-26JAN27ZHODEN",
+        "series_ticker": "KXATPCHALLENGERMATCH",
+        "title": "Zhou vs Denolly",
+        "sub_title": "Zhou vs Denolly (Jan 27)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXATPCHALLENGERMATCH-26JAN27JONMAR",
+        "series_ticker": "KXATPCHALLENGERMATCH",
+        "title": "Jones vs Martin Tiffon",
+        "sub_title": "Jones vs Martin Tiffon (Jan 27)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXATPCHALLENGERMATCH-26JAN27ARNSAK",
+        "series_ticker": "KXATPCHALLENGERMATCH",
+        "title": "Bailly vs Sakellaridis",
+        "sub_title": "Bailly vs Sakellaridis (Jan 27)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNBASTL-26JAN27DETDEN",
+        "series_ticker": "KXNBASTL",
+        "title": "Detroit at Denver: Steals",
+        "sub_title": "DET at DEN (Jan 27)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNBABLK-26JAN27BKNPHX",
+        "series_ticker": "KXNBABLK",
+        "title": "Brooklyn at Phoenix: Blocks",
+        "sub_title": "BKN at PHX (Jan 27)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNBA3PT-26JAN27BKNPHX",
+        "series_ticker": "KXNBA3PT",
+        "title": "Brooklyn at Phoenix: Three Pointers",
+        "sub_title": "BKN at PHX (Jan 27)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNBA2D-26JAN27BKNPHX",
+        "series_ticker": "KXNBA2D",
+        "title": "Brooklyn at Phoenix: Double Doubles",
+        "sub_title": "BKN at PHX (Jan 27)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNBASTL-26JAN27MILPHI",
+        "series_ticker": "KXNBASTL",
+        "title": "Milwaukee at Philadelphia: Steals",
+        "sub_title": "MIL at PHI (Jan 27)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNBA3D-26JAN27NOPOKC",
+        "series_ticker": "KXNBA3D",
+        "title": "New Orleans at Oklahoma City: Triple Doubles",
+        "sub_title": "NOP at OKC (Jan 27)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNBA2D-26JAN27NOPOKC",
+        "series_ticker": "KXNBA2D",
+        "title": "New Orleans at Oklahoma City: Double Doubles",
+        "sub_title": "NOP at OKC (Jan 27)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNBA2D-26JAN27MILPHI",
+        "series_ticker": "KXNBA2D",
+        "title": "Milwaukee at Philadelphia: Double Doubles",
+        "sub_title": "MIL at PHI (Jan 27)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXSOL15M-26JAN272045",
+        "series_ticker": "KXSOL15M",
+        "title": "SOL Up or Down - 15 minutes",
+        "sub_title": "Jan 27 - 8:30PM EST to 8:45PM EST",
+        "mutually_exclusive": false,
+        "category": "Crypto"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXETH15M-26JAN272045",
+        "series_ticker": "KXETH15M",
+        "title": "ETH Up or Down - 15 minutes",
+        "sub_title": "Jan 27 - 8:30PM EST to 8:45PM EST",
+        "mutually_exclusive": false,
+        "category": "Crypto"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXBTC15M-26JAN272045",
+        "series_ticker": "KXBTC15M",
+        "title": "BTC Up or Down - 15 minutes",
+        "sub_title": "Jan 27 - 8:30PM EST to 8:45PM EST",
+        "mutually_exclusive": false,
+        "category": "Crypto"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXATPCHALLENGERMATCH-26JAN27LANSMI",
+        "series_ticker": "KXATPCHALLENGERMATCH",
+        "title": "Langmo vs Smith",
+        "sub_title": "Langmo vs Smith (Jan 27)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXATPCHALLENGERMATCH-26JAN27KRUSTE",
+        "series_ticker": "KXATPCHALLENGERMATCH",
+        "title": "Krueger vs Stebe",
+        "sub_title": "Krueger vs Stebe (Jan 27)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXATPCHALLENGERMATCH-26JAN27CASDRA",
+        "series_ticker": "KXATPCHALLENGERMATCH",
+        "title": "Cassone vs Draxl",
+        "sub_title": "Cassone vs Draxl (Jan 27)",
         "mutually_exclusive": true,
         "category": "Sports"
     }
