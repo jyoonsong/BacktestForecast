@@ -386,40 +386,40 @@
     {
         "bing_reports": {},
         "ddgs_reports": {},
-        "event_ticker": "KXXRP15M-26FEB172045",
+        "event_ticker": "KXXRP15M-26FEB182045",
         "series_ticker": "KXXRP15M",
         "title": "XRP Up or Down - 15 minutes",
-        "sub_title": "Feb 17 - 8:30PM EST to 8:45PM EST",
+        "sub_title": "Feb 18 - 8:30PM EST to 8:45PM EST",
         "mutually_exclusive": false,
         "category": "Crypto"
     },
     {
         "bing_reports": {},
         "ddgs_reports": {},
-        "event_ticker": "KXSOL15M-26FEB172045",
+        "event_ticker": "KXSOL15M-26FEB182045",
         "series_ticker": "KXSOL15M",
         "title": "SOL Up or Down - 15 minutes",
-        "sub_title": "Feb 17 - 8:30PM EST to 8:45PM EST",
+        "sub_title": "Feb 18 - 8:30PM EST to 8:45PM EST",
         "mutually_exclusive": false,
         "category": "Crypto"
     },
     {
         "bing_reports": {},
         "ddgs_reports": {},
-        "event_ticker": "KXETH15M-26FEB172045",
+        "event_ticker": "KXETH15M-26FEB182045",
         "series_ticker": "KXETH15M",
         "title": "ETH Up or Down - 15 minutes",
-        "sub_title": "Feb 17 - 8:30PM EST to 8:45PM EST",
+        "sub_title": "Feb 18 - 8:30PM EST to 8:45PM EST",
         "mutually_exclusive": false,
         "category": "Crypto"
     },
     {
         "bing_reports": {},
         "ddgs_reports": {},
-        "event_ticker": "KXBTC15M-26FEB172045",
+        "event_ticker": "KXBTC15M-26FEB182045",
         "series_ticker": "KXBTC15M",
         "title": "BTC Up or Down - 15 minutes",
-        "sub_title": "Feb 17 - 8:30PM EST to 8:45PM EST",
+        "sub_title": "Feb 18 - 8:30PM EST to 8:45PM EST",
         "mutually_exclusive": false,
         "category": "Crypto"
     },
@@ -1493,10 +1493,10 @@
     {
         "bing_reports": {},
         "ddgs_reports": {},
-        "event_ticker": "KXRAINNYC-26FEB17",
+        "event_ticker": "KXRAINNYC-26FEB18",
         "series_ticker": "KXRAINNYC",
-        "title": "Will it rain in NYC on Feb 17, 2026?",
-        "sub_title": "On Feb 17, 2026",
+        "title": "Will it rain in NYC on Feb 18, 2026?",
+        "sub_title": "On Feb 18, 2026",
         "mutually_exclusive": false,
         "category": "Climate and Weather"
     },
@@ -1827,10 +1827,10 @@
     {
         "bing_reports": {},
         "ddgs_reports": {},
-        "event_ticker": "KXRAINNYC-26FEB18",
+        "event_ticker": "KXRAINNYC-26FEB19",
         "series_ticker": "KXRAINNYC",
-        "title": "Will it rain in NYC on Feb 18, 2026?",
-        "sub_title": "On Feb 18, 2026",
+        "title": "Will it rain in NYC on Feb 19, 2026?",
+        "sub_title": "On Feb 19, 2026",
         "mutually_exclusive": false,
         "category": "Climate and Weather"
     },
@@ -4524,80 +4524,100 @@
     {
         "bing_reports": {},
         "ddgs_reports": {},
-        "event_ticker": "KXNCAAMBGAME-26FEB19WMCAMP",
-        "series_ticker": "KXNCAAMBGAME",
-        "title": "William & Mary at Campbell",
-        "sub_title": "WM at CAMP (Feb 19)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXSERIEASPREAD-26FEB22ATANAP",
-        "series_ticker": "KXSERIEASPREAD",
-        "title": "Napoli at Atalanta: Spreads",
-        "sub_title": "NAP at ATA (Feb 22)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXLIIGAGAME-26FEB181130OULKOO",
-        "series_ticker": "KXLIIGAGAME",
-        "title": "Oulun Karpat vs KooKoo Kouvola",
-        "sub_title": "OUL at KOO (Feb 18)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXWCGAME-26JUN25ECUGER",
-        "series_ticker": "KXWCGAME",
-        "title": "Ecuador vs Germany",
-        "sub_title": "ECU vs GER (Jun 25)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNCAAWBGAME-26FEB19SHSUKENN",
-        "series_ticker": "KXNCAAWBGAME",
-        "title": "Sam Houston at Kennesaw St.",
-        "sub_title": "SHSU at KENN (Feb 19)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXBUNDESLIGASPREAD-26FEB21RBLBVB",
-        "series_ticker": "KXBUNDESLIGASPREAD",
-        "title": "Dortmund at Leipzig: Spreads",
-        "sub_title": "BVB at RBL (Feb 21)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXKHLGAME-26FEB201130SPANEF",
+        "event_ticker": "KXKHLGAME-26FEB220900SIBNEF",
         "series_ticker": "KXKHLGAME",
-        "title": "Spartak Moscow vs Neftekhimik Nizhnekamsk",
-        "sub_title": "SPA at NEF (Feb 20)",
+        "title": "Sibir Novosibirsk vs Neftekhimik Nizhnekamsk",
+        "sub_title": "SIB at NEF (Feb 22)",
         "mutually_exclusive": true,
         "category": "Sports"
     },
     {
         "bing_reports": {},
         "ddgs_reports": {},
-        "event_ticker": "KXNCAABBGAME-26FEB171805SDTLBS",
-        "series_ticker": "KXNCAABBGAME",
-        "title": "San Diego vs Long Beach St.",
-        "sub_title": "SDT vs LBS (Feb 17)",
+        "event_ticker": "KXNCAAMBGAME-26FEB18PEPPPORT",
+        "series_ticker": "KXNCAAMBGAME",
+        "title": "Pepperdine at Portland",
+        "sub_title": "PEPP at PORT (Feb 18)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMLAXGAME-26FEB21LEHRIC",
+        "series_ticker": "KXNCAAMLAXGAME",
+        "title": "Lehigh vs Richmond",
+        "sub_title": "Lehigh vs Richmond (Feb 21)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXWCGAME-26JUN21TUNJPN",
+        "series_ticker": "KXWCGAME",
+        "title": "Tunisia vs Japan",
+        "sub_title": "TUN vs JPN (Jun 21)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXSLGREECEGAME-26FEB22AELPAOK",
+        "series_ticker": "KXSLGREECEGAME",
+        "title": "Larissa vs PAOK",
+        "sub_title": "AEL vs PAOK (Feb 22)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNBA2HWINNER-26FEB19DETNYK",
+        "series_ticker": "KXNBA2HWINNER",
+        "title": "Detroit vs New York: Second Half Winner",
+        "sub_title": "DET vs NYK (Feb 19)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXUECLGAME-26FEB19FCNAZA",
+        "series_ticker": "KXUECLGAME",
+        "title": "Noah Yerevan vs Alkmaar",
+        "sub_title": "FCN vs AZA (Feb 19)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXATPMATCH-26FEB19TSIRUB",
+        "series_ticker": "KXATPMATCH",
+        "title": "Tsitsipas vs Rublev",
+        "sub_title": "Tsitsipas vs Rublev (Feb 19)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAWBGAME-26FEB18UWGALIP",
+        "series_ticker": "KXNCAAWBGAME",
+        "title": "West Georgia at Lipscomb",
+        "sub_title": "UWGA at LIP (Feb 18)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXCS2MAP-26FEB20NAVIMOUZ-1",
+        "series_ticker": "KXCS2MAP",
+        "title": "PGL Cluj-Napoca 2026: Natus Vincere vs. MOUZ Map 1",
+        "sub_title": "Map 1: NAVI vs. MOUZ (Feb 20)",
         "mutually_exclusive": true,
         "category": "Sports"
     },
@@ -4646,101 +4666,81 @@
     {
         "bing_reports": {},
         "ddgs_reports": {},
-        "event_ticker": "KXLALIGATOTAL-26FEB22RCCMAL",
-        "series_ticker": "KXLALIGATOTAL",
-        "title": "Mallorca at Celta Vigo: Totals",
+        "event_ticker": "KXNCAAWBGAME-26FEB19CALFSU",
+        "series_ticker": "KXNCAAWBGAME",
+        "title": "California at Florida St.",
+        "sub_title": "CAL at FSU (Feb 19)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXAHLGAME-26FEB211900GRAMIL",
+        "series_ticker": "KXAHLGAME",
+        "title": "Grand Rapids Griffins vs Milwaukee Admirals",
+        "sub_title": "GRA at MIL (Feb 21)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXUELGAME-26FEB26FTCLUD",
+        "series_ticker": "KXUELGAME",
+        "title": "Ferencvarosi vs Ludogorets",
+        "sub_title": "FTC vs LUD (Feb 26)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXWCGAME-26JUN27DZAAUT",
+        "series_ticker": "KXWCGAME",
+        "title": "Algeria vs Austria",
+        "sub_title": "DZA vs AUT (Jun 27)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAWBGAME-26FEB19UTMUALR",
+        "series_ticker": "KXNCAAWBGAME",
+        "title": "Tennessee-Martin at Little Rock",
+        "sub_title": "UTM at UALR (Feb 19)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMLAXGAME-26FEB21VILRUT",
+        "series_ticker": "KXNCAAMLAXGAME",
+        "title": "Villanova vs Rutgers Scarlet",
+        "sub_title": "Villanova vs Rutgers Scarlet (Feb 21)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAWBGAME-26FEB19USDPEPP",
+        "series_ticker": "KXNCAAWBGAME",
+        "title": "San Diego at Pepperdine",
+        "sub_title": "USD at PEPP (Feb 19)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXLALIGASPREAD-26FEB22RCCMAL",
+        "series_ticker": "KXLALIGASPREAD",
+        "title": "Mallorca at Celta Vigo: Spreads",
         "sub_title": "MAL at RCC (Feb 22)",
         "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNCAAMB1HWINNER-26FEB18RICHDAV",
-        "series_ticker": "KXNCAAMB1HWINNER",
-        "title": "Richmond vs Davidson: First Half Winner",
-        "sub_title": "RICH vs DAV (Feb 18)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNCAAWBGAME-26FEB19WEBMTST",
-        "series_ticker": "KXNCAAWBGAME",
-        "title": "Weber St. at Montana St.",
-        "sub_title": "WEB at MTST (Feb 19)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXUCLSPREAD-26FEB18OLYLEV",
-        "series_ticker": "KXUCLSPREAD",
-        "title": "Leverkusen at Olympiacos: Spreads",
-        "sub_title": "LEV at OLY (Feb 18)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXSERIEAGAME-26FEB23BFCUDI",
-        "series_ticker": "KXSERIEAGAME",
-        "title": "Bologna vs Udinese",
-        "sub_title": "BFC vs UDI (Feb 23)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXATPMATCH-26FEB18CERTIR",
-        "series_ticker": "KXATPMATCH",
-        "title": "Cerundolo vs Tirante",
-        "sub_title": "Cerundolo vs Tirante (Feb 18)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXMLSSPREAD-26FEB21STLCLT",
-        "series_ticker": "KXMLSSPREAD",
-        "title": "Charlotte at Saint Louis: Spreads",
-        "sub_title": "CLT at STL (Feb 21)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXSHLGAME-26FEB191300DJUBRY",
-        "series_ticker": "KXSHLGAME",
-        "title": "Djurgardens IF vs Brynas IF",
-        "sub_title": "DJU at BRY (Feb 19)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNCAAMBGAME-26FEB18KUOKST",
-        "series_ticker": "KXNCAAMBGAME",
-        "title": "Kansas at Oklahoma St.",
-        "sub_title": "KU at OKST (Feb 18)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXWTACHALLENGERMATCH-26FEB18FERSTE",
-        "series_ticker": "KXWTACHALLENGERMATCH",
-        "title": "Ferro vs Stefanini",
-        "sub_title": "Ferro vs Stefanini (Feb 18)",
-        "mutually_exclusive": true,
         "category": "Sports"
     }
 ]
