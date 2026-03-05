@@ -616,40 +616,40 @@
     {
         "bing_reports": {},
         "ddgs_reports": {},
-        "event_ticker": "KXXRP15M-26MAR032045",
+        "event_ticker": "KXXRP15M-26MAR042045",
         "series_ticker": "KXXRP15M",
         "title": "XRP Up or Down - 15 minutes",
-        "sub_title": "Mar 3 - 8:30PM EST to 8:45PM EST",
+        "sub_title": "Mar 4 - 8:30PM EST to 8:45PM EST",
         "mutually_exclusive": false,
         "category": "Crypto"
     },
     {
         "bing_reports": {},
         "ddgs_reports": {},
-        "event_ticker": "KXSOL15M-26MAR032045",
+        "event_ticker": "KXSOL15M-26MAR042045",
         "series_ticker": "KXSOL15M",
         "title": "SOL Up or Down - 15 minutes",
-        "sub_title": "Mar 3 - 8:30PM EST to 8:45PM EST",
+        "sub_title": "Mar 4 - 8:30PM EST to 8:45PM EST",
         "mutually_exclusive": false,
         "category": "Crypto"
     },
     {
         "bing_reports": {},
         "ddgs_reports": {},
-        "event_ticker": "KXETH15M-26MAR032045",
+        "event_ticker": "KXETH15M-26MAR042045",
         "series_ticker": "KXETH15M",
         "title": "ETH Up or Down - 15 minutes",
-        "sub_title": "Mar 3 - 8:30PM EST to 8:45PM EST",
+        "sub_title": "Mar 4 - 8:30PM EST to 8:45PM EST",
         "mutually_exclusive": false,
         "category": "Crypto"
     },
     {
         "bing_reports": {},
         "ddgs_reports": {},
-        "event_ticker": "KXBTC15M-26MAR032045",
+        "event_ticker": "KXBTC15M-26MAR042045",
         "series_ticker": "KXBTC15M",
         "title": "BTC Up or Down - 15 minutes",
-        "sub_title": "Mar 3 - 8:30PM EST to 8:45PM EST",
+        "sub_title": "Mar 4 - 8:30PM EST to 8:45PM EST",
         "mutually_exclusive": false,
         "category": "Crypto"
     },
@@ -1483,10 +1483,10 @@
     {
         "bing_reports": {},
         "ddgs_reports": {},
-        "event_ticker": "KXRAINNYC-26MAR03",
+        "event_ticker": "KXRAINNYC-26MAR04",
         "series_ticker": "KXRAINNYC",
-        "title": "Will it rain in NYC on Mar 3, 2026?",
-        "sub_title": "On Mar 3, 2026",
+        "title": "Will it rain in NYC on Mar 4, 2026?",
+        "sub_title": "On Mar 4, 2026",
         "mutually_exclusive": false,
         "category": "Climate and Weather"
     },
@@ -1817,10 +1817,10 @@
     {
         "bing_reports": {},
         "ddgs_reports": {},
-        "event_ticker": "KXRAINNYC-26MAR04",
+        "event_ticker": "KXRAINNYC-26MAR05",
         "series_ticker": "KXRAINNYC",
-        "title": "Will it rain in NYC on Mar 4, 2026?",
-        "sub_title": "On Mar 4, 2026",
+        "title": "Will it rain in NYC on Mar 5, 2026?",
+        "sub_title": "On Mar 5, 2026",
         "mutually_exclusive": false,
         "category": "Climate and Weather"
     },
@@ -2940,10 +2940,10 @@
     {
         "bing_reports": {},
         "ddgs_reports": {},
-        "event_ticker": "KXEFFR-26APR01",
-        "series_ticker": "KXEFFR",
-        "title": "Fed Funds (EFFR) at end of Q1 2026",
-        "sub_title": "March 31, 2026",
+        "event_ticker": "KX3MTBILL-26MAR31",
+        "series_ticker": "KX3MTBILL",
+        "title": "Treasury 3-month yield at end of Q1 2026",
+        "sub_title": "Q1 2026",
         "mutually_exclusive": false,
         "category": "Economics"
     },
@@ -2993,6 +2993,16 @@
     {
         "bing_reports": {},
         "ddgs_reports": {},
+        "event_ticker": "KXCBDECISIONAUSTRALIA-26MAR16",
+        "series_ticker": "KXCBDECISIONAUSTRALIA",
+        "title": "Reserve Bank of Australia Rate Decision",
+        "sub_title": "Mar 16, 2026 meeting",
+        "mutually_exclusive": true,
+        "category": "Economics"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
         "event_ticker": "KXNYCRENTFREEZE-25",
         "series_ticker": "KXNYCRENTFREEZE",
         "title": "Will Mamdani freeze the rent in 2026?",
@@ -3003,21 +3013,11 @@
     {
         "bing_reports": {},
         "ddgs_reports": {},
-        "event_ticker": "KXEFFTARIFF-26APR30",
-        "series_ticker": "KXEFFTARIFF",
-        "title": "US effective tariff rate for Q1 2026?",
-        "sub_title": "Q1 2026",
+        "event_ticker": "KXLAYOFFSYINFO-26",
+        "series_ticker": "KXLAYOFFSYINFO",
+        "title": "More tech layoffs in 20\u200b26 than in 2025?",
+        "sub_title": "In 2026",
         "mutually_exclusive": false,
-        "category": "Economics"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXCBDECISIONCHINA-26MAR19",
-        "series_ticker": "KXCBDECISIONCHINA",
-        "title": "People's Bank of China Rate Decision in March",
-        "sub_title": "Mar 19, 2026 meeting",
-        "mutually_exclusive": true,
         "category": "Economics"
     },
     {
@@ -3100,10 +3100,10 @@
     {
         "bing_reports": {},
         "ddgs_reports": {},
-        "event_ticker": "KXBRAZILINF-26DEC-4.00",
-        "series_ticker": "KXBRAZILINF",
-        "title": "Will inflation in Brazil be below 4.00% in Dec 2026?",
-        "sub_title": "In Dec 2026",
+        "event_ticker": "KXEGGS-FEB26",
+        "series_ticker": "KXEGGS",
+        "title": "Will egg prices go up in Feb 2026?",
+        "sub_title": "In Feb 2026",
         "mutually_exclusive": false,
         "category": "Economics"
     },
@@ -4149,20 +4149,20 @@
     {
         "bing_reports": {},
         "ddgs_reports": {},
-        "event_ticker": "KXILPRIMARY-15R26",
+        "event_ticker": "KXILPRIMARY-14R26",
         "series_ticker": "KXILPRIMARY",
-        "title": "IL-15 Republican nominee?",
-        "sub_title": "IL-15 (R)",
+        "title": "IL-14 Republican nominee?",
+        "sub_title": "IL-14 (R)",
         "mutually_exclusive": true,
         "category": "Elections"
     },
     {
         "bing_reports": {},
         "ddgs_reports": {},
-        "event_ticker": "KXTXPRIMARY-36D26",
+        "event_ticker": "KXTXPRIMARY-34D26",
         "series_ticker": "KXTXPRIMARY",
-        "title": "TX-36 Democratic nominee?",
-        "sub_title": "TX-36 (D)",
+        "title": "TX-34 Democratic nominee?",
+        "sub_title": "TX-34 (D)",
         "mutually_exclusive": true,
         "category": "Elections"
     },
@@ -4179,10 +4179,10 @@
     {
         "bing_reports": {},
         "ddgs_reports": {},
-        "event_ticker": "KXNCPRIMARY-08D26",
+        "event_ticker": "KXNCPRIMARY-06D26",
         "series_ticker": "KXNCPRIMARY",
-        "title": "NC-08 Democratic nominee?",
-        "sub_title": "NC-08 (D)",
+        "title": "NC-06 Democratic nominee?",
+        "sub_title": "NC-06 (D)",
         "mutually_exclusive": true,
         "category": "Elections"
     },
@@ -4199,10 +4199,10 @@
     {
         "bing_reports": {},
         "ddgs_reports": {},
-        "event_ticker": "KXINPRIMARY-07D26",
+        "event_ticker": "KXINPRIMARY-06D26",
         "series_ticker": "KXINPRIMARY",
-        "title": "IN-07 Democratic nominee?",
-        "sub_title": "IN-07 (D)",
+        "title": "IN-06 Democratic nominee?",
+        "sub_title": "IN-06 (D)",
         "mutually_exclusive": true,
         "category": "Elections"
     },
@@ -4251,10 +4251,10 @@
     {
         "bing_reports": {},
         "ddgs_reports": {},
-        "event_ticker": "KXNCPRIMARY-13R26",
+        "event_ticker": "KXNCPRIMARY-12R26",
         "series_ticker": "KXNCPRIMARY",
-        "title": "NC-13 Republican nominee?",
-        "sub_title": "NC-13 (R)",
+        "title": "NC-12 Republican nominee?",
+        "sub_title": "NC-12 (R)",
         "mutually_exclusive": true,
         "category": "Elections"
     },
@@ -4333,21 +4333,31 @@
     {
         "bing_reports": {},
         "ddgs_reports": {},
-        "event_ticker": "KXILPRIMARY-02R26",
-        "series_ticker": "KXILPRIMARY",
-        "title": "IL-02 Republican nominee?",
-        "sub_title": "IL-02 (R)",
+        "event_ticker": "KXPASEN-262",
+        "series_ticker": "KXPASEN",
+        "title": "Pennsylvania State Senate winner?",
+        "sub_title": "In 2026",
         "mutually_exclusive": true,
         "category": "Elections"
     },
     {
         "bing_reports": {},
         "ddgs_reports": {},
-        "event_ticker": "KXLOLTOTALMAPS-26MAR06CGHMBLE",
-        "series_ticker": "KXLOLTOTALMAPS",
-        "title": "LIT 2026: Colossal Gaming vs. HMBLE Total Maps",
-        "sub_title": "Total Maps: CG vs. HMBLE (Mar 6)",
-        "mutually_exclusive": false,
+        "event_ticker": "KXMLBSTGAME-26MAR051505AZCHC",
+        "series_ticker": "KXMLBSTGAME",
+        "title": "Arizona vs Chicago C",
+        "sub_title": "AZ at CHC (Mar 5)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXCS2MAP-26MAR05HEROPRV-2",
+        "series_ticker": "KXCS2MAP",
+        "title": "ESL Pro League 2026: Heroic vs. PARIVISION Map 2",
+        "sub_title": "Map 2: HERO vs. PRV (Mar 5)",
+        "mutually_exclusive": true,
         "category": "Sports"
     },
     {
@@ -4363,141 +4373,41 @@
     {
         "bing_reports": {},
         "ddgs_reports": {},
-        "event_ticker": "KXSHLGAME-26MAR051300LULLEK",
-        "series_ticker": "KXSHLGAME",
-        "title": "Lulea Hockey vs Leksands IF",
-        "sub_title": "LUL at LEK (Mar 5)",
+        "event_ticker": "KXPGAH2H-ARPIPBM26TFLEMFIT",
+        "series_ticker": "KXPGAH2H",
+        "title": "Head-to-Head Matchup: Fleetwood vs Fitzpatrick",
+        "sub_title": "Fleetwood vs Fitzpatrick",
         "mutually_exclusive": true,
         "category": "Sports"
     },
     {
         "bing_reports": {},
         "ddgs_reports": {},
-        "event_ticker": "KXCS2TOTALMAPS-26MAR05ENCEFNC",
-        "series_ticker": "KXCS2TOTALMAPS",
-        "title": "Stake Ranked Episode 1: Closed Qualifier 2026: ENCE vs. fnatic Total Maps",
-        "sub_title": "Total Maps: ENCE vs. FNC (Mar 5)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNCAAMLAXGAME-26MAR07DARUTA",
-        "series_ticker": "KXNCAAMLAXGAME",
-        "title": "Dartmouth vs Utah",
-        "sub_title": "Dartmouth vs Utah (Mar 7)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXBUNDESLIGABTTS-26MAR08UNISVW",
-        "series_ticker": "KXBUNDESLIGABTTS",
-        "title": "Bremen at Union Berlin: Both Teams to Score",
-        "sub_title": "SVW at UNI (Mar 8)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXBBLGAME-26MAR061400TRIROS",
-        "series_ticker": "KXBBLGAME",
-        "title": "TBB Trier vs Rostock Seawolves",
-        "sub_title": "TRI vs ROS (Mar 6)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNCAAMBGAME-26MAR03GCAFA",
-        "series_ticker": "KXNCAAMBGAME",
-        "title": "Grand Canyon at Air Force",
-        "sub_title": "GC at AFA (Mar 3)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNBAGAME-26MAR03DALCHA",
-        "series_ticker": "KXNBAGAME",
-        "title": "Dallas at Charlotte",
-        "sub_title": "DAL at CHA (Mar 3)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXNBA2D-26MAR04CHABOS",
-        "series_ticker": "KXNBA2D",
-        "title": "Charlotte at Boston: Double Doubles",
-        "sub_title": "CHA at BOS (Mar 4)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXLOLTOTALMAPS-26MAR05BCEOA",
-        "series_ticker": "KXLOLTOTALMAPS",
-        "title": "Rift Legends 2026: Orzel Barczaca Esports vs. Orbit Anonymo Total Maps",
-        "sub_title": "Total Maps: BCE vs. OA (Mar 5)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXVTBGAME-26MAR041100URASAM",
-        "series_ticker": "KXVTBGAME",
-        "title": "BK Uralmash Yekaterinburg vs BC Samara",
-        "sub_title": "URA vs SAM (Mar 4)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXVALORANTMAP-26MAR04G2T1-2",
-        "series_ticker": "KXVALORANTMAP",
-        "title": "Masters Santiago: G2 Esports vs. T1 Map 2",
-        "sub_title": "Map 2: G2 vs. T1 (Mar 4)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXKBLGAME-26MAR050500EGIWON",
-        "series_ticker": "KXKBLGAME",
-        "title": "KCC Egis vs Wonju DB Promy",
-        "sub_title": "EGI vs WON (Mar 5)",
-        "mutually_exclusive": true,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXEPLBTTS-26MAR15ARSEVE",
-        "series_ticker": "KXEPLBTTS",
-        "title": "Everton at Arsenal: Both Teams to Score",
-        "sub_title": "EVE at ARS (Mar 15)",
-        "mutually_exclusive": false,
-        "category": "Sports"
-    },
-    {
-        "bing_reports": {},
-        "ddgs_reports": {},
-        "event_ticker": "KXAFCCLGAME-26MAR02SAHTRA",
+        "event_ticker": "KXAFCCLGAME-26MAR03ALWITJ",
         "series_ticker": "KXAFCCLGAME",
-        "title": "Shabab Al-Ahli vs Tractor Tabriz",
-        "sub_title": "SAH vs TRA (Mar 2)",
+        "title": "Al Wahda vs Al-Ittihad",
+        "sub_title": "ALW vs ITJ (Mar 3)",
         "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXSAUDIPLTOTAL-26MAR06ALTFAT",
+        "series_ticker": "KXSAUDIPLTOTAL",
+        "title": "Al-Fateh at Al-Taawoun: Totals",
+        "sub_title": "FAT at ALT (Mar 6)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXSERIEASPREAD-26MAR06NAPTOR",
+        "series_ticker": "KXSERIEASPREAD",
+        "title": "Torino at Napoli: Spreads",
+        "sub_title": "TOR at NAP (Mar 6)",
+        "mutually_exclusive": false,
         "category": "Sports"
     },
     {
@@ -4513,21 +4423,111 @@
     {
         "bing_reports": {},
         "ddgs_reports": {},
-        "event_ticker": "KXKLEAGUEGAME-26MAR07GWAINC",
-        "series_ticker": "KXKLEAGUEGAME",
-        "title": "Gwangju vs Incheon Utd",
-        "sub_title": "GWA vs INC (Mar 7)",
+        "event_ticker": "KXLIGAMXTOTAL-26MAR06NCXPUM",
+        "series_ticker": "KXLIGAMXTOTAL",
+        "title": "Pumas UNAM at Necaxa: Totals",
+        "sub_title": "PUM at NCX (Mar 6)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNCAAMB1HWINNER-26MAR05UCSDCSF",
+        "series_ticker": "KXNCAAMB1HWINNER",
+        "title": "UC San Diego vs Cal State Fullerton: First Half Winner",
+        "sub_title": "UCSD vs CSF (Mar 5)",
         "mutually_exclusive": true,
         "category": "Sports"
     },
     {
         "bing_reports": {},
         "ddgs_reports": {},
-        "event_ticker": "KXEPLTOTAL-26MAR04FULWHU",
-        "series_ticker": "KXEPLTOTAL",
-        "title": "West Ham at Fulham: Totals",
-        "sub_title": "WHU at FUL (Mar 4)",
+        "event_ticker": "KXRUGBYNRLMATCH-26MAR12PARBRI",
+        "series_ticker": "KXRUGBYNRLMATCH",
+        "title": "Brisbane Broncos vs Parramatta Eels",
+        "sub_title": "PAR at BRI (Mar 12)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXUCL1H-26MAR17CFCPSG",
+        "series_ticker": "KXUCL1H",
+        "title": "Chelsea vs PSG: First Half Winner",
+        "sub_title": "CFC vs PSG (Mar 17)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXMLSTOTAL-26MAR07PORVAN",
+        "series_ticker": "KXMLSTOTAL",
+        "title": "Vancouver at Portland: Totals",
+        "sub_title": "VAN at POR (Mar 7)",
         "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXCS2MAP-26MAR05EXZLEO-2",
+        "series_ticker": "KXCS2MAP",
+        "title": "CCT Europe Series #17 2026: ex-Zero Tenacity vs. Leo Team Map 2",
+        "sub_title": "Map 2: EXZ vs. LEO (Mar 5)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXBBSERIEAGAME-26MAR081300SORDER",
+        "series_ticker": "KXBBSERIEAGAME",
+        "title": "Vanoli Cremona vs Derthona Basket",
+        "sub_title": "SOR vs DER (Mar 8)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXLOLTOTALMAPS-26MAR05FFGLS",
+        "series_ticker": "KXLOLTOTALMAPS",
+        "title": "LFL Invitational 2026: French Flair vs. Galions Sharks Total Maps",
+        "sub_title": "Total Maps: FF vs. GLS (Mar 5)",
+        "mutually_exclusive": false,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXSERIEA1H-26MAR09LAZSAS",
+        "series_ticker": "KXSERIEA1H",
+        "title": "Lazio vs Sassuolo: First Half Winner",
+        "sub_title": "LAZ vs SAS (Mar 9)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXRUGBYNRLMATCH-26MAR07GCOCSS",
+        "series_ticker": "KXRUGBYNRLMATCH",
+        "title": "Cronulla Sharks vs Gold Coast Titans",
+        "sub_title": "GCO at CSS (Mar 7)",
+        "mutually_exclusive": true,
+        "category": "Sports"
+    },
+    {
+        "bing_reports": {},
+        "ddgs_reports": {},
+        "event_ticker": "KXNBA1HWINNER-26MAR05DALORL",
+        "series_ticker": "KXNBA1HWINNER",
+        "title": "Dallas vs Orlando: First Half Winner",
+        "sub_title": "DAL vs ORL (Mar 5)",
+        "mutually_exclusive": true,
         "category": "Sports"
     }
 ]
