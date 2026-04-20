@@ -13,7 +13,7 @@ model = SentenceTransformer("all-MiniLM-L6-v2")
 
 def search_ddgs(query: str, num_urls: int = NUM_URLS) -> List[Dict[str, Any]]:
     """Perform DuckDuckGo search and deduplicate results."""
-    results = list(DDGS().text(query, max_results=num_urls * 2, timelimit="y") or [])
+    results = list(DDGS().text(query, max_results=num_urls * 3, timelimit="y") or [])
     seen, deduped = set(), []
     for r in results:
         href = r.get("href")
